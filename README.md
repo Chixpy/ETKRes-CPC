@@ -3,6 +3,13 @@ Resources for Emuteca: Amstrad CPC (Plus)
 
 Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chixpy/Emuteca).
 
+Download
+--------
+
+Use GIT to clone the repository or download it in zip:
+
+https://github.com/Chixpy/ETKRes-CPC/archive/master.zip
+
 ## About Images
 
 ### Screenshot, Titles
@@ -24,7 +31,7 @@ After all, 384×272 is not 4:3... BUT Amstrad CPC monitor was 286mmx208mm (not 4
 
 *TO DO*: ¿MODE 2 images? May be 768x544, but top and bottom border will be doubled and image will be cropped to 768x472 to keep border size.
 
-### Front, Back, Spine, Ads, Reviews, Media, Other
+### Front, Back, Spine, Manual, Ads, Reviews, Media, Other
 
 Escaned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger, we can resize it to 2048 the larger side, keeping aspect ratio and a quality of 90%). Trying not to do transformations and resave it. Lossless rotation or cropping allowed.
 
@@ -46,9 +53,12 @@ After extracting the icon image with transparent background, a border is added: 
 
 Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
 
-Download
---------
+## About Texts
 
-Use GIT to clone the repository or download it in zip:
+Raw text .txt.
 
-https://github.com/Chixpy/ETKRes-CPC/archive/master.zip
+Better if:
+
+  * Empty line between paragraphs.
+  * No new line inside paragraphs (Textbox has wordwrap activated).
+  
