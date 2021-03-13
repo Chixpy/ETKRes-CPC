@@ -24,12 +24,12 @@ All images in .png format at original resolution... CPC has 3 official resolutio
 
 A "Mode 3" exists with a trick, wich is a Mode 0 with 4 colors
 
-There a Full Screen Trick that allow to write pixels in border area. So we will stick with *384x272* and
-show full border. MODE 0 original pixels will be 2 pixels wide in images.
+There is a Full Screen Trick that allow to write pixels in border area. So we will stick with *384x272* and
+show full border. 
 
-After all, 384×272 is not 4:3... BUT Amstrad CPC monitor was 286mmx208mm (not 4:3 true)
-
-*TO DO*: ¿MODE 2 images? May be 768x544, but top and bottom border will be doubled and image will be cropped to 768x472 to keep border size.
+* MODE 0: 384×272. Original pixels will be 2 pixels wide in images.
+* Mode 1: 384×272. 
+* MODE 2: It's needed to use *768x544* to keep pixel accuracy. Original pixels will be 2 pixels height in images.
 
 ### Front, Back, Spine, Manual, Ads, Reviews, Media, Other
 
