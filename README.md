@@ -24,8 +24,7 @@ All images in .png format at original resolution... CPC has 3 official resolutio
 
 A "Mode 3" exists with a trick, wich is a Mode 0 with 4 colors
 
-There is a Full Screen Trick that allow to write pixels in border area. So we will stick with *384x272* and
-show full border. 
+There is a Full Screen Trick that allow to write pixels in border area. So we will stick with *384x272* and show full border. 
 
 * MODE 0: 384×272. Original pixels will be 2 pixels wide in images.
 * Mode 1: 384×272. 
