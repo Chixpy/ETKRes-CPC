@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : WIZARD  .BAS : 0 001 ko
+[01] : NINJACOM.BIN : 0 020 ko
+[02] : WIZARD  .B�N : 0 024 ko
+[04] : WIZARIMA.P�W : 0 005 ko
+[05] : MOMIE   .BIN : 0 037 ko
+[09] : DIAMDIG .BAS : 0 008 ko
+[10] : FORTRESS.BAS : 0 001 ko
+[11] : FORTRESS.B�N : 0 032 ko
+[13] : FORTRES4.R�M : 0 017 ko
+[15] : FORTRES5.R�M : 0 012 ko
+[16] : FORTRES6.R�M : 0 012 ko
+[17] : FORTRES7.R�M : 0 004 ko
+[18] : FORTRESS.S�R : 0 005 ko
+[19] : SCRIBE  .BAS : 0 006 ko
+[20] : SCRIBE  .B�N : 0 003 ko
+Dsk 187 Ko used

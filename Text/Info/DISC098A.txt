@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : D1      .B�N : 0 030 ko
+[02] : D2      .B�N : 0 040 ko
+[05] : D3      .B�N : 0 001 ko
+[06] : D4      .B�N : 0 015 ko
+[07] : D5      .B�N : 0 021 ko
+[09] : DA      .B�N : 0 005 ko
+[10] : DF      .B�N : 0 005 ko
+[11] : DH      .B�N : 0 005 ko
+[12] : DM      .B�N : 0 005 ko
+[13] : DQ      .B�N : 0 005 ko
+[14] : DS      .B�N : 0 005 ko
+[15] : DV      .B�N : 0 005 ko
+[16] : DW      .B�N : 0 005 ko
+[17] : DX      .B�N : 0 007 ko
+[18] : ORPHEE  .BAS : 0 002 ko
+[19] : P1      .B�N : 0 003 ko
+[20] : ENGLEBER.BAS : 0 004 ko
+[21] : FREEDOM .BAS : 0 001 ko
+[22] : FREEDOM .B�N : 0 018 ko
+[25] : FREEDSCR.P�W : 0 005 ko
+Dsk 187 Ko used

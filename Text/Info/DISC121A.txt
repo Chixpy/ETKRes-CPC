@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THUNDER1.NHF : 15 032 ko
+[02] : THUNDER2.NHF : 15 032 ko
+[04] : THUNDER3.NHF : 15 013 ko
+[05] : THUNDER .BAS : 0 001 ko
+[06] : THUNDER2.B�N : 0 016 ko
+[07] : THUNDIMA.P�W : 0 007 ko
+[08] : THUNDER1.B�N : 0 017 ko
+[10] : PULSATOR.BAS : 0 001 ko
+[11] : PULSATOR.B�N : 0 042 ko
+[14] : BLOCUS  .BAS : 0 010 ko
+[15] : TWENTY  .BAS : 0 001 ko
+[16] : SEQUENCE.BAS : 0 004 ko
+[17] : PULSAIMA.P�W : 0 006 ko
+[18] : TWENTY  .V�2 : 0 005 ko
+Dsk 187 Ko used

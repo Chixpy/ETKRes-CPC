@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GYROSCOP.BAS : 0 001 ko
+[01] : GYROSCOP.B�N : 0 019 ko
+[04] : BREAK   .BAS : 0 003 ko
+[05] : KIKEKAN .BAS : 0 008 ko
+[06] : KIKEKAN .B�N : 0 029 ko
+[08] : KIKEKAN .M�S : 0 001 ko
+[09] : SPRDATA0.B�N : 0 015 ko
+[10] : CORRIDOR.BAS : 0 001 ko
+[11] : CORRIDOR.B�N : 0 021 ko
+[12] : CORRISCR.P�W : 0 001 ko
+[13] : SPRDATA1.B�N : 0 007 ko
+[14] : AUXCODE .B�N : 0 010 ko
+[16] : KIKEKAN .S�L : 0 002 ko
+[17] : CODE    .B�N : 0 011 ko
+[18] : RAFFLES .BAS : 0 001 ko
+[19] : BREAK   .H�  : 0 001 ko
+[20] : BREAK   .B�N : 0 007 ko
+[21] : CYBRIC  .BAS : 0 004 ko
+[22] : KIKESCR .P�W : 0 004 ko
+[23] : CONJUGUE.BAS : 0 011 ko
+[24] : KIKEKAN .BAK : 0 001 ko
+[25] : GYROSSCR.P�W : 0 003 ko
+[26] : KKK-SOL .    : 0 001 ko
+[27] : 3DMORPIO.BAS : 0 004 ko
+[28] : INSIDSCR.P�W : 0 005 ko
+[29] : ECRAN   .C�C : 0 002 ko
+[30] : MUSIC   .0�1 : 0 008 ko
+[31] : MUSIC   .0�2 : 0 004 ko
+[32] : KIKEKAN .SAV : 0 001 ko
+Dsk 186 Ko used

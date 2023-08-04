@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROLL2   .B�N : 0 036 ko
+[02] : MAKER   .BAS : 0 002 ko
+[03] : ALI     .BAS : 0 010 ko
+[04] : TRAP    .BAS : 0 001 ko
+[05] : ALI     .C�M : 0 003 ko
+[06] : TRAP    .I�L : 0 004 ko
+[07] : HEXA    .B�N : 0 022 ko
+[09] : ROLL    .C�M : 0 003 ko
+[10] : T2      .B�N : 0 039 ko
+[12] : HEXA    .BAS : 0 004 ko
+[13] : ALI     .M�  : 0 002 ko
+[14] : ROLLING .S�R : 0 007 ko
+[17] : MISSION .BAS : 0 013 ko
+[18] : DEATH   .B�N : 0 032 ko
+[19] : AMDESSIN.BAS : 0 002 ko
+[20] : ROLLING .BAS : 0 001 ko
+[22] : DEATH   .C�M : 0 005 ko
+[23] : DEATH   .BAS : 0 001 ko
+Dsk 187 Ko used

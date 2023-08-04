@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SPY-SPY2.BAS : 0 001 ko
+[01] : SPY-SPY2.N�1 : 0 033 ko
+[04] : ECLIPSE .BAS : 0 001 ko
+[05] : TECODE  .B�N : 0 035 ko
+[08] : TALISMAN.BAS : 0 001 ko
+[09] : TALISMAN.B�N : 0 020 ko
+[11] : T4000   .0�1 : 0 001 ko
+[12] : T4000   .0�2 : 0 002 ko
+[13] : KYA     .BIN : 0 025 ko
+[14] : CAVE1   .B�N : 0 007 ko
+[15] : CAVE2   .B�N : 0 007 ko
+[17] : T4000   .0�3 : 0 005 ko
+[18] : TECON   .C�C : 0 004 ko
+[19] : CAVE3   .B�N : 0 007 ko
+[20] : CAVE4   .B�N : 0 007 ko
+[21] : JOB     .B�N : 0 002 ko
+[22] : SPY-SPY2.N�2 : 0 007 ko
+[23] : T4000   .0�4 : 0 001 ko
+[24] : T4000   .0�5 : 0 001 ko
+[25] : T4000   .BAS : 0 001 ko
+[26] : JOBBIC  .BAS : 0 011 ko
+[27] : ECLIPSCR.P�W : 0 003 ko
+[28] : TALISIMA.P�W : 0 005 ko
+Dsk 187 Ko used

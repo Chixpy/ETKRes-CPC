@@ -1,0 +1,45 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COMPLAN1.B�N : 0 001 ko
+[01] : D       .B�N : 0 001 ko
+[02] : L       .B�N : 0 001 ko
+[03] : LIV     .B�N : 0 003 ko
+[04] : LIV2    .B�N : 0 001 ko
+[05] : M1      .B�N : 0 002 ko
+[06] : MAGO    .B�N : 0 002 ko
+[07] : MAL     .BAS : 0 008 ko
+[08] : PL      .B�N : 0 002 ko
+[09] : PR      .B�N : 0 001 ko
+[10] : X       .B�S : 0 020 ko
+[11] : TAB0    .B�N : 0 004 ko
+[12] : TAB10   .B�N : 0 003 ko
+[13] : TAB11   .B�N : 0 004 ko
+[14] : TAB12   .B�N : 0 003 ko
+[15] : TAB13   .B�N : 0 003 ko
+[16] : TAB14   .B�N : 0 004 ko
+[17] : TAB15   .B�N : 0 004 ko
+[18] : TAB16   .B�N : 0 002 ko
+[19] : TAB17   .B�N : 0 006 ko
+[20] : TAB18   .B�N : 0 004 ko
+[21] : TAB19   .B�N : 0 003 ko
+[22] : TAB2    .B�N : 0 004 ko
+[23] : TAB20   .B�N : 0 003 ko
+[24] : TAB21   .B�N : 0 004 ko
+[25] : TAB22   .B�N : 0 003 ko
+[26] : TAB23   .B�N : 0 003 ko
+[27] : TAB25   .B�N : 0 004 ko
+[28] : TAB3    .B�N : 0 003 ko
+[29] : TAB4    .B�N : 0 003 ko
+[30] : TAB5    .B�N : 0 004 ko
+[31] : TAB6    .B�N : 0 004 ko
+[32] : TAB7    .B�N : 0 004 ko
+[33] : TAB8    .B�N : 0 004 ko
+[34] : TAB9    .B�N : 0 003 ko
+[36] : 181     .B�N : 0 027 ko
+[38] : DARTS   .BAS : 0 001 ko
+[39] : HELI2000.BAS : 0 001 ko
+[40] : DARTSIMA.P�W : 0 004 ko
+[41] : ARCHER  .BAS : 0 001 ko
+[42] : HELI2000.B�N : 0 010 ko
+[44] : DISCO   .BIN : 0 015 ko
+Dsk 187 Ko used

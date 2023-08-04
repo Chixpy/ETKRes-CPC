@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RAMBOIMA.P�W : 0 004 ko
+[01] : RAMBO3  .1�  : 0 017 ko
+[03] : RAMBO3  .2�  : 0 017 ko
+[05] : RAMBO3  .3�  : 0 017 ko
+[07] : RAMBO3  .4�  : 0 017 ko
+[09] : RAMBO3  .BAS : 0 001 ko
+[10] : RAMBO3  .B�N : 0 040 ko
+[13] : HOPPING .BIN : 0 003 ko
+[14] : DWARF   .BAS : 0 003 ko
+[15] : DECODE  .B�N : 0 002 ko
+[16] : DWARFI  .B�N : 0 022 ko
+[18] : NAIN    .C�P : 0 007 ko
+[19] : CRYSTSCR.P�W : 0 004 ko
+[20] : P38     .B�N : 0 002 ko
+[21] : CRYSTAL .BAS : 0 001 ko
+[22] : TAB     .B�N : 0 017 ko
+[24] : CRYSTAL .B�N : 0 013 ko
+Dsk 187 Ko used

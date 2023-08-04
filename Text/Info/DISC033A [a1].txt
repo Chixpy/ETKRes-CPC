@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] :   MARK  .�   : 0 001 ko
+[01] : CAPLANET.BAS : 0 001 ko
+[02] : CAPLANET.B�1 : 0 035 ko
+[05] : CAPLANET.B�2 : 0 008 ko
+[06] : BOOKSCR .P�W : 0 008 ko
+[07] : CAPLANET.M�S : 0 004 ko
+[08] : K7VIDEO .BAS : 0 002 ko
+[09] : JETSET2 .BIN : 0 042 ko
+[14] : RAM4    .B�N : 0 009 ko
+[15] : RAM7    .B�N : 0 016 ko
+[16] : CRUSADE .BAS : 0 001 ko
+[17] : SPACECR1.B�N : 0 030 ko
+[19] : SPACECR2.B�N : 0 016 ko
+[20] : SPACEKOM.I�L : 0 011 ko
+Dsk 184 Ko used

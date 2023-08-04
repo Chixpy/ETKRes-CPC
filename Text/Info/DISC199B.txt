@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TERMINA2.N�1 : 0 006 ko
+[01] : TERMINA2.B�N : 0 001 ko
+[02] : TERMINA2.N�2 : 0 010 ko
+[03] : TERM2IMA.P�W : 0 007 ko
+[04] : TERMINA2.BAS : 0 001 ko
+[05] : TERMINA2.N�3 : 0 006 ko
+[06] : TERMINA2.N�4 : 0 010 ko
+[07] : TERMINA2.N�5 : 0 008 ko
+[08] : TERMINA2.N�6 : 0 008 ko
+[09] : TERMINA2.N�7 : 0 006 ko
+[10] : TERMINA2.N�8 : 0 012 ko
+[11] : TERMINA2.N�9 : 0 021 ko
+[13] : TIGER   .BAS : 0 001 ko
+[14] : TIGER   .B�N : 0 022 ko
+[16] : TIGER0  .B�N : 0 010 ko
+[17] : TIGER1  .B�N : 0 012 ko
+[18] : TIGER2  .B�N : 0 011 ko
+[19] : TIGER3  .B�N : 0 012 ko
+[20] : TIGER4  .B�N : 0 010 ko
+[21] : TIGER5  .B�N : 0 009 ko
+[22] : TIGER   .S�N : 0 004 ko
+Dsk 187 Ko used

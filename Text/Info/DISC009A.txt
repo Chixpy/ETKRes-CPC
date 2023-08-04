@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ASSIMIL . �  : 0 001 ko
+[01] : ASSIMIL .0�9 : 0 033 ko
+[04] : ASSIMIL .0�0 : 0 036 ko
+[07] : ASSIMIL .0�1 : 0 036 ko
+[10] : ASSIMIL .0�2 : 0 033 ko
+[13] : CODEFI  .B�N : 0 002 ko
+[14] : DISQUE 3. �  : 0 001 ko
+[15] : ANGLAIS3.BAS : 0 003 ko
+[16] : NIM     .BAS : 0 002 ko
+[17] : JACK2   .BAS : 0 001 ko
+[18] : JACK2   .B�N : 0 033 ko
+[21] : JACK2IMA.P�W : 0 006 ko
+Dsk 187 Ko used

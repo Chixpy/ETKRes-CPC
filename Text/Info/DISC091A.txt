@@ -1,0 +1,44 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 15 start at sector 177 while track 0 starts at 193
+Warning : track 18 start at sector 177 while track 0 starts at 193
+Warning : track 19 start at sector 177 while track 0 starts at 193
+Warning : track 20 start at sector 177 while track 0 starts at 193
+Warning : track 21 start at sector 177 while track 0 starts at 193
+Warning : track 22 start at sector 177 while track 0 starts at 193
+Warning : track 23 start at sector 177 while track 0 starts at 193
+Warning : track 24 start at sector 177 while track 0 starts at 193
+Warning : track 25 start at sector 177 while track 0 starts at 193
+Warning : track 26 start at sector 177 while track 0 starts at 193
+Warning : track 27 start at sector 177 while track 0 starts at 193
+Warning : track 28 start at sector 177 while track 0 starts at 193
+Warning : track 29 start at sector 177 while track 0 starts at 193
+Warning : track 30 start at sector 177 while track 0 starts at 193
+Warning : track 31 start at sector 177 while track 0 starts at 193
+Warning : track 32 start at sector 177 while track 0 starts at 193
+Warning : track 33 start at sector 177 while track 0 starts at 193
+Warning : track 34 start at sector 177 while track 0 starts at 193
+Warning : track 35 start at sector 177 while track 0 starts at 193
+Warning : track 36 start at sector 177 while track 0 starts at 193
+Warning : track 37 start at sector 177 while track 0 starts at 193
+Warning : track 38 start at sector 177 while track 0 starts at 193
+Warning : track 39 start at sector 177 while track 0 starts at 193
+Warning : track 42 start at sector 65 while track 0 starts at 193
+[00] : KUNG-FU .BAS : 0 001 ko
+[01] : KUNG-FU .B�N : 0 038 ko
+[04] : WORLD3  .NHF : 15 001 ko
+[05] : WORLD4  .NHF : 15 002 ko
+[06] : WORLD5  .NHF : 15 048 ko
+[09] : WORLD6  .NHF : 15 014 ko
+[10] : WORLD7  .NHF : 15 032 ko
+[12] : MANIC   .BAS : 0 001 ko
+[13] : MANICMIN.B�N : 0 021 ko
+[15] : MANICSCR.P�W : 0 002 ko
+[16] : RSXDRUCK.BAS : 0 001 ko
+[17] : RSXDRUCK.B�N : 0 001 ko
+[18] : TABLEAU .BAS : 0 002 ko
+[19] : WORLDGAM.BAS : 0 001 ko
+[20] : W       .B�N : 0 010 ko
+[21] : WORLDGAM.C�M : 0 005 ko
+[22] : KUNGSCR .P�W : 0 007 ko
+Dsk 187 Ko used

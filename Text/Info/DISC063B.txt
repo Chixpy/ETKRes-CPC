@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LEVEL1  .B�N : 0 017 ko
+[02] : LEVEL2  .B�N : 0 017 ko
+[04] : LEVEL3  .B�N : 0 017 ko
+[06] : LEVEL4  .B�N : 0 017 ko
+[08] : LEVEL5  .B�N : 0 017 ko
+[10] : LEVEL6  .B�N : 0 017 ko
+[12] : WOLF    .BAS : 0 001 ko
+[13] : WOLF    .B�N : 0 027 ko
+[15] : AMO     .BAS : 0 001 ko
+[16] : AMO     .B�N : 0 041 ko
+[19] : WOLF    .I�A : 0 004 ko
+[20] : AMO     .I�L : 0 011 ko
+Dsk 187 Ko used

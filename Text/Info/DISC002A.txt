@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PINK    .BAS : 0 001 ko
+[01] : PINK    .B�N : 0 016 ko
+[02] : PINK    .L�1 : 0 009 ko
+[03] : PINK    .L�2 : 0 008 ko
+[04] : PINK    .L�3 : 0 008 ko
+[05] : MARK    .BAS : 0 001 ko
+[06] : LOUPS   .BAS : 0 006 ko
+[07] : PINK    .L�4 : 0 009 ko
+[08] : PINK    .L�5 : 0 006 ko
+[09] : PINK    .S�R : 0 007 ko
+[10] : TOPGUN  .B�N : 0 038 ko
+[12] : RENAUD  .C�2 : 0 038 ko
+[13] : PINK    .S�N : 0 009 ko
+[16] : RENAUD  .BIN : 0 014 ko
+[17] : RENAUD  .C�1 : 0 005 ko
+[18] : UTILI   .R�X : 0 006 ko
+[19] : TOPGUN  .BAS : 0 001 ko
+[20] : TOPGNIMA.P�W : 0 005 ko
+Dsk 187 Ko used

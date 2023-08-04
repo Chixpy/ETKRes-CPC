@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NINJA2  .0�6 : 0 040 ko
+[03] : NINJA2  .0�5 : 0 040 ko
+[06] : REFLEX  .BAS : 0 001 ko
+[07] : REFLEX  .B�N : 0 018 ko
+[08] : SPOTS   .BAS : 0 008 ko
+[09] : SPOTS   .B�N : 0 007 ko
+[10] : NINJA2  .0�4 : 0 040 ko
+[13] : NINJA2  .TXT : 0 011 ko
+[15] : REFLEX  .C�C : 0 005 ko
+[16] : PAGODES .BAS : 0 007 ko
+[17] : DEDALOS .BAS : 0 002 ko
+[18] : DEDALOS .B�N : 0 006 ko
+[19] : DEDALOS .C�C : 0 002 ko
+Dsk 187 Ko used

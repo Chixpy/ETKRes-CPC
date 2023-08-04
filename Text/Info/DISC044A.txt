@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : WWF     .BIN : 0 008 ko
+[01] : WWF     .T�A : 0 003 ko
+[02] : WWF     .T�B : 0 003 ko
+[03] : WWF     .T�C : 0 006 ko
+[04] : WWF     .T�D : 0 006 ko
+[05] : WWF     .T�E : 0 003 ko
+[06] : WWF     .T�F : 0 003 ko
+[07] : WWF     .T�G : 0 006 ko
+[08] : WWF     .T�H : 0 014 ko
+[09] : WWF     .T�I : 0 004 ko
+[10] : WWF     .T�J : 0 002 ko
+[11] : WWF     .T�K : 0 006 ko
+[12] : WWF     .T�L : 0 017 ko
+[14] : WWF     .T�M : 0 004 ko
+[15] : WWF     .T�N : 0 002 ko
+[16] : WWF     .T�O : 0 006 ko
+[17] : WWF     .T�P : 0 002 ko
+[18] : WWF     .T�Q : 0 004 ko
+[19] : WWF     .T�R : 0 003 ko
+[20] : WWF     .T�S : 0 006 ko
+[21] : WWF     .T�T : 0 013 ko
+[22] : WWF     .T�U : 0 007 ko
+[23] : BJSSC2  .B�N : 0 016 ko
+[24] : BJSSC   .BAS : 0 001 ko
+[25] : BJSSC1  .B�N : 0 021 ko
+[27] : PHOENIX .BAS : 0 002 ko
+[28] : BJSSCIMA.P�W : 0 006 ko
+[29] : CCHASE  .C�D : 0 006 ko
+[30] : CCHASE  .L�V : 0 003 ko
+[31] : MAZES   .BAS : 0 001 ko
+[32] : CCHASE  .S�R : 0 003 ko
+Dsk 187 Ko used

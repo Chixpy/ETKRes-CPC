@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : POUSSY  .B�N : 0 010 ko
+[01] : POUSSY  .BAS : 0 001 ko
+[02] : LEVEL00 .B�N : 0 005 ko
+[03] : LEVEL01 .B�N : 0 006 ko
+[04] : LEVEL02 .B�N : 0 005 ko
+[05] : LEVEL03 .B�N : 0 005 ko
+[06] : LEVEL04 .B�N : 0 004 ko
+[07] : LEVEL05 .B�N : 0 004 ko
+[08] : LEVEL06 .B�N : 0 008 ko
+[09] : LEVEL07 .B�N : 0 010 ko
+[10] : LEVEL08 .B�N : 0 009 ko
+[11] : LEVEL09 .B�N : 0 006 ko
+[12] : LEVEL10 .B�N : 0 008 ko
+[13] : LEVEL11 .B�N : 0 006 ko
+[14] : POUSSY  .S�R : 0 006 ko
+[15] : BLO     .B�N : 0 006 ko
+[16] : CUMU    .L�S : 0 011 ko
+[17] : CYBOR   .BAS : 0 001 ko
+[18] : HEU     .B�N : 0 004 ko
+[19] : HACKER  .AID : 0 001 ko
+[20] : HACKER  .T�T : 0 001 ko
+[21] : HACKER  .BIN : 0 042 ko
+[24] : STA     .B�N : 0 009 ko
+[25] : TAB     .B�N : 0 019 ko
+Dsk 187 Ko used

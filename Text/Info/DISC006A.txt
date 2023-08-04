@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : B1      .B�N : 0 011 ko
+[01] : B2      .B�N : 0 011 ko
+[02] : B3      .B�N : 0 011 ko
+[03] : B4      .B�N : 0 011 ko
+[04] : B5      .B�N : 0 011 ko
+[05] : B6      .B�N : 0 011 ko
+[06] : B7      .B�N : 0 011 ko
+[07] : B8      .B�N : 0 011 ko
+[08] : B9      .B�N : 0 011 ko
+[09] : BOXING  .BIN : 0 014 ko
+[10] : MOTCACHE.BAS : 0 002 ko
+[11] : BOXING2 .B�N : 0 026 ko
+[13] : DEMON   .BAS : 0 001 ko
+[14] : DEMON   .B�N : 0 037 ko
+[17] : DEMONIMA.P�W : 0 008 ko
+Dsk 187 Ko used

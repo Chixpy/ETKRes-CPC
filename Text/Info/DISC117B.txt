@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROCKWRES.BAS : 0 001 ko
+[01] : CHASEHQ .BAS : 0 001 ko
+[02] : CHASEHQ .B�N : 0 034 ko
+[05] : CHASEHQ4.R�M : 0 016 ko
+[06] : CHASEHQ5.R�M : 0 016 ko
+[07] : CHASEHQ6.R�M : 0 016 ko
+[08] : CHASEHQ7.R�M : 0 017 ko
+[10] : ROCKWRES.B�1 : 0 036 ko
+[13] : ROCKWRES.B�2 : 0 012 ko
+[14] : PANG    .BAS : 0 003 ko
+[15] : PANG    .B�N : 0 007 ko
+[16] : ROCKRSCR.P�W : 0 005 ko
+[17] : MUNCHER .BIN : 0 018 ko
+[21] : CHASEIMA.P�W : 0 005 ko
+Dsk 187 Ko used

@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FPTP    .BAS : 0 001 ko
+[01] : FPTP    .B�N : 0 033 ko
+[04] : FPTPIMA .P�W : 0 004 ko
+[05] : HUMPHIMA.P�W : 0 007 ko
+[06] : HUMPHREY.BAS : 0 001 ko
+[07] : HUMPHREY.B�N : 0 038 ko
+[09] : CHANGE  .BAS : 0 007 ko
+[10] : LE0     .BIN : 0 008 ko
+[11] : MERMAID .B�N : 0 031 ko
+[14] : MERMAID .BAS : 0 001 ko
+[15] : BOULKIT .BAS : 0 001 ko
+[16] : CHANGE  .HI  : 0 001 ko
+[17] : BAMSDAT .B�N : 0 023 ko
+[19] : MERMASCR.P�W : 0 005 ko
+[20] : GAME1   .GAM : 0 005 ko
+[21] : GAME2   .GAM : 0 005 ko
+[22] : BOULKIMA.P�W : 0 006 ko
+[23] : HUMPHSCR.P�W : 0 006 ko
+[24] : NOMBRE  .BAS : 0 001 ko
+[25] : TITREUR .BAS : 0 003 ko
+Dsk 187 Ko used

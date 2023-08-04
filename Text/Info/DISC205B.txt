@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JUNGLE  .BAS : 0 001 ko
+[01] : JUNGLE1 .B�N : 0 031 ko
+[03] : JUNGLE2 .B�N : 0 011 ko
+[04] : JUNGLE3 .B�N : 0 033 ko
+[07] : JUNGLE4 .B�N : 0 013 ko
+[08] : FRUIBANK.BAS : 0 001 ko
+[09] : FRUIBANK.B�N : 0 029 ko
+[11] : GREED   .BAS : 0 001 ko
+[12] : GREED   .M�S : 0 007 ko
+[13] : GREED   .N�T : 0 002 ko
+[14] : GREED1  .B�N : 0 037 ko
+[17] : GREED2  .B�N : 0 009 ko
+[18] : FRUIBANK.C�M : 0 006 ko
+[19] : GREEDIMA.P�W : 0 006 ko
+Dsk 187 Ko used

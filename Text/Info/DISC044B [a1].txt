@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SAMANTHA.BAS : 0 001 ko
+[01] : SAMMC   .B�N : 0 040 ko
+[04] : SAMYIMA .C�U : 0 005 ko
+[05] : PANZADRO.BAS : 0 001 ko
+[06] : PANZADRO.B�N : 0 041 ko
+[09] : BROTHERS.BAS : 0 001 ko
+[10] : BROTHER .B�N : 0 032 ko
+[12] : BROTHER1.L�L : 0 008 ko
+[13] : BROTHER2.L�L : 0 008 ko
+[14] : BROTHER3.L�L : 0 009 ko
+[15] : CHARLY  .BAS : 0 001 ko
+[16] : CHARLY  .B�N : 0 033 ko
+[19] : BLOODSCR.P�W : 0 003 ko
+[20] : PANZAIMA.P�W : 0 004 ko
+Dsk 187 Ko used

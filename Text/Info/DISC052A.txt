@@ -1,0 +1,46 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AUTOASM .BAS : 0 005 ko
+[01] : ASMB    .B�N : 0 010 ko
+[02] : A       .    : 0 001 ko
+[03] : X       .    : 0 001 ko
+[04] : GOBLINS .B�N : 0 032 ko
+[06] : C       .    : 0 001 ko
+[07] : D       .    : 0 001 ko
+[08] : DIGIICON.B�N : 0 001 ko
+[09] : E       .    : 0 001 ko
+[10] : GGOBLINS.BAS : 0 001 ko
+[11] : ROUTINE .B�N : 0 001 ko
+[12] : ASTRES  .BAS : 0 022 ko
+[13] : F       .    : 0 001 ko
+[14] : FELD    .B�N : 0 022 ko
+[16] : G       .    : 0 001 ko
+[18] : GLOBE   .BAS : 0 020 ko
+[20] : GLOBEMC .B�N : 0 006 ko
+[21] : H       .    : 0 001 ko
+[22] : ORTE    .    : 0 001 ko
+[23] : STREGO  .BAS : 0 003 ko
+[24] : STREGO  .B�N : 0 015 ko
+[25] : J       .    : 0 001 ko
+[26] : K       .    : 0 001 ko
+[27] : L       .    : 0 001 ko
+[28] : M       .    : 0 001 ko
+[29] : N       .    : 0 001 ko
+[30] : O       .    : 0 001 ko
+[31] : B       .    : 0 001 ko
+[32] : P       .    : 0 001 ko
+[33] : Q       .    : 0 001 ko
+[35] : R       .    : 0 001 ko
+[36] : S       .    : 0 001 ko
+[37] : T       .    : 0 001 ko
+[38] : Z       .    : 0 001 ko
+[39] : U       .    : 0 001 ko
+[40] : V       .    : 0 001 ko
+[41] : W       .    : 0 001 ko
+[42] : Y       .    : 0 001 ko
+[43] : GOBLISCR.P�W : 0 009 ko
+[44] : WINGLOBE.BAS : 0 001 ko
+[45] : WINGLOBE.TAS : 0 008 ko
+[46] : I       .    : 0 001 ko
+[47] : WINGLOBE.TXT : 0 001 ko
+Dsk 184 Ko used

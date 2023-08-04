@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : H-COPY  .BAS : 0 002 ko
+[01] : HAMERBO1.B�N : 0 017 ko
+[03] : HAMERBO2.B�N : 0 012 ko
+[04] : HAMERBO3.B�N : 0 018 ko
+[06] : HAMERBO4.B�N : 0 011 ko
+[07] : HAMERBOY.BAS : 0 001 ko
+[08] : RAD-ZONE.BAS : 0 003 ko
+[09] : RADZONE .B�N : 0 018 ko
+[11] : RADZONE1.B�S : 0 009 ko
+[12] : RELIEF  .BAS : 0 001 ko
+[13] : RELIEF  .N�1 : 0 025 ko
+[15] : RELIEF  .N�2 : 0 016 ko
+[16] : FATHXMAS.BAS : 0 001 ko
+[17] : FATHXMAS.B�N : 0 041 ko
+[20] : FATHXSCR.P�W : 0 006 ko
+[21] : HAMMESCR.P�W : 0 006 ko
+Dsk 187 Ko used

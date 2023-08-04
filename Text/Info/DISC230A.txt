@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HARVEY  .BAS : 0 001 ko
+[01] : HARVEY  .B�N : 0 031 ko
+[03] : FALCON  .BIN : 0 040 ko
+[06] : REBEL   .BAS : 0 001 ko
+[07] : REBEL1  .B�N : 0 035 ko
+[10] : REBEL2  .B�N : 0 008 ko
+[11] : CANNIBAL.BAS : 0 001 ko
+[12] : JUMPMANI.    : 0 025 ko
+[14] : JUMPMANI.AID : 0 001 ko
+[15] : JUMPMANI.L�V : 0 003 ko
+[16] : JUMPMANI.P�1 : 0 008 ko
+[17] : JUMPMANI.P�2 : 0 023 ko
+[19] : JUMPMANI.T�T : 0 001 ko
+[20] : JUMPMANI.P�3 : 0 004 ko
+[21] : HARVEIMA.P�W : 0 005 ko
+Dsk 187 Ko used

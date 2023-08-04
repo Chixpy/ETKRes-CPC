@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARTHUR  .BAS : 0 007 ko
+[01] : ARTHUR1 .B�N : 0 003 ko
+[02] : HEADROOM.BAS : 0 001 ko
+[03] : MASTERS .BAS : 0 001 ko
+[04] : MASTERS1.B�N : 0 032 ko
+[06] : MASTERS2.B�N : 0 012 ko
+[07] : HEADROOM.B�N : 0 037 ko
+[10] : HEADROOM.C�M : 0 005 ko
+[11] : HEADROOM.P�E : 0 003 ko
+[12] : NARCO   .BAS : 0 001 ko
+[13] : NARCO   .B�N : 0 001 ko
+[14] : NARCO   .P�G : 0 028 ko
+[16] : NARCO   .S�R : 0 011 ko
+[17] : NARCO2  .P�G : 0 031 ko
+[19] : MASTEKOM.P�W : 0 004 ko
+[20] : NARCO2  .S�R : 0 010 ko
+Dsk 187 Ko used

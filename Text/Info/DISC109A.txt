@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EDITEUR .BAS : 0 006 ko
+[01] : HAL     .BAS : 0 004 ko
+[02] : HAL     .M�N : 0 001 ko
+[03] : HAL     .S�R : 0 002 ko
+[04] : HAL     .TAB : 0 005 ko
+[05] : BUGGY   .BAS : 0 001 ko
+[06] : BUGGY   .B�N : 0 036 ko
+[09] : VENDREDI.B�N : 0 042 ko
+[12] : FRIDAY  .BAS : 0 001 ko
+[13] : CODE    .B�N : 0 025 ko
+[15] : GBA     .BAS : 0 001 ko
+[16] : S163    .B�N : 0 017 ko
+[18] : SWAPLAX .R�C : 0 001 ko
+[19] : SWAPLAX .R�N : 0 004 ko
+[20] : SWAPLAX .BAS : 0 010 ko
+[21] : S5      .C�M : 0 003 ko
+[22] : PART3   .B�N : 0 004 ko
+[23] : TROISDES.BAS : 0 008 ko
+[24] : 3DESSCR .P�W : 0 003 ko
+[25] : GBASCR  .P�W : 0 001 ko
+[26] : FRIDASCR.P�W : 0 002 ko
+[27] : BUGGYIMA.P�W : 0 009 ko
+[28] : SCR     .B�N : 0 001 ko
+Dsk 187 Ko used

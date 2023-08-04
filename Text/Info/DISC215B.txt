@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DIZZYRAP.BAS : 0 001 ko
+[01] : DIZZYRAP.B�N : 0 037 ko
+[04] : CITY    .BAS : 0 001 ko
+[05] : CITY    .B�N : 0 037 ko
+[08] : GREGORY .BIN : 0 035 ko
+[11] : GARFIELD.BAS : 0 001 ko
+[12] : GARFIELD.B�N : 0 040 ko
+[15] : TOMCAT  .B�1 : 0 013 ko
+[16] : TOMCAT  .BAS : 0 001 ko
+[17] : TOMCAT  .B�2 : 0 007 ko
+[18] : BASICOPY.BAS : 0 001 ko
+[19] : TOMCAT  .I�L : 0 004 ko
+[20] : GARFIIMA.P�W : 0 004 ko
+[21] : RAPIDSCR.P�W : 0 005 ko
+Dsk 187 Ko used

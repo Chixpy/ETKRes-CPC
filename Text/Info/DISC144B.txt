@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NORTH   .B�B : 0 040 ko
+[03] : NORTH   .B�C : 0 040 ko
+[06] : NORTH   .B�D : 0 037 ko
+[09] : NORTH   .B�E : 0 003 ko
+[10] : NORTH   .B�G : 0 003 ko
+[11] : NORTH   .B�H : 0 007 ko
+[12] : DATAGEN .BAS : 0 004 ko
+[13] : HIGHLAND.BAS : 0 001 ko
+[14] : HIGHLAND.B�N : 0 041 ko
+[17] : HIGHLAND.C�M : 0 005 ko
+[18] : HIGHLAND.I�L : 0 006 ko
+Dsk 187 Ko used

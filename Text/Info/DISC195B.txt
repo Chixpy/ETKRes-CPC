@@ -1,0 +1,61 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : B-DATA  . �  : 0 004 ko
+[01] : BLS-DATA. �  : 0 004 ko
+[02] : CHANAMES. �  : 0 001 ko
+[03] : CHOOSCOL. �  : 0 002 ko
+[04] : CHOOTEAM. �  : 0 002 ko
+[05] : CLUBNEWS. �  : 0 005 ko
+[06] : CODE02  .B�N : 0 002 ko
+[07] : CODE1   .B�N : 0 002 ko
+[08] : CODE2   .B�N : 0 002 ko
+[09] : CODE3   .B�N : 0 002 ko
+[10] : ENSEASON. �  : 0 003 ko
+[11] : FIX     . �  : 0 001 ko
+[12] : FIXTURES. �  : 0 001 ko
+[13] : GAME56  .B�S : 0 019 ko
+[15] : GCODE1  .B�N : 0 002 ko
+[16] : GCODE2  .B�N : 0 002 ko
+[17] : GCODE3  .B�N : 0 002 ko
+[18] : GOALCODE.B�N : 0 002 ko
+[19] : GUARDIAN.BAS : 0 001 ko
+[20] : GUARDIAN.B�N : 0 003 ko
+[21] : GUARDIAN.N�1 : 0 004 ko
+[22] : GUARDIAN.N�2 : 0 012 ko
+[23] : GUARDIAN.N�3 : 0 008 ko
+[24] : GUARDIAN.N�4 : 0 002 ko
+[25] : GUARDIAN.N�5 : 0 010 ko
+[26] : GUARDIAN.N�6 : 0 001 ko
+[27] : GUARDIAN.N�7 : 0 002 ko
+[28] : GUARDIAN.N�8 : 0 003 ko
+[29] : GUARDIAN.N�9 : 0 001 ko
+[30] : GUARDIAN.N�0 : 0 002 ko
+[31] : GUARDIAN.N�A : 0 003 ko
+[32] : GUARDIAN.N�B : 0 003 ko
+[33] : GUARDIAN.N�C : 0 003 ko
+[34] : GUARDIAN.N�D : 0 003 ko
+[35] : GUARDIAN.N�E : 0 003 ko
+[36] : GUARDIAN.N�F : 0 003 ko
+[37] : GUARDIAN.N�G : 0 003 ko
+[38] : GUARDIAN.N�H : 0 003 ko
+[39] : GUARDIAN.N�I : 0 003 ko
+[40] : GUARDIAN.N�J : 0 003 ko
+[41] : GUARDIAN.N�K : 0 003 ko
+[42] : GUARDIAN.N�L : 0 003 ko
+[43] : GUARDIAN.N�M : 0 003 ko
+[44] : GUARDIAN.N�N : 0 003 ko
+[45] : GUARDIAN.N�O : 0 003 ko
+[46] : GUARDIAN.N�P : 0 003 ko
+[47] : GUARDIMA.P�W : 0 008 ko
+[48] : INVADERS.BAS : 0 001 ko
+[49] : LEAGUE2 .BAS : 0 002 ko
+[50] : LG-TABLE. �  : 0 001 ko
+[51] : M-RATING. �  : 0 001 ko
+[52] : PLMATCHL. �  : 0 008 ko
+[53] : SAVECODE.B�N : 0 001 ko
+[54] : SAVEGAME. �  : 0 001 ko
+[55] : SKILEVEL. �  : 0 001 ko
+[56] : TABLE   . �  : 0 001 ko
+[57] : TRANSFER. �  : 0 004 ko
+[58] : INVAD   .B�N : 0 003 ko
+Dsk 187 Ko used

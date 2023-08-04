@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOBJUNGL.BAS : 0 001 ko
+[01] : BOBOCEAN.BAS : 0 001 ko
+[02] : BOBOCEAN.I�L : 0 006 ko
+[03] : BOBJUNG1.B�N : 0 032 ko
+[05] : BOBJ2IMA.P�W : 0 007 ko
+[06] : BOBJUNG2.B�N : 0 015 ko
+[07] : OCEAN1  .B�N : 0 007 ko
+[08] : BOBJ1IMA.P�W : 0 009 ko
+[09] : OCEAN2  .B�N : 0 017 ko
+[11] : OCEAN3  .B�N : 0 034 ko
+[14] : OCEAN4  .B�N : 0 016 ko
+[15] : OCEANIMA.P�W : 0 006 ko
+[16] : TORC    .BAS : 0 001 ko
+[17] : TORC    .B�N : 0 031 ko
+[19] : TORC    .I�L : 0 004 ko
+Dsk 187 Ko used

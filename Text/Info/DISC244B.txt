@@ -1,0 +1,49 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BURGLAR .BAS : 0 003 ko
+[01] : BURGLAR .A�D : 0 008 ko
+[03] : BURGLAR2.B�S : 0 019 ko
+[05] : CASE1   .B�N : 0 002 ko
+[06] : CASE10  .B�N : 0 002 ko
+[07] : CASE11  .B�N : 0 002 ko
+[08] : CASE12  .B�N : 0 002 ko
+[09] : CASE13  .B�N : 0 002 ko
+[10] : CASE14  .B�N : 0 002 ko
+[11] : CASE15  .B�N : 0 002 ko
+[12] : CASE16  .B�N : 0 002 ko
+[13] : CASE17  .B�N : 0 001 ko
+[14] : CASE18  .B�N : 0 002 ko
+[15] : CASE19  .B�N : 0 002 ko
+[16] : CASE2   .B�N : 0 002 ko
+[17] : CASE20  .B�N : 0 002 ko
+[18] : CASE21  .B�N : 0 002 ko
+[19] : CASE22  .B�N : 0 002 ko
+[20] : CASE24  .B�N : 0 001 ko
+[21] : CASE25  .B�N : 0 002 ko
+[22] : CASE27  .B�N : 0 002 ko
+[23] : CASE28  .B�N : 0 002 ko
+[24] : CASE3   .B�N : 0 001 ko
+[25] : CASE31  .B�N : 0 002 ko
+[26] : CASE32  .B�N : 0 002 ko
+[27] : CASE33  .B�N : 0 002 ko
+[28] : CASE34  .B�N : 0 002 ko
+[29] : CASE35  .B�N : 0 002 ko
+[30] : CASE39  .B�N : 0 002 ko
+[31] : CASE4   .B�N : 0 002 ko
+[32] : CASE40  .B�N : 0 002 ko
+[33] : CASE41  .B�N : 0 001 ko
+[34] : CASE42  .B�N : 0 002 ko
+[35] : CASE43  .B�N : 0 002 ko
+[36] : CASE5   .B�N : 0 002 ko
+[37] : CASE6   .B�N : 0 002 ko
+[38] : CASE7   .B�N : 0 002 ko
+[39] : CASE8   .B�N : 0 002 ko
+[40] : CASE9   .B�N : 0 002 ko
+[41] : DOOM    .BAS : 0 001 ko
+[42] : DOOM    .B�N : 0 016 ko
+[43] : SUBBUIMA.P�W : 0 005 ko
+[44] : SUBBUTEO.BAS : 0 001 ko
+[45] : SUBBUTEO.I�L : 0 014 ko
+[46] : SUBUTEO1.B�N : 0 034 ko
+[49] : SUBUTEO2.B�N : 0 016 ko
+Dsk 185 Ko used

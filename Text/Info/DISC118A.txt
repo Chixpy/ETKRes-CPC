@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PREH0   .B�N : 0 018 ko
+[02] : PREH1   .B�N : 0 023 ko
+[04] : PREH2   .B�N : 0 023 ko
+[06] : PREH3   .B�N : 0 023 ko
+[08] : PREH4   .B�N : 0 023 ko
+[10] : PREH5   .B�N : 0 016 ko
+[11] : PREHISTO.BAS : 0 001 ko
+[12] : DANDY   .BAS : 0 001 ko
+[13] : DANDY   .0�1 : 0 010 ko
+[14] : DANDY   .0�2 : 0 010 ko
+[15] : DANDY   .0�3 : 0 010 ko
+[16] : DANDY   .B�N : 0 014 ko
+[17] : DANDY   .S�R : 0 004 ko
+[19] : PREH2IMA.P�W : 0 009 ko
+[20] : TITUSSCR.P�W : 0 002 ko
+Dsk 187 Ko used

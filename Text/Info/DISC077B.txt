@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BAT1    .NHF : 15 001 ko
+[01] : BAT2    .NHF : 15 012 ko
+[02] : BAT3    .NHF : 15 001 ko
+[03] : BAT4    .NHF : 15 016 ko
+[04] : BAT5    .NHF : 15 016 ko
+[05] : BAT6    .NHF : 15 016 ko
+[06] : BAT7    .NHF : 15 016 ko
+[07] : BAT8    .NHF : 15 016 ko
+[08] : BAT9    .NHF : 15 016 ko
+[09] : BAT10   .NHF : 15 003 ko
+[10] : TENNIS3D.B�N : 0 021 ko
+[12] : TENNIS3D.BAS : 0 001 ko
+[13] : JUMP    .B�N : 0 029 ko
+[15] : JUMPJET .BAS : 0 001 ko
+[16] : 3DMORPIO.BAS : 0 004 ko
+[17] : JUMPJET .C�M : 0 004 ko
+[18] : TENNIS3D.C�M : 0 005 ko
+[19] : BASIC   .B�S : 0 009 ko
+Dsk 187 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DOODLE  .BAS : 0 001 ko
+[01] : DOODLE  .B�N : 0 042 ko
+[04] : ELITE   .BAS : 0 001 ko
+[05] : ELITE   .DOC : 0 007 ko
+[06] : ELITE1  .B�N : 0 040 ko
+[09] : ELITE2  .B�N : 0 008 ko
+[10] : HALLS   .BAS : 0 001 ko
+[11] : HALLS   .B�N : 0 018 ko
+[13] : MUNSTER1.B�N : 0 032 ko
+[15] : MUNSTER2.B�N : 0 018 ko
+[17] : MUNSTERS.BAS : 0 001 ko
+[18] : MUNSTIMA.P�W : 0 006 ko
+[19] : DOODLE  .S�R : 0 004 ko
+[20] : ELITESCR.P�W : 0 004 ko
+[21] : HALLSCR .P�W : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NRAIDER .BAS : 0 002 ko
+[01] : NRAIDER .B�N : 0 034 ko
+[04] : DEVIL   .BAS : 0 001 ko
+[05] : DEVIL   .B�N : 0 022 ko
+[07] : MERCENA .BAS : 0 001 ko
+[08] : MERCENA .B�N : 0 015 ko
+[09] : NUCL3   .B�N : 0 015 ko
+[10] : NUCL4   .B�N : 0 014 ko
+[11] : NUCLEAR .BAS : 0 001 ko
+[12] : ROGUE   .BAS : 0 001 ko
+[13] : ROGUE   .B�N : 0 037 ko
+[16] : SQUASH  .BAS : 0 001 ko
+[17] : SQUASH  .B�N : 0 019 ko
+[19] : SQUASH  .M�S : 0 004 ko
+[20] : NRAIDSCR.P�W : 0 004 ko
+[21] : MERCENA .I�L : 0 004 ko
+[22] : ROGUESCR.P�W : 0 004 ko
+[23] : SQUASSCR.P�W : 0 003 ko
+[24] : DEVILIMA.P�W : 0 005 ko
+Dsk 187 Ko used

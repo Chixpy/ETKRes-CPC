@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GUNSHIP .BAS : 0 001 ko
+[01] : GUNSHIP1.B�N : 0 027 ko
+[03] : GUNSHIP2.B�N : 0 009 ko
+[04] : K-RING  .BIN : 0 015 ko
+[05] : QABBALAH.BAS : 0 001 ko
+[06] : QABBALAH.B�N : 0 013 ko
+[07] : ZAMPABOL.B�1 : 0 005 ko
+[08] : ZAMPABOL.B�2 : 0 020 ko
+[10] : ZAMPABOL.BIN : 0 001 ko
+[11] : ZAMPASPR. �  : 0 008 ko
+[12] : ZAMPASYS. �  : 0 001 ko
+[13] : ZAMPATAB. �  : 0 001 ko
+[14] : SANTA   .BAS : 0 001 ko
+[15] : SANTA   .B�N : 0 022 ko
+[17] : BMX2    .BAS : 0 001 ko
+[18] : BMX2-1  .B�N : 0 033 ko
+[21] : BMX2-2  .B�N : 0 010 ko
+[22] : SANTA   .I�L : 0 004 ko
+[23] : BMX2IMA .P�W : 0 007 ko
+[24] : QABBASCR.P�W : 0 006 ko
+[25] : PERROKET.BAS : 0 001 ko
+Dsk 187 Ko used

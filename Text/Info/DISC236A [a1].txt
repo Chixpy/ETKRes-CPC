@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : SUMMER1 .BIN : 0 020 ko
+[03] : SUMMER  .L�1 : 0 006 ko
+[04] : SUMMER  .L�2 : 0 009 ko
+[05] : SUMMER  .L�3 : 0 009 ko
+[06] : SUMMER  .L�4 : 0 006 ko
+[07] : SUMMER  .L�5 : 0 011 ko
+[08] : SUMMER  .L�6 : 0 006 ko
+[09] : SUMMER  .L�7 : 0 006 ko
+[10] : SUMMER2 .BIN : 0 015 ko
+[11] : SUMMER2 .L�0 : 0 007 ko
+[12] : SUMMER2 .L�1 : 0 009 ko
+[13] : SUMMER2 .L�2 : 0 007 ko
+[14] : SUMMER2 .L�3 : 0 007 ko
+[15] : SUMMER2 .L�4 : 0 014 ko
+[16] : SUMMER2 .L�5 : 0 008 ko
+[17] : SUMMER2 .L�6 : 0 013 ko
+[18] : SUMMER2 .L�7 : 0 007 ko
+[19] : SUMMER2 .L�8 : 0 012 ko
+[20] : SUMMER2 .L�9 : 0 005 ko
+[21] : REFLECT .BAS : 0 003 ko
+[22] : RON     .BAS : 0 006 ko
+Dsk 186 Ko used

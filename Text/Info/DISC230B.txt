@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROBBY   .BAS : 0 011 ko
+[01] : ROBBY1  .B�N : 0 004 ko
+[02] : GARFIELD.BAS : 0 001 ko
+[03] : GARFIELD.4�  : 0 009 ko
+[04] : GARFIELD.B�N : 0 040 ko
+[07] : POPEYE3 .BAS : 0 001 ko
+[08] : POPEYE3 .B�1 : 0 040 ko
+[11] : POPEYE3 .B�2 : 0 004 ko
+[12] : POPEYE3 .B�A : 0 006 ko
+[13] : POPEYE3 .B�B : 0 002 ko
+[14] : POPEYE3 .B�C : 0 003 ko
+[15] : POPEYE3 .B�D : 0 006 ko
+[16] : POPEYE3 .B�E : 0 002 ko
+[17] : POPEYE3 .B�F : 0 003 ko
+[18] : POPEYE3 .B�G : 0 006 ko
+[19] : POPEYE3 .B�H : 0 002 ko
+[20] : POPEYE3 .B�I : 0 003 ko
+[21] : POPEYE3 .B�J : 0 006 ko
+[22] : POPEYE3 .B�K : 0 002 ko
+[23] : POPEYE3 .B�L : 0 003 ko
+[24] : POPEYE3 .B�M : 0 006 ko
+[25] : POPEYE3 .B�N : 0 002 ko
+[26] : POPEYE3 .B�O : 0 003 ko
+[27] : POPEYE3 .B�P : 0 008 ko
+[28] : POPEYIMA.P�W : 0 006 ko
+[29] : GARFIMA .P�W : 0 008 ko
+Dsk 187 Ko used

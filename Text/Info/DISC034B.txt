@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 747     .B�N : 0 001 ko
+[01] : COMBAT  .B�N : 0 037 ko
+[04] : COMBAT1 .R�M : 0 017 ko
+[06] : COMBAT2 .R�M : 0 013 ko
+[07] : COMBAT3 .R�M : 0 016 ko
+[08] : COMBAT4 .R�M : 0 010 ko
+[09] : CYRUS   .C�M : 0 002 ko
+[10] : CYRUS1  .B�N : 0 005 ko
+[11] : CYRUS2  .BAS : 0 001 ko
+[12] : CYRUS2  .B�N : 0 024 ko
+[14] : DISCA   .BAS : 0 002 ko
+[15] : FORMAT  .BAS : 0 003 ko
+[16] : FP737   .BAS : 0 019 ko
+[17] : SERIE   .BAS : 0 019 ko
+[19] : MEMO1   .M�  : 0 001 ko
+[20] : MEMO2   .M�  : 0 007 ko
+[21] : MEMOTRON.BAS : 0 001 ko
+[22] : SCHOOL  .I�L : 0 007 ko
+[24] : SCHOOL  .BAS : 0 001 ko
+Dsk 186 Ko used

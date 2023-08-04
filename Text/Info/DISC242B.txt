@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BUILDER .BAS : 0 003 ko
+[01] : BUILDER .B�N : 0 024 ko
+[03] : BUILDER1.B�N : 0 007 ko
+[04] : BUILDER2.B�N : 0 007 ko
+[05] : BUILDER3.B�N : 0 007 ko
+[06] : BUILDER4.B�N : 0 007 ko
+[07] : BUILDER5.B�N : 0 007 ko
+[08] : BUILDER6.B�N : 0 007 ko
+[09] : AUTOCRAS.BAS : 0 001 ko
+[10] : AUTOCRAS.B�1 : 0 037 ko
+[13] : AUTOCRAS.B�2 : 0 017 ko
+[15] : GORBAF  .BAS : 0 001 ko
+[16] : GORBAF1 .B�N : 0 040 ko
+[19] : GORBAF2 .B�N : 0 005 ko
+[20] : BUILDIMA.P�W : 0 007 ko
+[21] : AUTOCSCR.P�W : 0 004 ko
+[22] : GORBASCR.P�W : 0 006 ko
+Dsk 187 Ko used

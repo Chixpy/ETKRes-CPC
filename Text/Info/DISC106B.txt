@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LOGISTIC.BIN : 0 020 ko
+[02] : GHOST   .BAS : 0 006 ko
+[03] : SCRAPPY .BAS : 0 001 ko
+[04] : SCRAPPY .B�N : 0 040 ko
+[07] : SP0     .B�N : 0 005 ko
+[08] : SP1     .B�N : 0 007 ko
+[09] : SP2     .B�N : 0 008 ko
+[10] : SP3     .B�N : 0 009 ko
+[11] : SP4     .B�N : 0 009 ko
+[12] : SP5     .B�N : 0 008 ko
+[13] : SP6     .B�N : 0 009 ko
+[14] : SP7     .B�N : 0 006 ko
+[15] : SP8     .B�N : 0 009 ko
+[16] : SPHERE  .B�N : 0 036 ko
+[19] : SPHERICA.BAS : 0 002 ko
+[20] : LDC     .BAS : 0 001 ko
+[21] : SCRAPIMA.P�W : 0 005 ko
+[22] : SPHERIMA.P�W : 0 006 ko
+Dsk 187 Ko used

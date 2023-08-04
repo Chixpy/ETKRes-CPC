@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BBROTHER.BAS : 0 001 ko
+[01] : BBROTHER.B�N : 0 016 ko
+[02] : BBROTHER.M�S : 0 004 ko
+[03] : BLUESBRO.N�1 : 0 010 ko
+[04] : BLUESBRO.N�2 : 0 011 ko
+[05] : BLUESBRO.N�3 : 0 011 ko
+[06] : BLUESBRO.N�4 : 0 012 ko
+[07] : BLUESBRO.N�5 : 0 013 ko
+[08] : BLUESBRO.N�6 : 0 007 ko
+[09] : BIGFOOT .BAS : 0 001 ko
+[10] : BIGFOOT .B�N : 0 039 ko
+[13] : PANICDIZ.BAS : 0 001 ko
+[14] : PANIC   .B�1 : 0 040 ko
+[17] : PANIC   .B�2 : 0 003 ko
+[18] : BBROTSCR.P�W : 0 005 ko
+[19] : BIGFOSCR.P�W : 0 007 ko
+[20] : PANICSCR.P�W : 0 006 ko
+Dsk 187 Ko used

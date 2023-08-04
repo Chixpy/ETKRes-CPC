@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AHHH    .BAS : 0 001 ko
+[01] : AHHH    .B�N : 0 016 ko
+[02] : AHHHSCR .P�W : 0 004 ko
+[03] : BARREEF .BAS : 0 001 ko
+[04] : BARREEF .B�N : 0 027 ko
+[06] : BARRESCR.P�W : 0 005 ko
+[07] : BONANSCR.P�W : 0 005 ko
+[08] : BONANZA .BAS : 0 001 ko
+[09] : BONANZA .B�N : 0 015 ko
+[10] : BONANZA .N�0 : 0 005 ko
+[11] : BONANZA .N�1 : 0 005 ko
+[12] : BONANZA .N�2 : 0 006 ko
+[13] : BONANZA .N�3 : 0 006 ko
+[14] : BONANZA .N�4 : 0 006 ko
+[15] : BONANZA .N�5 : 0 007 ko
+[16] : BONANZA .N�6 : 0 006 ko
+[17] : BONANZA .N�7 : 0 006 ko
+[18] : BONANZA .N�8 : 0 006 ko
+[19] : BONANZA .N�9 : 0 006 ko
+[20] : BONANZA .N�0 : 0 009 ko
+[21] : TROUBLE .BAS : 0 001 ko
+[22] : TROUBLE .B�N : 0 038 ko
+[25] : TROUBLE .I�L : 0 005 ko
+Dsk 187 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HEAD    .BAS : 0 001 ko
+[01] : HEAD    .B�1 : 0 040 ko
+[04] : HEAD    .B�2 : 0 004 ko
+[05] : ZARXAS  .BAS : 0 005 ko
+[06] : 000     .B�N : 0 020 ko
+[08] : 001     .B�N : 0 020 ko
+[10] : FREDDY2 .BAS : 0 001 ko
+[11] : GUARDIAN.B�1 : 0 038 ko
+[14] : FROST   .BAS : 0 001 ko
+[15] : FROST2  .B�N : 0 028 ko
+[17] : FREDDY2 .I�L : 0 008 ko
+[18] : FREDDY3 .I�L : 0 008 ko
+[19] : FROSTIMA.P�W : 0 006 ko
+[20] : HEADIMA .P�W : 0 007 ko
+Dsk 187 Ko used

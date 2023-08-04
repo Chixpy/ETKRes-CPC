@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : APPMAN  .BAS : 0 001 ko
+[01] : BIONIC  .BAS : 0 001 ko
+[02] : BIONIC1 .B�N : 0 035 ko
+[05] : BIONIMA .P�W : 0 006 ko
+[06] : DATA    .B�N : 0 003 ko
+[07] : LM      .B�N : 0 008 ko
+[08] : RAM4    .B�N : 0 015 ko
+[09] : RAM5    .B�N : 0 014 ko
+[10] : RAM6    .B�N : 0 015 ko
+[11] : RAM7    .B�N : 0 010 ko
+[12] : STUNT   .BAS : 0 001 ko
+[13] : STUNT0  .B�N : 0 029 ko
+[15] : STUNT1  .B�N : 0 021 ko
+[17] : STUNT2  .B�N : 0 021 ko
+[19] : STUNTIMA.P�W : 0 007 ko
+Dsk 187 Ko used

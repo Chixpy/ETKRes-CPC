@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BACHOU  .BIN : 0 010 ko
+[01] : BARMELO .BAS : 0 012 ko
+[02] : BARMELO .B�N : 0 002 ko
+[03] : COLISEUM.BAS : 0 001 ko
+[04] : COLISEUM.B�N : 0 023 ko
+[06] : CORONA  .BAS : 0 001 ko
+[07] : CORONA  .B�N : 0 021 ko
+[09] : CORONA  .B�A : 0 012 ko
+[10] : CORONA  .B�B : 0 011 ko
+[11] : CORONA  .B�C : 0 011 ko
+[12] : CORONA  .B�D : 0 011 ko
+[13] : CORONA  .B�E : 0 011 ko
+[14] : CORONA  .B�F : 0 012 ko
+[15] : CORONA  .B�G : 0 003 ko
+[16] : WOOKY   .BAS : 0 001 ko
+[17] : WOOKY   .B�N : 0 023 ko
+[19] : SQUARES .BAS : 0 004 ko
+[20] : SQUARES .B�N : 0 001 ko
+[21] : BARMESCR.P�W : 0 001 ko
+[22] : WOOKYIMA.P�W : 0 005 ko
+[23] : CORONSCR.P�W : 0 004 ko
+[24] : COLISIMA.P�W : 0 007 ko
+Dsk 187 Ko used

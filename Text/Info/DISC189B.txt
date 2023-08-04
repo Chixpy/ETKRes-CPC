@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CIRCUS  .BAS : 0 002 ko
+[01] : CIRCUS1 .B�N : 0 028 ko
+[03] : CIRCUIT1.N�V : 0 011 ko
+[04] : CIRCUIT2.N�V : 0 014 ko
+[05] : CIRCUS2 .B�N : 0 005 ko
+[06] : CIRCUS3 .B�N : 0 005 ko
+[07] : CIRCUS  .W�N : 0 007 ko
+[08] : KONG    .BAS : 0 001 ko
+[09] : KONG1   .B�N : 0 029 ko
+[11] : KONG2   .B�N : 0 015 ko
+[12] : KONG3   .B�N : 0 034 ko
+[15] : KONG4   .B�N : 0 015 ko
+[16] : CHASSE  .BAS : 0 008 ko
+[17] : CIRCUIMA.P�W : 0 005 ko
+[18] : TRON1   .BAS : 0 008 ko
+Dsk 187 Ko used

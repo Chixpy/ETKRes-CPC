@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RENEGAD3.BAS : 0 001 ko
+[01] : RENEGADE.I�I : 0 027 ko
+[03] : RENEGADE.B�4 : 0 013 ko
+[04] : RENEGADE.B�5 : 0 013 ko
+[05] : RENEGADE.B�6 : 0 013 ko
+[06] : RENEGADE.B�7 : 0 013 ko
+[07] : SPEL    .BAS : 0 001 ko
+[08] : PIPE    .BAS : 0 001 ko
+[09] : PIPE    .B�N : 0 035 ko
+[12] : DRSCRIME.BAS : 0 002 ko
+[13] : DSSS1   .B�N : 0 037 ko
+[16] : DSSS2   .B�N : 0 005 ko
+[17] : VIRUS   .BAS : 0 008 ko
+[18] : VIRUSBIN.B�N : 0 004 ko
+[19] : PIPEIMA .P�W : 0 007 ko
+[20] : RENEGSCR.P�W : 0 007 ko
+Dsk 187 Ko used

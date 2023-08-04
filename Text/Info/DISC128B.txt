@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BATMAN  .BAS : 0 001 ko
+[01] : LMC     .BAS : 0 012 ko
+[02] : BATMAN1 .B�N : 0 041 ko
+[05] : BATMAIMA.P�W : 0 007 ko
+[06] : CALEND  .BAS : 0 006 ko
+[07] : SKY0    .B�N : 0 003 ko
+[08] : BATMAN2 .B�N : 0 041 ko
+[11] : BATMAN4 .B�N : 0 004 ko
+[12] : BATMAN3 .B�N : 0 003 ko
+[13] : SKY1    .B�N : 0 006 ko
+[14] : SKY2    .B�N : 0 005 ko
+[15] : SKY3    .B�N : 0 034 ko
+[18] : SKYHUNT .BAS : 0 004 ko
+[19] : DECOR   .C�C : 0 002 ko
+[20] : CHENILE2.BAS : 0 003 ko
+[21] : MIDNIGHT.BAS : 0 012 ko
+[22] : MEMORY  .BAS : 0 003 ko
+Dsk 187 Ko used

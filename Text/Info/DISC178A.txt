@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GAUN3   .BAS : 0 001 ko
+[01] : GAUN3   .B�N : 0 004 ko
+[02] : GAUN3   .N�1 : 0 022 ko
+[04] : GAUN3   .N�2 : 0 017 ko
+[06] : GAUN3   .N�3 : 0 020 ko
+[08] : GAUN3   .N�4 : 0 019 ko
+[10] : PRIZ    .BAS : 0 009 ko
+[11] : CHARLIE .BAS : 0 001 ko
+[12] : CHARLIE .B�N : 0 038 ko
+[15] : CHARLIE .C�M : 0 003 ko
+[16] : KMARE   .BAS : 0 001 ko
+[17] : KMARE   .B�N : 0 037 ko
+[20] : KMARE   .C�M : 0 004 ko
+[21] : GAUN3   .I�L : 0 011 ko
+Dsk 187 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AFFICHE .BAS : 0 003 ko
+[01] : BRUCE   .BAS : 0 001 ko
+[02] : BRUCE   .B�N : 0 025 ko
+[04] : CURRO   .BAS : 0 001 ko
+[05] : CURRO   .B�1 : 0 036 ko
+[08] : CURRO   .B�2 : 0 006 ko
+[09] : SEVILLA .BAS : 0 001 ko
+[10] : SEVILLA2.B�N : 0 035 ko
+[13] : SEVILLA3.B�N : 0 013 ko
+[14] : SEVILLA4.B�N : 0 035 ko
+[17] : SEVILLA5.B�N : 0 013 ko
+[18] : BRUCEIMA.P�W : 0 004 ko
+[19] : SEVILSCR.P�W : 0 005 ko
+[20] : CURROIMA.P�W : 0 009 ko
+Dsk 187 Ko used

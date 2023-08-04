@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROCK1   .B�N : 0 015 ko
+[01] : ROCK2   .B�N : 0 012 ko
+[02] : ROCK3   .B�N : 0 012 ko
+[03] : ROCK4   .B�N : 0 012 ko
+[04] : ROCK5   .B�N : 0 012 ko
+[05] : ROCK6   .B�N : 0 012 ko
+[06] : ASCII   .BAS : 0 001 ko
+[07] : TRUENO3 .B�N : 0 037 ko
+[08] : TRUENO  .BAS : 0 001 ko
+[09] : TRUENO1 .B�N : 0 037 ko
+[12] : TRUENO2 .B�N : 0 010 ko
+[13] : TRUENO4 .B�N : 0 008 ko
+[14] : ROCKFORD.BAS : 0 001 ko
+[15] : OEUFBIN .B�N : 0 003 ko
+[16] : 3OEUFS  .BAS : 0 008 ko
+[19] : TRUENIMA.P�W : 0 006 ko
+Dsk 187 Ko used

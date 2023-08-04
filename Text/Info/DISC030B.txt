@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MUSIC   .BAS : 0 010 ko
+[01] : EJGRAF2 .BAS : 0 014 ko
+[02] : CC2     .BAS : 0 001 ko
+[03] : MOTSCROI.BAS : 0 006 ko
+[06] : CRAZY2  .B�N : 0 036 ko
+[09] : RICK1   .BAS : 0 001 ko
+[10] : RICK1   .B�N : 0 042 ko
+[13] : SUPERALI.BAS : 0 010 ko
+[14] : SUPERCOM.B�N : 0 006 ko
+[16] : SHARK   .BAS : 0 001 ko
+[17] : SHARK   .B�N : 0 037 ko
+[22] : SHARKIMA.P�W : 0 011 ko
+[23] : CASSE   .BAS : 0 001 ko
+[24] : CASSE   .B�N : 0 005 ko
+[25] : CC2IMA  .P�W : 0 006 ko
+Dsk 187 Ko used

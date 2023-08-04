@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROCKRAID.B�N : 0 033 ko
+[03] : ROCKRAID.BAS : 0 001 ko
+[04] : MGT     .0�1 : 0 041 ko
+[07] : QUEREP  .BAS : 0 003 ko
+[08] : MAGNESCR.P�W : 0 004 ko
+[09] : CRESTA  .BAS : 0 001 ko
+[10] : CRESTA  .B�N : 0 032 ko
+[12] : MINITEN .BAS : 0 001 ko
+[13] : CRESTSCR.P�W : 0 005 ko
+[14] : STORM1  .BAS : 0 001 ko
+[15] : GAME    .B�N : 0 014 ko
+[16] : STORM1  .B�N : 0 028 ko
+[18] : ELEVATOR.BAS : 0 001 ko
+[19] : ELEVATOR.B�N : 0 019 ko
+[21] : MGT     .BAS : 0 001 ko
+[22] : ACTIOSCR.P�W : 0 002 ko
+Dsk 187 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ITALY   .B�1 : 0 034 ko
+[03] : ITALY   .B�2 : 0 025 ko
+[05] : CRYPTO  .BAS : 0 003 ko
+[06] : THING   .BAS : 0 001 ko
+[07] : THING   .B�N : 0 041 ko
+[10] : THING   .C�M : 0 004 ko
+[11] : ITALY51 .B�N : 0 014 ko
+[12] : ITALY52 .B�N : 0 013 ko
+[13] : ITALY6  .B�N : 0 010 ko
+[14] : ITALY7  .B�N : 0 005 ko
+[15] : ITALY8  .B�N : 0 002 ko
+[16] : ITALY9  .B�N : 0 002 ko
+[17] : ITALY90 .BAS : 0 001 ko
+[18] : ITALYSCR.P�W : 0 004 ko
+[19] : ATLANTID.BAS : 0 008 ko
+[20] : BINAIREP.B�N : 0 020 ko
+Dsk 187 Ko used

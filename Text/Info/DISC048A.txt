@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : WISH0   .B�N : 0 002 ko
+[01] : WISH2   .B�N : 0 016 ko
+[02] : WISHIMA .P�W : 0 008 ko
+[03] : WISH3   .BAS : 0 001 ko
+[04] : WISH1   .B�N : 0 033 ko
+[07] : DECORSCR.P�W : 0 013 ko
+[08] : FIST+   .BAS : 0 001 ko
+[09] : FIST1   .B�N : 0 032 ko
+[11] : FIST+IMA.P�W : 0 006 ko
+[12] : TONJUSTE.K7  : 0 001 ko
+[13] : CIRCUIT .BAS : 0 001 ko
+[14] : CIRCUIMA.P�W : 0 007 ko
+[15] : CIRCUIT .B�0 : 0 010 ko
+[16] : CIRCUIT1.B�1 : 0 029 ko
+[18] : CIRCUIT2.B�1 : 0 027 ko
+Dsk 187 Ko used

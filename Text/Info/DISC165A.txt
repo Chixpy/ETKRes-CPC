@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GOLDAXE .BAS : 0 001 ko
+[01] : GOLDAXE .I�L : 0 008 ko
+[02] : GOLDAXE .P�1 : 0 040 ko
+[05] : GOLDAXE .P�2 : 0 007 ko
+[06] : BUBBLE  .BAS : 0 001 ko
+[07] : BUBBLE  .B�N : 0 038 ko
+[10] : ZYKLOIDE.BAS : 0 001 ko
+[11] : EARTH   .BAS : 0 001 ko
+[12] : EARTH   .I�L : 0 009 ko
+[13] : EARTH   .N�1 : 0 038 ko
+[16] : EARTH   .N�2 : 0 003 ko
+[17] : EARTH   .N�3 : 0 005 ko
+[18] : EARTH   .N�4 : 0 006 ko
+[19] : EARTH   .N�5 : 0 006 ko
+[20] : EARTH   .N�6 : 0 006 ko
+[21] : BIORYTHM.BAS : 0 003 ko
+[22] : NIBBLER .BAS : 0 009 ko
+[23] : BUBBLSCR.P�W : 0 005 ko
+Dsk 187 Ko used

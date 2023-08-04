@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CARACTER.BAS : 0 009 ko
+[01] : COD     .0�1 : 0 001 ko
+[02] : COD     .0�2 : 0 003 ko
+[03] : COD     .0�3 : 0 009 ko
+[04] : COD     .0�4 : 0 011 ko
+[05] : COD     .0�5 : 0 002 ko
+[06] : COD     .0�6 : 0 006 ko
+[07] : COD     .0�7 : 0 002 ko
+[08] : CODEIMA .P�W : 0 003 ko
+[09] : CODEROUT.BAS : 0 002 ko
+[10] : CRAY-5  .BAS : 0 001 ko
+[11] : CRAY0   .B�N : 0 004 ko
+[12] : CRAY1SCR.P�W : 0 006 ko
+[13] : CRAY2   .B�N : 0 019 ko
+[15] : CRAY3   .B�N : 0 006 ko
+[16] : DEADEVIL.BIN : 0 018 ko
+[18] : DEFCOM  .BAS : 0 001 ko
+[19] : DEFCOM1 .B�N : 0 038 ko
+[22] : DEFCOM2 .B�N : 0 007 ko
+[23] : FIVE    .BAS : 0 001 ko
+[24] : FIVE    .B�N : 0 015 ko
+[25] : FIVESCR .P�W : 0 006 ko
+[26] : PROG    .B�S : 0 012 ko
+[27] : TITRE   .B�N : 0 001 ko
+[28] : DEFSCR  .P�W : 0 004 ko
+Dsk 187 Ko used

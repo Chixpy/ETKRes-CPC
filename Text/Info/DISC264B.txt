@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : B-MORANE.BAS : 0 001 ko
+[01] : B-MORANE.B�1 : 0 011 ko
+[02] : B-MORANE.B�2 : 0 010 ko
+[03] : B-MORANE.L�1 : 0 009 ko
+[04] : B-MORANE.L�2 : 0 009 ko
+[05] : B-MORANE.L�3 : 0 009 ko
+[06] : B-MORANE.L�4 : 0 009 ko
+[07] : DANGER  .BAS : 0 001 ko
+[08] : DANGER1 .B�N : 0 034 ko
+[11] : DANGER2 .B�N : 0 007 ko
+[12] : ELIMIN1 .B�N : 0 039 ko
+[15] : ELIMIN2 .B�N : 0 008 ko
+[16] : ELIMINAT.BAS : 0 001 ko
+[17] : STARWAR .BAS : 0 009 ko
+[18] : STARWAR .B�N : 0 017 ko
+[20] : MORANSCR.P�W : 0 007 ko
+[21] : ELIMIIMA.P�W : 0 006 ko
+Dsk 187 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CROCO   .B�N : 0 002 ko
+[01] : FLIPPARD.BAS : 0 001 ko
+[02] : FLIPPARD.B�N : 0 017 ko
+[04] : GHOULS  .BAS : 0 001 ko
+[05] : GHOULS  .B�N : 0 022 ko
+[07] : GHOULS4 .R�M : 0 011 ko
+[08] : GHOULS5 .R�M : 0 006 ko
+[09] : GHOULS6 .R�M : 0 008 ko
+[10] : GHOULS7 .R�M : 0 009 ko
+[11] : HEROBOTI.BAS : 0 001 ko
+[12] : HEROBOTI.B�1 : 0 026 ko
+[14] : HEROBOTI.B�2 : 0 008 ko
+[15] : MENU    .BAS : 0 001 ko
+[16] : SCRAMBLE.BAS : 0 001 ko
+[17] : SCRAMBLE.B�N : 0 037 ko
+[20] : SCRAMBLE.R�M : 0 010 ko
+[21] : WEETABIX.BIN : 0 007 ko
+[22] : GHOULIMA.P�W : 0 005 ko
+[23] : SCRAMBLE.C�M : 0 004 ko
+[24] : SUPER2  .C�M : 0 005 ko
+[25] : SUPER3  .C�M : 0 005 ko
+Dsk 187 Ko used

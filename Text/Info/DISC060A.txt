@@ -1,0 +1,30 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : 5EMEAXE .BIN : 0 002 ko
+[02] : AXE     . �  : 0 037 ko
+[05] : AXE     .T�T : 0 020 ko
+[07] : ACAD1   .B�N : 0 002 ko
+[08] : ACAD2   .B�N : 0 037 ko
+[11] : ACADEMY .BAS : 0 001 ko
+[12] : ACADESCR.P�W : 0 004 ko
+[13] : ACADGAME. �  : 0 003 ko
+[14] : ACADLVL1. �  : 0 003 ko
+[15] : ACADLVL2. �  : 0 003 ko
+[16] : ACADLVL3. �  : 0 003 ko
+[17] : ACADLVL4. �  : 0 003 ko
+[18] : ACADLVL5. �  : 0 003 ko
+[19] : ACADSHIP. �  : 0 001 ko
+[20] : ACADSHIP.B�K : 0 001 ko
+[21] : CAR     .BAS : 0 001 ko
+[22] : CAR     .B�N : 0 007 ko
+[23] : GENEALOG.BAS : 0 006 ko
+[24] : MINGBIN .B�N : 0 003 ko
+[25] : WINDRAD .BAS : 0 008 ko
+[26] : WINDRAD .B�N : 0 002 ko
+[27] : PERESTRO.BAS : 0 005 ko
+[28] : EDITEUR .BAS : 0 005 ko
+[29] : PERES   .I�L : 0 003 ko
+[30] : MINGS   .BAS : 0 009 ko
+[31] : PROGRAMS.BAS : 0 006 ko
+[32] : FORMES  .B�N : 0 008 ko
+Dsk 186 Ko used

@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BGRD1   .S�R : 0 002 ko
+[01] : BGRD2   .S�R : 0 002 ko
+[02] : BGRD3   .S�R : 0 002 ko
+[03] : BGRD4   .S�R : 0 002 ko
+[04] : BIB-BIB .BAS : 0 001 ko
+[05] : CAMPEONE.BAS : 0 001 ko
+[06] : BIB-BIMA.P�W : 0 004 ko
+[07] : LVL1    .B�K : 0 012 ko
+[08] : LVL1    .M�P : 0 001 ko
+[09] : LVL2    .B�K : 0 013 ko
+[10] : LVL2    .M�P : 0 001 ko
+[11] : LVL3    .B�K : 0 008 ko
+[12] : LVL3    .M�P : 0 002 ko
+[13] : LVL4    .B�K : 0 008 ko
+[14] : LVL4    .M�P : 0 001 ko
+[15] : RR      .B�N : 0 016 ko
+[16] : SMAP1   .M�P : 0 001 ko
+[17] : SMAP2   .M�P : 0 001 ko
+[18] : SMAP3   .M�P : 0 001 ko
+[19] : SMAP4   .M�P : 0 001 ko
+[20] : SKILLER .BAS : 0 001 ko
+[21] : SKILLER .B�N : 0 007 ko
+[22] : CAMPEONE.B�N : 0 035 ko
+[25] : POWERMAG.BAS : 0 001 ko
+[26] : POWERMAG.1�  : 0 037 ko
+[29] : POWERMAG.2�  : 0 008 ko
+[30] : CAMPEIMA.P�W : 0 007 ko
+[31] : POWERIMA.P�W : 0 009 ko
+[32] : BORDESCR.P�W : 0 002 ko
+Dsk 187 Ko used

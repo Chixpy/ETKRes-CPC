@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CARRE   .BAS : 0 003 ko
+[01] : COPYLOCK.BIN : 0 010 ko
+[02] : FLIGHT  .BAS : 0 001 ko
+[03] : FROGGY  .BAS : 0 001 ko
+[04] : FROGGY  .B�N : 0 017 ko
+[06] : FRUITY  .BAS : 0 002 ko
+[07] : FRUITYF .B�N : 0 035 ko
+[10] : FSIMULAT.B�1 : 0 008 ko
+[11] : FSIMULAT.B�2 : 0 009 ko
+[12] : FSIMULAT.N�T : 0 003 ko
+[13] : HOLDIMA .P�W : 0 005 ko
+[14] : HOLDUP  .BAS : 0 001 ko
+[15] : HOLDUP  .B�N : 0 035 ko
+[18] : RAPIDO  .BAS : 0 003 ko
+[19] : ROCKY   .BAS : 0 001 ko
+[20] : ROCKY1  .B�N : 0 017 ko
+[22] : ROCKY2  .B�N : 0 030 ko
+[24] : TRON90  .BIN : 0 006 ko
+Dsk 187 Ko used

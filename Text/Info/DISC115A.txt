@@ -1,0 +1,46 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LEMMING2.P�W : 0 006 ko
+[01] : LEMMINGS.N�0 : 0 032 ko
+[03] : LEMMINGS.N�1 : 0 005 ko
+[04] : LEMMINGS.N�2 : 0 003 ko
+[05] : LEMMINGS.N�3 : 0 002 ko
+[06] : LEMMINGS.N�4 : 0 004 ko
+[07] : LEMMINGS.N�5 : 0 006 ko
+[08] : LEMMINGS.N�6 : 0 003 ko
+[09] : LEMMINGS.N�7 : 0 003 ko
+[10] : LEMMINGS.N�8 : 0 003 ko
+[11] : LEMMINGS.N�9 : 0 004 ko
+[12] : LEMMINGS.N�0 : 0 005 ko
+[13] : LEMMINGS.N�1 : 0 004 ko
+[14] : LEMMINGS.N�2 : 0 003 ko
+[15] : LEMMINGS.N�3 : 0 005 ko
+[16] : LEMMINGS.N�4 : 0 005 ko
+[17] : LEMMINGS.N�5 : 0 003 ko
+[18] : LEMMINGS.N�6 : 0 004 ko
+[19] : LEMMINGS.N�7 : 0 003 ko
+[20] : LEMMINGS.N�8 : 0 005 ko
+[21] : LEMMINGS.N�9 : 0 005 ko
+[22] : LEMMINGS.N�0 : 0 005 ko
+[23] : LEMMINGS.N�1 : 0 003 ko
+[24] : LEMMINGS.N�2 : 0 005 ko
+[25] : LEMMINGS.N�3 : 0 004 ko
+[26] : LEMMINGS.N�4 : 0 005 ko
+[27] : LEMMINGS.N�5 : 0 004 ko
+[28] : LEMMINGS.N�6 : 0 003 ko
+[29] : LEMMINGS.N�7 : 0 003 ko
+[30] : LEMMINGS.N�8 : 0 006 ko
+[31] : LEMMINGS.N�9 : 0 002 ko
+[32] : LEMMINGS.N�0 : 0 003 ko
+[33] : LEMMINGS.N�1 : 0 004 ko
+[34] : LEMMINGS.N�2 : 0 004 ko
+[35] : LEMMINGS.N�3 : 0 003 ko
+[36] : LEMMINGS.N�4 : 0 001 ko
+[37] : LEMMINGS.N�5 : 0 003 ko
+[38] : LEMMINGS.N�6 : 0 003 ko
+[39] : LEMMINGS.N�7 : 0 004 ko
+[40] : LEMMINGS.BAS : 0 001 ko
+[41] : LEMMING1.P�W : 0 005 ko
+[42] : LEMMINGS.B�N : 0 001 ko
+[43] : LEMMINGS.N�8 : 0 002 ko
+Dsk 187 Ko used

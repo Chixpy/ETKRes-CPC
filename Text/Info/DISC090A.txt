@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BURNER  .BAS : 0 001 ko
+[01] : BURNER  .B�N : 0 040 ko
+[04] : BURNER  .B�1 : 0 006 ko
+[05] : B       .B�1 : 0 007 ko
+[06] : B       .B�2 : 0 009 ko
+[07] : B       .B�3 : 0 004 ko
+[08] : B       .B�4 : 0 007 ko
+[09] : B       .B�5 : 0 005 ko
+[10] : B       .B�6 : 0 005 ko
+[11] : B       .B�7 : 0 007 ko
+[12] : B       .B�8 : 0 005 ko
+[13] : B       .B�9 : 0 008 ko
+[14] : B       .B�A : 0 008 ko
+[15] : SPLASH  .    : 0 003 ko
+[16] : BEBETTE .BAS : 0 008 ko
+[17] : SPLASH  .B�S : 0 011 ko
+[18] : SPLASH  .B�1 : 0 012 ko
+[19] : STAR    .BAS : 0 003 ko
+[20] : DATACODE.B�N : 0 005 ko
+[21] : SINGOLO .BAS : 0 004 ko
+[22] : THANOI  .BAS : 0 002 ko
+[24] : SPLASH  .B�N : 0 008 ko
+[25] : SPLASH  .L�L : 0 001 ko
+[26] : SPLASH  .SCO : 0 001 ko
+[28] : SPLASH  .S�N : 0 004 ko
+[29] : BURNEIMA.P�W : 0 009 ko
+Dsk 183 Ko used

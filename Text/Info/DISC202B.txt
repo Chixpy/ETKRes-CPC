@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LANC1-2 .B�N : 0 001 ko
+[01] : MAGE1   .B�N : 0 011 ko
+[02] : MAGE2   .B�N : 0 010 ko
+[03] : MAGE3   .B�N : 0 011 ko
+[04] : MAGE5   .B�N : 0 009 ko
+[05] : MAGE6   .B�N : 0 010 ko
+[06] : MAGE7   .B�N : 0 009 ko
+[07] : MAGE8   .B�N : 0 010 ko
+[09] : ORGDISK .B�N : 0 001 ko
+[10] : ORGDISK1.B�N : 0 001 ko
+[11] : SAGA    .SOL : 0 004 ko
+[12] : SAV-FA  .    : 0 002 ko
+[13] : SCEN    .0�0 : 0 033 ko
+[16] : SCEN    .0�1 : 0 034 ko
+[19] : SCEN    .0�2 : 0 025 ko
+[21] : SCEN    .E�D : 0 006 ko
+[22] : SCREEN1 .B�N : 0 001 ko
+[23] : PIEUX   .BAS : 0 005 ko
+Dsk 183 Ko used

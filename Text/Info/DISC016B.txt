@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACTIVATR.BAS : 0 001 ko
+[01] : ACTIVATR.B�N : 0 039 ko
+[04] : ACTIVSCR.P�W : 0 002 ko
+[05] : DICO    .BAS : 0 001 ko
+[06] : OIE     .BAS : 0 005 ko
+[07] : PACLAIMA.P�W : 0 007 ko
+[08] : PACLAND .BAS : 0 001 ko
+[09] : PACLAND .B�N : 0 039 ko
+[12] : SAI     .BIN : 0 001 ko
+[13] : SAI1    .B�N : 0 005 ko
+[14] : SAI2    .B�N : 0 037 ko
+[17] : SAI3    .B�N : 0 005 ko
+[18] : SDI     .BAS : 0 001 ko
+[19] : SDI     .B�N : 0 035 ko
+[22] : SDIIMA  .P�W : 0 008 ko
+Dsk 187 Ko used

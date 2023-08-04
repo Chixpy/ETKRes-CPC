@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARCHON  .BAS : 0 001 ko
+[01] : ARCHON  .I�A : 0 007 ko
+[02] : ARCHON1 .B�N : 0 036 ko
+[05] : ARCHON2 .B�N : 0 031 ko
+[07] : ATON    .BAS : 0 003 ko
+[08] : ATON    .B�N : 0 004 ko
+[09] : BINKING .BAS : 0 001 ko
+[10] : BINKING .B�N : 0 012 ko
+[11] : ERBERT  .BAS : 0 002 ko
+[12] : ERBPROG .B�N : 0 009 ko
+[13] : TRANTOR .BAS : 0 001 ko
+[14] : TRANTOR .L�D : 0 001 ko
+[15] : TRANTOR2.B�N : 0 014 ko
+[16] : TRANTOR3.B�N : 0 005 ko
+[17] : TRANTOR4.B�N : 0 004 ko
+[18] : TRANTOR5.B�N : 0 003 ko
+[19] : TRANTOR6.B�N : 0 003 ko
+[20] : TRANTOR7.B�N : 0 039 ko
+[23] : TRANTSCR.P�W : 0 010 ko
+Dsk 186 Ko used

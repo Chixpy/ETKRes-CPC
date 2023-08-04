@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GOLDAXE .P�3 : 0 020 ko
+[02] : GOLDAXE .PR4 : 0 006 ko
+[03] : GOLDAXE .L�A : 0 018 ko
+[05] : GOLDAXE .L�C : 0 018 ko
+[07] : GOLDAXE .L�E : 0 018 ko
+[09] : GOLDAXE .L�G : 0 016 ko
+[10] : GOLDAXE .L�I : 0 018 ko
+[12] : GOLDAXE .L�K : 0 008 ko
+[13] : GOLDAXE .L�N : 0 036 ko
+[16] : INVADERS.BAS : 0 005 ko
+[17] : FRANK   .BAS : 0 001 ko
+[18] : FRANK   .B�1 : 0 018 ko
+[20] : FRANKSCN.I�L : 0 005 ko
+Dsk 187 Ko used

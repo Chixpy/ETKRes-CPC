@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DUNDARAC.BAS : 0 001 ko
+[01] : DUNDARAC.B�N : 0 039 ko
+[04] : GHOULS  .BAS : 0 001 ko
+[05] : GHOULS  .B�N : 0 019 ko
+[07] : GREYFELL.BAS : 0 001 ko
+[08] : GREYFELL.B�N : 0 041 ko
+[11] : WALLY   .BAS : 0 001 ko
+[12] : WALLY1  .B�N : 0 037 ko
+[15] : WALLY2  .B�N : 0 004 ko
+[16] : WRIGGLER.BAS : 0 001 ko
+[17] : WRIGGLER.B�N : 0 023 ko
+[19] : GHOULS  .C�C : 0 003 ko
+[20] : GREYFSCR.P�W : 0 003 ko
+[21] : DUNDASCR.P�W : 0 004 ko
+[22] : WALLYIMA.B�N : 0 004 ko
+[23] : WRIGGSCR.P�W : 0 005 ko
+Dsk 187 Ko used

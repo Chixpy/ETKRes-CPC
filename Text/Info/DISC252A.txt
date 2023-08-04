@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GUZZLER .BAS : 0 001 ko
+[01] : GUZZLER .B�N : 0 021 ko
+[03] : HAWK1   .B�N : 0 035 ko
+[06] : HAWK2   .B�N : 0 011 ko
+[07] : HAWKSTOR.BAS : 0 001 ko
+[08] : MOVIE   .BAS : 0 001 ko
+[09] : MOVIE   .B�1 : 0 032 ko
+[11] : MOVIE   .B�2 : 0 017 ko
+[13] : SPIKY   .BAS : 0 001 ko
+[14] : SPIKY   .B�N : 0 021 ko
+[16] : MICROBAL.BIN : 0 009 ko
+[17] : MONTYMUT.BIN : 0 016 ko
+[18] : GUZZLSCR.P�W : 0 003 ko
+[19] : HAWKSCR .P�W : 0 004 ko
+[20] : MOVIESCR.P�W : 0 006 ko
+[21] : SPIKYIMA.P�W : 0 008 ko
+Dsk 187 Ko used

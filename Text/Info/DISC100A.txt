@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GUNFRIGH.BAS : 0 001 ko
+[01] : GUNFRIGH.B�N : 0 038 ko
+[04] : ABSCISSE.BAS : 0 001 ko
+[05] : ASTRONOM.BAS : 0 012 ko
+[06] : MULTIGES.BAS : 0 012 ko
+[07] : COMPTA  . �  : 0 007 ko
+[08] : STORM2  .BAS : 0 007 ko
+[09] : FROST   .B�N : 0 012 ko
+[10] : SOLAISCR.P�W : 0 002 ko
+[11] : DATA    .B�N : 0 025 ko
+[13] : BOSCO87 .BAS : 0 001 ko
+[14] : BOSCO1  .B�N : 0 035 ko
+[17] : BOSCO2  .B�N : 0 011 ko
+[18] : AMSAISIE.BAS : 0 002 ko
+[19] : CRAZYGOL.BAS : 0 008 ko
+[20] : BOSCOIMA.P�W : 0 005 ko
+[21] : GUNFRIMA.P�W : 0 007 ko
+[22] : LOGO    .B�N : 0 001 ko
+Dsk 187 Ko used

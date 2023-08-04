@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CONFU   .BAS : 0 012 ko
+[01] : FORTUNA .BAS : 0 014 ko
+[02] : HIGHT   .    : 0 001 ko
+[03] : WALL    .BAS : 0 010 ko
+[04] : JUNIOR  .BAS : 0 001 ko
+[05] : REVOLVER.BIN : 0 041 ko
+[06] : CRUNCH2 .BAS : 0 001 ko
+[07] : FRANK1  .B�N : 0 032 ko
+[09] : FRANK2  .B�N : 0 017 ko
+[12] : SITOPONS.BAS : 0 001 ko
+[13] : SITOPONS.B�1 : 0 033 ko
+[16] : SITOPONS.B�2 : 0 015 ko
+[17] : SITOPONS.C�C : 0 004 ko
+[20] : JUNIOR  .B�N : 0 005 ko
+Dsk 187 Ko used

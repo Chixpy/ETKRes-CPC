@@ -1,0 +1,48 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : VINDICAT.BAS : 0 001 ko
+[01] : SILVA4  .B�N : 0 007 ko
+[02] : SILVA@  .B�N : 0 005 ko
+[03] : VINDICAT.B�0 : 0 036 ko
+[04] : SILVA+  .B�N : 0 004 ko
+[05] : SILVA1  .B�N : 0 013 ko
+[06] : SILVA5  .B�N : 0 001 ko
+[07] : SILVA2  .B�N : 0 002 ko
+[08] : SILVA   .S�L : 0 006 ko
+[09] : SILVA$  .B�N : 0 011 ko
+[10] : SILVA   .B�N : 0 004 ko
+[11] : SILVA0  .B�N : 0 004 ko
+[12] : SILVA-  .B�N : 0 003 ko
+[13] : SILVA3  .B�N : 0 003 ko
+[15] : SILVA6  .B�N : 0 003 ko
+[16] : SILVA8  .B�N : 0 004 ko
+[17] : SILVA^  .B�N : 0 002 ko
+[18] : AVSILVA .BIN : 0 002 ko
+[19] : SILVA9  .B�N : 0 003 ko
+[20] : SILVA   .D�C : 0 001 ko
+[21] : SILVA7  .B�N : 0 004 ko
+[23] : SILVA#  .B�N : 0 001 ko
+[24] : VINDICAT.B�1 : 0 003 ko
+[25] : SILVA'  .B�N : 0 007 ko
+[26] : SILVA   .BAS : 0 001 ko
+[27] : VINDICAT.C�C : 0 008 ko
+[28] : VINDLVL .C�  : 0 002 ko
+[29] : VINDLVL .D�  : 0 002 ko
+[30] : VINDLVL .E�  : 0 002 ko
+[31] : VINDLVL .F�  : 0 002 ko
+[32] : VINDLVL .G�  : 0 002 ko
+[33] : VINDLVL .H�  : 0 002 ko
+[34] : VINDLVL .I�  : 0 002 ko
+[35] : VINDLVL .J�  : 0 002 ko
+[36] : VINDLVL .K�  : 0 002 ko
+[37] : VINDLVL .L�  : 0 002 ko
+[38] : VINDLVL .M�  : 0 002 ko
+[39] : VINDLVL .N�  : 0 002 ko
+[40] : VINDLVL .O�  : 0 002 ko
+[41] : BUILDING.BAS : 0 002 ko
+[42] : DEFSPR  .BAS : 0 009 ko
+[43] : GET9800 .B�N : 0 001 ko
+[44] : SPR97DD .B�N : 0 001 ko
+[45] : VINDISCR.P�W : 0 007 ko
+[46] : DIABOLIC.BAS : 0 002 ko
+Dsk 187 Ko used

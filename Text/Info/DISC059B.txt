@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CONTAM  .BAS : 0 001 ko
+[01] : MISSILEA.BAS : 0 007 ko
+[02] : CONTAM  .P�M : 0 028 ko
+[04] : CHEVSCRU.P�W : 0 003 ko
+[05] : GOBPUZ  .BAS : 0 010 ko
+[06] : BIOSPHER.BIN : 0 001 ko
+[07] : BIOSPHE1.B�N : 0 005 ko
+[08] : BIOSPHE2.B�N : 0 035 ko
+[11] : BIOSPHE3.B�N : 0 011 ko
+[12] : BIOSPHE4.B�N : 0 011 ko
+[13] : BIOSPHE5.B�N : 0 011 ko
+[14] : WESTBANK.BAS : 0 001 ko
+[15] : WEST1   .B�N : 0 041 ko
+[18] : CONTAIMA.P�W : 0 005 ko
+[19] : WESTBIMA.P�W : 0 006 ko
+[20] : SUPRAX  .BAS : 0 009 ko
+[21] : SUPRAX  .L�  : 0 002 ko
+Dsk 187 Ko used

@@ -1,0 +1,49 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ECRAN26 .B�N : 0 003 ko
+[01] : ECRAN27 .B�N : 0 003 ko
+[02] : ECRAN28 .B�N : 0 003 ko
+[03] : ECRAN29 .B�N : 0 003 ko
+[04] : ECRAN3  .B�N : 0 003 ko
+[05] : ECRAN31 .B�N : 0 003 ko
+[06] : ECRAN5  .B�N : 0 003 ko
+[07] : SDAW    .BAS : 0 004 ko
+[08] : SDAWIMA .P�W : 0 007 ko
+[09] : PERDU   .B�S : 0 002 ko
+[10] : LEV1    .B�S : 0 021 ko
+[11] : SDAW    .3�  : 0 004 ko
+[12] : SDAW3IMA.P�W : 0 005 ko
+[13] : ECRAN1  .B�N : 0 003 ko
+[14] : ECRAN10 .B�N : 0 003 ko
+[15] : ECRAN12 .B�N : 0 003 ko
+[16] : ECRAN15 .B�N : 0 003 ko
+[17] : ECRAN11 .B�N : 0 003 ko
+[18] : ���Š���.E�� : 0 007 ko
+[19] : ECRAN13 .B�N : 0 003 ko
+[20] : ECRAN16 .B�N : 0 003 ko
+[22] : ECRAN17 .B�N : 0 003 ko
+[24] : ECRAN18 .B�N : 0 003 ko
+[25] : ECRAN19 .B�N : 0 003 ko
+[26] : ECRAN14 .B�N : 0 003 ko
+[27] : SDAW4IMA.P�W : 0 007 ko
+[28] : ���נ���.V�� : 0 001 ko
+[29] : LEV2    .B�S : 0 019 ko
+[30] : SDAW2   .I�A : 0 002 ko
+[31] : ECRAN2  .B�N : 0 003 ko
+[32] : ECRAN23 .B�N : 0 003 ko
+[33] : ECRAN24 .B�N : 0 003 ko
+[34] : ECRAN20 .B�N : 0 003 ko
+[35] : ECRAN21 .B�N : 0 003 ko
+[36] : ECRAN25 .B�N : 0 003 ko
+[37] : ECRAN7  .B�N : 0 003 ko
+[38] : ECRAN22 .B�N : 0 003 ko
+[39] : ECRAN30 .B�N : 0 003 ko
+[40] : ECRAN32 .B�N : 0 003 ko
+[41] : ECRAN33 .B�N : 0 003 ko
+[42] : ECRAN34 .B�N : 0 003 ko
+[43] : ECRAN4  .B�N : 0 003 ko
+[44] : ECRAN6  .B�N : 0 003 ko
+[45] : ECRAN8  .B�N : 0 003 ko
+[46] : ECRAN9  .B�N : 0 003 ko
+[47] : SDAW    .SOL : 0 001 ko
+Dsk 182 Ko used

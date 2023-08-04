@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SHUFFLE .BAS : 0 003 ko
+[01] : CARTES1 .B�S : 0 016 ko
+[02] : CARTES2 .B�S : 0 018 ko
+[04] : CHAL2014.BAS : 0 008 ko
+[05] : DARKWURL.BIN : 0 022 ko
+[07] : RIKROAD .BIN : 0 014 ko
+[08] : SPAGHETI.BAS : 0 001 ko
+[09] : SPAGHETI.B�1 : 0 015 ko
+[10] : SPAGHETI.B�2 : 0 012 ko
+[11] : SPEEDZON.BIN : 0 013 ko
+[12] : THOMAS  .BIN : 0 026 ko
+[14] : TUBARUBA.BAS : 0 001 ko
+[15] : TUBARUBA.B�N : 0 032 ko
+[17] : CHALESCR.P�W : 0 002 ko
+[18] : TUBARSCR.P�W : 0 004 ko
+Dsk 187 Ko used

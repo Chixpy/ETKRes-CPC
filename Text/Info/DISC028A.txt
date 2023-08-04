@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GHOSTBUS.BAS : 0 001 ko
+[01] : GHOSTBUS.B�N : 0 037 ko
+[04] : PLUMPY  .BAS : 0 001 ko
+[05] : IKARI   .BAS : 0 001 ko
+[06] : PLUMPIMA.P�W : 0 004 ko
+[07] : PLUMPY11.��N : 0 009 ko
+[08] : PLUMPY12.��N : 0 002 ko
+[09] : MOLECULA.B�N : 0 014 ko
+[10] : BACCARA .BAS : 0 003 ko
+[11] : WARGAME .BIN : 0 040 ko
+[14] : IKARI   .B�N : 0 036 ko
+[17] : AVM     .BAS : 0 009 ko
+[18] : PLUMPY21.��N : 0 006 ko
+[19] : PLUMPY22.B�N : 0 014 ko
+[20] : LAROUSSE.A�M : 0 001 ko
+[21] : GHOSTBUS.I�L : 0 002 ko
+[22] : IKARIIMA.P�W : 0 006 ko
+[24] : MOLECULA.BAS : 0 001 ko
+Dsk 187 Ko used

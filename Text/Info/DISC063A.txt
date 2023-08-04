@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ABU     .BAS : 0 001 ko
+[01] : ABU     .B�N : 0 035 ko
+[04] : CARGO   .BAS : 0 018 ko
+[06] : CARGO   .B�N : 0 001 ko
+[07] : DIANNE  .BAS : 0 001 ko
+[08] : DIANNE  .B�N : 0 033 ko
+[11] : PACKRAT .BAS : 0 001 ko
+[12] : PACKRAT .B�N : 0 038 ko
+[15] : TUJAD   .BAS : 0 001 ko
+[16] : TUJAD   .B�N : 0 039 ko
+[19] : DIANNE  .S�R : 0 001 ko
+[20] : ABUIMA  .P�W : 0 006 ko
+[21] : PACKSCR .P�W : 0 006 ko
+[22] : TUJADSCR.P�W : 0 006 ko
+Dsk 187 Ko used

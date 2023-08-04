@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3DQUASAR.BIN : 0 008 ko
+[01] : 3DSNOOK .BAS : 0 001 ko
+[02] : 3DSNOOK .B�N : 0 020 ko
+[04] : PARABOLA.BIN : 0 013 ko
+[05] : STEEL   .BIN : 0 032 ko
+[07] : TERMINS2.B�N : 0 023 ko
+[09] : TERMINS3.B�N : 0 014 ko
+[10] : TERMINS4.B�N : 0 013 ko
+[11] : TERMINUS.BAS : 0 001 ko
+[12] : BSCHARS .B�N : 0 001 ko
+[13] : BSPHERES.BAS : 0 007 ko
+[14] : BSPHERES.B�0 : 0 013 ko
+[15] : BSPHERES.B�1 : 0 010 ko
+[16] : FIRST   .BSL : 0 009 ko
+[17] : RSPDLEV .BSL : 0 009 ko
+[18] : SECOND  .BSL : 0 009 ko
+[19] : 3DSNOSCR.P�W : 0 004 ko
+Dsk 187 Ko used

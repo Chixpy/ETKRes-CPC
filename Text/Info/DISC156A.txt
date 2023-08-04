@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HUNTERS .BAS : 0 001 ko
+[01] : GHOST1  .B�N : 0 038 ko
+[04] : GHOST2  .B�N : 0 004 ko
+[05] : HUNTESCR.P�W : 0 011 ko
+[06] : SOLITAIR.BAS : 0 004 ko
+[07] : CARTES  .BIN : 0 021 ko
+[09] : INTERCEP.BAS : 0 003 ko
+[11] : SOLNEGRO.BAS : 0 001 ko
+[12] : SOLNEGRO.1�1 : 0 032 ko
+[14] : SOLNEGRO.1�2 : 0 014 ko
+[15] : SOLNEGRO.2�1 : 0 035 ko
+[18] : SOLNEGRO.2�2 : 0 012 ko
+[20] : SOLIMA  .P�W : 0 011 ko
+Dsk 187 Ko used

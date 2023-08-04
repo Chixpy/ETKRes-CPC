@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JETSONS .B�1 : 0 016 ko
+[01] : JETSONS .B�2 : 0 008 ko
+[02] : JETSONS .B�3 : 0 015 ko
+[03] : JETSONS .B�4 : 0 003 ko
+[04] : JETSONS .B�5 : 0 016 ko
+[05] : JETSONS .B�6 : 0 003 ko
+[06] : JETSONS .B�7 : 0 016 ko
+[07] : JETSONS .B�8 : 0 003 ko
+[08] : JETSONS .R�M : 0 010 ko
+[09] : JETSONS .BAS : 0 001 ko
+[10] : FRESTRIS.BIN : 0 009 ko
+[11] : BEACH   .B�  : 0 006 ko
+[12] : BL      .B�  : 0 008 ko
+[13] : CHAINSAW.B�  : 0 007 ko
+[14] : JETSONS .B�N : 0 025 ko
+[16] : CLEO    .B�  : 0 005 ko
+[17] : DRAGON  .B�  : 0 006 ko
+[18] : ELF     .B�  : 0 008 ko
+[19] : ELVIRA  .B�  : 0 005 ko
+[20] : FA      .B�  : 0 007 ko
+[21] : MUMMY   .B�  : 0 006 ko
+[22] : JETSOSCR.P�W : 0 004 ko
+Dsk 187 Ko used

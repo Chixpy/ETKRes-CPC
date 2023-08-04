@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LEVIAT1 .NHF : 15 032 ko
+[02] : LEVIAT2 .NHF : 15 032 ko
+[04] : LEVIAT3 .NHF : 15 028 ko
+[06] : LEVI    .BAS : 0 001 ko
+[07] : LEVY    .B�N : 0 008 ko
+[08] : HIRISE  .BAS : 0 001 ko
+[09] : HIRISE  .B�N : 0 018 ko
+[11] : TRAIN   .BAS : 0 001 ko
+[12] : TRAIN1  .B�N : 0 033 ko
+[15] : TRAIN2  .B�N : 0 014 ko
+[16] : SCHUSS  .BIN : 0 005 ko
+[17] : TRAINIMA.P�W : 0 006 ko
+[18] : LEVIASCR.P�W : 0 008 ko
+Dsk 187 Ko used

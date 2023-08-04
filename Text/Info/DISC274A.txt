@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OLE     .BAS : 0 001 ko
+[01] : OLE     .B�N : 0 027 ko
+[03] : NUCLEAR .BAS : 0 001 ko
+[04] : NUCLEAR .B�N : 0 028 ko
+[06] : SKISIMUL.BAS : 0 001 ko
+[07] : SKI1    .B�N : 0 041 ko
+[10] : SKI2    .B�N : 0 004 ko
+[11] : SKI3    .B�N : 0 006 ko
+[12] : BMXNINJA.BAS : 0 001 ko
+[13] : BMXNINJA.B�1 : 0 023 ko
+[15] : BMXNINJA.B�2 : 0 008 ko
+[16] : MOTOCROS.B�N : 0 026 ko
+[18] : MOTOCROS.BAS : 0 001 ko
+[19] : OLESCR  .P�W : 0 003 ko
+[20] : BMXNISCR.P�W : 0 004 ko
+[21] : NUCLEAR .C�C : 0 003 ko
+[22] : MOTOCROS.I�L : 0 009 ko
+Dsk 187 Ko used

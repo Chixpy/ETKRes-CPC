@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BADMAIMA.P�W : 0 007 ko
+[01] : BADMAX  .BAS : 0 002 ko
+[02] : BADMAX  .T�T : 0 001 ko
+[03] : BADMAX1 .B�N : 0 041 ko
+[06] : BSCHARS .B�N : 0 001 ko
+[07] : BSPHERES.BAS : 0 001 ko
+[08] : BSPHERES.B�0 : 0 025 ko
+[10] : BSPHERES.B�1 : 0 014 ko
+[11] : BSPHERES.B�2 : 0 008 ko
+[12] : CARSOIMA.P�W : 0 005 ko
+[13] : CARSON  .BAS : 0 001 ko
+[14] : CARSON1 .B�N : 0 037 ko
+[17] : CARSON2 .B�N : 0 005 ko
+[18] : WIBSTARS.BAS : 0 001 ko
+[19] : WIBSTARS.B�N : 0 032 ko
+[21] : WIBSTIMA.P�W : 0 006 ko
+Dsk 187 Ko used

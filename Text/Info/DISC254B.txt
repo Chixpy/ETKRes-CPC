@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BELOTE  .BAS : 0 012 ko
+[01] : BOOT    .B�N : 0 003 ko
+[02] : JETBOOT .BAS : 0 001 ko
+[03] : JETBOOT .B�N : 0 013 ko
+[04] : SOVIET  .BAS : 0 001 ko
+[05] : SOVIET  .B�N : 0 022 ko
+[07] : SOVIET1 .B�1 : 0 037 ko
+[10] : SOVIET1 .B�2 : 0 009 ko
+[11] : SOVIET2 .B�1 : 0 037 ko
+[14] : SOVIET2 .B�2 : 0 009 ko
+[15] : COBRA   .BAS : 0 001 ko
+[16] : COBRA   .B�N : 0 025 ko
+[18] : TABLESCR.P�W : 0 004 ko
+[19] : COBRASCR.P�W : 0 005 ko
+[20] : SOVIESCR.P�W : 0 008 ko
+Dsk 187 Ko used

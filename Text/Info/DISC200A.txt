@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THUNDER .BAS : 0 001 ko
+[01] : THUNDER .B�N : 0 034 ko
+[04] : THUNDER .L�1 : 0 015 ko
+[05] : THUNDER .L�2 : 0 012 ko
+[06] : THUNDER .L�3 : 0 016 ko
+[07] : THUNDER .L�4 : 0 014 ko
+[08] : THUNDER .L�5 : 0 016 ko
+[09] : THUNDER .L�6 : 0 013 ko
+[10] : THUNDER .L�7 : 0 016 ko
+[11] : THUNDER .L�8 : 0 016 ko
+[12] : THUNDER .I�A : 0 006 ko
+[13] : ANDROID1.BAS : 0 001 ko
+[14] : ANDROID1.B�N : 0 018 ko
+[16] : TARGET  .BIN : 0 006 ko
+[17] : ANDROID1.P�W : 0 003 ko
+Dsk 187 Ko used

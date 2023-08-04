@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HURLE   .BAS : 0 001 ko
+[01] : HURLE   .C�D : 0 016 ko
+[02] : HURLE   .D�A : 0 019 ko
+[04] : HURLE   .F�T : 0 001 ko
+[05] : HURLE   .M�S : 0 002 ko
+[06] : HURLE   .P�S : 0 001 ko
+[07] : HURLE   .P�E : 0 024 ko
+[09] : HURLE   .S�R : 0 016 ko
+[10] : PSYCHO  .BAS : 0 001 ko
+[11] : CHOPPER .BIN : 0 021 ko
+[12] : GLISANDO.BAS : 0 003 ko
+[13] : PSYCHO  .B�N : 0 041 ko
+[17] : COLOR   .BAS : 0 005 ko
+[18] : OBLIVION.BAS : 0 001 ko
+[19] : OBLIVION.B�N : 0 030 ko
+[22] : PSYCHSCR.P�W : 0 005 ko
+Dsk 187 Ko used

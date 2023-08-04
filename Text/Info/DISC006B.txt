@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ALIEN   .BAS : 0 002 ko
+[01] : BACKUP  .BAS : 0 008 ko
+[02] : CONVOY  .BAS : 0 010 ko
+[03] : CROWNCON.B�N : 0 008 ko
+[04] : CROWNTOP. �  : 0 001 ko
+[05] : GOLDRUSH.BAS : 0 003 ko
+[06] : GOLDRUSH.B�N : 0 006 ko
+[07] : GOLDRUSH.TAB : 0 001 ko
+[08] : HIGHIMA .P�W : 0 005 ko
+[09] : HIGHWAY .BAS : 0 001 ko
+[10] : HIGHWAY .B�N : 0 039 ko
+[13] : POSTCODE.B�N : 0 001 ko
+[14] : POSTDATA.B�N : 0 002 ko
+[15] : POSTMAN .BAS : 0 006 ko
+[16] : SCRABBLE.B�N : 0 041 ko
+[19] : SCRABMIC.BAS : 0 001 ko
+[20] : TENISCUP.BAS : 0 001 ko
+[21] : TENNIS  .B�N : 0 042 ko
+[24] : TENNIS  .I�L : 0 009 ko
+Dsk 187 Ko used

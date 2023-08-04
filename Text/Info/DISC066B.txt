@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BANQUE  .BAS : 0 010 ko
+[01] : PINGO2  .��N : 0 023 ko
+[02] : SQUARES .BAS : 0 009 ko
+[03] : 208     .BAS : 0 001 ko
+[04] : IMPO    .BAS : 0 001 ko
+[05] : IMPO    .B�N : 0 039 ko
+[08] : HERBE   .BAS : 0 002 ko
+[09] : PIPELINE.BAS : 0 010 ko
+[10] : COSTO   .EXP : 0 001 ko
+[11] : RIDDLE  .BAS : 0 012 ko
+[12] : COSTO   .BAS : 0 001 ko
+[13] : MCD     .B�N : 0 019 ko
+[15] : SHIFT   .BAS : 0 004 ko
+[16] : FORMA208.B�S : 0 004 ko
+[17] : SCR     .L�T : 0 017 ko
+[20] : COSTOTAB.B�S : 0 003 ko
+[21] : TABLJEU .B�N : 0 002 ko
+[22] : JEU     .B�N : 0 002 ko
+[23] : SQUARES .R�C : 0 001 ko
+[24] : COSTOTAB.T�S : 0 003 ko
+[25] : DOS208  .B�N : 0 001 ko
+[26] : SHIFT   .HSC : 0 001 ko
+[27] : SHIFT   .G�A : 0 002 ko
+[28] : SQUARES .R�N : 0 003 ko
+[29] : SHIFT   .B�N : 0 001 ko
+[30] : IMPOSSCR.P�W : 0 003 ko
+[31] : HMS113  .V�U : 0 001 ko
+[32] : RIDCPC  .B�N : 0 006 ko
+Dsk 182 Ko used

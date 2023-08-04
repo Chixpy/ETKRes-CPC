@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NSHIFT  .BAS : 0 001 ko
+[01] : NIGHT   .B�N : 0 005 ko
+[02] : NIGHT   .I�L : 0 005 ko
+[03] : NIGSHIFT.N�A : 0 003 ko
+[04] : NIGSHIFT.N�B : 0 003 ko
+[05] : NIGSHIFT.N�C : 0 005 ko
+[06] : NIGSHIFT.N�D : 0 004 ko
+[07] : NIGSHIFT.N�E : 0 003 ko
+[08] : NIGSHIFT.N�F : 0 003 ko
+[09] : NIGSHIFT.N�G : 0 008 ko
+[10] : NIGSHIFT.N�H : 0 015 ko
+[11] : NIGSHIFT.N�I : 0 011 ko
+[12] : NIGSHIFT.N�J : 0 009 ko
+[13] : NIGSHIFT.N�K : 0 003 ko
+[14] : NIGSHIFT.N�L : 0 012 ko
+[15] : NIGSHIFT.N�M : 0 010 ko
+[16] : NIGSHIFT.N�N : 0 012 ko
+[17] : ARCHITEC.BAS : 0 009 ko
+[18] : KC      .BAS : 0 001 ko
+[19] : 1K-THINK.BAS : 0 001 ko
+[20] : CR      .��N : 0 034 ko
+[23] : CRSCR   .C�M : 0 007 ko
+[24] : CRYPT   .BAS : 0 001 ko
+[25] : CASTLE2 .I�L : 0 010 ko
+[26] : KC      .B�N : 0 004 ko
+[27] : ZEDCODE .B�N : 0 001 ko
+[28] : ZEDDATA . �  : 0 002 ko
+[29] : ZEDIS2  .BAS : 0 005 ko
+Dsk 187 Ko used

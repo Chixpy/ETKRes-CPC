@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SQUADG  .B�N : 0 027 ko
+[02] : SQUADH  .B�N : 0 025 ko
+[04] : SQUADI  .B�N : 0 026 ko
+[06] : SQUADJ  .B�N : 0 025 ko
+[08] : SQUADK  .B�N : 0 025 ko
+[10] : SQUADL  .B�N : 0 006 ko
+[11] : MONTYRUN.BAS : 0 001 ko
+[12] : MONTY1  .B�N : 0 031 ko
+[14] : MONTY2  .B�N : 0 017 ko
+[16] : MONTYIMA.P�W : 0 004 ko
+Dsk 187 Ko used

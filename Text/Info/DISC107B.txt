@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CPCTEXT .BAS : 0 005 ko
+[01] : GEOBELGE.BAS : 0 006 ko
+[02] : SCREENS .B�N : 0 005 ko
+[04] : CAULDRO2.BAS : 0 001 ko
+[05] : CAULDRON.B�1 : 0 033 ko
+[08] : CAULDRON.B�2 : 0 015 ko
+[10] : RAINBOW .BAS : 0 001 ko
+[11] : RAINBOW .B�4 : 0 017 ko
+[13] : RAINBOW .B�5 : 0 017 ko
+[15] : RAINBOW .B�6 : 0 017 ko
+[17] : RAINBOW .B�7 : 0 016 ko
+[18] : RAINBOW .B�N : 0 038 ko
+[21] : RAINBOW .I�L : 0 012 ko
+[22] : CAULDSCR.P�W : 0 004 ko
+Dsk 187 Ko used

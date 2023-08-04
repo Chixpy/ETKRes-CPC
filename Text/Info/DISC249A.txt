@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CROQUE  .BAS : 0 002 ko
+[01] : CROQUE  .B�N : 0 019 ko
+[03] : EPIDEMY .2�  : 0 006 ko
+[04] : EPIDEMY .3�  : 0 005 ko
+[05] : EPIDEMY .4�  : 0 026 ko
+[07] : EPIDEMY .5�  : 0 026 ko
+[09] : EPIDEMY .6�  : 0 026 ko
+[11] : EPIDEMY .BAS : 0 001 ko
+[12] : ONTHERUN.BIN : 0 028 ko
+[14] : ISHIDO  .B�N : 0 003 ko
+[15] : ISHIDO  .BAS : 0 006 ko
+[16] : HUNTER  .BAS : 0 001 ko
+[17] : HUNTER  .B�N : 0 019 ko
+[19] : CROQUSCR.P�W : 0 006 ko
+[20] : EPIDESCR.P�W : 0 003 ko
+[21] : HUNTESCR.P�W : 0 006 ko
+[22] : CODEUR4 .BAS : 0 001 ko
+[23] : MULTI   .B�N : 0 003 ko
+Dsk 187 Ko used

@@ -1,0 +1,42 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TINYSKW .BIN : 0 002 ko
+[01] : TINYSKW .N�1 : 0 006 ko
+[02] : TINYSKW .N�2 : 0 003 ko
+[03] : TINYSKW .N�3 : 0 006 ko
+[04] : TINYSKW .N�4 : 0 004 ko
+[05] : TINYSKW .N�5 : 0 001 ko
+[06] : TINYSKW .N�6 : 0 008 ko
+[07] : TINYSKW .N�7 : 0 002 ko
+[08] : TINYSKW .N�8 : 0 002 ko
+[09] : TINYSKW .N�9 : 0 002 ko
+[10] : TINYSKW .N�A : 0 002 ko
+[11] : TINYSKW .N�B : 0 002 ko
+[12] : TINYSKW .N�C : 0 002 ko
+[13] : TINYSKW .N�D : 0 002 ko
+[14] : TINYSKW .N�E : 0 002 ko
+[15] : TINYSKW .N�F : 0 002 ko
+[16] : TINYSKW .N�G : 0 002 ko
+[17] : TINYSKW .N�H : 0 002 ko
+[18] : TINYSKW .N�I : 0 002 ko
+[19] : TINYSKW .N�J : 0 002 ko
+[20] : TINYSKW .N�K : 0 002 ko
+[21] : TINYSKW .N�L : 0 001 ko
+[22] : TINYSKW .N�M : 0 007 ko
+[23] : TINYSKW .N�N : 0 007 ko
+[24] : TINYSKW .N�O : 0 007 ko
+[25] : TINYSKW .N�P : 0 007 ko
+[26] : TINYSKW .N�Q : 0 006 ko
+[27] : TINYSKW .N�R : 0 006 ko
+[28] : TINYSKW .N�S : 0 007 ko
+[29] : TINYSKW .N�T : 0 007 ko
+[30] : TINYSKW .N�U : 0 006 ko
+[31] : TINYSKW .N�V : 0 006 ko
+[32] : TINYSKW .N�W : 0 007 ko
+[33] : TINYSKW .N�X : 0 005 ko
+[34] : TINYSKW .N�Y : 0 005 ko
+[35] : BACTRON .BAS : 0 001 ko
+[36] : BACTRON .C�M : 0 005 ko
+[37] : BACTRON .C�D : 0 034 ko
+[40] : CHAMP   .BAS : 0 005 ko
+Dsk 187 Ko used

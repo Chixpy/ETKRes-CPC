@@ -1,0 +1,41 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ABSURD  .BAS : 0 007 ko
+[01] : ABSURD1 .BAS : 0 017 ko
+[03] : ABSURD2 .BAS : 0 020 ko
+[05] : ABSURD4 .BAS : 0 019 ko
+[07] : ZARTAN  .1�  : 0 003 ko
+[08] : ZARTAN  .1�  : 0 004 ko
+[09] : ZARTAN  .1�  : 0 004 ko
+[10] : ZARTAN  .1�  : 0 002 ko
+[11] : ZARTAN  .1�  : 0 004 ko
+[12] : ZARTAN  .1�  : 0 003 ko
+[13] : ZARTAN  .1�  : 0 004 ko
+[14] : ZARTAN  .1�  : 0 004 ko
+[15] : ZARTAN  .1�  : 0 004 ko
+[16] : ZARTAN  .1�  : 0 004 ko
+[17] : ZARTAN  .1�  : 0 002 ko
+[18] : ZARTAN  .2�  : 0 002 ko
+[19] : ZARTAN  .2�  : 0 004 ko
+[20] : ZARTAN  .2�  : 0 004 ko
+[21] : ZARTAN  .2�  : 0 004 ko
+[22] : ZARTAN  .2�  : 0 002 ko
+[23] : ZARTAN  .2�  : 0 004 ko
+[24] : ZARTAN  .2�  : 0 004 ko
+[25] : ZARTAN  .2�  : 0 004 ko
+[26] : ZARTAN  .2�  : 0 004 ko
+[27] : ZARTAN  .2�  : 0 004 ko
+[28] : ZARTAN  .2�  : 0 003 ko
+[29] : ZARTAN  .3�  : 0 002 ko
+[30] : ZARTAN  .3�  : 0 004 ko
+[31] : ZARTAN  .3�  : 0 004 ko
+[32] : ZARTAN  .4�  : 0 002 ko
+[33] : ZARTAN  .5�  : 0 002 ko
+[34] : ZARTAN  .6�  : 0 002 ko
+[35] : ZARTAN  .7�  : 0 005 ko
+[36] : ZARTAN  .8�  : 0 005 ko
+[37] : ZARTAN  .9�  : 0 004 ko
+[38] : ZARTAN  .BAS : 0 009 ko
+[39] : ZARTAN  .SOL : 0 001 ko
+[40] : ZARTAN  .S�R : 0 007 ko
+Dsk 187 Ko used

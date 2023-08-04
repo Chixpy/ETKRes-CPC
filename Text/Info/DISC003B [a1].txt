@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FLAGS   .1�  : 0 002 ko
+[01] : FLAGS   .2�  : 0 003 ko
+[02] : FLAGS   .BAS : 0 011 ko
+[03] : FLAGS   .R�M : 0 013 ko
+[04] : FLAGSHIS. �  : 0 005 ko
+[05] : ARCADIAN.BAS : 0 003 ko
+[06] : ARCADIAN.C�C : 0 006 ko
+[07] : CHENILLE.BAS : 0 008 ko
+[08] : MINICALC.BAS : 0 011 ko
+[09] : PUNCH   .BAS : 0 001 ko
+[10] : PUNCH   .P�1 : 0 038 ko
+[13] : PUNCH   .P�3 : 0 028 ko
+[15] : ROLAND  .BAS : 0 002 ko
+[16] : ROLAND  .B�N : 0 017 ko
+[18] : XENO    .BAS : 0 001 ko
+[19] : XENO    .B�N : 0 022 ko
+[21] : CADRECOM.P�W : 0 002 ko
+[22] : PUNCHKOM.P�W : 0 004 ko
+[23] : XENODSCR.P�W : 0 005 ko
+[24] : XENOPSCR.P�W : 0 005 ko
+Dsk 187 Ko used

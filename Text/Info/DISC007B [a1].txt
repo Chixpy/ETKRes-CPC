@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HANSEAT .BAS : 0 010 ko
+[01] : HANSEAT .S�R : 0 014 ko
+[02] : REALITY .BAS : 0 001 ko
+[03] : REALISCR.P�W : 0 007 ko
+[04] : CIRBIN  .B�N : 0 003 ko
+[05] : REALITY .B�N : 0 021 ko
+[07] : TABLE   .PYT : 0 001 ko
+[08] : NETWORLD.BAS : 0 001 ko
+[09] : NETWORLD.B�N : 0 041 ko
+[12] : BATTLE  .BIN : 0 011 ko
+[13] : CIRCUIMA.P�W : 0 004 ko
+[14] : CUISBL  .S�E : 0 003 ko
+[15] : CUISINE .BAS : 0 004 ko
+[16] : CUISINE .P�G : 0 029 ko
+[18] : CUISINE .S�E : 0 001 ko
+[19] : PYTHON  .BAS : 0 004 ko
+[20] : CIRCUS  .BAS : 0 008 ko
+[21] : PYTHON  .P�W : 0 013 ko
+[22] : MELTDOWN.BAS : 0 003 ko
+[24] : NETWOIMA.P�W : 0 008 ko
+Dsk 187 Ko used

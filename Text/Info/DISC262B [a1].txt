@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GREMLIN2.B�N : 0 010 ko
+[01] : GREMLIN2.BAS : 0 001 ko
+[03] : GREMLIN2.L�B : 0 003 ko
+[04] : GREMLIN2.L�C : 0 004 ko
+[05] : GREMLIN2.L�D : 0 004 ko
+[06] : GREMLIN2.L�E : 0 004 ko
+[07] : GREMLIN2.L�F : 0 018 ko
+[09] : GREMLIN2.L�G : 0 018 ko
+[11] : GREMLIN2.L�H : 0 019 ko
+[13] : GREMLIN2.L�I : 0 019 ko
+[15] : GREMLIN2.L�J : 0 020 ko
+[17] : GREMLIN2.L�K : 0 020 ko
+[19] : GREMLIN2.L�L : 0 020 ko
+[21] : GREMLIN2.L�M : 0 020 ko
+[23] : GREMLSCR.P�W : 0 005 ko
+Dsk 185 Ko used

@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TIR     .P�G : 0 004 ko
+[01] : ARC     .S�R : 0 003 ko
+[02] : CRANE   .B�N : 0 016 ko
+[03] : ARCHER  .B�N : 0 018 ko
+[04] : GROTTE  .B�N : 0 011 ko
+[05] : ACTION  .M�S : 0 009 ko
+[06] : TABLEAU3.B�N : 0 002 ko
+[07] : TABLEAU7.B�N : 0 002 ko
+[08] : TABLEAU5.B�N : 0 002 ko
+[09] : ARC     .P�G : 0 004 ko
+[10] : MED     .P�G : 0 001 ko
+[11] : TABLEAU6.B�N : 0 002 ko
+[12] : BRAS    .S�R : 0 002 ko
+[13] : LAB     .S�R : 0 007 ko
+[14] : LAB     .P�G : 0 005 ko
+[15] : TITLE   .M�S : 0 006 ko
+[16] : TABLEAU1.B�N : 0 002 ko
+[17] : TABLEAU4.B�N : 0 002 ko
+[18] : TABLEAU2.B�N : 0 002 ko
+[20] : MEDITE  .B�N : 0 014 ko
+[21] : SAVE    .BAK : 0 001 ko
+[22] : MEDITE  .S�R : 0 003 ko
+[23] : GAGNE   .B�N : 0 015 ko
+[25] : SAVE    .SPR : 0 001 ko
+[28] : TABLEAU2.B�O : 0 002 ko
+[30] : TIRARC  .B�N : 0 015 ko
+[32] : 3D      .P�G : 0 002 ko
+[33] : TABLEAU3.B�O : 0 002 ko
+[34] : TABLEAU1.B�O : 0 002 ko
+[35] : TABLEAU4.B�O : 0 002 ko
+[36] : TABLEAU5.B�O : 0 002 ko
+Dsk 161 Ko used

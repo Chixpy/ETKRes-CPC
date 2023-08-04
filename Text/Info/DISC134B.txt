@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : XYPHOES .N�1 : 0 014 ko
+[01] : XYPHOES .N�1 : 0 017 ko
+[03] : XYPHOES .N�2 : 0 010 ko
+[04] : XYPHOES .N�1 : 0 013 ko
+[05] : XYPHOES .N�1 : 0 017 ko
+[07] : XYPHOES .N�2 : 0 017 ko
+[09] : XYPHOES .N�3 : 0 003 ko
+[10] : XYPHOES .N�1 : 0 017 ko
+[12] : XYPHOES .N�2 : 0 014 ko
+[13] : XYPHOES .N�1 : 0 017 ko
+[15] : XYPHOES .N�2 : 0 017 ko
+[17] : XYPHOES .N�3 : 0 013 ko
+[18] : XYPHOES .N�1 : 0 002 ko
+[19] :  FACE C .    : 0 000 ko
+[20] : TEXTE   .    : 0 001 ko
+[21] : XYPHOES .B�K : 0 001 ko
+[22] : XYPHOES'.N�1 : 0 001 ko
+[23] : -TRUC   .BAS : 0 001 ko
+[24] : XYPHOES .N�1 : 0 001 ko
+Dsk 176 Ko used

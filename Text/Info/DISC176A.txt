@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURBO   .BAS : 0 001 ko
+[01] : TURBO   .B�4 : 0 017 ko
+[03] : TURBO   .B�5 : 0 017 ko
+[05] : TURBO   .B�6 : 0 017 ko
+[07] : TURBO   .B�7 : 0 017 ko
+[09] : TURBO   .B�N : 0 036 ko
+[12] : TURBO   .R�D : 0 001 ko
+[13] : RAM6    .B�N : 0 016 ko
+[14] : RAM4    .B�N : 0 013 ko
+[15] : RAM5    .B�N : 0 011 ko
+[16] : RBI2    .BAS : 0 001 ko
+[17] : RATIS   .BAS : 0 003 ko
+[18] : RBI     .B�N : 0 028 ko
+[20] : RBIIMA  .P�W : 0 006 ko
+[21] : BLOB    .BAS : 0 002 ko
+[22] : RATIS1  .B�N : 0 001 ko
+Dsk 187 Ko used

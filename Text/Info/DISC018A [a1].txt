@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ASTRO   .BAS : 0 002 ko
+[01] : ASTRO   .B�N : 0 009 ko
+[02] : CHENILL .BAS : 0 001 ko
+[03] : CHENILLE.M�  : 0 002 ko
+[04] : DEMEPSON.BAS : 0 001 ko
+[05] : EPSON   .BAS : 0 001 ko
+[06] : 1       .B�N : 0 001 ko
+[07] : 2       .B�N : 0 001 ko
+[08] : 3       .B�N : 0 001 ko
+[09] : 4       .B�N : 0 001 ko
+[10] : KNIGHT  .BAS : 0 001 ko
+[11] : RUNNER1 .    : 0 006 ko
+[12] : RUNNER2 .BAS : 0 008 ko
+[13] : A1      .B�N : 0 025 ko
+[15] : AR      .B�N : 0 007 ko
+[16] : B1      .B�N : 0 027 ko
+[18] : BC      .B�N : 0 007 ko
+[19] : K1      .B�N : 0 024 ko
+[21] : K2      .B�N : 0 008 ko
+[22] : KNIGHT  .B�N : 0 006 ko
+[23] : S1      .B�N : 0 026 ko
+[25] : SPPT�   .B�N : 0 001 ko
+[26] : SPRA-P  .B�N : 0 009 ko
+[27] : ST      .B�N : 0 008 ko
+[28] : KNIGHIMA.P�W : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MENUCAT .BAS : 0 001 ko
+[01] : CISC1IMA.P�W : 0 008 ko
+[02] : GLAD2   .B�N : 0 036 ko
+[03] : CLOCK   .BAS : 0 003 ko
+[05] : CISC2IMA.P�W : 0 006 ko
+[06] : CISCO   .BAS : 0 001 ko
+[07] : CISCO   .B�N : 0 002 ko
+[08] : CISCO   .N�1 : 0 008 ko
+[09] : CISCO   .N�2 : 0 008 ko
+[10] : CISCO   .N�3 : 0 008 ko
+[11] : CISCO   .N�4 : 0 008 ko
+[13] : ROLAHOY .BAS : 0 002 ko
+[14] : GLADIATE.BAS : 0 001 ko
+[15] : CISCO   .N�5 : 0 008 ko
+[17] : OFF-SKAT.BAS : 0 021 ko
+[20] : ROLAHOY .B�N : 0 019 ko
+[22] : PACPUNK .BAS : 0 005 ko
+[23] : PACPUNK .R�X : 0 008 ko
+[24] : PACKOM  .P�W : 0 004 ko
+[25] : GLADIATE.I�L : 0 005 ko
+[26] : CISCO   .N�6 : 0 005 ko
+[27] : CISCO   .N�7 : 0 020 ko
+Dsk 187 Ko used

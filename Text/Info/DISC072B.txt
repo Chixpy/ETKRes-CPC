@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANGLAIS2.BAS : 0 004 ko
+[01] : ASSIMIL . �  : 0 001 ko
+[02] : ASSIMIL .0�5 : 0 029 ko
+[04] : ASSIMIL .0�6 : 0 031 ko
+[06] : ASSIMIL .0�7 : 0 031 ko
+[08] : ASSIMIL .0�8 : 0 022 ko
+[10] : CODEFI  .B�N : 0 002 ko
+[11] : DISQUE 2. �  : 0 001 ko
+[12] : PUZZNIC .BAS : 0 001 ko
+[13] : PUZZNIC .B�N : 0 026 ko
+[14] : G1-464  .B�N : 0 002 ko
+[15] : G1-6128 .B�N : 0 002 ko
+[16] : G2-464  .B�N : 0 003 ko
+[17] : G2-6128 .B�N : 0 003 ko
+[18] : T-464   .B�N : 0 003 ko
+[19] : T-6128  .B�N : 0 003 ko
+[20] : TIME6128.BAS : 0 010 ko
+[21] : TIMEMAKE.C�P : 0 005 ko
+[22] : TIMEMAKE.T�T : 0 003 ko
+[24] : BOULET  .BAS : 0 001 ko
+[25] : PUZZNIMA.P�W : 0 004 ko
+Dsk 187 Ko used

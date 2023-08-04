@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : C90     .BAS : 0 003 ko
+[01] : C90     .B�N : 0 035 ko
+[04] : ECRAN3  .B�N : 0 003 ko
+[05] : IMAGE1  .E�T : 0 006 ko
+[06] : IMAGE2  .E�T : 0 006 ko
+[07] : DECORS  .B�N : 0 014 ko
+[08] : JEUX    .BAS : 0 001 ko
+[09] : PRESENT .B�N : 0 005 ko
+[10] : CHICIMA .P�W : 0 007 ko
+[11] : REDUCTOR.BAS : 0 004 ko
+[12] : LOGOIMA .P�W : 0 003 ko
+[15] : KILLERB .BAS : 0 001 ko
+[16] : KILLERB .N�1 : 0 026 ko
+[18] : KILLERB .N�2 : 0 009 ko
+[19] : KILLERB .N�3 : 0 007 ko
+[21] : KILLERB .N�4 : 0 003 ko
+[22] : KILLERB .N�5 : 0 010 ko
+[23] : KILLERB .N�6 : 0 010 ko
+[24] : KILLERB .N�7 : 0 010 ko
+[25] : KILLERB .N�8 : 0 010 ko
+[26] : KILLERB .N�9 : 0 003 ko
+[27] : KILLERB .S�N : 0 008 ko
+Dsk 184 Ko used

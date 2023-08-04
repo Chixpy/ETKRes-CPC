@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ALADDIN .BAS : 0 001 ko
+[01] : ALADDIN .B�N : 0 036 ko
+[04] : CENTURY .BIN : 0 006 ko
+[05] : CENTURY1.R�M : 0 013 ko
+[06] : CENTURY2.R�M : 0 006 ko
+[07] : CENTURY3.B�N : 0 022 ko
+[09] : COMANDO .BAS : 0 001 ko
+[10] : COMANDO2.B�N : 0 001 ko
+[11] : COMANDO3.B�N : 0 034 ko
+[14] : COMANDO4.B�N : 0 014 ko
+[15] : DEATHGLO.BIN : 0 013 ko
+[16] : DANGER  .BAS : 0 001 ko
+[17] : DANGER  .B�N : 0 012 ko
+[18] : GRAPHDEM.BAS : 0 005 ko
+[19] : ALADDIMA.P�W : 0 006 ko
+[20] : DANGER  .S�R : 0 007 ko
+[21] : COMANIMA.P�W : 0 009 ko
+Dsk 187 Ko used

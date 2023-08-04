@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : DAYTON  .BAS : 0 006 ko
+[02] : FANTOME .BAS : 0 002 ko
+[03] : GRAPH+FA.B�N : 0 010 ko
+[04] : MADDOG  .BAS : 0 001 ko
+[05] : MADDOG  .B�N : 0 025 ko
+[07] : MADDOSCR.P�W : 0 004 ko
+[08] : PETER   .BAS : 0 012 ko
+[09] : PR-LM   .B�N : 0 013 ko
+[10] : RAL     .B�N : 0 003 ko
+[11] : SIDEARMS.BAS : 0 001 ko
+[12] : SIDEARMS.B�N : 0 039 ko
+[15] : STAIN1  .B�N : 0 042 ko
+[18] : STAINLES.BAS : 0 001 ko
+[19] : ULCINOR .BAS : 0 008 ko
+[20] : SIDEASCR.P�W : 0 008 ko
+[21] : STAINLES.I�L : 0 007 ko
+Dsk 182 Ko used

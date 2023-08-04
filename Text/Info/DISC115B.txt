@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PHANTOM .BAS : 0 001 ko
+[01] : MAZIE   .BAS : 0 001 ko
+[02] : MAZIE2  .B�N : 0 031 ko
+[03] : PHANTOM1.B�N : 0 017 ko
+[05] : MAZIESCR.P�W : 0 005 ko
+[06] : WORM    .BIN : 0 005 ko
+[07] : PHANTOM .I�L : 0 007 ko
+[09] : PHANTOM2.B�N : 0 029 ko
+[23] : LEMMINGS.N�9 : 0 005 ko
+[24] : LEMMINGS.N�0 : 0 003 ko
+[25] : LEMMINGS.N�1 : 0 004 ko
+[26] : LEMMINGS.N�2 : 0 005 ko
+[27] : LEMMINGS.N�3 : 0 005 ko
+[28] : LEMMINGS.N�4 : 0 003 ko
+[29] : LEMMINGS.N�5 : 0 005 ko
+[30] : LEMMINGS.N�6 : 0 004 ko
+[31] : LEMMINGS.N�7 : 0 006 ko
+[32] : LEMMINGS.N�8 : 0 003 ko
+[33] : LEMMINGS.N�9 : 0 005 ko
+[34] : LEMMINGS.N�0 : 0 004 ko
+[35] : LEMMINGS.N�1 : 0 004 ko
+[36] : LEMMINGS.N�2 : 0 003 ko
+[37] : LEMMINGS.N�3 : 0 002 ko
+[38] : LEMMINGS.N�4 : 0 005 ko
+[39] : LEMMINGS.N�5 : 0 006 ko
+[40] : LEMMINGS.N�6 : 0 003 ko
+[41] : LEMMINGS.N�7 : 0 004 ko
+[42] : LEMMINGS.N�8 : 0 004 ko
+[43] : LEMMINGS.N�9 : 0 003 ko
+[44] : LEMMINGS.N�0 : 0 005 ko
+Dsk 187 Ko used

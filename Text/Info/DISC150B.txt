@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MISSION2.B�N : 0 032 ko
+[02] : MISSION4.R�M : 0 016 ko
+[03] : MISSION6.R�M : 0 016 ko
+[04] : MISSION5.R�M : 0 016 ko
+[05] : -MISSION.2   : 0 001 ko
+[06] : MENU    .    : 0 002 ko
+[07] : MISSION7.R�M : 0 016 ko
+[08] : MISS2IMA.P�W : 0 010 ko
+[10] : VENOM1  .B�N : 0 038 ko
+[13] : VENOM2  .B�N : 0 014 ko
+[14] : BALLSCR .P�W : 0 002 ko
+[15] : -STOPBAL.L   : 0 001 ko
+[16] : STOPBALL.B�N : 0 016 ko
+[17] : VENOMSCR.P�W : 0 006 ko
+[18] : -VENOM  .    : 0 001 ko
+Dsk 187 Ko used

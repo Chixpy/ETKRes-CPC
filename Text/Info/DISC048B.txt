@@ -1,0 +1,63 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1       .B�N : 0 002 ko
+[01] : 10      .B�N : 0 002 ko
+[02] : 20      .B�N : 0 002 ko
+[03] : 27      .B�N : 0 002 ko
+[04] : 11      .B�N : 0 002 ko
+[05] : 12      .B�N : 0 003 ko
+[06] : 13      .B�N : 0 002 ko
+[07] : 15      .B�N : 0 002 ko
+[08] : 16      .B�N : 0 002 ko
+[09] : 17      .B�N : 0 002 ko
+[10] : 18      .B�N : 0 002 ko
+[11] : 19      .B�N : 0 002 ko
+[12] : 21      .B�N : 0 002 ko
+[13] : 22      .B�N : 0 002 ko
+[14] : 23      .B�N : 0 002 ko
+[15] : 24      .B�N : 0 002 ko
+[16] : 25      .B�N : 0 002 ko
+[17] : 26      .B�N : 0 002 ko
+[18] : 28      .B�N : 0 002 ko
+[19] : 29      .B�N : 0 002 ko
+[20] : 3       .B�N : 0 002 ko
+[21] : 30      .B�N : 0 002 ko
+[22] : 31      .B�N : 0 002 ko
+[23] : 32      .B�N : 0 001 ko
+[24] : 33      .B�N : 0 002 ko
+[25] : 34      .B�N : 0 002 ko
+[26] : 39      .B�N : 0 001 ko
+[27] : 35      .B�N : 0 002 ko
+[28] : 36      .B�N : 0 002 ko
+[29] : 37      .B�N : 0 001 ko
+[30] : 38      .B�N : 0 001 ko
+[31] : 4       .B�N : 0 002 ko
+[32] : 5       .B�N : 0 002 ko
+[33] : 6       .B�N : 0 002 ko
+[34] : 7       .B�N : 0 002 ko
+[35] : 8       .B�N : 0 002 ko
+[36] : 9       .B�N : 0 002 ko
+[37] : CA1     .B�S : 0 014 ko
+[38] : 2       .B�N : 0 002 ko
+[39] : CODECACL.B�N : 0 001 ko
+[40] : CODECORD.B�N : 0 013 ko
+[41] : DEPLACE .B�N : 0 002 ko
+[42] : FIN2    .B�S : 0 009 ko
+[43] : FIN1    .B�S : 0 009 ko
+[44] : GASTFIN1.S�R : 0 003 ko
+[45] : CA2     .B�S : 0 013 ko
+[46] : LEVEL1  .B�N : 0 004 ko
+[47] : LONGFIN1.S�R : 0 003 ko
+[48] : TURRIS  .BAS : 0 004 ko
+[49] : GASTOIMA.P�W : 0 004 ko
+[50] : M'ENFIN .BAS : 0 004 ko
+[51] : 14      .B�N : 0 002 ko
+[52] : LEVEL   .B�N : 0 003 ko
+[53] : LEVEL0  .B�N : 0 004 ko
+[54] : LEVEL2  .B�N : 0 004 ko
+[55] : LEVEL3  .B�N : 0 002 ko
+[56] : COM     .B�N : 0 002 ko
+[57] : DISKMAN .BIN : 0 008 ko
+[58] : ECRAN   .P�W : 0 005 ko
+[59] : TURRIS  .B�N : 0 001 ko
+Dsk 187 Ko used

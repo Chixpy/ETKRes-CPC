@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STUNT2  .B�N : 0 012 ko
+[01] : STUNTRID.BAS : 0 001 ko
+[02] : DEATHVIL.BAS : 0 001 ko
+[03] : DEATHVIL.B�N : 0 040 ko
+[06] : DEATHVIL.C�C : 0 004 ko
+[07] : GILBESCR.P�W : 0 006 ko
+[08] : PASSISCR.P�W : 0 006 ko
+[09] : PASSING .B�N : 0 038 ko
+[12] : GILBERT .BAS : 0 001 ko
+[13] : GILBERT1.B�N : 0 024 ko
+[14] : PASSING .BAS : 0 001 ko
+[16] : GILBERT2.B�N : 0 005 ko
+[17] : GILBERT3.B�N : 0 008 ko
+[18] : GILBERT .E�P : 0 003 ko
+[20] : STUNT1  .B�N : 0 036 ko
+Dsk 186 Ko used

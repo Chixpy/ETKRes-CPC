@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DDETENTE.BAS : 0 001 ko
+[01] : DDETENTE.B�N : 0 016 ko
+[02] : DETENTE1.L�1 : 0 014 ko
+[03] : DETENTE1.L�2 : 0 009 ko
+[04] : DETENTE2.L�1 : 0 014 ko
+[05] : DETENTE2.L�2 : 0 009 ko
+[06] : DETENTE3.L�1 : 0 014 ko
+[07] : DETENTE3.L�2 : 0 009 ko
+[08] : DETENTE4.L�1 : 0 014 ko
+[09] : DETENTE4.L�2 : 0 009 ko
+[10] : DETENTE3.L�3 : 0 006 ko
+[11] : DETENTE3.L�4 : 0 004 ko
+[12] : KIKSTAR2.BIN : 0 023 ko
+[14] : ONE     .BAS : 0 001 ko
+[15] : ONE1    .B�N : 0 006 ko
+[16] : ONE2    .B�N : 0 028 ko
+[18] : ONESCR  .P�W : 0 003 ko
+[19] : DETENSCR.P�W : 0 007 ko
+Dsk 187 Ko used

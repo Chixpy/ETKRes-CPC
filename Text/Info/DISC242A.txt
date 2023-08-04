@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLAZING .B�N : 0 025 ko
+[02] : BLAZING .BAS : 0 001 ko
+[03] : DISCUT  .BIN : 0 009 ko
+[04] : CHIC30  .BIN : 0 001 ko
+[05] : CHICAGO .B�N : 0 040 ko
+[08] : CASANOVA.BAS : 0 001 ko
+[09] : CASANOVA.B�1 : 0 034 ko
+[12] : CASANOVA.B�2 : 0 008 ko
+[13] : BASUN   .BAS : 0 001 ko
+[14] : BASUN1  .B�N : 0 037 ko
+[17] : BASUN2  .B�N : 0 006 ko
+[18] : BASUNSCR.P�W : 0 005 ko
+[19] : CASANOVA.I�L : 0 006 ko
+[20] : BLAZIIMA.P�W : 0 007 ko
+[21] : CHICIMA .P�W : 0 006 ko
+Dsk 187 Ko used

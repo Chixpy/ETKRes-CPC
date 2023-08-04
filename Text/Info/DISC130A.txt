@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : YABBA   .BIN : 0 031 ko
+[07] : DRUMS   .BAS : 0 009 ko
+[08] : DRUMS   .B�N : 0 003 ko
+[09] : MEGAWAR .BAS : 0 001 ko
+[10] : MEGAWAR .B�N : 0 015 ko
+[11] : MEGAWAR .R�M : 0 014 ko
+[12] : PISO0   .BAS : 0 001 ko
+[13] : PISO0   .B�1 : 0 036 ko
+[16] : PISO0   .B�2 : 0 010 ko
+[17] : PISO0   .M�S : 0 004 ko
+[18] : PIN     .B�S : 0 019 ko
+[20] : PINBALL .BAS : 0 001 ko
+[21] : POOL    .BAS : 0 001 ko
+[23] : POOL    .B�N : 0 017 ko
+[24] : POOLSCR .P�W : 0 005 ko
+[25] : MEGAWAR .S�R : 0 010 ko
+[26] : PISO0   .I�L : 0 010 ko
+Dsk 187 Ko used

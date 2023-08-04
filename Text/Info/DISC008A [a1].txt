@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANGE    .BAS : 0 001 ko
+[01] : ANGE    .B�N : 0 032 ko
+[03] : ANGE1   .R�M : 0 017 ko
+[05] : ANGE2   .R�M : 0 017 ko
+[07] : ANGE3   .R�M : 0 017 ko
+[09] : ANGE4   .R�M : 0 017 ko
+[11] : MOLECULE.BAS : 0 008 ko
+[12] : MOLBIN  . �  : 0 003 ko
+[13] : POUSBIN . �  : 0 003 ko
+[14] : POUSNIK .BAS : 0 009 ko
+[15] : POUSNIK .C�M : 0 004 ko
+[16] : PYJA    .BAS : 0 003 ko
+[17] : PYJAMARA.B�N : 0 035 ko
+[20] : PRINTCAT.BAS : 0 002 ko
+[21] : TWINS   .BIN : 0 006 ko
+[23] : CALCUL  .BAS : 0 007 ko
+[24] : ANGEIMA .P�W : 0 006 ko
+Dsk 187 Ko used

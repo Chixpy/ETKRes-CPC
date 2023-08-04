@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MICROGEO.B�3 : 0 013 ko
+[01] : MICROGEO.B�N : 0 004 ko
+[02] : MICROGEO.C�  : 0 009 ko
+[03] : MICROGEO.F�C : 0 011 ko
+[04] : MICROGEO.P�O : 0 004 ko
+[05] : MICROGEO.B�2 : 0 004 ko
+[06] : MICROGEO.BAS : 0 004 ko
+[07] : MICROGEO.C�  : 0 009 ko
+[08] : MICROGEO.C�  : 0 009 ko
+[09] : MICROGEO.I�D : 0 061 ko
+[13] : GOLF    .BAS : 0 001 ko
+[14] : GOLF1   .B�N : 0 033 ko
+[17] : EJNOEL  .BAS : 0 006 ko
+[18] : SAPINSCR.P�W : 0 003 ko
+[19] : SIMPLEX .BAS : 0 006 ko
+[21] : GOLFIMA .P�W : 0 004 ko
+[22] : SPRITROU.B�N : 0 004 ko
+[23] : SIMPLSCR.P�W : 0 002 ko
+Dsk 187 Ko used

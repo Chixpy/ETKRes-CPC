@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PYRAMYDA.BIN : 0 019 ko
+[02] : BRICK   .BAS : 0 001 ko
+[03] : BRICK   .B�N : 0 019 ko
+[05] : ATOMIK  .BAS : 0 001 ko
+[06] : ATOMIK  .B�N : 0 019 ko
+[08] : GENOCIDE.BIN : 0 021 ko
+[10] : MERCENA .BAS : 0 001 ko
+[11] : MERCENA .B�N : 0 015 ko
+[12] : WEEMS   .BAS : 0 001 ko
+[13] : WEEMS   .B�N : 0 024 ko
+[15] : MICROMOU.BAS : 0 001 ko
+[16] : MICROMOU.B�N : 0 036 ko
+[19] : ATOMIK  .C�C : 0 002 ko
+[20] : MERCENA .I�L : 0 004 ko
+[21] : MERCESCR.P�W : 0 005 ko
+[22] : WEEMSIMA.P�W : 0 006 ko
+[23] : BRICK   .C�C : 0 005 ko
+[24] : MICROSCR.P�W : 0 007 ko
+Dsk 187 Ko used

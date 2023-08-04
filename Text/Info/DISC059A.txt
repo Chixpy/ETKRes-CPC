@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AFTEROID.BAS : 0 001 ko
+[01] : SOLOMON .BAS : 0 001 ko
+[02] : AFTEROID.B�1 : 0 040 ko
+[05] : SATAN   .BAS : 0 001 ko
+[06] : SOLOMON .B�N : 0 024 ko
+[07] : SATAN1  .B�N : 0 040 ko
+[10] : SATAN2  .B�N : 0 039 ko
+[14] : SOLOMON .S�R : 0 004 ko
+[15] : RUNME   .BIN : 0 002 ko
+[16] : SOLOMIMA.P�W : 0 009 ko
+[17] : AFTEROID.B�2 : 0 006 ko
+[18] : AFTERIMA.P�W : 0 006 ko
+[19] : SATAN22 .B�N : 0 004 ko
+[20] : SATANIMA.P�W : 0 010 ko
+Dsk 187 Ko used

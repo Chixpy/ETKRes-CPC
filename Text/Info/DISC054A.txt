@@ -1,0 +1,37 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BILLARD .BAS : 0 010 ko
+[01] : BILLARD .I�A : 0 002 ko
+[02] : OBJET   .B�N : 0 005 ko
+[03] : LECT1   . �  : 0 001 ko
+[04] : LECT10  . �  : 0 001 ko
+[05] : GP      .BAS : 0 005 ko
+[06] : GP1     .B�N : 0 036 ko
+[09] : GP1SCRU .P�W : 0 004 ko
+[10] : GP2SCRU .P�W : 0 002 ko
+[11] : GP500   .P�I : 0 001 ko
+[12] : NOM     .P�I : 0 001 ko
+[13] : PINSIMUL.BAS : 0 001 ko
+[14] : PINBALL .B�N : 0 041 ko
+[17] : PUNCHY  .BAS : 0 001 ko
+[18] : CODE    .B�N : 0 010 ko
+[19] : LOGOSCR .P�W : 0 001 ko
+[20] : ELECTRIC.BIN : 0 032 ko
+[22] : LECT11  . �  : 0 001 ko
+[23] : LECT12  . �  : 0 001 ko
+[24] : LECT13  . �  : 0 001 ko
+[25] : PINSSCRU.P�W : 0 005 ko
+[26] : LECT14  . �  : 0 001 ko
+[27] : LECT15  . �  : 0 001 ko
+[28] : LECT16  . �  : 0 001 ko
+[29] : LECT2   . �  : 0 001 ko
+[30] : LECT3   . �  : 0 001 ko
+[31] : LECT4   . �  : 0 001 ko
+[32] : LECT5   . �  : 0 001 ko
+[33] : LECT6   . �  : 0 001 ko
+[34] : LECT7   . �  : 0 001 ko
+[35] : LECT8   . �  : 0 001 ko
+[36] : LECT9   . �  : 0 001 ko
+[37] : LIRE    .BAS : 0 005 ko
+[38] : GOODMOON.BIN : 0 009 ko
+Dsk 187 Ko used

@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SYDNEY  .BAS : 0 001 ko
+[01] : SYDNEY0 .B�N : 0 009 ko
+[02] : SYDNEY1 .B�N : 0 011 ko
+[03] : SYDNEY2 .B�N : 0 020 ko
+[05] : SYDNEY3 .B�S : 0 001 ko
+[06] : SYDNEY5 .B�N : 0 019 ko
+[08] : SYDNEY4 .B�S : 0 018 ko
+[10] : STRIKE  .BAS : 0 001 ko
+[11] : STRIKE  .S�R : 0 004 ko
+[12] : STRIKE1 .B�N : 0 021 ko
+[14] : STRIKE2 .B�N : 0 017 ko
+[16] : SPACE2  .B�N : 0 015 ko
+[17] : SPACE   .BAS : 0 003 ko
+[18] : STRIKIMA.P�W : 0 006 ko
+[19] : BREAKER .BAS : 0 001 ko
+[20] : BREAKIMA.P�W : 0 005 ko
+[21] : POUSSE  .BAS : 0 001 ko
+[22] : BREAKER1.B�N : 0 025 ko
+[24] : PUISSAN4.BAS : 0 003 ko
+[25] : VIE-PRAT.BAS : 0 006 ko
+Dsk 187 Ko used

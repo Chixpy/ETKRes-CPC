@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OLLI3   .BAS : 0 001 ko
+[01] : GORDON  .BAS : 0 001 ko
+[02] : GORDON1 .B�N : 0 038 ko
+[03] : METEORE2.BAS : 0 004 ko
+[04] : OLLI3   .0�4 : 0 015 ko
+[05] : OLLI3   .0�2 : 0 026 ko
+[07] : OLLI3   .0�3 : 0 007 ko
+[10] : GORDON2 .B�N : 0 009 ko
+[11] : GORDON3 .B�N : 0 024 ko
+[13] : GORDON4 .B�N : 0 005 ko
+[14] : GORDON5 .B�N : 0 023 ko
+[16] : GORDON6 .B�N : 0 015 ko
+[17] : OLLI3   .0�1 : 0 019 ko
+Dsk 187 Ko used

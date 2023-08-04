@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMSCODE .BAS : 0 007 ko
+[01] : AMSCZ80 .B�N : 0 005 ko
+[02] : GUADAL  .BIN : 0 027 ko
+[04] : SCENAR1 .S�N : 0 004 ko
+[05] : SCENAR2 .S�N : 0 004 ko
+[06] : SCENAR3 .S�N : 0 004 ko
+[07] : SCENSAVE.S�N : 0 004 ko
+[08] : OLLI1   .BAS : 0 001 ko
+[09] : OLLI1   .B�N : 0 038 ko
+[12] : KICKOFF2.BAS : 0 001 ko
+[13] : K2C     .B�N : 0 014 ko
+[14] : K2L     .B�N : 0 014 ko
+[15] : KICK2C  .B�N : 0 026 ko
+[17] : KICK2L  .B�N : 0 026 ko
+[19] : OLLI1IMA.P�W : 0 005 ko
+[20] : KICK2IMA.P�W : 0 007 ko
+Dsk 187 Ko used

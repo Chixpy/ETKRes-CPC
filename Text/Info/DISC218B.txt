@@ -1,0 +1,57 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMITY   .BAS : 0 004 ko
+[01] : AMITY   .I�L : 0 007 ko
+[02] : AMITY   .T�T : 0 001 ko
+[03] : BIBLI   .A�M : 0 002 ko
+[04] : BIBLI   .C�U : 0 002 ko
+[05] : BIBLI   .E�S : 0 003 ko
+[06] : CAVE    .D�T : 0 002 ko
+[07] : CAVE    .E�S : 0 002 ko
+[08] : CAVE    .F�U : 0 002 ko
+[09] : CAVESANH.B�N : 0 002 ko
+[10] : CAVEVIN .C�I : 0 002 ko
+[11] : CAVEVIN .E�S : 0 002 ko
+[12] : CHAMBRE .E�S : 0 002 ko
+[13] : CHAMI   .E�S : 0 003 ko
+[14] : CHENFANT.E�S : 0 003 ko
+[15] : CHIEN   .E�S : 0 002 ko
+[16] : COULOIR .E�S : 0 003 ko
+[17] : CUISINE .E�S : 0 002 ko
+[18] : DECOMP  .B�N : 0 001 ko
+[19] : DEHORS  .E�S : 0 002 ko
+[20] : ENFANT  .E�S : 0 002 ko
+[21] : ENFANT  .E�O : 0 003 ko
+[22] : ENTREE  .E�S : 0 003 ko
+[23] : ENTREE2 .E�S : 0 003 ko
+[24] : ESPRIT  .E�S : 0 003 ko
+[25] : FACE    . �  : 0 001 ko
+[26] : FEMME   .E�S : 0 002 ko
+[27] : FIN     .E�S : 0 002 ko
+[28] : FLAMTETE.E�S : 0 003 ko
+[29] : FRIGID  .E�S : 0 002 ko
+[30] : JANE    .E�S : 0 002 ko
+[31] : JESUS   .E�S : 0 002 ko
+[32] : LAC     .B�N : 0 006 ko
+[33] : LAVABO  .E�S : 0 002 ko
+[34] : LAVABO  .S�T : 0 002 ko
+[35] : LAVABO  .S�G : 0 002 ko
+[36] : MORT    .E�S : 0 002 ko
+[37] : OEIL    .E�S : 0 002 ko
+[38] : PART1   .J�U : 0 022 ko
+[40] : PART2   .J�U : 0 017 ko
+[42] : PLACARD .O�V : 0 002 ko
+[43] : SALLEAM .E�S : 0 003 ko
+[44] : SALLEDB .E�S : 0 002 ko
+[45] : SALLEDB .M�U : 0 002 ko
+[46] : SALLEDB .R�S : 0 002 ko
+[47] : SALLEDB .R�O : 0 002 ko
+[48] : SALLEDB .S�M : 0 002 ko
+[49] : SALON   .E�S : 0 003 ko
+[50] : TELEFOND.E�S : 0 002 ko
+[51] : TETE    .E�S : 0 002 ko
+[52] : TETE    .R�S : 0 002 ko
+[53] : TETEMORT.I�A : 0 003 ko
+[54] : TOUT    .B�N : 0 015 ko
+[55] : TOUT2   .B�N : 0 013 ko
+Dsk 187 Ko used

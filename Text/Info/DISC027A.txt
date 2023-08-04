@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : -FP     .BIN : 0 025 ko
+[02] : INTER   .B�N : 0 038 ko
+[03] : -HOMERUN.BAS : 0 001 ko
+[04] : HR1     .B�N : 0 009 ko
+[05] : ��Ԡ����.S�� : 0 001 ko
+[06] : �����Ԡ�.S�� : 0 028 ko
+[08] : -JETSET1.BAS : 0 001 ko
+[10] : �����Ơ�.S�� : 0 036 ko
+[13] : �����Ǡ�.S�� : 0 013 ko
+[14] : -SABRE  .BAS : 0 001 ko
+[15] : -TROUBLE.BAS : 0 009 ko
+[16] : TROUBLE .L�V : 0 003 ko
+[17] : TROUBLE .P�I : 0 001 ko
+[18] : TROUBLE .R�X : 0 002 ko
+[19] : MENU    .BAS : 0 001 ko
+[21] : -INTERCH.BAS : 0 001 ko
+[22] : INTERIMA.P�W : 0 006 ko
+[24] : SABRE   .I�L : 0 004 ko
+[26] : -FER    .BAS : 0 007 ko
+Dsk 187 Ko used

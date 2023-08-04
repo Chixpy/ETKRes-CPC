@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BADLANDS.BAS : 0 001 ko
+[01] : BADLAND1.B�N : 0 035 ko
+[04] : BADLAND2.B�N : 0 015 ko
+[05] : XYPHOES .    : 0 013 ko
+[06] : XYPHOES .��1 : 0 017 ko
+[08] : XYPHOES .��2 : 0 017 ko
+[10] : XYPHOES .��3 : 0 010 ko
+[11] : XYPHOES .��1 : 0 002 ko
+[12] : INVASION.BAS : 0 001 ko
+[14] : INVASION.B�N : 0 031 ko
+[16] : MILKRACE.B�N : 0 033 ko
+[17] : MILKRACE.BAS : 0 001 ko
+[20] : INVASIMA.P�W : 0 006 ko
+[21] : MILKRIMA.P�W : 0 005 ko
+Dsk 187 Ko used

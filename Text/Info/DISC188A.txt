@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HONGKONG.BAS : 0 001 ko
+[01] : HONGKONG.B�N : 0 039 ko
+[04] : EAGLES  .BAS : 0 001 ko
+[05] : EAGLES  .B�N : 0 029 ko
+[07] : SWIV    .BAS : 0 001 ko
+[08] : SWIV    .T�1 : 0 011 ko
+[09] : SWIV    .T�2 : 0 013 ko
+[10] : SWIV    .T�3 : 0 012 ko
+[11] : SWIV    .T�4 : 0 013 ko
+[12] : SWIV    .T�5 : 0 024 ko
+[14] : SWIV    .T�6 : 0 029 ko
+[16] : SWIV    .B�N : 0 003 ko
+[17] : CRUSHER .BAS : 0 002 ko
+[18] : KONGIMA .P�W : 0 005 ko
+[19] : EAGLEIMA.P�W : 0 004 ko
+Dsk 187 Ko used

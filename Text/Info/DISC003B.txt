@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHENILLE.BAS : 0 008 ko
+[01] : EYE     .BIN : 0 037 ko
+[04] : MELTDOWN.BAS : 0 003 ko
+[05] : MINICALC.BAS : 0 011 ko
+[06] : PUNCH   .BAS : 0 001 ko
+[07] : PUNCH   .P�1 : 0 038 ko
+[10] : PUNCH   .P�3 : 0 028 ko
+[12] : ROL     .B�N : 0 020 ko
+[14] : ROLAND  .BAS : 0 002 ko
+[15] : XENO    .BAS : 0 001 ko
+[16] : XENO    .B�N : 0 022 ko
+[18] : XENODSCR.P�W : 0 005 ko
+[19] : XENOPSCR.P�W : 0 005 ko
+[20] : CADRECOM.P�W : 0 002 ko
+[21] : PUNCHKOM.P�W : 0 004 ko
+Dsk 187 Ko used

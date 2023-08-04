@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLINKY  .BIN : 0 037 ko
+[03] : GOLDHUNT.BAS : 0 007 ko
+[04] : GOLDHUNT.B�N : 0 005 ko
+[05] : PAWS    .BIN : 0 023 ko
+[07] : PENGUINS.BIN : 0 016 ko
+[08] : POWERTET.BAS : 0 001 ko
+[09] : POWERTET.B�N : 0 011 ko
+[10] : PT      .BAK : 0 001 ko
+[11] : T-BIRD  .BAS : 0 001 ko
+[12] : T-BIRD  .B�N : 0 016 ko
+[13] : TANIUM  .BAS : 0 001 ko
+[14] : TANIUM  .B�N : 0 016 ko
+[15] : TEMPLE  .BAS : 0 001 ko
+[16] : TEMPLE  .B�N : 0 038 ko
+[20] : T-BIRD  .C�C : 0 003 ko
+[21] : TEMPLE  .I�L : 0 009 ko
+Dsk 186 Ko used

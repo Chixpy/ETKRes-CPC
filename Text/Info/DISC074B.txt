@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ADVDPL  .B�N : 0 005 ko
+[01] : ARTWORK .BAS : 0 003 ko
+[02] : AW      .B�S : 0 012 ko
+[03] : AWCODE  .B�N : 0 006 ko
+[04] : REDMOON .BAS : 0 001 ko
+[05] : BOB     .BAS : 0 001 ko
+[06] : BOB3    .B�N : 0 001 ko
+[07] : BOBCODE .B�N : 0 037 ko
+[10] : BUST-OUT.BIN : 0 002 ko
+[11] : COMPRESS.B�N : 0 001 ko
+[12] : DEMO    .A�S : 0 017 ko
+[14] : DEMO    .A�V : 0 001 ko
+[15] : FORMATEX.BAS : 0 002 ko
+[16] : HBDATA  .B�N : 0 006 ko
+[17] : HBTOP   . �  : 0 001 ko
+[18] : HURRICAN.BAS : 0 007 ko
+[19] : METALLIC.B�N : 0 001 ko
+[20] : MOONCODE.B�N : 0 034 ko
+[23] : PINGPONG.BAS : 0 001 ko
+[24] : PINGPONG.B�N : 0 014 ko
+[25] : PINGPONG.C�C : 0 003 ko
+[26] : SCROLL  .B�N : 0 001 ko
+[27] : MASCHESS.BIN : 0 011 ko
+[28] : TIMEBOMB.BAS : 0 011 ko
+[29] : TIMEBOMB.C�M : 0 003 ko
+[30] : BOBIMA  .P�W : 0 005 ko
+Dsk 187 Ko used

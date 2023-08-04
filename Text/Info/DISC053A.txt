@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BECANE  .BAS : 0 009 ko
+[01] : BECANE1 .B�N : 0 001 ko
+[02] : DESSIN-0.B�N : 0 001 ko
+[03] : DESSIN-1.T�Q : 0 007 ko
+[04] : DESSIN-2.T�Q : 0 007 ko
+[05] : DESSIN-3.T�Q : 0 007 ko
+[06] : DESSIN-4.T�Q : 0 007 ko
+[07] : TAQUIN  .BAS : 0 004 ko
+[08] : DESTRUCT.B�N : 0 038 ko
+[09] : METRO   .BAS : 0 013 ko
+[10] : GLUECK  .BAS : 0 009 ko
+[12] : GLUECK  .L�  : 0 002 ko
+[14] : DESTRUCT.BAS : 0 002 ko
+[15] : DESTRKOM.P�W : 0 007 ko
+[16] : CROCO3  .C�M : 0 003 ko
+[17] : CROCO   .1�  : 0 005 ko
+[18] : CROCO   .4�  : 0 002 ko
+[19] : CROCO   .6�  : 0 001 ko
+[20] : METRO1  .B�S : 0 001 ko
+[21] : TBLMETRO.D�T : 0 004 ko
+[22] : VARMETRO.D�T : 0 001 ko
+[23] : CROCO   .8�  : 0 003 ko
+[24] : CROCO   .9�  : 0 002 ko
+[25] : GLUECK  .C�M : 0 003 ko
+[26] : CROCO5  .C�M : 0 002 ko
+[27] : BECANE2 .B�N : 0 001 ko
+[28] : CROCO   .BAS : 0 002 ko
+[29] : TABLEAUX.T�2 : 0 004 ko
+[30] : EDITEUR . �  : 0 004 ko
+[31] : TABLEAU .T�1 : 0 004 ko
+[32] : METRO   .B�N : 0 026 ko
+[34] : METRO   .S�R : 0 005 ko
+Dsk 187 Ko used

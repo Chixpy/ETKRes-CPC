@@ -1,0 +1,37 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : A       .B�S : 0 016 ko
+[01] : PACIFIC .BAS : 0 001 ko
+[02] : CARTE   .B�N : 0 007 ko
+[03] : PACIFIC .B�N : 0 030 ko
+[04] : FIN     .B�S : 0 004 ko
+[05] : M       .B�S : 0 016 ko
+[06] : TB1     .B�N : 0 004 ko
+[07] : TB10    .B�N : 0 002 ko
+[08] : TB2     .B�N : 0 003 ko
+[09] : TB3     .B�N : 0 004 ko
+[10] : TB4     .B�N : 0 004 ko
+[11] : TB5     .B�N : 0 003 ko
+[12] : TB6     .B�N : 0 004 ko
+[13] : TB7     .B�N : 0 004 ko
+[14] : TTAB0   .B�N : 0 004 ko
+[15] : TTAB1   .B�N : 0 005 ko
+[16] : TTAB10  .B�N : 0 004 ko
+[17] : TTAB11  .B�N : 0 004 ko
+[18] : TTAB12  .B�N : 0 004 ko
+[19] : TTAB13  .B�N : 0 004 ko
+[20] : TTAB14  .B�N : 0 003 ko
+[21] : TTAB15  .B�N : 0 005 ko
+[22] : TTAB2   .B�N : 0 003 ko
+[23] : TTAB3   .B�N : 0 005 ko
+[24] : TTAB4   .B�N : 0 005 ko
+[25] : TTAB5   .B�N : 0 004 ko
+[26] : TTAB6   .B�N : 0 004 ko
+[27] : TTAB7   .B�N : 0 004 ko
+[28] : TTAB8   .B�N : 0 004 ko
+[29] : TTAB9   .B�N : 0 004 ko
+[30] : TTB6    .B�N : 0 004 ko
+[31] : TTB9    .B�N : 0 004 ko
+[32] : TTTAB0  .B�N : 0 004 ko
+[34] : PACIFIMA.P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AQUA    .B�N : 0 022 ko
+[02] : AQUAA   .B�N : 0 002 ko
+[03] : AQUAB   .B�N : 0 003 ko
+[04] : AQUAC   .B�N : 0 003 ko
+[05] : AQUAG   .B�N : 0 003 ko
+[06] : AQUAH   .B�N : 0 003 ko
+[07] : AQUAI   .B�N : 0 004 ko
+[08] : AQUAJ   .B�N : 0 004 ko
+[09] : AQUAK   .B�N : 0 004 ko
+[10] : AQUAL   .B�N : 0 002 ko
+[11] : AQUANAUT.BAS : 0 001 ko
+[12] : ATEAM   .BAS : 0 001 ko
+[13] : BOUNDER .BAS : 0 001 ko
+[14] : BOUNDER1.B�N : 0 020 ko
+[16] : BOUNDER2.B�N : 0 003 ko
+[17] : ATEAM1  .B�N : 0 033 ko
+[20] : ATEAM2  .B�N : 0 014 ko
+[21] : ATEAMSCR.P�W : 0 006 ko
+[22] : STAN    .B�N : 0 010 ko
+[23] : ATLANTIS.BIN : 0 013 ko
+[24] : BARNEY  .BIN : 0 022 ko
+[26] : STANLEY .BAS : 0 002 ko
+[27] : ALICAN  .BAS : 0 008 ko
+[28] : ALICASCR.P�W : 0 003 ko
+Dsk 187 Ko used

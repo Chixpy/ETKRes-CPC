@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3DSTAR  .BAS : 0 001 ko
+[01] : 3DSTAR  .B�N : 0 039 ko
+[04] : MYTH    .BAS : 0 001 ko
+[05] : MYTH    .B�N : 0 009 ko
+[06] : MYTH    .L�1 : 0 032 ko
+[08] : MYTH    .L�2 : 0 032 ko
+[10] : MYTH    .L�3 : 0 032 ko
+[12] : MYTH    .L�4 : 0 032 ko
+[14] : 3DSTAR  .I�L : 0 009 ko
+Dsk 187 Ko used

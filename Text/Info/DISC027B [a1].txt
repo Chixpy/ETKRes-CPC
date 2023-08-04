@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 20000   .BAS : 0 001 ko
+[01] : BOBBY   .BAS : 0 001 ko
+[02] : BOBBY   .B�N : 0 037 ko
+[05] : XCEL    .BAS : 0 001 ko
+[06] : XCEL    .B�N : 0 040 ko
+[07] : FER     .BAS : 0 006 ko
+[08] : DEFENSE .BAS : 0 004 ko
+[10] : SPORT   .BAS : 0 005 ko
+[11] : SPORT   .0�1 : 0 003 ko
+[12] : JEU     .B�N : 0 041 ko
+[15] : DDHS    .    : 0 001 ko
+[17] : 20000IMA.P�W : 0 007 ko
+[18] : DDHS    .BAK : 0 001 ko
+[20] : DD      .B�N : 0 004 ko
+[21] : SPORT   .0�2 : 0 003 ko
+[22] : SPORT   .0�3 : 0 004 ko
+[23] : DREHDRIS.BAS : 0 005 ko
+[24] : BOBBYSCR.P�W : 0 004 ko
+[25] : XCELIMA .P�W : 0 004 ko
+[26] : NINJA   .BIN : 0 014 ko
+Dsk 186 Ko used

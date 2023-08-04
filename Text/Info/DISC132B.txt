@@ -1,0 +1,42 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CEDIC   .B�N : 0 008 ko
+[01] : AL      .B�S : 0 017 ko
+[03] : BO      .B�S : 0 015 ko
+[04] : CEDIC1  .B�N : 0 002 ko
+[05] : CC      .B�S : 0 016 ko
+[06] : DEPART  .BAS : 0 001 ko
+[07] : BLITZ   .BAS : 0 002 ko
+[08] : INDAL   .I�D : 0 001 ko
+[09] : INFOAL1 . �  : 0 001 ko
+[10] : FICAL1  . �  : 0 002 ko
+[11] : FICAL3  . �  : 0 002 ko
+[12] : FICAL2  . �  : 0 002 ko
+[13] : FICAL4  . �  : 0 002 ko
+[14] : FICAL6  . �  : 0 002 ko
+[15] : FICAL5  . �  : 0 002 ko
+[16] : INDCC   .I�D : 0 001 ko
+[17] : INDBO   .I�D : 0 001 ko
+[18] : INFOCC1 . �  : 0 001 ko
+[19] : INFOCC2 . �  : 0 001 ko
+[20] : INFOCC3 . �  : 0 001 ko
+[21] : INFOBO1 . �  : 0 001 ko
+[22] : INFOBO2 . �  : 0 001 ko
+[23] : FICCC1  . �  : 0 003 ko
+[24] : FICCC3  . �  : 0 003 ko
+[25] : FICCC6  . �  : 0 003 ko
+[26] : FICCC5  . �  : 0 003 ko
+[27] : FICCC2  . �  : 0 003 ko
+[28] : FICBO1  . �  : 0 003 ko
+[29] : FICCC4  . �  : 0 003 ko
+[30] : FICBO3  . �  : 0 003 ko
+[31] : FICBO4  . �  : 0 003 ko
+[32] : FICBO2  . �  : 0 003 ko
+[33] : FICBO5  . �  : 0 003 ko
+[34] : FICBO6  . �  : 0 003 ko
+[35] : MENU    .B�S : 0 004 ko
+[36] : SLAPFIGH.BAS : 0 001 ko
+[37] : SLAPFIGH.B�N : 0 040 ko
+[40] : SLAPFIGH.I�L : 0 008 ko
+[41] : DIETETIC.BAS : 0 016 ko
+Dsk 187 Ko used

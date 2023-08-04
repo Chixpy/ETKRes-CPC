@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BULLY   .BAS : 0 001 ko
+[01] : BULLY   .B�N : 0 017 ko
+[03] : CHICAGO .BAS : 0 007 ko
+[04] : CHICAGO .B�N : 0 006 ko
+[05] : FLASH   .BAS : 0 001 ko
+[06] : FLASH   .B�N : 0 030 ko
+[08] : HAVOC   .BIN : 0 029 ko
+[10] : IRONMAN .BAS : 0 001 ko
+[11] : IRONMAN .B�N : 0 030 ko
+[13] : MBORNES .BAS : 0 013 ko
+[14] : RUNNER1 . �  : 0 006 ko
+[15] : RUNNER2 .BAS : 0 008 ko
+[16] : ZYCLONS .BIN : 0 017 ko
+[18] : BULLYSCR.P�W : 0 005 ko
+[19] : CHICAGO .C�C : 0 002 ko
+[20] : FLASHSCR.P�W : 0 007 ko
+[21] : IRONMSCR.P�W : 0 007 ko
+Dsk 187 Ko used

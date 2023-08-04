@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANDROID2.BAS : 0 001 ko
+[01] : ANDROID2.B�N : 0 038 ko
+[04] : ANDROID2.P�W : 0 002 ko
+[05] : CAMELOT .BAS : 0 001 ko
+[06] : CAMELOT .B�N : 0 035 ko
+[09] : MIAMI   .BAS : 0 001 ko
+[10] : MIAMI1  .B�N : 0 032 ko
+[12] : MIAMI2  .B�N : 0 013 ko
+[13] : MIAMISCR.P�W : 0 005 ko
+[14] : OSHIDI  .BAS : 0 004 ko
+[15] : STRANGE .B�N : 0 042 ko
+[18] : STRANGE+.BAS : 0 001 ko
+[19] : CAMELIMA.P�W : 0 006 ko
+[20] : STRANIMA.P�W : 0 006 ko
+Dsk 187 Ko used

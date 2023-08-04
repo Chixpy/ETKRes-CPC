@@ -1,0 +1,47 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 10 start at sector 65 while track 0 starts at 193
+Warning : track 11 start at sector 65 while track 0 starts at 193
+Warning : track 12 start at sector 65 while track 0 starts at 193
+Warning : track 13 start at sector 65 while track 0 starts at 193
+Warning : track 14 start at sector 65 while track 0 starts at 193
+Warning : track 15 start at sector 65 while track 0 starts at 193
+Warning : track 16 start at sector 65 while track 0 starts at 193
+Warning : track 17 start at sector 65 while track 0 starts at 193
+Warning : track 18 start at sector 65 while track 0 starts at 193
+Warning : track 19 start at sector 65 while track 0 starts at 193
+Warning : track 20 start at sector 65 while track 0 starts at 193
+Warning : track 21 start at sector 65 while track 0 starts at 193
+Warning : track 22 start at sector 65 while track 0 starts at 193
+Warning : track 23 start at sector 65 while track 0 starts at 193
+Warning : track 24 start at sector 65 while track 0 starts at 193
+Warning : track 25 start at sector 65 while track 0 starts at 193
+Warning : track 26 start at sector 65 while track 0 starts at 193
+Warning : track 27 start at sector 65 while track 0 starts at 193
+Warning : track 28 start at sector 65 while track 0 starts at 193
+Warning : track 29 start at sector 65 while track 0 starts at 193
+Warning : track 30 start at sector 65 while track 0 starts at 193
+Warning : track 31 start at sector 65 while track 0 starts at 193
+Warning : track 32 start at sector 65 while track 0 starts at 193
+Warning : track 33 start at sector 65 while track 0 starts at 193
+Warning : track 34 start at sector 65 while track 0 starts at 193
+Warning : track 35 start at sector 65 while track 0 starts at 193
+Warning : track 36 start at sector 65 while track 0 starts at 193
+Warning : track 37 start at sector 65 while track 0 starts at 193
+Warning : track 38 start at sector 65 while track 0 starts at 193
+Warning : track 39 start at sector 65 while track 0 starts at 193
+[00] : S2      .BAS : 0 001 ko
+[01] : PROG1   .B�N : 0 038 ko
+[04] : PROG2   .B�N : 0 005 ko
+[05] : SUPER   .B�N : 0 001 ko
+[06] : S-CYCLE .BAS : 0 001 ko
+[07] : S-CYCLE1.NHF : 15 032 ko
+[09] : S-CYCLE2.NHF : 15 032 ko
+[11] : S-CYCLE3.NHF : 15 032 ko
+[13] : S-CYCLE4.NHF : 15 032 ko
+[15] : S-CYCLE5.NHF : 15 006 ko
+[16] : TURBOREL.B�N : 0 001 ko
+[17] : TURBOREL.BAS : 0 002 ko
+[18] : MINIDAC .BAS : 0 001 ko
+[19] : S2SCR   .P�W : 0 003 ko
+Dsk 187 Ko used

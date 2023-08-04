@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FLYSPY  .BAS : 0 001 ko
+[01] : SHOE    .BIN : 0 024 ko
+[03] : SHOEPEOP.T�1 : 0 018 ko
+[05] : SHOEPEOP.T�2 : 0 011 ko
+[06] : SHOEPEOP.T�3 : 0 018 ko
+[08] : SHOEPEOP.T�4 : 0 009 ko
+[09] : SHOEPEOP.T�5 : 0 011 ko
+[10] : SHOEPEOP.T�6 : 0 017 ko
+[12] : FLYSPY1 .B�N : 0 040 ko
+[15] : FLYSPY2 .B�N : 0 008 ko
+[16] : FLYSPY  .C�M : 0 005 ko
+[18] : F15     .BIN : 0 025 ko
+Dsk 187 Ko used

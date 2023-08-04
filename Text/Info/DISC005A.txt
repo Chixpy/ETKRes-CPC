@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] :   MARK  .�   : 0 001 ko
+[01] : SHANGHAI.BIN : 0 013 ko
+[02] : HAUNTED .BIN : 0 008 ko
+[03] : YDROFOOL.BAS : 0 001 ko
+[04] : YDROFOOL.B�N : 0 037 ko
+[07] : JOUST   .BIN : 0 038 ko
+[08] : EREIGNIS.B�S : 0 001 ko
+[09] : GRAFSPRI.B�N : 0 001 ko
+[10] : JEUX    .BAS : 0 001 ko
+[11] : LANDFRAG.1�  : 0 002 ko
+[12] : LANDGRAF.BAS : 0 018 ko
+[14] : LANDGRAF.D�T : 0 001 ko
+[15] : TANKSCR .P�W : 0 005 ko
+[16] : TANK3   .B�N : 0 038 ko
+[17] : HYDROIMA.P�W : 0 005 ko
+[19] : GPDRIVER.BAS : 0 001 ko
+[20] : DRIVER  .B�N : 0 005 ko
+[21] : TANK    .BAS : 0 001 ko
+[23] : TANK4   .B�N : 0 010 ko
+Dsk 187 Ko used

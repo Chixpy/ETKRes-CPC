@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TOTALSCR.P�W : 0 005 ko
+[01] : TOTAL   .BAS : 0 001 ko
+[02] : ROADRUN .BAS : 0 001 ko
+[03] : ROADRUN .B�N : 0 033 ko
+[04] : TOTAL   .��1 : 0 013 ko
+[05] : TOTAL   .��2 : 0 013 ko
+[06] : TOTAL   .��3 : 0 011 ko
+[07] : TOTAL   .��4 : 0 011 ko
+[09] : TOTAL   .B�N : 0 027 ko
+[10] : L&LDIE  .BAS : 0 001 ko
+[11] : L&LDIE1 .B�N : 0 037 ko
+[16] : L&LDIE2 .B�N : 0 009 ko
+[17] : L&LDIE  .I�L : 0 010 ko
+[18] : ROADRSCR.P�W : 0 006 ko
+[19] : SPHERIC .BAS : 0 001 ko
+[20] : SPHERIC .B�N : 0 008 ko
+Dsk 187 Ko used

@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : K-TYME  .BAS : 0 001 ko
+[01] : KT1     .B�N : 0 033 ko
+[04] : KT2     .B�N : 0 011 ko
+[05] : KT      .I�L : 0 005 ko
+[06] : BUBGHOST.BAS : 0 001 ko
+[07] : BUBBLE1 .B�N : 0 030 ko
+[09] : BUBBLE2 .B�N : 0 014 ko
+[10] : BUBBLE  .P�W : 0 009 ko
+[11] : MAPFORMA.BAS : 0 009 ko
+[12] : MAPFORMA.D�T : 0 002 ko
+[13] : XENON   .BAS : 0 004 ko
+[14] : XENON1  .B�S : 0 009 ko
+[15] : XENON2  .B�S : 0 009 ko
+[16] : XENON3  .B�S : 0 004 ko
+[17] : XENON4  .B�S : 0 006 ko
+[18] : BRICOL  .BAS : 0 007 ko
+[19] : BRICO   .C�M : 0 005 ko
+[20] : BRICOL  .B�N : 0 003 ko
+[21] : WOK     .BAS : 0 003 ko
+[22] : WOK     .B�N : 0 011 ko
+[23] : BUG     .B�N : 0 003 ko
+[24] : THEBUG  .BAS : 0 008 ko
+Dsk 187 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MURENE  .BAS : 0 001 ko
+[01] : SKATE   .BAS : 0 002 ko
+[02] : SKATE1  .B�N : 0 030 ko
+[04] : SKATE2  .B�N : 0 017 ko
+[06] : SKATE3  .B�N : 0 033 ko
+[09] : SKATE4  .B�N : 0 011 ko
+[10] : SKATEA1 .B�N : 0 004 ko
+[11] : SKATEA2 .B�N : 0 004 ko
+[12] : SKATEA3 .B�N : 0 004 ko
+[13] : SKATEB4 .B�N : 0 013 ko
+[14] : SKATEB5 .B�N : 0 013 ko
+[15] : SKATEB6 .B�N : 0 013 ko
+[16] : STARBOY .BAS : 0 001 ko
+[17] : STARBOY .B�N : 0 029 ko
+[19] : SKATEFIN.I�A : 0 007 ko
+[20] : SKATEIMA.P�W : 0 005 ko
+Dsk 187 Ko used

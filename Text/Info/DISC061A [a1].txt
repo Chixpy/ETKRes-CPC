@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MENU    .BAS : 0 001 ko
+[01] : FIRETRAP.BIN : 0 016 ko
+[02] : JT37    .BIN : 0 011 ko
+[03] : MANSELL .BAK : 0 001 ko
+[04] : MANSELL .BAS : 0 001 ko
+[05] : MANSELL .B�1 : 0 001 ko
+[06] : MANSELL .B�2 : 0 001 ko
+[07] : MANSELL .B�3 : 0 002 ko
+[08] : MANSELL .B�4 : 0 002 ko
+[09] : MANSELL .B�5 : 0 002 ko
+[10] : MANSELL .B�6 : 0 001 ko
+[11] : MANSELL .B�N : 0 027 ko
+[14] : CASINO  .BAS : 0 001 ko
+[15] : CASINO  .B�N : 0 032 ko
+[17] : POSTMAN2.BAS : 0 001 ko
+[18] : POSTMAN2.B�N : 0 024 ko
+[20] : REVEAL  .BAS : 0 001 ko
+[21] : REVEAL  .B�N : 0 012 ko
+[22] : ROOMTEN .BAS : 0 001 ko
+[23] : ROOMTEN .B�N : 0 017 ko
+[25] : RICOCHET.BIN : 0 011 ko
+[26] : MANSELL .P�W : 0 003 ko
+[27] : POST2IMA.P�W : 0 005 ko
+[28] : REVEASCR.P�W : 0 002 ko
+[29] : ROOMIMA .P�W : 0 004 ko
+[30] : CASINSCR.P�W : 0 006 ko
+Dsk 186 Ko used

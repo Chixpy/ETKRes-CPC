@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DYNASTY .BAS : 0 001 ko
+[01] : DYNASIMA.P�W : 0 006 ko
+[02] : DYNASTY .B�N : 0 001 ko
+[03] : DYNASTY .N�1 : 0 010 ko
+[04] : DYNASTY .N�2 : 0 010 ko
+[05] : DYNASTY .N�3 : 0 011 ko
+[06] : DYNASTY .N�4 : 0 011 ko
+[07] : DYNASTY .N�5 : 0 011 ko
+[08] : DYNASTY .N�6 : 0 011 ko
+[09] : DYNASTY .N�7 : 0 011 ko
+[10] : DYNASTY .N�8 : 0 011 ko
+[11] : DYNASTY .N�9 : 0 008 ko
+[12] : DYNASTY .N�0 : 0 008 ko
+[13] : DYNASTY .N�1 : 0 007 ko
+[14] : DYNASTY .N�2 : 0 010 ko
+[15] : DYNASTY .N�3 : 0 025 ko
+[17] : HOPPIN  .BAS : 0 001 ko
+[18] : HOPPIN  .B�N : 0 027 ko
+[20] : HOPPIN  .I�L : 0 007 ko
+Dsk 187 Ko used

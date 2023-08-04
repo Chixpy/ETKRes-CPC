@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SHARKEY .BAS : 0 001 ko
+[01] : SHARKEY .B�N : 0 038 ko
+[04] : EDITOR  .BAS : 0 001 ko
+[05] : SHARKIMA.P�W : 0 004 ko
+[06] : BLOODWY .BIN : 0 001 ko
+[07] : BLOODWY2.B�N : 0 009 ko
+[08] : BLOODWY3.B�N : 0 032 ko
+[10] : BLOODWY4.B�N : 0 016 ko
+[11] : BLOODWY5.B�N : 0 001 ko
+[12] : BLOODWY6.B�N : 0 008 ko
+[13] : BLOODWY7.B�N : 0 003 ko
+[14] : BLOODWYC.S�V : 0 004 ko
+[15] : SKOH    .BIN : 0 035 ko
+[18] : S&KOH   .B�N : 0 034 ko
+Dsk 187 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROLEXON .BAS : 0 002 ko
+[01] : AMSBRIC .BAS : 0 007 ko
+[02] : BATMAN3 .B�N : 0 032 ko
+[04] : BATMAN4 .R�M : 0 017 ko
+[06] : BATMAN5 .R�M : 0 017 ko
+[08] : BATMAN6 .R�M : 0 017 ko
+[10] : BATMAN7 .R�M : 0 015 ko
+[11] : BATMANII.BAS : 0 001 ko
+[12] : BILLY   .BIN : 0 012 ko
+[16] : LABEL   .BAS : 0 002 ko
+[17] : CYBER1  .B�N : 0 037 ko
+[21] : BATMAN3 .I�L : 0 006 ko
+[22] : CYBER2  .B�N : 0 011 ko
+[23] : CYBERIMA.P�W : 0 010 ko
+[24] : CYBERII .BAS : 0 001 ko
+Dsk 187 Ko used

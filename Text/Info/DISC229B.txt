@@ -1,0 +1,40 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CADRECOM.P�W : 0 003 ko
+[01] : GARFUNK .BAS : 0 008 ko
+[02] : KORONIMA.P�W : 0 005 ko
+[03] : KORONIS .BAS : 0 001 ko
+[04] : KORONIS .B�N : 0 029 ko
+[06] : KORONIS .L�0 : 0 003 ko
+[07] : KORONIS .L�1 : 0 003 ko
+[08] : KORONIS .L�2 : 0 003 ko
+[09] : KORONIS .L�3 : 0 003 ko
+[10] : KORONIS .L�4 : 0 002 ko
+[11] : KORONIS .L�5 : 0 003 ko
+[12] : KORONIS .L�6 : 0 002 ko
+[13] : KORONIS .L�7 : 0 002 ko
+[14] : KORONIS .L�8 : 0 002 ko
+[15] : KORONIS .L�9 : 0 003 ko
+[16] : KORONIS .L�0 : 0 002 ko
+[17] : KORONIS .L�1 : 0 002 ko
+[18] : KORONIS .L�2 : 0 002 ko
+[19] : KORONIS .L�3 : 0 002 ko
+[20] : KORONIS .L�4 : 0 003 ko
+[21] : KORONIS .L�5 : 0 002 ko
+[22] : KORONIS .L�6 : 0 003 ko
+[23] : KORONIS .L�7 : 0 002 ko
+[24] : KORONIS .L�8 : 0 002 ko
+[25] : KORONIS .L�9 : 0 002 ko
+[26] : MAGIC   .BIN : 0 013 ko
+[27] : VIEW    .BIN : 0 006 ko
+[28] : VIEW    .D�C : 0 005 ko
+[29] : WACKY   .B�N : 0 014 ko
+[30] : WACKYIMA.P�W : 0 005 ko
+[31] : WACKYRAC.BAS : 0 001 ko
+[32] : WACKYRAC.B�0 : 0 009 ko
+[33] : WACKYRAC.B�1 : 0 008 ko
+[34] : WACKYRAC.B�2 : 0 008 ko
+[35] : WACKYRAC.B�3 : 0 008 ko
+[36] : WACKYRAC.B�4 : 0 008 ko
+[37] : WACKYRAC.B�5 : 0 008 ko
+Dsk 187 Ko used

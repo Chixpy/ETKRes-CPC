@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACTION  .B�N : 0 027 ko
+[02] : ACTION2 .B�N : 0 010 ko
+[03] : SCORES  .BIN : 0 001 ko
+[04] : SERVICE .BAS : 0 001 ko
+[05] : SERVIMA .P�W : 0 006 ko
+[06] : USER0   .SAV : 0 003 ko
+[07] : SERVICE .M�S : 0 004 ko
+[08] : ACTION1 .B�N : 0 013 ko
+[09] : CONSET1 .B�N : 0 005 ko
+[10] : SORCIER1.N�F : 15 041 ko
+[13] : CONSET2 .B�N : 0 005 ko
+[14] : LOCDATA .B�N : 0 006 ko
+[15] : SMESSC  .B�N : 0 005 ko
+[16] : SORCERY .SPR : 0 005 ko
+[17] : SORCERY+.BAS : 0 001 ko
+[18] : SORCERY+.B�N : 0 016 ko
+[19] : SPRITES1.B�N : 0 014 ko
+[20] : SPRITES2.B�N : 0 014 ko
+[21] : TOURNE  .BAS : 0 001 ko
+[22] : CLAUSTRO.BAS : 0 007 ko
+[23] : MUCODE  .B�N : 0 002 ko
+Dsk 187 Ko used

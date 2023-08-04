@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLADE1  .B�N : 0 042 ko
+[03] : LEADBORD.BAS : 0 001 ko
+[04] : DESPOTIK.B�N : 0 040 ko
+[07] : DEATH   .BAS : 0 001 ko
+[08] : DESPOKOM.P�W : 0 008 ko
+[09] : DEATH   .I�  : 0 041 ko
+[10] : DESPOTIK.BAS : 0 001 ko
+[11] : LEADBORD.B�N : 0 034 ko
+[14] : MENUCAT .BAS : 0 001 ko
+[15] : BLADE1  .BAS : 0 001 ko
+[18] : BLADEIMA.P�W : 0 004 ko
+[19] : DEATH   .I�I : 0 003 ko
+[20] : GOLF    .C�M : 0 003 ko
+[21] : DEATHIMA.P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OGTI    .BIN : 0 009 ko
+[01] : BOSS2   .BAS : 0 008 ko
+[02] : BASIL   .B�N : 0 041 ko
+[05] : CHIC    .B�N : 0 002 ko
+[06] : BASIL   .BAS : 0 001 ko
+[07] : FOOTLOOS.BAS : 0 001 ko
+[08] : FOOTLOOS.B�N : 0 009 ko
+[09] : FUCKI   .A�S : 0 002 ko
+[10] : FUCKI   .B�2 : 0 010 ko
+[11] : FUCKI   .BAS : 0 004 ko
+[12] : FUCKI   .C�D : 0 005 ko
+[13] : FUCKI   .M�S : 0 004 ko
+[14] : FUCKI   .R�C : 0 001 ko
+[15] : FUCKI   .R�X : 0 002 ko
+[16] : FUCKI   .S�R : 0 006 ko
+[17] : FUCKI   .S�R : 0 005 ko
+[18] : PICLOS  .BIN : 0 013 ko
+[19] : QUESTOR .BAS : 0 001 ko
+[20] : QUESTOR .B�N : 0 036 ko
+[23] : ROUTARD .BAS : 0 014 ko
+[24] : QUESTIMA.P�W : 0 002 ko
+[25] : BASILIMA.P�W : 0 008 ko
+[26] : ROUTES  .I�L : 0 003 ko
+Dsk 187 Ko used

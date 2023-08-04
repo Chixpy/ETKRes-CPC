@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GOLFO   .B�1 : 0 012 ko
+[01] : GOLFO   .BAS : 0 001 ko
+[02] : GOLFO   .L�1 : 0 041 ko
+[05] : GOLFO   .L�2 : 0 039 ko
+[08] : MAGMAX  .BAS : 0 001 ko
+[09] : MAGMAX  .B�N : 0 034 ko
+[12] : PROG1   .B�N : 0 038 ko
+[15] : PROG2   .B�N : 0 005 ko
+[16] : SABOTEUR.BAS : 0 001 ko
+[17] : GOLFOSCR.P�W : 0 008 ko
+[18] : MAGMAIMA.P�W : 0 007 ko
+Dsk 187 Ko used

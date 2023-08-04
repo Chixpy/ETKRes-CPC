@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TWIN    .L�  : 0 010 ko
+[01] : TWIN    .M�  : 0 010 ko
+[02] : TWIN    .N�  : 0 009 ko
+[03] : TWIN    .O�  : 0 009 ko
+[04] : TWIN    .P�  : 0 010 ko
+[05] : TWIN    .P�  : 0 011 ko
+[06] : TWIN    .Q�  : 0 010 ko
+[07] : TWIN    .R�  : 0 011 ko
+[08] : TWIN    .S�  : 0 011 ko
+[09] : TWIN    .T�  : 0 011 ko
+[10] : TWIN    .U�  : 0 010 ko
+[11] : TWIN    .U�  : 0 011 ko
+[12] : TWIN    .V�  : 0 010 ko
+[13] : TWIN    .W�  : 0 009 ko
+[14] : BACK1   .BAS : 0 001 ko
+[15] : BACK2   .B�S : 0 039 ko
+[18] : BACKIMA .P�W : 0 005 ko
+Dsk 187 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GORILLA .BAS : 0 001 ko
+[01] : GORILLA .B�N : 0 023 ko
+[03] : GORILSCR.P�W : 0 003 ko
+[04] : DICE    .BAS : 0 001 ko
+[05] : DIZZY1  .B�N : 0 018 ko
+[07] : SPECTRA .BIN : 0 040 ko
+[10] : SPECTRA .BAS : 0 001 ko
+[11] : ULTIMATE.BAS : 0 001 ko
+[12] : DIZZY   .P�G : 0 039 ko
+[15] : YOLKFOLK.BAS : 0 001 ko
+[16] : YOLKFOLK.B�N : 0 041 ko
+[19] : YOLKFOLK.I�L : 0 007 ko
+[20] : DIZZY   .I�L : 0 009 ko
+[21] : PROTEC  .BAS : 0 001 ko
+Dsk 186 Ko used

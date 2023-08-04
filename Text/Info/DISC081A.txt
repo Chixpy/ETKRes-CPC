@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SAVAGE  .BAS : 0 002 ko
+[01] : SAVAGE1 .B�N : 0 039 ko
+[04] : SAVAGE2 .B�N : 0 039 ko
+[07] : SAVAGE3 .B�N : 0 038 ko
+[10] : SAVINTRO.B�N : 0 029 ko
+[12] : SCREENS .B�N : 0 009 ko
+[13] : FIG     .V�L : 0 004 ko
+[14] : SUP     .BAS : 0 001 ko
+[15] : SUP     .B�N : 0 001 ko
+[16] : COMPACTA.BAS : 0 001 ko
+[17] : SAVAGSCR.P�W : 0 010 ko
+[18] : COMPACTA.B�N : 0 008 ko
+[19] : PATIENCE.BAS : 0 006 ko
+Dsk 187 Ko used

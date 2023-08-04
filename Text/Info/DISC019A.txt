@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ABIME   .    : 0 001 ko
+[01] : CARRE   .BAS : 0 001 ko
+[02] : CYBER1  .BAS : 0 001 ko
+[03] : CYBER1  .B�N : 0 036 ko
+[06] : CYBER2  .B�N : 0 012 ko
+[07] : CYBERSCR.P�W : 0 004 ko
+[08] : INTRO   .B�N : 0 031 ko
+[10] : MAIN    .B�N : 0 039 ko
+[13] : PAC-MAN .BAS : 0 005 ko
+[14] : PALACE  .BAS : 0 001 ko
+[15] : PALACE  .B�N : 0 038 ko
+[18] : THAN2   .B�N : 0 005 ko
+[19] : THANAIMA.P�W : 0 006 ko
+[20] : THANATOS.BAS : 0 001 ko
+[21] : WAR     .BAS : 0 006 ko
+Dsk 187 Ko used

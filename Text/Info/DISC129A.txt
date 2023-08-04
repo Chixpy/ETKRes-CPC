@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PACP    .B�N : 0 008 ko
+[01] : CHAT3   .B�N : 0 002 ko
+[02] : PACQ    .B�N : 0 004 ko
+[03] : PACB    .B�N : 0 018 ko
+[05] : PACA    .B�N : 0 023 ko
+[07] : PAC0    .B�N : 0 009 ko
+[08] : PACR    .B�N : 0 003 ko
+[09] : PACC    .B�N : 0 014 ko
+[10] : PACY    .B�N : 0 001 ko
+[11] : PACD    .B�N : 0 024 ko
+[13] : PASSAGER.BAS : 0 001 ko
+[14] : PACT    .B�N : 0 005 ko
+[15] : PACN    .B�N : 0 015 ko
+[16] : CHAT4   .B�N : 0 002 ko
+[17] : PACU    .B�N : 0 006 ko
+[18] : PACO    .B�N : 0 016 ko
+[19] : CHAT7   .B�N : 0 001 ko
+[20] : PACV    .B�N : 0 003 ko
+[21] : CHACOM  .B�S : 0 001 ko
+[22] : PAC7    .B�N : 0 003 ko
+[23] : PACZ    .B�N : 0 001 ko
+[24] : PAC1    .B�N : 0 004 ko
+[25] : AMLETTRE.BAS : 0 004 ko
+[26] : GOBANG  .BAS : 0 004 ko
+[27] : GOBANG  .B�N : 0 001 ko
+[28] : GOBANG  .C�C : 0 001 ko
+[29] : HARRIER .BIN : 0 006 ko
+[30] : CHANGE  .BAS : 0 001 ko
+[31] : PASSAIMA.P�W : 0 006 ko
+Dsk 187 Ko used

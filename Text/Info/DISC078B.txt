@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BAT1    .NHF : 15 001 ko
+[01] : BAT2    .NHF : 15 012 ko
+[02] : BAT3    .NHF : 15 001 ko
+[03] : BAT4    .NHF : 15 016 ko
+[04] : BAT5    .NHF : 15 016 ko
+[05] : BAT6    .NHF : 15 016 ko
+[06] : BAT7    .NHF : 15 016 ko
+[07] : BAT8    .NHF : 15 016 ko
+[08] : BAT9    .NHF : 15 014 ko
+[09] : BOOSTER .BAS : 0 002 ko
+[10] : NIGHTBO1.B�N : 0 024 ko
+[12] : SURVIVAN.BAS : 0 001 ko
+[13] : 2       .B�N : 0 037 ko
+[16] : BINBAS  .BAS : 0 001 ko
+[17] : TETRO   .BAS : 0 006 ko
+[18] : SURVIVAN.P�W : 0 008 ko
+Dsk 187 Ko used

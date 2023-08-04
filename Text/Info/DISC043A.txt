@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLUEWAR .BAS : 0 001 ko
+[01] : BOOK    .B�N : 0 004 ko
+[02] : BWTUS   .B�S : 0 025 ko
+[04] : CHESS   .B�N : 0 024 ko
+[06] : CHESSMAS.BAS : 0 001 ko
+[07] : CMASTER .B�N : 0 008 ko
+[08] : FIN     .B�  : 0 008 ko
+[09] : GRAPHICS.B�N : 0 005 ko
+[10] : PRO     .B�  : 0 009 ko
+[11] : T1      .B�  : 0 007 ko
+[12] : T2      .B�  : 0 009 ko
+[13] : T3      .B�  : 0 010 ko
+[14] : T4      .B�  : 0 008 ko
+[15] : T5      .B�  : 0 009 ko
+[16] : T6      .B�  : 0 009 ko
+[17] : T66     .B�  : 0 009 ko
+[18] : T7      .B�  : 0 010 ko
+[19] : T8      .B�  : 0 006 ko
+[20] : T9      .B�  : 0 009 ko
+[21] : TELEX   .B�S : 0 002 ko
+[22] : VAMPYR  .BAS : 0 005 ko
+[23] : CHESSMAS.I�L : 0 009 ko
+Dsk 187 Ko used

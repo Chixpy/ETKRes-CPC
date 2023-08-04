@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ZOMBI   .C�A : 0 022 ko
+[02] : ZOMBI   .C�B : 0 009 ko
+[03] : ZOMBI   .C�C : 0 018 ko
+[05] : ZOMBI   .C�D : 0 007 ko
+[06] : ZOMBI   .C�E : 0 007 ko
+[07] : ZOMBI   .C�F : 0 007 ko
+[08] : ZOMBI   .C�G : 0 009 ko
+[09] : ZOMBI   .C�H : 0 009 ko
+[10] : ZOMBI   .C�I : 0 008 ko
+[11] : ZOMBI   .C�J : 0 008 ko
+[12] : ZOMBI   .C�K : 0 008 ko
+[13] : ZOMBI   .C�L : 0 006 ko
+[14] : ZOMBI   .C�M : 0 007 ko
+[15] : SPAWN   .BIN : 0 004 ko
+[16] : ZOMBI   .BAS : 0 004 ko
+[17] : GUSANIN .BAS : 0 003 ko
+[18] : DIZZY2  .BAS : 0 001 ko
+[19] : DIZZY2  .B�1 : 0 040 ko
+[22] : DIZZY2  .B�2 : 0 004 ko
+[23] : DIZZ2SCR.P�W : 0 006 ko
+Dsk 187 Ko used

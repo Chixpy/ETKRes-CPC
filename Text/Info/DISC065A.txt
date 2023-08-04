@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TINTIN  .BIF : 0 001 ko
+[01] : EQUATION.BAS : 0 005 ko
+[02] : FIND    .BAS : 0 004 ko
+[03] : TAQUIN  .BAS : 0 003 ko
+[04] : INDIANA .BAS : 0 001 ko
+[05] : INDY    .B�N : 0 001 ko
+[06] : INDY    .D�1 : 0 007 ko
+[07] : INDY    .D�2 : 0 008 ko
+[08] : INDY    .P�1 : 0 019 ko
+[10] : INDY    .P�2 : 0 009 ko
+[11] : INDY    .P�3 : 0 009 ko
+[12] : INDY    .P�4 : 0 009 ko
+[13] : INDY    .P�5 : 0 009 ko
+[15] : TINTIN  .BIN : 0 019 ko
+[17] : TINTIN  .B�A : 0 006 ko
+[18] : TINTIN  .B�B : 0 006 ko
+[19] : TINTIN  .B�C : 0 009 ko
+[20] : TINTIN  .B�D : 0 008 ko
+[21] : TINTIN  .B�E : 0 011 ko
+[22] : TINTIN  .BAK : 0 001 ko
+[23] : TINTIN  .B�G : 0 004 ko
+[24] : TINTIN  .B�H : 0 004 ko
+[25] : TINTIN  .B�I : 0 004 ko
+[26] : TINTIN  .B�J : 0 004 ko
+[27] : TINTIN  .B�K : 0 004 ko
+[28] : TINTIN  .B�L : 0 012 ko
+[29] : INDY    .S�2 : 0 004 ko
+[30] : INDY    .S�1 : 0 005 ko
+Dsk 186 Ko used

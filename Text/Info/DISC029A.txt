@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SNOOKER .BIN : 0 003 ko
+[01] : SNOOK   .B�N : 0 016 ko
+[02] : DDRAGON1.B�N : 0 019 ko
+[04] : DRAGON  .B�0 : 0 010 ko
+[05] : DRAGON  .B�1 : 0 010 ko
+[06] : DRAGON  .B�2 : 0 010 ko
+[07] : DRAGON  .F�N : 0 003 ko
+[08] : DRAGON  .M�S : 0 004 ko
+[09] : DRAGON  .S�R : 0 007 ko
+[10] : DRAGON1 .B�3 : 0 011 ko
+[11] : DRAGON1 .B�4 : 0 002 ko
+[12] : DRAGON2 .B�3 : 0 010 ko
+[13] : DRAGON2 .B�4 : 0 002 ko
+[14] : DRAGON3 .B�3 : 0 009 ko
+[15] : DRAGON3 .B�4 : 0 003 ko
+[16] : DRAGON4 .B�3 : 0 004 ko
+[17] : DRAGON4 .B�4 : 0 002 ko
+[18] : DRAGON5 .B�3 : 0 009 ko
+[19] : DRAGON5 .B�4 : 0 003 ko
+[20] : GOTHIK  .BAS : 0 001 ko
+[21] : GOTHIK  .B�N : 0 037 ko
+[24] : MEME    .BAS : 0 003 ko
+[25] : DDRAGON1.BAS : 0 001 ko
+[26] : GOTHIIMA.P�W : 0 008 ko
+Dsk 187 Ko used

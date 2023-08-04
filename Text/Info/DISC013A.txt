@@ -1,0 +1,159 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Warning : Sector size [3072] differs from the amount of data found [4096], enlarge data part
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Warning : track 5 start at sector 144 while track 0 starts at 65
+Warning : track 6 start at sector 144 while track 0 starts at 65
+Warning : track 7 start at sector 144 while track 0 starts at 65
+Warning : track 8 start at sector 144 while track 0 starts at 65
+Warning : track 9 start at sector 144 while track 0 starts at 65
+Warning : track 10 start at sector 144 while track 0 starts at 65
+Warning : track 11 start at sector 144 while track 0 starts at 65
+Warning : track 12 start at sector 144 while track 0 starts at 65
+Warning : track 13 start at sector 144 while track 0 starts at 65
+Warning : track 14 start at sector 144 while track 0 starts at 65
+Warning : track 15 start at sector 144 while track 0 starts at 65
+Warning : track 16 start at sector 144 while track 0 starts at 65
+Warning : track 17 start at sector 144 while track 0 starts at 65
+Warning : track 18 start at sector 144 while track 0 starts at 65
+Warning : track 19 start at sector 144 while track 0 starts at 65
+Warning : track 20 start at sector 144 while track 0 starts at 65
+Warning : track 21 start at sector 144 while track 0 starts at 65
+Warning : track 22 start at sector 144 while track 0 starts at 65
+Warning : track 23 start at sector 144 while track 0 starts at 65
+Warning : track 24 start at sector 144 while track 0 starts at 65
+Warning : track 25 start at sector 144 while track 0 starts at 65
+Warning : track 26 start at sector 144 while track 0 starts at 65
+Warning : track 27 start at sector 144 while track 0 starts at 65
+Warning : track 28 start at sector 144 while track 0 starts at 65
+Warning : track 29 start at sector 144 while track 0 starts at 65
+Warning : track 30 start at sector 144 while track 0 starts at 65
+Warning : track 31 start at sector 144 while track 0 starts at 65
+Warning : track 32 start at sector 144 while track 0 starts at 65
+Warning : track 33 start at sector 144 while track 0 starts at 65
+Warning : track 34 start at sector 144 while track 0 starts at 65
+Warning : track 35 start at sector 144 while track 0 starts at 65
+Warning : track 36 start at sector 144 while track 0 starts at 65
+Warning : track 37 start at sector 144 while track 0 starts at 65
+Warning : track 38 start at sector 144 while track 0 starts at 65
+Warning : track 40 start at sector 49 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+[00] : ??oo.��� : 255 004 ko
+[01] : w�xggxg.gx : 103 015 ko
+[03] : <���<���.<�� : 207 028 ko
+[04] : ?/Ko/�.��� : 135 008 ko
+[05] : ����.�� : 15 023 ko
+[06] : <�<�.<� : 30 002 ko
+[07] : �����.O : 15 012 ko
+[08] : ���x��g<.��g : 120 015 ko
+[09] : ����. : 15 008 ko
+[10] : �ў���.�;� : 209 004 ko
+[12] : �g<��g<�.�g< : 179 006 ko
+[14] : ��g��g.�� : 103 003 ko
+[16] : xgxxgx.xg : 120 002 ko
+[18] : gxggxg.gx : 103 010 ko
+[20] : <������.� : 207 007 ko
+[22] : ������.��� : 15 013 ko
+[26] : 
+
+
+
+
+
+
+
+.
+
+
+ : 0 000 ko
+[27] : ��������.��� : 0 025 ko
+[28] : ��������.��� : 0 149 ko
+[33] : ��������.��� : 233 025 ko
+[34] : �?�=�=�@.��� : 62 025 ko
+[35] : �K�I�I�L.��� : 74 025 ko
+[36] : ��������.��� : 238 025 ko
+[37] : ��������.��� : 247 025 ko
+[38] : �c�c�c�c.�c� : 99 025 ko
+[41] : ��������.��� : 227 025 ko
+[43] : ��������.��� : 231 025 ko
+[44] : ��������.��� : 227 025 ko
+[45] : ��������.��� : 233 025 ko
+[46] : \�N0~
+.l� : 0 014 ko
+[47] : 4b`lff4
+.��� : 0 003 ko
+[48] : 
+ @@.|�8 : 0 000 ko
+[49] : 0@�
+
+.
+| : 4 016 ko
+[50] : �fflff�
+.n�� : 0 014 ko
+[51] : �bdld`�
+.n�� : 0 014 ko
+[52] : ̌X
+.�dh : 0 030 ko
+[53] : ��r����
+.l�� : 0 014 ko
+[54] : �ffllf�
+.n�� : 0 030 ko
+[55] : �bd40
+.�jj : 0 007 ko
+[56] : �Μ8r��
+.
+
+
+ : 0 000 ko
+[57] : �̊�
+
+.@�� : 0 008 ko
+[59] : 
+
+
+�
+
+
+�.
+
+
+ : 245 000 ko
+[60] : ��2�:�.�2 : 58 007 ko
+[61] : �xO|.� : 50 001 ko
+[62] : >T�I�y .��I : 127 005 ko
+[63] : I~�@�y#.y� : 237 002 ko
+Dsk 749 Ko used

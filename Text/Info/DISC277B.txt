@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STREET  .BIN : 0 022 ko
+[02] : CHEVYCHA.B�1 : 0 017 ko
+[04] : CHEVYCHA.B�2 : 0 005 ko
+[05] : CHEVY   .T�1 : 0 004 ko
+[06] : CHEVY   .T�2 : 0 005 ko
+[07] : CHEVY   .T�3 : 0 005 ko
+[08] : CHEVY   .T�4 : 0 005 ko
+[09] : CHEVY   .T�5 : 0 005 ko
+[10] : CHEVY   .T�6 : 0 009 ko
+[11] : WACKYDAR.BAS : 0 001 ko
+[12] : WACKYDAR.B�N : 0 032 ko
+[14] : LIBERATO.BAS : 0 001 ko
+[15] : LIBERATO.B�N : 0 020 ko
+[17] : CAVES   .BAS : 0 001 ko
+[18] : DOOM    .B�N : 0 016 ko
+[19] : FRUIT   .BIN : 0 021 ko
+[21] : LIBERSCR.P�W : 0 005 ko
+[22] : WACKYSCR.P�W : 0 005 ko
+[23] : CHEVYSCR.P�W : 0 007 ko
+[24] : CHEVYCHA.BAS : 0 001 ko
+Dsk 187 Ko used

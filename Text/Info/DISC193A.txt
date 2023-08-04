@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLOCKUP .BIN : 0 029 ko
+[02] : GOONIES .BAS : 0 001 ko
+[03] : GOONIES .B�N : 0 030 ko
+[05] : GOONISCR.P�W : 0 007 ko
+[06] : NOEXIT  .BAS : 0 001 ko
+[07] : NOEXIT-A.B�N : 0 016 ko
+[08] : NOEXIT-B.B�N : 0 016 ko
+[09] : NOEXIT-C.B�N : 0 015 ko
+[10] : NOEXIT-D.B�N : 0 007 ko
+[11] : NOEXIT-E.B�N : 0 008 ko
+[12] : NOEXIT-F.B�N : 0 010 ko
+[13] : NOEXIT-G.B�N : 0 011 ko
+[14] : NOEXIT-H.B�N : 0 002 ko
+[15] : NOEXIT-I.B�N : 0 009 ko
+[16] : NOEXIT-J.B�N : 0 003 ko
+[17] : NOEXIT-K.B�N : 0 003 ko
+[18] : NOEXIT-L.B�N : 0 008 ko
+[19] : NOEXIT-M.B�N : 0 004 ko
+[20] : NOEXIT-N.B�N : 0 002 ko
+[21] : RUNNER  .BAS : 0 005 ko
+Dsk 187 Ko used

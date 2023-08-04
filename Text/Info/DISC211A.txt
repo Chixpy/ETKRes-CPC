@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : VIGIL   .B�N : 0 026 ko
+[01] : VIGIL2  .B�N : 0 020 ko
+[03] : VIGIL1  .B�N : 0 019 ko
+[05] : VIGIL4  .B�N : 0 019 ko
+[06] : TVDEMO  .BAS : 0 001 ko
+[07] : VIGILANT.BAS : 0 001 ko
+[08] : VIGILIMA.P�W : 0 004 ko
+[11] : ADDOBJET.B�N : 0 001 ko
+[12] : VIGIL5  .B�N : 0 018 ko
+[13] : VIGIL3  .B�N : 0 018 ko
+[16] : BOMBIN  .B�N : 0 004 ko
+[17] : BOMBUS  .BAS : 0 008 ko
+[18] : DATALOAD.BAS : 0 008 ko
+[19] : IMABLEU .S�N : 0 006 ko
+[20] : MEMOIRE .BAS : 0 001 ko
+[21] : PRESENT .C�U : 0 002 ko
+[22] : SEXY    .A�C : 0 002 ko
+[23] : SEXY    .E�R : 0 003 ko
+[24] : SEXY1   .E�R : 0 004 ko
+[25] : SEXY2   .E�R : 0 003 ko
+[26] : SEXYWORD.BAS : 0 005 ko
+[27] : TOTAL   .B�N : 0 005 ko
+[28] : TRAVAIL .B�S : 0 009 ko
+Dsk 187 Ko used

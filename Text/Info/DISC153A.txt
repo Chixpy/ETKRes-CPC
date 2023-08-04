@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MASK    .BAS : 0 001 ko
+[01] : MASK    .B�N : 0 028 ko
+[03] : MASK    .F�N : 0 007 ko
+[04] : MASK    .I�A : 0 006 ko
+[05] : MASK    .L�1 : 0 005 ko
+[06] : MASK    .L�2 : 0 019 ko
+[08] : MASK    .L�3 : 0 019 ko
+[10] : MASK    .L�4 : 0 019 ko
+[12] : MASK    .L�5 : 0 019 ko
+[14] : BRAVE   .BAS : 0 001 ko
+[15] : BRAVE   .B�N : 0 040 ko
+[18] : KRYPT   .BAS : 0 001 ko
+[19] : BRIDGEIT.B�N : 0 006 ko
+[20] : BRIDGEIT.BAS : 0 004 ko
+[21] : BRIDIMA .P�W : 0 006 ko
+[22] : BRAVEIMA.P�W : 0 006 ko
+Dsk 187 Ko used

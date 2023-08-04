@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RASTAN  .BIN : 0 018 ko
+[02] : RASTAN  .C�A : 0 008 ko
+[03] : RASTAN  .C�B : 0 008 ko
+[04] : RASTAN  .C�C : 0 008 ko
+[05] : RASTAN  .C�D : 0 008 ko
+[06] : RASTAN  .C�E : 0 009 ko
+[07] : RASTAN  .C�F : 0 007 ko
+[08] : RASTAN  .C�G : 0 009 ko
+[09] : RASTAN  .C�H : 0 008 ko
+[10] : RASTAN  .C�I : 0 009 ko
+[11] : RASTAN  .C�J : 0 008 ko
+[12] : RASTAN  .C�K : 0 008 ko
+[13] : RASTAN  .C�L : 0 008 ko
+[14] : RASTAN  .C�M : 0 027 ko
+[16] : INF     .B�N : 0 002 ko
+[17] : INFERNO .BAS : 0 004 ko
+[18] : INFERNO .SCO : 0 001 ko
+[19] : TROLL   .BAS : 0 001 ko
+[20] : TROLL   .B�N : 0 028 ko
+[22] : TROLLIMA.P�W : 0 008 ko
+Dsk 187 Ko used

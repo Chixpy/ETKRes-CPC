@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GRYZOR  .BAS : 0 001 ko
+[01] : GRYZOR1 .B�N : 0 032 ko
+[03] : GRYZOR2 .B�N : 0 016 ko
+[04] : GRYZOR3 .B�N : 0 016 ko
+[05] : GRYZOR4 .B�N : 0 016 ko
+[06] : GRYZOR5 .B�N : 0 016 ko
+[07] : SPEED   .BAS : 0 001 ko
+[08] : KING    .B�N : 0 032 ko
+[10] : DIR&CAT .BAS : 0 008 ko
+[11] : CAISSE  .BAS : 0 001 ko
+[12] : CAISSE  .B�N : 0 007 ko
+[13] : ALIEN8  .BAS : 0 001 ko
+[14] : ALIEN   .B�N : 0 029 ko
+[17] : GRYZOIMA.P�W : 0 008 ko
+[18] : ALIENSCR.P�W : 0 003 ko
+Dsk 187 Ko used

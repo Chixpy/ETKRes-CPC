@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HELI    .BAS : 0 001 ko
+[01] : HELI    .N�1 : 0 033 ko
+[02] : CYBERPO .BAS : 0 001 ko
+[05] : HELI    .N�2 : 0 033 ko
+[08] : HELI    .N�3 : 0 033 ko
+[11] : HELI    .N�4 : 0 003 ko
+[12] : ROBBBOT .BAS : 0 001 ko
+[13] : ROBBBOT .B�N : 0 041 ko
+[16] : ROBBBOT .C�M : 0 006 ko
+[17] : CHALIBIN.B�N : 0 007 ko
+[18] : CYBERPO .B�N : 0 020 ko
+[19] : CHARLIE .BAS : 0 005 ko
+[21] : CHARLIE .C�M : 0 003 ko
+Dsk 187 Ko used

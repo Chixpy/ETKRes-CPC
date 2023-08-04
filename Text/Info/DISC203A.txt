@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RAMPARTS.BAS : 0 001 ko
+[01] : RAMPARTS.B�N : 0 035 ko
+[04] : FANTOME .BAS : 0 002 ko
+[05] : FANTOME2.C�M : 0 003 ko
+[06] : FANTOME3.B�N : 0 006 ko
+[07] : FANTOME4.B�N : 0 020 ko
+[09] : S-SHADOW.B�3 : 0 015 ko
+[10] : S-SHADOW.BAS : 0 001 ko
+[11] : S-SHADOW.M�S : 0 004 ko
+[12] : S-SHADOW.B�2 : 0 004 ko
+[13] : S-SHADOW.B�1 : 0 029 ko
+[15] : S-SHADOW.B�1 : 0 015 ko
+[16] : S-SHADOW.B�2 : 0 015 ko
+[17] : S-SHADOW.B�4 : 0 015 ko
+[18] : RAMPKOM .P�W : 0 009 ko
+[19] : S-SHADOW.F�N : 0 007 ko
+[20] : S-SHAIMA.P�W : 0 006 ko
+Dsk 187 Ko used

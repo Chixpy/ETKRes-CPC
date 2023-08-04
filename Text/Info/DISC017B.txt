@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BEBERT  .BAS : 0 008 ko
+[01] : BEBERT1 .B�N : 0 002 ko
+[02] : GEMINI  .BAS : 0 001 ko
+[03] : GEMINI  .B�N : 0 034 ko
+[06] : GEMINIMA.P�W : 0 008 ko
+[07] : SKWEEK3D.BAS : 0 011 ko
+[08] : SKWEEK3D.B�N : 0 006 ko
+[09] : WING1   .B�N : 0 017 ko
+[11] : WING2   .B�N : 0 017 ko
+[13] : WING3   .B�N : 0 017 ko
+[15] : WING4   .B�N : 0 015 ko
+[16] : WING5   .B�N : 0 017 ko
+[18] : WING6   .B�N : 0 017 ko
+[20] : WING7   .B�N : 0 017 ko
+Dsk 187 Ko used

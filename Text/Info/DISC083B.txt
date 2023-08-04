@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 1 start at sector 129 while track 0 starts at 65
+[00] : PREDATO2.BAS : 0 001 ko
+[01] : PREDAIMA.P�W : 0 005 ko
+[02] : PREDATO1.NHF : 15 008 ko
+[03] : PREDATO2.NHF : 15 008 ko
+[04] : PREDATO3.NHF : 15 008 ko
+[05] : PREDATO4.NHF : 15 044 ko
+[08] : PREDATO5.NHF : 15 044 ko
+[11] : ATFIMA  .P�W : 0 005 ko
+[12] : ATF     .BAS : 0 001 ko
+[13] : ATF     .B�N : 0 039 ko
+[16] : FIGHT   .BAS : 0 013 ko
+[17] : REKANOID.BAS : 0 002 ko
+[25] : ��������.��� : 0 029 ko
+Dsk 207 Ko used

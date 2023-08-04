@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RINGS   .BAS : 0 002 ko
+[01] : ASSIMIL . �  : 0 001 ko
+[02] : ASSIMIL .0�3 : 0 036 ko
+[05] : ASSIMIL .0�4 : 0 036 ko
+[08] : ASSIMIL .0�5 : 0 034 ko
+[11] : ASSIMIL .0�6 : 0 021 ko
+[13] : CODEFI  .B�N : 0 002 ko
+[14] : DISQUE 4. �  : 0 001 ko
+[15] : FEUD    .BAS : 0 001 ko
+[16] : FEUD    .BIN : 0 040 ko
+[19] : FEUD    .I�L : 0 006 ko
+[20] : ANGLAIS4.BAS : 0 004 ko
+[21] : FEUD2   .IPL : 0 003 ko
+Dsk 187 Ko used

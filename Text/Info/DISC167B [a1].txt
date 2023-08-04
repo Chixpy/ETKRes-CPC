@@ -1,0 +1,44 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LASTRACE.BIN : 0 011 ko
+[01] : AVSILVA .BAK : 0 002 ko
+[02] : SILVA   .B�1 : 0 004 ko
+[03] : SILVA   .B�2 : 0 004 ko
+[04] : SILVA   .B�3 : 0 004 ko
+[05] : SILVA   .B�4 : 0 004 ko
+[06] : SILVA   .B�5 : 0 004 ko
+[07] : SILVA   .B�6 : 0 005 ko
+[08] : SILVA   .B�7 : 0 005 ko
+[09] : SILVA   .B�8 : 0 004 ko
+[10] : SILVA   .B�9 : 0 003 ko
+[11] : SILVA   .B�A : 0 004 ko
+[12] : SILVA   .B�B : 0 004 ko
+[13] : SILVA   .B�C : 0 005 ko
+[14] : SILVA   .B�D : 0 004 ko
+[15] : SILVA   .B�E : 0 003 ko
+[16] : SILVA   .B�F : 0 003 ko
+[17] : SILVA   .B�0 : 0 005 ko
+[18] : SILVA   .B�1 : 0 004 ko
+[19] : SILVA   .B�2 : 0 004 ko
+[20] : SILVA   .B�3 : 0 005 ko
+[21] : SILVA   .B�4 : 0 002 ko
+[22] : SILVA   .B�5 : 0 004 ko
+[23] : SILVA   .B�6 : 0 004 ko
+[24] : SILVA   .B�7 : 0 005 ko
+[25] : SILVA   .B�8 : 0 004 ko
+[26] : SILVA   .B�9 : 0 003 ko
+[27] : SILVA   .B�A : 0 003 ko
+[28] : SILVA   .B�B : 0 003 ko
+[29] : SILVA   .B�C : 0 006 ko
+[30] : SILVA   .B�D : 0 004 ko
+[31] : SILVA   .B�E : 0 003 ko
+[32] : SILVA   .B�F : 0 002 ko
+[33] : SILVA   .B�0 : 0 005 ko
+[34] : AVSILVA .BIN : 0 002 ko
+[35] : ROBOT   .BAS : 0 001 ko
+[36] : ROBOT   .B�N : 0 020 ko
+[38] : SENSOR  .BAS : 0 001 ko
+[39] : AVERNO  .BAS : 0 004 ko
+[40] : AVERNO  .B�1 : 0 015 ko
+[41] : ROBOTSCR.P�W : 0 005 ko
+Dsk 187 Ko used

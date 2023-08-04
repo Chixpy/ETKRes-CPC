@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ATHENA  .F�T : 0 001 ko
+[01] : CALCUL  .BAS : 0 004 ko
+[02] : CHESS   .G�A : 0 001 ko
+[03] : CHESS   .M�  : 0 001 ko
+[04] : DRAGON  .B�N : 0 040 ko
+[07] : DRAGON  .F�N : 0 004 ko
+[08] : DRAGON1 .B�N : 0 008 ko
+[09] : DRAGON2 .B�N : 0 010 ko
+[10] : DRAGON3 .B�N : 0 008 ko
+[11] : DRAGOSCR.P�W : 0 003 ko
+[12] : ECHEC-3J.BAS : 0 006 ko
+[13] : GTD0    .B�N : 0 001 ko
+[14] : GTD2    .B�N : 0 006 ko
+[15] : GTD3    .B�N : 0 032 ko
+[17] : GTD4    .B�N : 0 002 ko
+[18] : GTD5    .B�N : 0 003 ko
+[19] : GTD6    .B�N : 0 005 ko
+[20] : GURIANOS.BAS : 0 001 ko
+[21] : GURIANOS.I�L : 0 006 ko
+[22] : HEDGE   .BAS : 0 006 ko
+[23] : MENU    .BAS : 0 001 ko
+[24] : SPIN    .BAS : 0 001 ko
+[25] : SPIN    .B�N : 0 032 ko
+[27] : SPINDIMA.P�W : 0 004 ko
+[28] : STDRAGON.BAS : 0 001 ko
+Dsk 187 Ko used

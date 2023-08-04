@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : WCRUGBY .BIN : 0 013 ko
+[01] : WCRUGBY .N�1 : 0 020 ko
+[03] : WCRUGBY .N�2 : 0 010 ko
+[04] : WCRUGBY .N�3 : 0 013 ko
+[05] : WCRUGBY .N�4 : 0 015 ko
+[06] : WCRUGBY .N�5 : 0 009 ko
+[07] : WCRUGBY .N�6 : 0 012 ko
+[08] : FU-KUNG .BAS : 0 002 ko
+[09] : VEGAS   .B�N : 0 020 ko
+[11] : GRAPHIX .BIN : 0 023 ko
+[13] : SPRITES .BAS : 0 005 ko
+[14] : SPRITE  .B�N : 0 001 ko
+[15] : DEEP    .BAS : 0 001 ko
+[16] : CL-SCORE.BIN : 0 001 ko
+[17] : DEEP    .B�N : 0 029 ko
+[19] : DEEPIMA .P�W : 0 006 ko
+[20] : TOURNOI .BIN : 0 007 ko
+Dsk 187 Ko used

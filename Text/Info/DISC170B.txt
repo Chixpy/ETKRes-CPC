@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HEAVY   .N�1 : 0 016 ko
+[01] : HEAVY   .N�2 : 0 013 ko
+[02] : HEAVY   .N�3 : 0 015 ko
+[03] : HEAVY   .N�4 : 0 006 ko
+[04] : HEAVY   .N�5 : 0 001 ko
+[05] : HEAVY   .N�6 : 0 001 ko
+[06] : HEAVY   .N�7 : 0 019 ko
+[08] : HEAVY   .I�L : 0 010 ko
+[09] : HEAVY   .BAS : 0 001 ko
+[10] : ROCKET  .B�N : 0 035 ko
+[11] : REDLED  .BAS : 0 001 ko
+[12] : REDLED  .B�N : 0 039 ko
+[16] : FORCE4  .BAS : 0 007 ko
+[17] : ROCKET2 .P�W : 0 002 ko
+[18] : METEORES.BIN : 0 006 ko
+[20] : REDLEIMA.P�W : 0 005 ko
+[21] : BALLOON .BIN : 0 009 ko
+[22] : ROCKET  .BAS : 0 001 ko
+Dsk 187 Ko used

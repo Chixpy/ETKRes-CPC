@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JAMMIN  .BAS : 0 002 ko
+[01] : DANCER  .BAS : 0 001 ko
+[02] : DANCER  .B�N : 0 040 ko
+[05] : JAMMIN  .B�N : 0 030 ko
+[06] : DANCER  .P�A : 0 006 ko
+[07] : DANCER  .P�B : 0 006 ko
+[08] : DANCER  .P�C : 0 008 ko
+[09] : DANCER  .P�D : 0 006 ko
+[10] : DANCER  .P�E : 0 006 ko
+[11] : DANCER  .P�F : 0 007 ko
+[12] : DANCER  .P�G : 0 008 ko
+[13] : DANCER  .P�H : 0 006 ko
+[14] : DANCER  .P�I : 0 007 ko
+[15] : DANCER  .P�J : 0 006 ko
+[16] : DANCER  .P�K : 0 007 ko
+[17] : DANCER  .P�L : 0 008 ko
+[18] : DANCER  .P�M : 0 006 ko
+[19] : DANCER  .P�N : 0 006 ko
+[20] : DANCER  .P�O : 0 006 ko
+[22] : BREAK   .B�N : 0 001 ko
+[23] : DANCEIMA.P�W : 0 009 ko
+[24] : BREAKOUT.BAS : 0 005 ko
+Dsk 187 Ko used

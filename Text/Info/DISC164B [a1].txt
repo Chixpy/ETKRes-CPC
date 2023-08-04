@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BIGFOOT .BAS : 0 001 ko
+[01] : BIGFOOT .B�N : 0 039 ko
+[04] : BIGFOOT1.I�L : 0 008 ko
+[05] : ARTURA  .BAS : 0 001 ko
+[06] : ARTURA  .B�N : 0 037 ko
+[09] : BBROTHER.B�N : 0 016 ko
+[10] : EFFETS  .BAS : 0 001 ko
+[11] : BBROTHER.I�L : 0 006 ko
+[12] : BBROTHER.M�S : 0 004 ko
+[13] : BLUESBRO.N�1 : 0 010 ko
+[14] : BLUESBRO.N�2 : 0 011 ko
+[15] : BLUESBRO.N�3 : 0 011 ko
+[16] : BLUESBRO.N�4 : 0 012 ko
+[17] : BLUESBRO.N�5 : 0 013 ko
+[18] : BLUESBRO.N�6 : 0 007 ko
+[19] : BBROTHER.BAS : 0 001 ko
+[20] : ARTURA  .I�L : 0 009 ko
+Dsk 187 Ko used

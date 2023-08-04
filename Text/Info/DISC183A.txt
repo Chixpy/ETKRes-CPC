@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANIMAT  .A�S : 0 002 ko
+[01] : BUC     . �  : 0 004 ko
+[02] : COP     . �  : 0 004 ko
+[03] : EAG     . �  : 0 002 ko
+[04] : HUNTER  .BAS : 0 001 ko
+[05] : KAR     . �  : 0 003 ko
+[06] : MAN     . �  : 0 003 ko
+[07] : JEDI    .BAS : 0 001 ko
+[08] : MUSIC1  .B�N : 0 004 ko
+[09] : MUSIC2  .B�N : 0 005 ko
+[10] : NEWPLYR .G�F : 0 017 ko
+[12] : OBJECTS .G�F : 0 001 ko
+[13] : PRESENT .S�R : 0 017 ko
+[15] : PRF     . �  : 0 004 ko
+[16] : PROG    .F�N : 0 026 ko
+[18] : PRS     . �  : 0 003 ko
+[19] : ROB     . �  : 0 006 ko
+[20] : TABLEAU .A�S : 0 005 ko
+[21] : TEC     . �  : 0 004 ko
+[22] : WIT     . �  : 0 002 ko
+[23] : WOM     . �  : 0 003 ko
+[24] : DRAPEAUX.BAS : 0 010 ko
+[25] : DRAPEAUX.P�W : 0 002 ko
+[26] : JEDI    .B�1 : 0 029 ko
+[28] : JEDI    .B�2 : 0 013 ko
+[29] : JEDI    .B�3 : 0 005 ko
+[30] : CALCULS .BAS : 0 002 ko
+[31] : MUSIC0  .B�N : 0 001 ko
+[32] : HUNTER  .B�N : 0 001 ko
+[33] : JEDI    .S�R : 0 007 ko
+Dsk 187 Ko used

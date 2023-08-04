@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BUSTBLOC.BAS : 0 001 ko
+[01] : DIZZY1  .B�N : 0 041 ko
+[04] : MAGIC   .BAS : 0 001 ko
+[05] : DIZZY4  .I�L : 0 009 ko
+[06] : DIZZY2  .B�N : 0 007 ko
+[07] : BUSTBLOC.B�N : 0 041 ko
+[10] : DYNAMIT2.B�1 : 0 011 ko
+[11] : DYNAMIT2.B�2 : 0 024 ko
+[12] : SHAOLSCR.P�W : 0 006 ko
+[13] : DREAM   .BAS : 0 005 ko
+[15] : SHAOLIN .BAS : 0 001 ko
+[16] : DYNAMIT2.B�3 : 0 007 ko
+[17] : DIZZY3  .B�N : 0 003 ko
+[18] : BUSTBSCR.P�W : 0 004 ko
+[19] : DYNAMIT2.BAS : 0 001 ko
+[20] : SHAOLIN .B�N : 0 020 ko
+[22] : DYNA2SCR.P�W : 0 005 ko
+Dsk 187 Ko used

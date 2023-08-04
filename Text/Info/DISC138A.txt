@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LOOPZ   .BAS : 0 001 ko
+[01] : VICTORY .B�N : 0 039 ko
+[02] : KRAKOUT .BAS : 0 001 ko
+[03] : KRAKKOM .P�W : 0 007 ko
+[05] : KRAKOUT .P�1 : 0 040 ko
+[09] : KRAKOUT .P�2 : 0 009 ko
+[10] : HANOI   .BAS : 0 003 ko
+[11] : LOOPZ1  .B�N : 0 036 ko
+[13] : VICTORY .BAS : 0 001 ko
+[14] : LOOPZ   .I�L : 0 002 ko
+[16] : VICTORY .I�L : 0 005 ko
+[17] : MOTOS   .BAS : 0 001 ko
+[18] : MOTOS   .B�N : 0 028 ko
+[20] : MOTOSIMA.P�W : 0 007 ko
+[22] : LOOPZ2  .B�N : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BURTON  .BAS : 0 001 ko
+[01] : BURTON  .B�N : 0 040 ko
+[04] : DUEL    .BAS : 0 001 ko
+[05] : DUEL    .B�N : 0 037 ko
+[08] : ECLIPSE2.BAS : 0 001 ko
+[09] : ECLIPSE2.B�N : 0 035 ko
+[12] : GALAXIA .BAS : 0 002 ko
+[13] : GALAXIA .B�N : 0 013 ko
+[14] : COLONY  .BAS : 0 001 ko
+[15] : KARL    .BIN : 0 011 ko
+[16] : COLONY  .B�N : 0 024 ko
+[18] : BURT1SCR.P�W : 0 003 ko
+[19] : ECLIPSE2.C�C : 0 004 ko
+[20] : DUELSCR .P�W : 0 005 ko
+[21] : ECLIPSCR.P�W : 0 004 ko
+[22] : COLONIMA.P�W : 0 005 ko
+Dsk 187 Ko used

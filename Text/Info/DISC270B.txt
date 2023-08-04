@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : QUICK   .BAS : 0 001 ko
+[01] : QUICK1  .B�N : 0 020 ko
+[03] : QUICK2  .B�N : 0 006 ko
+[04] : BLIB    .BIN : 0 006 ko
+[05] : ROBHOOD .BAS : 0 001 ko
+[06] : ROBHOOD1.B�N : 0 030 ko
+[08] : ROBHOOD2.B�N : 0 018 ko
+[10] : HOPPER  .BIN : 0 016 ko
+[11] : R1      .BIN : 18 001 ko
+[12] : GRELL   .BAS : 0 001 ko
+[13] : GRELL   .B�N : 0 025 ko
+[15] : GRELL   .B�4 : 0 011 ko
+[16] : GRELL   .B�5 : 0 010 ko
+[17] : GRELL   .B�6 : 0 011 ko
+[18] : GRELL   .B�7 : 0 007 ko
+[19] : GRELL   .I�L : 0 011 ko
+[20] : QUICKSCR.P�W : 0 006 ko
+[21] : ROBHOSCR.P�W : 0 007 ko
+Dsk 188 Ko used

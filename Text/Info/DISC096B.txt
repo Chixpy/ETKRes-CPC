@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LF      .B�N : 0 036 ko
+[03] : LIGHT   .BAS : 0 001 ko
+[04] : PIPE    .BAS : 0 007 ko
+[05] : PIPE    .S�M : 0 001 ko
+[06] : PIPELINE.B�N : 0 001 ko
+[07] : ZENITH2 .BIN : 0 013 ko
+[08] : SOLAR   .BAS : 0 004 ko
+[09] : RAID    .BAS : 0 001 ko
+[10] : RAID    .B�1 : 0 042 ko
+[13] : ROLLING .BAS : 0 011 ko
+[14] : RAID    .B�N : 0 003 ko
+[15] : DRAGOLD .BIN : 0 011 ko
+[16] : ROLLING .C�M : 0 003 ko
+[17] : PIPELINE.G�A : 0 006 ko
+[18] : ROLLING1.B�N : 0 001 ko
+[19] : LIGHT   .I�L : 0 004 ko
+[20] : SOLAR1  .B�N : 0 012 ko
+[21] : RAIDIMA .P�W : 0 008 ko
+[22] : PIPELINE.S�O : 0 001 ko
+[23] : 3DPOOL  .BIN : 0 021 ko
+Dsk 187 Ko used

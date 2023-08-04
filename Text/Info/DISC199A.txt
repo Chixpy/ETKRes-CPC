@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHUCKEG2.BIN : 0 039 ko
+[03] : SEYMOUR .BIN : 0 039 ko
+[06] : BOULDEUR.BAS : 0 001 ko
+[07] : BOULDEUR.B�N : 0 032 ko
+[09] : BOULDIMA.P�W : 0 004 ko
+[10] : BANK1   .B�N : 0 016 ko
+[11] : BANK2   .B�N : 0 016 ko
+[12] : BANK3   .B�N : 0 016 ko
+[13] : TURTOIMA.P�W : 0 004 ko
+[14] : TORTOISE.BAS : 0 001 ko
+[15] : TURTOISE.B�N : 0 019 ko
+Dsk 187 Ko used

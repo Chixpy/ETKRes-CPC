@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DESG    .I�G : 0 016 ko
+[01] : DESP    .I�G : 0 006 ko
+[02] : ECRAN   .E�R : 0 017 ko
+[04] : FOND    .I�G : 0 007 ko
+[05] : ICONES  .I�G : 0 009 ko
+[06] : PRESENT .C�M : 0 005 ko
+[07] : MENU    .E�R : 0 017 ko
+[09] : SWAP    .BAS : 0 001 ko
+[10] : MAIN    .B�N : 0 009 ko
+[11] : MENU    .BAS : 0 001 ko
+[12] : MENU    .I�G : 0 009 ko
+[13] : MENU    .B�N : 0 005 ko
+[14] : CAL     .BAS : 0 006 ko
+[15] : GAME    .B�N : 0 021 ko
+[17] : FILESEL .I�G : 0 007 ko
+[18] : DEST    .I�G : 0 018 ko
+[20] : DESH    .I�G : 0 017 ko
+[22] : 4CALC1  .I�L : 0 007 ko
+[23] : BIBLIFIN.BAS : 0 007 ko
+[24] : 4CALC2  .C�M : 0 002 ko
+Dsk 187 Ko used

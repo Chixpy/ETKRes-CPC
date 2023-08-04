@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SKATE   .BAS : 0 001 ko
+[01] : SKATECOD.B�N : 0 035 ko
+[03] : LOCOMO  .BIN : 0 033 ko
+[07] : SKATSCRU.P�W : 0 007 ko
+[08] : RENEG1  .B�N : 0 021 ko
+[10] : RENEG2  .B�N : 0 021 ko
+[12] : RENEG3  .B�N : 0 021 ko
+[14] : RENEG4  .B�N : 0 021 ko
+[16] : RENEG5  .B�N : 0 001 ko
+[17] : RENEGAD1.BAS : 0 001 ko
+[18] : RENEGADE.B�N : 0 016 ko
+[21] : RENEIMA .P�W : 0 009 ko
+Dsk 187 Ko used

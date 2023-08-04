@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FIREMAN .BAS : 0 001 ko
+[01] : FIREMAN .B�0 : 0 008 ko
+[02] : FIREMAN .B�1 : 0 007 ko
+[03] : FIREMAN .B�2 : 0 008 ko
+[04] : FIREMAN .B�3 : 0 008 ko
+[05] : FIREMAN1.B�N : 0 018 ko
+[07] : FIREMAN2.B�N : 0 004 ko
+[08] : HELTEDIT.1�  : 0 018 ko
+[10] : HELTEDIT.BAS : 0 001 ko
+[11] : HELTER  .BAS : 0 001 ko
+[12] : HELTER  .2�  : 0 029 ko
+[14] : FLINSTON.BAS : 0 001 ko
+[15] : FLINSTON.B�1 : 0 037 ko
+[18] : FLINSTON.B�2 : 0 006 ko
+[19] : FLINSTON.R�M : 0 020 ko
+[21] : FLINSTON.I�L : 0 007 ko
+[22] : FIREMIMA.P�W : 0 005 ko
+[23] : HELTESCR.P�W : 0 008 ko
+Dsk 187 Ko used

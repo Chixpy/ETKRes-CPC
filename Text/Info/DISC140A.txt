@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DISC    .BAS : 0 003 ko
+[01] : DISC    .B�N : 0 001 ko
+[02] : DISC    .T�1 : 0 005 ko
+[03] : DISC    .T�2 : 0 009 ko
+[04] : DISC    .T�3 : 0 007 ko
+[05] : DISC    .T�4 : 0 009 ko
+[06] : DISC    .T�5 : 0 008 ko
+[07] : DISC    .T�6 : 0 013 ko
+[08] : DISC    .T�7 : 0 012 ko
+[09] : DISC    .T�8 : 0 001 ko
+[10] : DISC    .T�9 : 0 008 ko
+[11] : FLIPPER .BIN : 0 008 ko
+[12] : T1      .B�N : 0 001 ko
+[13] : THEBOSS .BAS : 0 006 ko
+[14] : T2      .B�N : 0 041 ko
+[16] : JACK    .BAS : 0 001 ko
+[17] : JACK1   .B�N : 0 041 ko
+[21] : TALE    .BAS : 0 001 ko
+[22] : JACK2   .B�N : 0 003 ko
+[23] : TALESCR .P�W : 0 004 ko
+[24] : DISCSCR .P�W : 0 005 ko
+Dsk 187 Ko used

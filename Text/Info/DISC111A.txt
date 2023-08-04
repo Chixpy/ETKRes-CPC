@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURTLES2.BAS : 0 001 ko
+[01] : TURTLES2.I�T : 0 023 ko
+[03] : TURTLES2.M�I : 0 041 ko
+[06] : TURTLES2.P�A : 0 008 ko
+[07] : TURTLES2.P�B : 0 008 ko
+[08] : TURTLES2.P�C : 0 007 ko
+[09] : TURTLES2.P�D : 0 007 ko
+[10] : TURTLES2.P�E : 0 006 ko
+[11] : TURTLES2.P�F : 0 006 ko
+[12] : TURTLES2.P�G : 0 007 ko
+[13] : TURTLES2.P�H : 0 005 ko
+[14] : TURTLES2.P�I : 0 007 ko
+[15] : TURTLES2.P�J : 0 004 ko
+[16] : TURTLES2.P�K : 0 008 ko
+[17] : TURTLES2.P�L : 0 006 ko
+[18] : TURTLES2.P�M : 0 007 ko
+[19] : TURTLES2.P�N : 0 006 ko
+[20] : TURTLES2.P�O : 0 007 ko
+[21] : TURTLES2.P�P : 0 005 ko
+[22] : SCRABBLE.BAS : 0 010 ko
+[23] : TURTLIMA.P�W : 0 008 ko
+Dsk 187 Ko used

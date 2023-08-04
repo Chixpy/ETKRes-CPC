@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MOONWALK.BAS : 0 001 ko
+[01] : MOONWALK.B�1 : 0 005 ko
+[02] : MOONWALK.B�1 : 0 008 ko
+[03] : MOONWALK.B�2 : 0 005 ko
+[04] : MOONWALK.B�3 : 0 020 ko
+[06] : MOONWALK.B�1 : 0 007 ko
+[07] : MOONWALK.B�2 : 0 006 ko
+[08] : MOONWALK.B�3 : 0 018 ko
+[10] : MOONWALK.B�1 : 0 008 ko
+[11] : MOONWALK.B�2 : 0 005 ko
+[12] : MOONWALK.B�3 : 0 017 ko
+[14] : MOONWALK.B�2 : 0 003 ko
+[15] : MOONWALK.B�3 : 0 019 ko
+[17] : MOONWALK.B�N : 0 013 ko
+[18] : NOMAD   .BAS : 0 001 ko
+[19] : NOMAD   .S�R : 0 009 ko
+[20] : NOMAD1  .B�N : 0 037 ko
+[23] : NOMAD2  .B�N : 0 005 ko
+Dsk 187 Ko used

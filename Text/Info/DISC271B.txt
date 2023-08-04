@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GLASS   .BAS : 0 001 ko
+[01] : GLASSRID.B�N : 0 032 ko
+[03] : SIDERAL .BAS : 0 001 ko
+[04] : SIDERAL .B�N : 0 033 ko
+[07] : SIRFRED .BAS : 0 001 ko
+[08] : SIRFRED1.B�N : 0 032 ko
+[10] : SIRFRED2.B�N : 0 012 ko
+[11] : SPORTAID.BAS : 0 001 ko
+[12] : SPORTAID.B�1 : 0 038 ko
+[15] : SPORTAID.B�2 : 0 006 ko
+[16] : SPORTSCR.P�W : 0 008 ko
+[17] : SIRFRIMA.P�W : 0 004 ko
+[18] : SIDERIMA.P�W : 0 009 ko
+[19] : GLASSCR .P�W : 0 009 ko
+Dsk 187 Ko used

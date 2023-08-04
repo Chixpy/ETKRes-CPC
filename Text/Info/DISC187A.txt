@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1       .G�M : 0 016 ko
+[01] : 2       .G�M : 0 016 ko
+[02] : 3       .G�M : 0 016 ko
+[03] : AMSOFT  .C�C : 0 001 ko
+[04] : GATE    .BAS : 0 008 ko
+[05] : GATE    .B�N : 0 005 ko
+[06] : BREAKER .BAS : 0 001 ko
+[07] : BREAKSCR.P�W : 0 003 ko
+[08] : DESIGNER. �  : 0 005 ko
+[09] : HAWK    .BAS : 0 001 ko
+[10] : LOC3    .B�N : 0 038 ko
+[13] : LOC4    .B�N : 0 001 ko
+[14] : LORDIMA .P�W : 0 006 ko
+[15] : LORDS   .BAS : 0 001 ko
+[16] : SOUND   . �  : 0 043 ko
+[19] : BRICK   .B�N : 0 012 ko
+[20] : ATOMBATL.BAS : 0 004 ko
+[21] : ATOMBATL.B�N : 0 006 ko
+[22] : S-HAWSCR.P�W : 0 004 ko
+Dsk 187 Ko used

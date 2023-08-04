@@ -1,0 +1,36 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : KILLERST.BIN : 0 036 ko
+[03] : KILLERST.AID : 0 001 ko
+[04] : KILLERST.N�1 : 0 012 ko
+[05] : KILLERST.N�2 : 0 018 ko
+[07] : KILLERST.N�3 : 0 001 ko
+[08] : KILLERST.N�4 : 0 003 ko
+[09] : KILLERST.N�5 : 0 002 ko
+[10] : KILLERST.N�6 : 0 002 ko
+[11] : KILLERST.N�7 : 0 003 ko
+[12] : KILLERST.N�8 : 0 001 ko
+[13] : KILLERST.N�9 : 0 003 ko
+[14] : KILLERST.N�0 : 0 003 ko
+[15] : KILLERST.N�1 : 0 002 ko
+[16] : KILLERST.N�2 : 0 002 ko
+[17] : KILLERST.N�3 : 0 003 ko
+[18] : KILLERST.N�4 : 0 003 ko
+[19] : KILLERST.N�5 : 0 002 ko
+[20] : KILLERST.N�6 : 0 004 ko
+[21] : KILLERST.N�7 : 0 003 ko
+[22] : KILLERST.N�8 : 0 003 ko
+[23] : KILLERST.N�9 : 0 003 ko
+[24] : KILLERST.N�0 : 0 002 ko
+[25] : KILLERST.N�1 : 0 003 ko
+[26] : KILLERST.N�2 : 0 003 ko
+[27] : KILLERST.N�3 : 0 004 ko
+[28] : KILLERST.N�4 : 0 004 ko
+[29] : KILLERST.N�5 : 0 004 ko
+[30] : KILLERST.N�6 : 0 003 ko
+[31] : KILLERST.N�7 : 0 003 ko
+[32] : KILLERST.N�8 : 0 005 ko
+[33] : JACKAL  .BAS : 0 001 ko
+[34] : JACKAL  .B�N : 0 040 ko
+[37] : JACKAIMA.P�W : 0 005 ko
+Dsk 187 Ko used

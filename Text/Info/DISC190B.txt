@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANGLE   .BIN : 0 027 ko
+[02] : BOULDER2.BIN : 0 030 ko
+[04] : JOE3    .BAS : 0 001 ko
+[05] : JOE3    .B�1 : 0 039 ko
+[08] : JOE3    .B�2 : 0 008 ko
+[09] : JOE3IMA .P�W : 0 007 ko
+[10] : SAMURAI .BAS : 0 001 ko
+[11] : SAMURAI .B�N : 0 028 ko
+[13] : SAMURIMA.P�W : 0 004 ko
+[14] : SPACE1  .B�N : 0 033 ko
+[17] : SPACE2  .B�N : 0 008 ko
+[18] : SPACERID.BAS : 0 001 ko
+Dsk 187 Ko used

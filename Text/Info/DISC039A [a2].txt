@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SEPULCRI.BAS : 0 001 ko
+[01] : YAMS    .BAS : 0 004 ko
+[02] : SEPULCRI.B�N : 0 035 ko
+[03] : ELEVATOR.BAS : 0 001 ko
+[04] : ELEVATOR.C�1 : 0 037 ko
+[07] : ELEVATOR.C�2 : 0 007 ko
+[08] : RALLY2  .BAS : 0 001 ko
+[09] : RALLY2  .B�N : 0 017 ko
+[10] : STEUER  .BAS : 0 009 ko
+[14] : ROLLER1 .B�N : 0 037 ko
+[17] : POKE    .B�S : 0 001 ko
+[18] : ROLLER2 .B�N : 0 007 ko
+[19] : SEPULKOM.P�W : 0 004 ko
+[20] : ELEVASCR.P�W : 0 005 ko
+[21] : ROCK'IMA.P�W : 0 007 ko
+[22] : JUMPER2 .BAS : 0 007 ko
+[23] : ROLLER  .BAS : 0 001 ko
+[25] : HIXFER  .B�N : 0 002 ko
+[26] : LOXFER  .B�N : 0 002 ko
+[27] : XFER    .BAS : 0 001 ko
+Dsk 186 Ko used

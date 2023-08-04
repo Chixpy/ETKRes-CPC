@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLAZER  .BAS : 0 001 ko
+[01] : BLAZER  .B�N : 0 020 ko
+[03] : HUNCHII .BAS : 0 001 ko
+[04] : HUNCHII .P�G : 0 029 ko
+[06] : HUNCHIMA.P�W : 0 005 ko
+[07] : LUCAS   .B�N : 0 005 ko
+[08] : MATAHARI.BIN : 0 037 ko
+[11] : STONE   .BAS : 0 001 ko
+[12] : WELLTRIS.BAK : 0 001 ko
+[13] : WELLTRIS.BAS : 0 001 ko
+[14] : WELLTRIS.I�L : 0 004 ko
+[15] : WELLTRIS.N07 : 0 001 ko
+[16] : WELLTRIS.N�1 : 0 010 ko
+[17] : WELLTRIS.N�2 : 0 006 ko
+[18] : WELLTRIS.N�3 : 0 005 ko
+[19] : WELLTRIS.N�4 : 0 005 ko
+[20] : WELLTRIS.N�5 : 0 007 ko
+[21] : WELLTRIS.N�6 : 0 006 ko
+[22] : WELLTRIS.N�8 : 0 033 ko
+[25] : WELLTSCR.P�W : 0 008 ko
+Dsk 186 Ko used

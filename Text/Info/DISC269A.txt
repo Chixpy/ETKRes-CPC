@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODE1   .B�N : 0 012 ko
+[01] : CODE2   .B�N : 0 036 ko
+[04] : CODE3   .B�N : 0 013 ko
+[05] : CODE4   .B�N : 0 015 ko
+[06] : CODE5   .B�N : 0 015 ko
+[07] : CODE6   .B�N : 0 015 ko
+[08] : STRIKER .BAS : 0 001 ko
+[09] : METALYX .BIN : 0 014 ko
+[10] : SCREWBAL.BAS : 0 007 ko
+[11] : SCREWBAL.B�N : 0 001 ko
+[12] : ASSAULT .BAS : 0 001 ko
+[13] : ASSAULT .B�N : 0 034 ko
+[16] : CASTLE  .BIN : 0 008 ko
+[17] : FLECHE  .BIN : 0 008 ko
+[18] : ASSAUSCR.P�W : 0 007 ko
+Dsk 187 Ko used

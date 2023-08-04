@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHIFLET .0�1 : 0 001 ko
+[01] : CHIFLET .0�2 : 0 007 ko
+[02] : CHIFLET .0�3 : 0 007 ko
+[03] : CHIFFLET.BAS : 0 001 ko
+[04] : SECTOR  .BIN : 0 006 ko
+[05] : TERRA1  .B�N : 0 039 ko
+[08] : TERRA2  .B�N : 0 007 ko
+[09] : SPACE1  .B�N : 0 039 ko
+[12] : SPACERAC.BAS : 0 001 ko
+[13] : OVERLAND.BAS : 0 001 ko
+[14] : OVER1   .B�N : 0 039 ko
+[17] : CHIFFSCR.P�W : 0 002 ko
+[18] : OVER2   .B�N : 0 015 ko
+[19] : OVERLAND.I�L : 0 006 ko
+[21] : SPACE2  .C�M : 0 006 ko
+[23] : SPACESCR.P�W : 0 009 ko
+[24] : TERRAMEX.BAS : 0 001 ko
+Dsk 187 Ko used

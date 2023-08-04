@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DEPART  .BAS : 0 005 ko
+[01] : ESF3V3  .B�S : 0 006 ko
+[02] : LIEN    .O�T : 0 001 ko
+[03] : TOMCEDIC.B�N : 0 004 ko
+[04] : EXE3G20 .B�S : 0 022 ko
+[06] : CEDIC1  .B�N : 0 002 ko
+[07] : ESF5V3  .B�S : 0 006 ko
+[08] : EXEMO20 .B�S : 0 022 ko
+[09] : ESF7    .B�S : 0 006 ko
+[11] : EXEPRE20.B�S : 0 022 ko
+[13] : GESTOK  .BAS : 0 006 ko
+[14] : J1      .B�N : 0 037 ko
+[17] : J2      .B�N : 0 011 ko
+[18] : JAIL    .BAS : 0 001 ko
+[19] : JAILIMA .P�W : 0 010 ko
+[20] : MOTO    .BAS : 0 005 ko
+[21] : MOTOBIN .B�N : 0 002 ko
+[22] : FACTURES.BAS : 0 008 ko
+[23] : METAL   .BAK : 0 001 ko
+[25] : GESTOR  .BAS : 0 009 ko
+[26] : METAL   .    : 0 001 ko
+Dsk 187 Ko used

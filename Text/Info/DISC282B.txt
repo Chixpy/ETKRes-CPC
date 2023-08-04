@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 42 start at sector 65 while track 0 starts at 193
+[00] : SLUG    .BAS : 0 001 ko
+[01] : SLUG    .B�N : 0 017 ko
+[03] : SLUG    .S�R : 0 003 ko
+[04] : KIDSPACE.BAS : 0 001 ko
+[05] : KIDSPACE.B�N : 0 032 ko
+[06] : OPEHANOI.L�3 : 0 002 ko
+[08] : KIDSPIMA.P�W : 0 006 ko
+[09] : SOOTY   .BAS : 0 001 ko
+[10] : SOOTY1  .B�N : 0 018 ko
+[12] : SOOTY2  .B�N : 0 006 ko
+[13] : OPEHANOI.BIN : 0 016 ko
+[14] : OPEHANOI.L�1 : 0 002 ko
+[15] : OPEHANOI.L�2 : 0 002 ko
+[16] : SPOOKY  .BIN : 0 013 ko
+[17] : SOOTYIMA.P�W : 0 005 ko
+[18] : RC-QUEST.BIN : 0 025 ko
+[19] : OPEHANOI.L�4 : 0 002 ko
+[21] : RACE    .BAS : 0 001 ko
+[22] : RACE0   .B�N : 0 019 ko
+[24] : RACE1   .B�N : 0 006 ko
+[25] : RACE2   .B�N : 0 004 ko
+[26] : RACESCR .P�W : 0 005 ko
+Dsk 187 Ko used

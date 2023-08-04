@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SHOCKWAY.BAS : 0 001 ko
+[01] : SHOCKWAY.B�N : 0 040 ko
+[04] : VILLE   .BAS : 0 016 ko
+[05] : TRANSFOR.P�1 : 0 002 ko
+[06] : TRANSFOR.P�3 : 0 011 ko
+[07] : TRANSFOR.P�5 : 0 002 ko
+[08] : PAPERBOY.BAS : 0 001 ko
+[09] : TRANSFOR.P�9 : 0 001 ko
+[10] : SORT    .BAS : 0 010 ko
+[11] : PAPERBO1.B�N : 0 037 ko
+[14] : PAPERBO2.B�N : 0 007 ko
+[15] : TRANSFOR.P�0 : 0 001 ko
+[16] : RACER   .BAS : 0 005 ko
+[17] : RACER   .B�N : 0 004 ko
+[18] : TRANSFOR.P�8 : 0 008 ko
+[19] : TRANSFOR.P�6 : 0 002 ko
+[20] : TRANSFOR.P�4 : 0 004 ko
+[21] : TRANSFOR.P�2 : 0 002 ko
+[22] : TRANSFOR.BAS : 0 005 ko
+[23] : SHOCKSCR.P�W : 0 004 ko
+[24] : DARK    .BAS : 0 005 ko
+[25] : TRANSFOR.P�7 : 0 006 ko
+[26] : PAPERIMA.P�W : 0 007 ko
+[27] : DARK    .C�C : 0 001 ko
+[28] : BOING   .BAS : 0 005 ko
+Dsk 187 Ko used

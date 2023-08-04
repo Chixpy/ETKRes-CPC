@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MICKEY  .BAS : 0 002 ko
+[01] : MICKEY  .S�N : 0 008 ko
+[02] : MICKEY3 .B�N : 0 024 ko
+[04] : MICKEY4 .B�N : 0 033 ko
+[05] : MICKEY2 .B�N : 0 011 ko
+[08] : MICKEY  .M�S : 0 004 ko
+[09] : CHICKIN .BIN : 0 040 ko
+[12] : SUPERMAN.BAS : 0 001 ko
+[13] : SUPERMAN.B�N : 0 027 ko
+[15] : ROBOTCOP.BIN : 0 034 ko
+[18] : SUPERMAN.I�L : 0 003 ko
+Dsk 187 Ko used

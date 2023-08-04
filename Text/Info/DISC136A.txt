@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SPHAIRA .M�S : 0 004 ko
+[01] : SPHAIRA .I�L : 0 006 ko
+[03] : SPHAIRA1.NHF : 15 016 ko
+[04] : SPHAIRA2.NHF : 15 016 ko
+[05] : SPHAIRA3.NHF : 15 016 ko
+[06] : SPHAIRA4.NHF : 15 016 ko
+[07] : SPHAIRA5.NHF : 15 016 ko
+[08] : SPHAIRA6.NHF : 15 016 ko
+[09] : SPHAIRA7.NHF : 15 016 ko
+[10] : SPHAIRA8.NHF : 15 016 ko
+[11] : SPHAIRA9.NHF : 15 016 ko
+[12] : SPHAIRAA.NHF : 15 016 ko
+[13] : SPHAIRAB.NHF : 15 011 ko
+[14] : SPHAIRA .BAS : 0 003 ko
+Dsk 184 Ko used

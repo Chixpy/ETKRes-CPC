@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SIM-CITY.BAS : 0 001 ko
+[01] : SIMY    .B�N : 0 001 ko
+[02] : SIM-CITY.0�1 : 0 024 ko
+[04] : SIM-CITY.0�2 : 0 009 ko
+[05] : JACKPOT2.BAS : 0 002 ko
+[06] : ELVEN   .BAS : 0 001 ko
+[07] : ELVEN   .B�N : 0 035 ko
+[10] : B2      .B�N : 0 012 ko
+[11] : BANK4   .B�N : 0 017 ko
+[13] : BANK5   .B�N : 0 017 ko
+[15] : BANK6   .B�N : 0 014 ko
+[16] : BANK7   .B�N : 0 014 ko
+[17] : BUMPY'S .BAS : 0 001 ko
+[18] : EMH     .C�M : 0 001 ko
+[19] : HS7     .B�N : 0 001 ko
+[20] : JUMPBLOK.B�N : 0 003 ko
+[21] : LANCE   .B�N : 0 002 ko
+[22] : PAGEMENU.C�M : 0 005 ko
+[23] : PRES    .C�M : 0 011 ko
+[24] : TBADRECR.B�N : 0 001 ko
+[25] : SON     .B�N : 0 002 ko
+[26] : DATA    .B�N : 0 007 ko
+[27] : SIMCIIMA.P�W : 0 006 ko
+Dsk 187 Ko used

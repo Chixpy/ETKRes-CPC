@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : -CLASSIC.    : 0 001 ko
+[01] : CASTLE  .I�L : 0 010 ko
+[02] : -CASTLE .    : 0 001 ko
+[03] : -TCHERN .BAS : 0 007 ko
+[04] : CMSCR   .C�M : 0 007 ko
+[05] : -ACTION .BAS : 0 001 ko
+[06] : ACTION  .B�N : 0 041 ko
+[07] : TCHERN  .C�M : 0 003 ko
+[08] : CM      .��N : 0 039 ko
+[13] : P12     .B�N : 0 012 ko
+[14] : -HUNCHBA.CK  : 0 001 ko
+[15] : HUNCHLOD.B�S : 0 002 ko
+[16] : INVADERS.B�N : 0 017 ko
+[18] : -MUSTAR .    : 0 009 ko
+[19] : HI-SCORE.    : 0 001 ko
+[20] : HUNCHMC .B�N : 0 015 ko
+[21] : HI-SCORE.BAK : 0 001 ko
+[22] : MENU    .BAS : 0 002 ko
+[23] : MUSTAR  .B�N : 0 005 ko
+[24] : CLASSIC .I�L : 0 005 ko
+[25] : -INTERRO.    : 0 006 ko
+Dsk 186 Ko used

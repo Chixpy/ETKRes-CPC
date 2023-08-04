@@ -1,0 +1,57 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OXPHAR  .SOL : 0 001 ko
+[01] : OXPHAR  .N�9 : 0 003 ko
+[02] : OXPHAR  .N�0 : 0 002 ko
+[03] : OXPHAR  .N�1 : 0 004 ko
+[04] : OXPHAR  .N�2 : 0 004 ko
+[05] : OXPHAR  .N�6 : 0 002 ko
+[06] : OXPHAR  .N�1 : 0 003 ko
+[07] : OXPHAR  .N�2 : 0 004 ko
+[08] : OXPHAR  .N�5 : 0 003 ko
+[09] : OXPHAR  .N�6 : 0 003 ko
+[10] : OXPHAR  .N�7 : 0 002 ko
+[11] : OXPHAR  .N�8 : 0 002 ko
+[12] : OXPHAR  .N�3 : 0 003 ko
+[13] : OXPHAR  .N�4 : 0 004 ko
+[14] : OXPHAR  .N�5 : 0 004 ko
+[15] : OXPHAR  .N�6 : 0 004 ko
+[16] : OXPHAR  .N�7 : 0 004 ko
+[17] : OXPHAR  .N�8 : 0 003 ko
+[18] : OXPHAR  .N�9 : 0 004 ko
+[19] : OXPHAR  .N�0 : 0 004 ko
+[20] : OXPHAR  .N�1 : 0 004 ko
+[21] : OXPHAR  .N�2 : 0 004 ko
+[22] : OXPHAR  .N�3 : 0 002 ko
+[23] : OXPHAR  .N�4 : 0 004 ko
+[24] : OXPHAR  .N�5 : 0 003 ko
+[25] : OXPHAR  .N�6 : 0 003 ko
+[26] : OXPHAR  .N�7 : 0 004 ko
+[27] : OXPHAR  .N�8 : 0 004 ko
+[28] : OXPHAR  .N�9 : 0 004 ko
+[29] : OXPHAR  .N�0 : 0 004 ko
+[30] : OXPHAR  .N�1 : 0 003 ko
+[31] : OXPHAR  .N�2 : 0 003 ko
+[32] : OXPHAR  .N�3 : 0 003 ko
+[33] : OXPHAR  .N�4 : 0 003 ko
+[34] : OXPHAR  .N�5 : 0 003 ko
+[35] : OXPHAR  .N�6 : 0 004 ko
+[36] : OXPHAR  .N�7 : 0 002 ko
+[37] : OXPHAR  .N�8 : 0 002 ko
+[38] : OXPHAR  .N�9 : 0 002 ko
+[39] : OXPHAR  .N�0 : 0 002 ko
+[40] : OXPHAR  .N�1 : 0 003 ko
+[41] : OXPHAR  .N�2 : 0 003 ko
+[42] : OXPHAR  .N�3 : 0 003 ko
+[43] : OXPHAR  .N�4 : 0 003 ko
+[44] : OXPHAR  .T�T : 0 003 ko
+[45] : OXPHAR  .N�4 : 0 002 ko
+[46] : OXPHASCR.P�W : 0 007 ko
+[47] : OXPHAR  .BAK : 0 002 ko
+[48] : OXPHAR  .BAS : 0 001 ko
+[49] : OXPHAR  .P�W : 0 005 ko
+[50] : OXPHAR  .B�N : 0 021 ko
+[52] : OXPHAR  .N�3 : 0 001 ko
+[54] : OXPHAR  .N�7 : 0 002 ko
+[55] : OXPHAR  .N45 : 0 002 ko
+Dsk 184 Ko used

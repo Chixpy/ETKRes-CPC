@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CAR     .P�G : 0 004 ko
+[01] : ACTION  .M�S : 0 009 ko
+[02] : MAIN    .M�S : 0 005 ko
+[03] : CAR     .S�R : 0 011 ko
+[04] : CARTE   .B�N : 0 015 ko
+[05] : SCROLL1 .S�R : 0 015 ko
+[06] : LIEU6   .L�E : 0 008 ko
+[07] : ENTREES .S�R : 0 008 ko
+[08] : LIEU2   .L�E : 0 009 ko
+[09] : LIEU1   .L�E : 0 009 ko
+[10] : SCROLL2 .S�R : 0 013 ko
+[11] : CAD     .S�R : 0 003 ko
+[12] : SCROLL4 .S�R : 0 014 ko
+[13] : TXT1    .S�R : 0 003 ko
+[14] : LIEU4   .L�E : 0 009 ko
+[15] : SCROLL6 .S�R : 0 015 ko
+[16] : SCROLL7 .S�R : 0 014 ko
+[17] : LIEU7   .L�E : 0 009 ko
+[18] : VIL     .P�G : 0 005 ko
+Dsk 178 Ko used

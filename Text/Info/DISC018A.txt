@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DONKEY  .BAS : 0 001 ko
+[01] : CHENILL .BAS : 0 001 ko
+[02] : CHENILLE.M�  : 0 002 ko
+[03] : DEMEPSON.BAS : 0 001 ko
+[04] : EPSON   .BAS : 0 001 ko
+[06] : DONKEY  .B�N : 0 017 ko
+[08] : KNIGHTGA.BAS : 0 001 ko
+[09] : KNIGHTGA.B�N : 0 009 ko
+[10] : KNIGHT  .L�1 : 0 020 ko
+[12] : KNIGHT  .L�2 : 0 018 ko
+[14] : KNIGHT  .L�3 : 0 018 ko
+[16] : KNIGHT  .L�4 : 0 018 ko
+[18] : KNIGHT  .L�5 : 0 017 ko
+[20] : KNIGHT  .L�6 : 0 017 ko
+[22] : KNIGHT  .L�7 : 0 017 ko
+[24] : KNIGHT  .L�8 : 0 018 ko
+[26] : KNIGHTGA.C�C : 0 004 ko
+[27] : DONKEIMA.P�W : 0 006 ko
+Dsk 186 Ko used

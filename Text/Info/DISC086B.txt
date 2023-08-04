@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BEL-MONA.D�T : 0 001 ko
+[01] : MATCHDAY.BAS : 0 001 ko
+[02] : MATCH   .B�N : 0 029 ko
+[04] : BERT    .BAS : 0 001 ko
+[05] : DATEN   .B�N : 0 013 ko
+[06] : DISHES  .B�N : 0 011 ko
+[07] : PROGRAM .B�N : 0 014 ko
+[08] : BEL     .BAS : 0 018 ko
+[10] : BEL-INT .B�S : 0 002 ko
+[11] : BEL-JAHR.D�T : 0 001 ko
+[12] : SCRIPT  .BAS : 0 001 ko
+[13] : SCRIPT  .B�N : 0 001 ko
+[14] : SCRIPTDE.BAS : 0 001 ko
+[15] : VERACRU0.B�N : 0 001 ko
+[16] : VERACRU1.B�N : 0 001 ko
+[17] : VERACRU2.B�N : 0 003 ko
+[18] : VERACRU3.B�S : 0 006 ko
+[19] : VERACRU4.B�N : 0 001 ko
+[20] : VERACRU5.B�N : 0 007 ko
+[21] : VERACRU6.B�N : 0 011 ko
+[22] : VERACRU7.B�N : 0 011 ko
+[23] : VERACRU8.B�S : 0 018 ko
+[25] : VERACRU9.B�N : 0 001 ko
+[26] : VERACRUB.B�N : 0 019 ko
+[28] : VERACRUC.B�N : 0 001 ko
+[29] : VERACRUZ.BAS : 0 001 ko
+[30] : VERACRUA.B�N : 0 007 ko
+[31] : MATCHIMA.P�W : 0 005 ko
+Dsk 187 Ko used

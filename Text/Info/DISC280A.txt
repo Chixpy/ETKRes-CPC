@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHOPPER .BAS : 0 001 ko
+[01] : CHOPPER .B�N : 0 034 ko
+[04] : CHAMPS  .BAS : 0 003 ko
+[05] : CHAMPS  .B�N : 0 014 ko
+[06] : CUBULUX .BAS : 0 001 ko
+[07] : CUBULUX .B�N : 0 016 ko
+[08] : CUBULUX .BAK : 0 001 ko
+[10] : HJT     .B�N : 0 004 ko
+[11] : MASTER  .B�N : 0 016 ko
+[12] : MEGABOMB.BAS : 0 001 ko
+[13] : THINGY  .BAS : 0 001 ko
+[14] : THINGY  .B�N : 0 039 ko
+[17] : TROLLIE .BIN : 0 020 ko
+[19] : ZAXON   .BAS : 0 007 ko
+[20] : ZAXON   .B�N : 0 010 ko
+[21] : CHOPPIMA.P�W : 0 007 ko
+[22] : THINGSCR.P�W : 0 006 ko
+[23] : ZAXON   .S�R : 0 005 ko
+Dsk 186 Ko used

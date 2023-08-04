@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : YOGI    .BAS : 0 001 ko
+[01] : YOGI    .N�T : 0 003 ko
+[02] : YOGI1   .B�N : 0 036 ko
+[03] : BIONIC  .BIN : 0 036 ko
+[06] : TECNO1  .B�N : 0 004 ko
+[07] : TECNO2  .B�N : 0 004 ko
+[08] : TECNO3  .B�N : 0 004 ko
+[09] : TECNO4  .B�N : 0 017 ko
+[10] : TECNOIMA.P�W : 0 008 ko
+[12] : TECNO5  .B�N : 0 033 ko
+[15] : TECNO6  .B�N : 0 015 ko
+[16] : TECNO7  .B�N : 0 011 ko
+[17] : TECHNO  .BAS : 0 002 ko
+[20] : YOGI2   .B�N : 0 013 ko
+Dsk 187 Ko used

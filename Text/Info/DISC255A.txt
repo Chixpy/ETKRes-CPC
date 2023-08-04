@@ -1,0 +1,41 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FRES    .    : 0 001 ko
+[01] : FRESMAN .BAS : 0 001 ko
+[02] : FRESMAN .B�N : 0 008 ko
+[03] : FRESMAN .D�T : 0 003 ko
+[04] : FRESMAN .E�P : 0 004 ko
+[05] : FRESMAN .H�C : 0 001 ko
+[06] : FRESMAN .L�V : 0 017 ko
+[08] : FRESMAN .Z�I : 0 004 ko
+[09] : FRESMAN1.S�T : 0 010 ko
+[10] : FRESMAN2.S�T : 0 011 ko
+[11] : BALL    .BIN : 0 019 ko
+[12] : LUPIN   .BAS : 0 005 ko
+[13] : TRAFFIC .BAS : 0 001 ko
+[14] : TRAFFIC .B�N : 0 019 ko
+[17] : TF      .BAS : 0 002 ko
+[18] : TF      .B�N : 0 013 ko
+[19] : BSONG   .B�N : 0 004 ko
+[20] : GRAPH   .S�R : 0 004 ko
+[21] : GRAPH1  .S�R : 0 003 ko
+[22] : J1      .B�N : 0 005 ko
+[23] : J2      .B�N : 0 005 ko
+[24] : J3      .B�N : 0 005 ko
+[25] : J4      .B�N : 0 005 ko
+[26] : J5      .B�N : 0 005 ko
+[27] : J6      .B�N : 0 005 ko
+[28] : K1      .B�N : 0 002 ko
+[29] : K2      .B�N : 0 002 ko
+[30] : K3      .B�N : 0 002 ko
+[31] : K4      .B�N : 0 002 ko
+[32] : K5      .B�N : 0 002 ko
+[33] : K6      .B�N : 0 002 ko
+[34] : K7      .B�N : 0 002 ko
+[35] : K8      .B�N : 0 002 ko
+[36] : K9      .B�N : 0 002 ko
+[37] : KA      .B�N : 0 002 ko
+[38] : SCROLL  .B�N : 0 003 ko
+[39] : FRESMAN .P�  : 0 002 ko
+[40] : TRAFFIC .C�C : 0 002 ko
+Dsk 187 Ko used

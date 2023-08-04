@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARTHELS.BAS : 0 002 ko
+[01] : USHER   .BAS : 0 001 ko
+[02] : STARION .BIN : 0 026 ko
+[03] : BD1     .B�L : 0 017 ko
+[05] : 1K-THINK.BAS : 0 001 ko
+[07] : MENU    .BAS : 0 001 ko
+[08] : BD2     .B�L : 0 017 ko
+[10] : BD3     .B�L : 0 007 ko
+[11] : 2112AD  .BAS : 0 001 ko
+[12] : BD4     .B�L : 0 008 ko
+[13] : BDASH   .BAK : 0 003 ko
+[14] : BDASH   .P�W : 0 002 ko
+[15] : BDASH1  .B�N : 0 015 ko
+[16] : BDASH   .HSC : 0 003 ko
+[17] : 2112AD  .B�N : 0 040 ko
+[18] : USHER   .B�N : 0 016 ko
+[19] : BDASH2  .B�N : 0 016 ko
+[20] : BDEMO   .B�N : 0 005 ko
+[23] : 2112AD  .C�C : 0 004 ko
+Dsk 185 Ko used

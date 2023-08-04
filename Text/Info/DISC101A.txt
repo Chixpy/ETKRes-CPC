@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JUMP1   .BAS : 0 007 ko
+[01] : METAL   .BAS : 0 001 ko
+[02] : METAL   .B�N : 0 031 ko
+[04] : METAL   .I�L : 0 004 ko
+[05] : S2      .B�N : 0 041 ko
+[08] : S3      .B�N : 0 003 ko
+[09] : STARQIMA.P�W : 0 005 ko
+[10] : STARQUAK.BAS : 0 001 ko
+[11] : ZOIDS   .BAS : 0 001 ko
+[12] : ZOIDS   .B�N : 0 022 ko
+[14] : ZOIDSIMA.P�W : 0 008 ko
+[15] : FRANKIE .BAS : 0 001 ko
+[16] : FRANKIE .B�N : 0 041 ko
+[19] : FRANKIMA.P�W : 0 003 ko
+[20] : -MENU   .BAS : 0 001 ko
+[21] : CHATEAU .BAS : 0 014 ko
+[22] : CHATESCR.P�W : 0 002 ko
+Dsk 186 Ko used

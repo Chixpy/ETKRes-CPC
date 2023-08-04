@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SHANGHAI.BAS : 0 001 ko
+[01] : SEYMOUR .BAS : 0 001 ko
+[02] : SEYMOUR1.B�N : 0 031 ko
+[04] : SEYMOUR2.B�N : 0 015 ko
+[05] : SEYMOUR .I�L : 0 008 ko
+[07] : SHANGHAI.P�1 : 0 008 ko
+[08] : SHANGHAI.P�2 : 0 018 ko
+[10] : SHANGHAI.S�0 : 0 005 ko
+[11] : SHANGHAI.S�1 : 0 006 ko
+[12] : SHANGHAI.S�2 : 0 006 ko
+[13] : SHANGHAI.S�3 : 0 006 ko
+[14] : SHANGIMA.P�W : 0 005 ko
+[16] : DRIFT   .B�N : 0 025 ko
+[18] : POWERIMA.P�W : 0 006 ko
+[19] : DRIFT5  .R�M : 0 016 ko
+[20] : DRIFT7  .R�M : 0 004 ko
+[21] : DRIFT6  .R�M : 0 016 ko
+[22] : POWER   .BAS : 0 001 ko
+[23] : DRIFT4  .R�M : 0 009 ko
+Dsk 187 Ko used

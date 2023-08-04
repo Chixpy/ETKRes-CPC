@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PILOTS  .HSC : 0 001 ko
+[01] : PILOTS  .B�N : 0 005 ko
+[02] : PILOTS  .P�  : 0 002 ko
+[03] : PILOTS  .BAS : 0 006 ko
+[04] : PILOTS  .1�  : 0 017 ko
+[06] : PILOTS  .2�  : 0 016 ko
+[07] : PILOTS  .3�  : 0 017 ko
+[09] : PILOTS  .4�  : 0 010 ko
+[10] : TRANSFER.BAS : 0 002 ko
+[11] : PILOTS  .Z�I : 0 002 ko
+[12] : LORNA   .BAS : 0 001 ko
+[13] : LORNA   .B�N : 0 006 ko
+[14] : LORNA   .L�1 : 0 028 ko
+[16] : LORNA   .L�2 : 0 028 ko
+[18] : LORNA   .L�3 : 0 026 ko
+[20] : DUPO    .    : 0 001 ko
+[21] : MACO    .    : 0 002 ko
+[22] : FACTURE .BAS : 0 006 ko
+[23] : FICHFACT.BAS : 0 006 ko
+[24] : LORNASCR.P�W : 0 005 ko
+Dsk 187 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FREDDY  .BAS : 0 001 ko
+[01] : FREDDY1 .B�N : 0 036 ko
+[04] : FREDDY2 .B�N : 0 040 ko
+[07] : SEYMOUR .BAS : 0 001 ko
+[08] : SEYMOUR1.B�N : 0 038 ko
+[11] : SEYMOUR2.B�N : 0 013 ko
+[12] : SEYMOUR .I�L : 0 008 ko
+[16] : TRAPDOOR.BAS : 0 001 ko
+[17] : TRAPDOOR.B�N : 0 037 ko
+[20] : TRAPKOM .P�W : 0 005 ko
+[21] : FREDYIMA.P�W : 0 007 ko
+Dsk 187 Ko used

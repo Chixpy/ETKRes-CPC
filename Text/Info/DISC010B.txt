@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLOCK   .A�  : 0 010 ko
+[01] : BLOCK   .B�  : 0 009 ko
+[02] : BLOCK   .C�  : 0 009 ko
+[03] : BLOCK   .D�  : 0 009 ko
+[04] : BLOCK   .E�  : 0 009 ko
+[05] : BLOCK   .F�  : 0 009 ko
+[06] : BLOCK   .G�  : 0 009 ko
+[07] : BLOCK   .H�  : 0 009 ko
+[08] : BLOCK   .I�  : 0 009 ko
+[09] : BLOCK   .J�  : 0 010 ko
+[10] : BLOCK   .K�  : 0 009 ko
+[11] : BLOCK   .L�  : 0 009 ko
+[12] : BLOCK   .M�  : 0 009 ko
+[13] : BLOCK   .N�  : 0 009 ko
+[14] : BLOCK   .O�  : 0 009 ko
+[15] : BLOCK   .P�  : 0 008 ko
+[16] : BLOCK   .V�R : 0 001 ko
+[17] : G2DATA  .B�N : 0 032 ko
+[19] : TRIVIAL2.BAS : 0 001 ko
+[20] : TRIVIAL2.I�L : 0 008 ko
+Dsk 187 Ko used

@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : UNILAB  .BAS : 0 007 ko
+[01] : ETIKET3 .BIN : 0 007 ko
+[02] : COP003  . �  : 0 042 ko
+[03] : ELRUN   .BAS : 0 008 ko
+[04] : AGENT002.BIN : 0 026 ko
+[05] : SORT3D  .BAS : 0 010 ko
+[06] : DEATH   .BIN : 0 010 ko
+[07] : G       .B�N : 0 005 ko
+[09] : ETIKET1 .BIN : 0 007 ko
+[10] : ETIKET2 .BIN : 0 007 ko
+[13] : DESIGNER.BAS : 0 012 ko
+[15] : COPOUT  .I�L : 0 008 ko
+[16] : COP-OUT .BAS : 0 001 ko
+[17] : HHC     .B�S : 0 001 ko
+[18] : HC      .B�N : 0 001 ko
+[19] : LM+COM  .B�N : 0 004 ko
+[20] : BABYFOOT.BIN : 0 013 ko
+[21] : STAMPS  .BAS : 0 010 ko
+[22] : M'ENFOUT.BAS : 0 008 ko
+Dsk 187 Ko used

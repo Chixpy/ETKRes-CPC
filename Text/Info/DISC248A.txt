@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ALIENS  .BAS : 0 001 ko
+[01] : ALIENS1 .B�N : 0 037 ko
+[04] : ALIENS2 .B�N : 0 010 ko
+[05] : ALKAHERA.BAS : 0 001 ko
+[06] : ALKAHERA.B�N : 0 013 ko
+[07] : ATHLETE .BIN : 0 038 ko
+[10] : POUVOIR .BAS : 0 010 ko
+[11] : POUVOIR1.B�N : 0 013 ko
+[12] : WANDERER.BAS : 0 001 ko
+[13] : WANDERER.B�N : 0 038 ko
+[16] : ALIENS12.S�R : 0 004 ko
+[17] : WANDERER.S�R : 0 007 ko
+[18] : ALKAHERA.S�R : 0 005 ko
+[19] : POUVOIR .S�R : 0 009 ko
+Dsk 187 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GEEBEE  .BAS : 0 001 ko
+[01] : GEEBEE  .B�N : 0 029 ko
+[03] : HI      .BAK : 0 001 ko
+[04] : HI      .S�R : 0 001 ko
+[05] : LEVEL   .S�R : 0 015 ko
+[06] : SPRITES .S�R : 0 010 ko
+[07] : LEGS    .S�R : 0 006 ko
+[08] : PIGS    .S�R : 0 006 ko
+[09] : TREE    .S�R : 0 006 ko
+[10] : DESERT  .S�R : 0 006 ko
+[11] : CEREMONY.S�R : 0 016 ko
+[12] : COMBAT  .BAS : 0 001 ko
+[13] : MAIN    .B�N : 0 027 ko
+[15] : 3DFIGHT .BIN : 0 018 ko
+[16] : CL-SCORE.BAK : 0 001 ko
+[17] : SORCIER .BAS : 0 007 ko
+[18] : SORCIER .B�N : 0 028 ko
+[21] : SLIST   .B�N : 0 002 ko
+[22] : CL-SCORE.BIN : 0 001 ko
+[24] : COMBASCR.P�W : 0 003 ko
+[25] : SUPLIST .BAS : 0 001 ko
+Dsk 186 Ko used

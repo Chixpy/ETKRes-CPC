@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SQUADRON.BAS : 0 001 ko
+[01] : SQUAD1  .B�N : 0 037 ko
+[04] : SQUAD2  .B�N : 0 015 ko
+[05] : SQUADB  .B�N : 0 025 ko
+[07] : SQUADC  .B�N : 0 021 ko
+[09] : SQUADD  .B�N : 0 026 ko
+[11] : SQUADE  .B�N : 0 026 ko
+[13] : SQUADF  .B�N : 0 024 ko
+[15] : 13PAIRES.BAS : 0 005 ko
+[16] : SQUADIMA.P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACE1    .BAS : 0 001 ko
+[01] : CODE1   .B�N : 0 016 ko
+[02] : CODE2   .B�N : 0 016 ko
+[03] : RAM4    .B�N : 0 015 ko
+[04] : RAM6    .B�N : 0 016 ko
+[05] : RUN     .B�N : 0 001 ko
+[06] : RAM7    .B�N : 0 017 ko
+[08] : RAM5    .B�N : 0 016 ko
+[09] : DRAGON  .B�N : 0 039 ko
+[12] : D-NINJA .BAS : 0 001 ko
+[13] : CHATBIN .B�N : 0 007 ko
+[14] : ECRAN2  .B�N : 0 004 ko
+[15] : PAC     .BIN : 0 014 ko
+[16] : DRAGIMA .P�W : 0 008 ko
+[17] : MAISBIN .B�N : 0 007 ko
+[18] : MEL     .B�N : 0 001 ko
+[19] : MEL2    .B�N : 0 001 ko
+[20] : MEL3    .B�N : 0 001 ko
+[21] : THEWALL .BAS : 0 004 ko
+[22] : WALLROUT.B�N : 0 002 ko
+Dsk 187 Ko used

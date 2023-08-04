@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SX      .B�N : 0 011 ko
+[01] : SK      .B�N : 0 014 ko
+[02] : SUPER   .BAS : 0 001 ko
+[03] : SKWEEK01.NHF : 15 016 ko
+[04] : SKWEEK02.NHF : 15 016 ko
+[05] : SKWEEK03.NHF : 15 016 ko
+[06] : SKWEEK04.NHF : 15 016 ko
+[07] : SKWEEK05.NHF : 15 016 ko
+[08] : SKWEEK06.NHF : 15 016 ko
+[09] : SKWEEK07.NHF : 15 016 ko
+[10] : SKWEEK08.NHF : 15 016 ko
+[11] : SKWEEK09.NHF : 15 007 ko
+[12] : OXY     .B�S : 0 013 ko
+[13] : OXYSUDIS.BAS : 0 001 ko
+[14] : OXYSUDIS.B�N : 0 002 ko
+[15] : OXYSUDIS.C�M : 0 003 ko
+[16] : SKWEKIMA.P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GAG     .D�T : 0 014 ko
+[01] : FOOT    .BAS : 0 004 ko
+[02] : BASEF   .B�N : 0 005 ko
+[03] : BOITES  .C�P : 0 007 ko
+[04] : PRES    .C�P : 0 009 ko
+[05] : PRES1   .C�P : 0 004 ko
+[06] : MUS     .B�N : 0 004 ko
+[07] : FOOT0   .B�S : 0 014 ko
+[08] : F0      .C�P : 0 005 ko
+[09] : BUREAU  .C�P : 0 006 ko
+[10] : FOOT1   .B�S : 0 012 ko
+[11] : ICONES1 .C�P : 0 007 ko
+[12] : LOGOS   .C�P : 0 002 ko
+[13] : LANC1   .B�S : 0 002 ko
+[14] : LANC2   .B�S : 0 004 ko
+[15] : TER     .C�P : 0 004 ko
+[16] : TER     .L�T : 0 007 ko
+[17] : FOOT2   .B�S : 0 021 ko
+[19] : ICON20  .C�P : 0 001 ko
+[20] : ICON22  .C�P : 0 001 ko
+[21] : INITCASE.B�N : 0 001 ko
+[22] : ARBITRE .C�P : 0 002 ko
+[23] : BAS     .C�P : 0 001 ko
+[24] : GOAL    .B�N : 0 005 ko
+[25] : FIN     .B�S : 0 014 ko
+[26] : FIN     .C�P : 0 003 ko
+[27] : EC4     .C�P : 0 002 ko
+[28] : EC5     .C�P : 0 002 ko
+[29] : CHECKER .BAS : 0 002 ko
+[30] : ZAXX    .BAS : 0 001 ko
+[31] : ZAXX    .B�N : 0 018 ko
+[33] : ZAXXIMA .P�W : 0 003 ko
+Dsk 187 Ko used

@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FLIMBO  .BAS : 0 001 ko
+[01] : BOBIB   .BAS : 0 008 ko
+[02] : FLIMBO  .P�G : 0 019 ko
+[04] : FLIMBO  .L�1 : 0 016 ko
+[05] : FLIMBO  .L�2 : 0 018 ko
+[07] : FLIMBO  .L�3 : 0 016 ko
+[08] : FLIMBO  .L�4 : 0 014 ko
+[09] : FLIMBO  .L�5 : 0 016 ko
+[10] : FLIMBO  .L�6 : 0 015 ko
+[11] : FLIMBO  .L�7 : 0 014 ko
+[12] : FLIMBO  .L�8 : 0 005 ko
+[13] : FLIMBO  .L�9 : 0 017 ko
+[15] : COCONUTS.BAS : 0 002 ko
+[16] : MILITARY.BAS : 0 003 ko
+[17] : MILITARY.0�1 : 0 002 ko
+[18] : MILITARY.0�2 : 0 008 ko
+[19] : SKI     .BAS : 0 002 ko
+[20] : ROUT    .B�N : 0 001 ko
+[21] : SPRITES .B�N : 0 003 ko
+[22] : FLIMBIMA.P�W : 0 007 ko
+Dsk 187 Ko used

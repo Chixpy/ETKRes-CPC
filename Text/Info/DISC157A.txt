@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARBAR2 .B�1 : 0 018 ko
+[02] : BARBAR2 .B�1 : 0 018 ko
+[04] : BARBAR2 .B�2 : 0 004 ko
+[05] : BARBAR2 .B�1 : 0 018 ko
+[07] : BARBAR2 .B�2 : 0 004 ko
+[08] : BARBAR2 .B�1 : 0 018 ko
+[10] : BARBAR2 .B�2 : 0 004 ko
+[11] : BARBAR2 .B�1 : 0 025 ko
+[13] : BARBAR2 .B�2 : 0 009 ko
+[14] : BARBARE2.BAS : 0 002 ko
+[15] : BARBAR2 .I�L : 0 003 ko
+[16] : BARBARE2.I�L : 0 007 ko
+[17] : BARBAR2 .B�2 : 0 004 ko
+[18] : KWIK    .BAS : 0 001 ko
+[19] : KWIK1   .B�N : 0 040 ko
+[22] : KWIK2   .B�N : 0 006 ko
+[23] : KWIKIMA .P�W : 0 006 ko
+Dsk 187 Ko used

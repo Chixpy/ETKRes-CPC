@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ENDURIMA.P�W : 0 005 ko
+[01] : ENDURO  .BAS : 0 001 ko
+[02] : ENDURO1 .B�N : 0 026 ko
+[04] : ENDURO2 .B�N : 0 008 ko
+[05] : ESCAPE  .BAS : 0 001 ko
+[06] : ESCAPE  .I�L : 0 003 ko
+[07] : ESCAPE1 .B�N : 0 040 ko
+[10] : MOMIE   .BAS : 0 011 ko
+[11] : MOMIESCR.P�W : 0 003 ko
+[12] : SCOOBSCR.P�W : 0 005 ko
+[13] : SCOOBY  .BAS : 0 001 ko
+[14] : SCOOBY  .B�N : 0 031 ko
+[16] : SOURIS  .BAS : 0 005 ko
+[17] : SOURIS  .B�N : 0 002 ko
+[18] : TURBO   .0�1 : 0 034 ko
+[21] : TURBO   .0�2 : 0 007 ko
+[22] : TURBO   .BAS : 0 001 ko
+[23] : TURBOSCR.P�W : 0 003 ko
+Dsk 187 Ko used

@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BACK3   .BIN : 0 001 ko
+[01] : BACK    .B�N : 0 016 ko
+[02] : BACK    .B�2 : 0 008 ko
+[03] : BACKB   .B�N : 0 029 ko
+[05] : BACKC   .B�N : 0 030 ko
+[07] : BACKD   .B�N : 0 030 ko
+[09] : BACKI   .B�N : 0 009 ko
+[10] : BACKJ   .B�N : 0 012 ko
+[11] : BACKL   .B�N : 0 017 ko
+[13] : BACK    .B�3 : 0 005 ko
+[14] : BUMPY   .BAS : 0 001 ko
+[15] : BUMPY   .B�N : 0 024 ko
+[17] : BUMPY   .I�L : 0 005 ko
+Dsk 187 Ko used

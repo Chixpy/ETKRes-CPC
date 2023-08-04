@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOXING  .BAS : 0 001 ko
+[01] : BOXING  .S�F : 0 036 ko
+[04] : DECALE5 .B�N : 0 001 ko
+[05] : DUEL    .B�N : 0 010 ko
+[06] : DUEL    .H�S : 0 001 ko
+[07] : ESCADRE .B�N : 0 010 ko
+[08] : ESCADRE .H�S : 0 001 ko
+[09] : ESSAI3  .B�N : 0 006 ko
+[10] : LUNAR   .BAS : 0 004 ko
+[11] : HMS113  .V�U : 0 016 ko
+[12] : HMS21   .B�N : 0 010 ko
+[13] : HMSCOBRA.BAS : 0 003 ko
+[14] : HMSFIN  .B�S : 0 005 ko
+[15] : HMSPRIN1.B�S : 0 024 ko
+[17] : INIT25  .B�S : 0 009 ko
+[18] : LEVER13 .B�S : 0 014 ko
+[19] : MAP0    .B�N : 0 003 ko
+[20] : MAP1    .B�N : 0 003 ko
+[21] : MAP2    .B�N : 0 003 ko
+[22] : SOUSMAR1.B�N : 0 010 ko
+[23] : SOUSMAR1.H�S : 0 001 ko
+[24] : TEXT1   .B�N : 0 004 ko
+[25] : TEXT2   .B�N : 0 001 ko
+[26] : MERCENA1.B�1 : 0 017 ko
+[27] : ABALONE .BAS : 0 008 ko
+[28] : BOXINIMA.P�W : 0 003 ko
+Dsk 204 Ko used

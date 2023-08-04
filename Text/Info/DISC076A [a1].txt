@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PHANTIS .BAS : 0 001 ko
+[01] : PHANTIS1.0�1 : 0 039 ko
+[04] : PHANTIS1.0�2 : 0 008 ko
+[05] : PHANTIS2.0�1 : 0 039 ko
+[08] : PHANTIS2.0�2 : 0 008 ko
+[09] : AFS     .BAS : 0 001 ko
+[10] : AFS     .B�N : 0 035 ko
+[13] : AFS     .I�L : 0 005 ko
+[14] : CLIENT  .POS : 0 001 ko
+[15] : FRUIT1  .B�N : 0 001 ko
+[16] : JACKPOT .BAS : 0 008 ko
+[17] : POSTER2 .BAS : 0 012 ko
+[18] : POSTER3 .BAS : 0 014 ko
+[19] : PHANTIMA.P�W : 0 010 ko
+[20] : TREMPOLI.BAS : 0 005 ko
+Dsk 187 Ko used

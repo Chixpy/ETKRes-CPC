@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CRAFTON .BAS : 0 001 ko
+[01] : CRAFTON .B�N : 0 001 ko
+[02] : CRAFTON1.B�N : 0 008 ko
+[03] : CRAFTON2.B�N : 0 033 ko
+[06] : CRAFTON3.B�N : 0 017 ko
+[08] : C-COURTS.BAS : 0 001 ko
+[09] : M       .B�N : 0 013 ko
+[10] : T       .B�S : 0 007 ko
+[11] : EIMER   .BAS : 0 005 ko
+[12] : QUADREL .BAS : 0 001 ko
+[13] : QUADREL .B�N : 0 030 ko
+[15] : QUADREL1. �  : 0 006 ko
+[16] : QUADREL2. �  : 0 003 ko
+[17] : QUADREL3. �  : 0 005 ko
+[18] : QUADREL4. �  : 0 005 ko
+[19] : QUADREL5. �  : 0 005 ko
+[20] : FORMATII.B�N : 0 001 ko
+[21] : FORMATII.C�R : 0 001 ko
+[22] : FORMATII.E�O : 0 001 ko
+[23] : FORMATII.L�G : 0 002 ko
+[24] : RSX     .BAS : 0 002 ko
+[25] : RSX     .B�N : 0 001 ko
+[26] : TEST    .BAS : 0 001 ko
+[27] : UTIL    .BAS : 0 002 ko
+[28] : UTIL    .B�N : 0 002 ko
+[29] : FORMAT2 .BAS : 0 008 ko
+[30] : JEUXINT .B�N : 0 002 ko
+[31] : QUADREL6. �  : 0 004 ko
+[32] : MAESTRO .BAS : 0 007 ko
+[33] : QUADREL7. �  : 0 001 ko
+[34] : QUADRIMA.P�W : 0 004 ko
+[35] : PRODATA .B�S : 0 001 ko
+[36] : PROGINT .B�S : 0 002 ko
+[37] : ESCRIME .BAS : 0 003 ko
+[38] : SCR-PART.BAS : 0 001 ko
+Dsk 187 Ko used

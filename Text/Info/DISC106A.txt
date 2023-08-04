@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STORM   .I�L : 0 006 ko
+[01] : STORM   .BAS : 0 001 ko
+[02] : YROX    .BAS : 0 008 ko
+[03] : STORM1  .B�N : 0 028 ko
+[05] : STORM2  .B�N : 0 015 ko
+[06] : CRIME18 .BIN : 0 007 ko
+[07] : RALF2   .BAS : 0 006 ko
+[08] : SPRITROU.B�N : 0 011 ko
+[09] : DESSINAT.BAS : 0 002 ko
+[10] : DANDARE3.BAS : 0 001 ko
+[11] : DANDARE3.P�G : 0 038 ko
+[14] : ROUTINES.S�R : 0 003 ko
+[15] : WONDER  .BAS : 0 001 ko
+[16] : WON1    .B�N : 0 036 ko
+[19] : WON2    .B�N : 0 011 ko
+[20] : RSX+SYMB.B�N : 0 001 ko
+[21] : DAN3SCR .P�W : 0 006 ko
+[22] : WONDEIMA.P�W : 0 006 ko
+Dsk 187 Ko used

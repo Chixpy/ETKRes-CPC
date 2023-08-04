@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DA      .B�N : 0 005 ko
+[01] : DC      .B�N : 0 005 ko
+[02] : DE      .B�N : 0 005 ko
+[03] : DG      .B�N : 0 003 ko
+[04] : DI      .B�N : 0 004 ko
+[05] : DK      .B�N : 0 004 ko
+[06] : DM      .B�N : 0 005 ko
+[07] : DO      .B�N : 0 005 ko
+[08] : DQ      .B�N : 0 005 ko
+[09] : DS      .B�N : 0 005 ko
+[10] : DU      .B�N : 0 004 ko
+[11] : DW      .B�N : 0 005 ko
+[12] : P1      .B�N : 0 011 ko
+[13] : PA      .B�N : 0 002 ko
+[14] : S2      .B�N : 0 011 ko
+[15] : S3      .B�N : 0 011 ko
+[16] : S1      .B�N : 0 011 ko
+[17] : REPTEL  .BAS : 0 002 ko
+[18] : DX      .B�N : 0 007 ko
+[19] : DV      .B�N : 0 005 ko
+[20] : DT      .B�N : 0 004 ko
+[21] : DR      .B�N : 0 005 ko
+[22] : DP      .B�N : 0 004 ko
+[23] : DN      .B�N : 0 005 ko
+[24] : DL      .B�N : 0 004 ko
+[25] : DJ      .B�N : 0 004 ko
+[26] : DH      .B�N : 0 005 ko
+[27] : DF      .B�N : 0 005 ko
+[28] : DD      .B�N : 0 005 ko
+[29] : DB      .B�N : 0 004 ko
+[30] : JUGGER  .BAS : 0 001 ko
+[31] : CATCH   .BAS : 0 001 ko
+[32] : JUGGER  .B�N : 0 018 ko
+[34] : JUGGESCR.P�W : 0 003 ko
+[35] : FORET   .BAS : 0 002 ko
+Dsk 185 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURBO   .C�M : 0 017 ko
+[02] : TURBO   .C�N : 0 016 ko
+[03] : TURBO   .C�O : 0 018 ko
+[05] : TURBO   .C�P : 0 017 ko
+[07] : TURBO   .C�Q : 0 018 ko
+[09] : TURBO   .C�R : 0 017 ko
+[11] : TURBO   .C�S : 0 017 ko
+[13] : TURBO   .C�T : 0 017 ko
+[15] : TURBO   .C�U : 0 018 ko
+[17] : TURBO   .CHV : 0 017 ko
+[19] : FITMC   .B�N : 0 002 ko
+[20] : FITNESS .BAS : 0 010 ko
+[21] : FITSP   .B�N : 0 002 ko
+[22] : DAVID   .    : 0 001 ko
+Dsk 187 Ko used

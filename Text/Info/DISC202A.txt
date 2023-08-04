@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CARA    .B�N : 0 001 ko
+[01] : LANC3-4 .B�N : 0 001 ko
+[02] : LIT6128 .B�N : 0 001 ko
+[03] : LOA-SCE .B�S : 0 004 ko
+[04] : MAGE10  .B�N : 0 008 ko
+[05] : MAGE11  .B�N : 0 008 ko
+[06] : MAGE12  .B�N : 0 009 ko
+[07] : MAGE13  .B�N : 0 008 ko
+[08] : MAGE14  .B�N : 0 009 ko
+[09] : MAGE15  .B�N : 0 007 ko
+[10] : MAGE4   .B�N : 0 008 ko
+[11] : MAGE9   .B�N : 0 010 ko
+[12] : ORGDISK .B�N : 0 001 ko
+[13] : ORGDISK2.B�N : 0 001 ko
+[14] : ORGDISK3.B�N : 0 001 ko
+[15] : SAGA    .    : 0 001 ko
+[16] : SAGA    .E�R : 0 008 ko
+[17] : SAGA    .P�E : 0 013 ko
+[18] : SAGA    .T�B : 0 007 ko
+[19] : SAV-FB  .BAS : 0 002 ko
+[20] : SCEN    .0�3 : 0 034 ko
+[23] : SCEN    .0�4 : 0 033 ko
+[27] : SCREEN1 .B�N : 0 001 ko
+[28] : WRITE   .B�N : 0 001 ko
+[29] : CASTODIS.BAS : 0 004 ko
+Dsk 181 Ko used

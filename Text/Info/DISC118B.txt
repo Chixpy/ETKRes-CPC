@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TRUX    .BAS : 0 001 ko
+[01] : DEVIL   .B�N : 0 036 ko
+[02] : DESSIN  .B�N : 0 002 ko
+[03] : FUTURE3 .BAS : 0 001 ko
+[04] : FUTURE3 .B�N : 0 040 ko
+[07] : TRUX    .B�N : 0 015 ko
+[08] : TRUX    .R�M : 0 023 ko
+[11] : PSY     .B�N : 0 007 ko
+[12] : MUSIQ   .B�N : 0 001 ko
+[13] : OBSID2  .B�N : 0 038 ko
+[16] : OBSIDIAN.BAS : 0 001 ko
+[18] : TUNNEL  .BAS : 0 001 ko
+[19] : DEVIL   .BAS : 0 001 ko
+[21] : PSYCHEDE.BAS : 0 001 ko
+[22] : OBSIDIMA.P�W : 0 005 ko
+[23] : DEVILSCR.P�W : 0 005 ko
+[24] : SERP1   .B�N : 0 001 ko
+[25] : SERP2   .B�N : 0 001 ko
+[26] : SERP3   .B�N : 0 002 ko
+[27] : SERPENTI.BAS : 0 002 ko
+[28] : TABLE   .B�N : 0 003 ko
+Dsk 187 Ko used

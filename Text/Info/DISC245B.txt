@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CORE    .BAS : 0 001 ko
+[01] : CORE3   .B�N : 0 042 ko
+[04] : CRAZWORM.BIN : 0 015 ko
+[05] : SHERIFF .BAS : 0 001 ko
+[06] : SHERIFF1.B�N : 0 036 ko
+[09] : SHERIFF2.B�N : 0 011 ko
+[10] : NAJA    .BAS : 0 001 ko
+[11] : NAJA    .B�N : 0 041 ko
+[14] : COWBOY  .BAS : 0 001 ko
+[15] : COWBOY  .B�N : 0 013 ko
+[16] : NAJAIMA .P�W : 0 007 ko
+[17] : CORESCR .P�W : 0 004 ko
+[18] : COWBOIMA.P�W : 0 004 ko
+[19] : SHERIIMA.P�W : 0 010 ko
+Dsk 187 Ko used

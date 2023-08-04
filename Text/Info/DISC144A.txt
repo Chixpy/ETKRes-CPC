@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NORTH   .BAS : 0 001 ko
+[01] : NORTH   .B�1 : 0 004 ko
+[02] : NORTH   .B�2 : 0 032 ko
+[04] : NORTH   .B�3 : 0 003 ko
+[05] : NORTH   .B�4 : 0 009 ko
+[06] : NORTH   .B�5 : 0 008 ko
+[07] : NORTH   .B�6 : 0 026 ko
+[09] : NORTH   .B�7 : 0 007 ko
+[10] : NORTH   .B�8 : 0 032 ko
+[12] : NORTH   .B�9 : 0 016 ko
+[13] : NORTH   .B�A : 0 016 ko
+[14] : SENTINEL.BAS : 0 001 ko
+[15] : SENTINEL.B�N : 0 023 ko
+[17] : EDDY    .B�N : 0 001 ko
+[18] : SENTIIMA.P�W : 0 007 ko
+[19] : MINILOTO.BAS : 0 001 ko
+Dsk 187 Ko used

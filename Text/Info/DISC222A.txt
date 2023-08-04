@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EXEC1   .BAS : 0 002 ko
+[01] : FONZIE  .BAS : 0 011 ko
+[02] : TENNIS  .BAS : 0 002 ko
+[03] : TWIN    .A�  : 0 009 ko
+[04] : TWIN    .A�  : 0 011 ko
+[05] : TWIN    .BAS : 0 001 ko
+[06] : TWIN    .B�  : 0 010 ko
+[07] : TWIN    .B�N : 0 019 ko
+[09] : TWIN    .C�  : 0 010 ko
+[10] : TWIN    .D�  : 0 010 ko
+[11] : TWIN    .E�  : 0 010 ko
+[12] : TWIN    .F�  : 0 011 ko
+[13] : TWIN    .F�  : 0 010 ko
+[14] : TWIN    .G�  : 0 010 ko
+[15] : TWIN    .H�  : 0 011 ko
+[16] : TWIN    .I�  : 0 011 ko
+[17] : TWIN    .J�  : 0 010 ko
+[18] : TWIN    .K�  : 0 010 ko
+[19] : TWIN    .K�  : 0 011 ko
+[20] : TWINIMA .P�W : 0 008 ko
+Dsk 187 Ko used

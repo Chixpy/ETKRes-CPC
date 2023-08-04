@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DRAGON3 .BAS : 0 001 ko
+[01] : DRAGON3 .B�N : 0 013 ko
+[02] : DRAGON3 .L�1 : 0 012 ko
+[03] : DRAGON3 .L�2 : 0 009 ko
+[04] : DRAGON3 .L�3 : 0 013 ko
+[05] : DRAGON3 .L�4 : 0 011 ko
+[06] : DRAGON3 .L�5 : 0 011 ko
+[07] : DRAGON3 .L�6 : 0 013 ko
+[08] : DRAGON3 .L�7 : 0 012 ko
+[09] : DRAGON3 .L�8 : 0 015 ko
+[10] : DRAGON3 .L�9 : 0 012 ko
+[11] : EDD     .BAS : 0 001 ko
+[12] : EDD     .B�N : 0 033 ko
+[15] : EDDIMA  .P�W : 0 004 ko
+[16] : DRAGOIMA.P�W : 0 008 ko
+[17] : TREMBLO .BAS : 0 004 ko
+[18] : FIREFOX .1�  : 0 010 ko
+[19] : FIREFOX2.BAS : 0 002 ko
+[22] : FIRESCOR.BAK : 0 001 ko
+Dsk 185 Ko used

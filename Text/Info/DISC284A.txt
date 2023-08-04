@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 42 start at sector 65 while track 0 starts at 193
+[00] : CHARLY  .BAS : 0 001 ko
+[01] : CHARLY1 . �  : 0 021 ko
+[03] : CHARLY2 . �  : 0 027 ko
+[05] : INDOOR  .BAS : 0 001 ko
+[06] : INDOOR  .B�N : 0 010 ko
+[07] : MERLIN  .BIN : 0 012 ko
+[08] : SHOWDOWN.BAS : 0 006 ko
+[09] : SHOWDOWN.B�N : 0 010 ko
+[10] : BASH    .BAS : 0 001 ko
+[11] : BASH    .B�N : 0 006 ko
+[12] : DESERTRA.BIN : 0 035 ko
+[15] : FA-CUP  .BAS : 0 001 ko
+[16] : FA-CUP  .B�N : 0 025 ko
+[18] : ROCCO   .BAS : 0 001 ko
+[19] : ROCCO   .B�N : 0 023 ko
+[21] : ROCCOSCR.P�W : 0 003 ko
+[22] : FACUPSCR.P�W : 0 004 ko
+Dsk 187 Ko used

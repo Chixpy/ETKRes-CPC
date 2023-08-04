@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GALAC   .BAS : 0 004 ko
+[01] : GALAC   .B�N : 0 009 ko
+[02] : TIMER   .BAS : 0 006 ko
+[03] : REVOLUTI.BAS : 0 001 ko
+[04] : REVOLUTI.B�N : 0 035 ko
+[07] : PIPELINE.BAS : 0 002 ko
+[08] : ICEFRONT.BAS : 0 008 ko
+[09] : REVOLSCR.P�W : 0 002 ko
+[10] : MERCATOR.BIN : 0 013 ko
+[11] : AUSTRAL .D�T : 0 001 ko
+[12] : EUROPE  .D�T : 0 001 ko
+[13] : TANK    .BAS : 0 005 ko
+[14] : NORDAM  .D�T : 0 001 ko
+[15] : TANK2   . �  : 0 002 ko
+[16] : PIPELINE.B�N : 0 034 ko
+[19] : MASTER2 .BAS : 0 003 ko
+[20] : SORCESCR.P�W : 0 005 ko
+[21] : VISITEUR.BAS : 0 010 ko
+[22] : SORCERY .BAS : 0 001 ko
+[23] : SORCERY .B�N : 0 040 ko
+[32] : SUDAM   .D�T : 0 001 ko
+[33] : CANADA  .D�T : 0 001 ko
+[34] : AFRIQUE .D�T : 0 001 ko
+[35] : ASIE    .D�T : 0 001 ko
+Dsk 187 Ko used

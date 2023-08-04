@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LEONARD .BAS : 0 001 ko
+[01] : LEONARD .B�N : 0 020 ko
+[03] : STARBYTE.BAS : 0 001 ko
+[04] : STARBYTE.B�N : 0 017 ko
+[06] : STREETFO.BAS : 0 001 ko
+[07] : STREETFO.B�N : 0 026 ko
+[09] : RUFF    .B�N : 0 027 ko
+[11] : RUFFREDY.BIN : 0 011 ko
+[12] : SEESAW  .BIN : 0 016 ko
+[13] : SKAT-USA.BAS : 0 001 ko
+[14] : SKATEUSA.B�N : 0 033 ko
+[17] : SPEEDWAY.BIN : 0 019 ko
+[19] : LEONARD .C�C : 0 003 ko
+[20] : STARBYTE.C�C : 0 003 ko
+[21] : SKATESCR.P�W : 0 004 ko
+[22] : STREESCR.P�W : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,39 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AWM     .BAS : 0 006 ko
+[01] : R-TYPE  .BAS : 0 001 ko
+[02] : R-TYPE  .B�2 : 0 013 ko
+[03] : R-TYPE  .B�3 : 0 013 ko
+[04] : R-TYPE  .B�4 : 0 013 ko
+[05] : R-TYPE  .B�5 : 0 013 ko
+[06] : R-TYPE  .B�6 : 0 013 ko
+[07] : R-TYPE  .B�7 : 0 013 ko
+[08] : R-TYPE  .B�8 : 0 013 ko
+[09] : R-TYPE  .B�N : 0 033 ko
+[12] : R-TYPE  .B�1 : 0 014 ko
+[13] : THEBESTS.DAT : 0 001 ko
+[14] : FONT    .B�N : 0 001 ko
+[15] : LEVEL   .1�  : 0 001 ko
+[16] : LEVEL   .2�  : 0 001 ko
+[17] : LEVEL   .3�  : 0 001 ko
+[18] : LEVEL   .4�  : 0 001 ko
+[19] : LEVEL   .5�  : 0 001 ko
+[20] : LEVEL   .6�  : 0 001 ko
+[21] : LEVEL   .7�  : 0 001 ko
+[22] : LEVEL   .8�  : 0 001 ko
+[23] : LEVEL   .9�  : 0 001 ko
+[24] : LEVEL   .1�  : 0 001 ko
+[25] : LEVEL   .1�  : 0 001 ko
+[26] : LEVEL   .1�  : 0 001 ko
+[27] : LEVEL   .1�  : 0 001 ko
+[28] : LEVEL   .1�  : 0 001 ko
+[29] : LEVEL   .1�  : 0 001 ko
+[30] : LEVEL   .1�  : 0 001 ko
+[31] : LEVEL   .1�  : 0 001 ko
+[32] : LEVEL   .1�  : 0 001 ko
+[33] : LEVEL   .2�  : 0 001 ko
+[34] : CODE+SCR.B�N : 0 013 ko
+[35] : LEVEL   .1�  : 0 001 ko
+[36] : R-TYPIMA.P�W : 0 006 ko
+[37] : RACEDEMO.BAS : 0 001 ko
+Dsk 187 Ko used

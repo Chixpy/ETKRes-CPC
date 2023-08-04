@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AGENTX  .BAS : 0 001 ko
+[01] : AGENTX1 .B�N : 0 017 ko
+[03] : AGENTX2 .B�N : 0 019 ko
+[05] : AGENTX3 .B�N : 0 010 ko
+[06] : SKY     .B�N : 0 014 ko
+[07] : SKYLAB  .BAS : 0 005 ko
+[08] : DEEP    .BAS : 0 001 ko
+[09] : DEEP    .B�N : 0 024 ko
+[11] : DEEP    .L�1 : 0 009 ko
+[12] : DEEP    .L�2 : 0 009 ko
+[13] : DEEP    .L�3 : 0 009 ko
+[14] : DEEP    .L�4 : 0 009 ko
+[15] : DEEP    .L�5 : 0 009 ko
+[16] : CATCH23 .BAS : 0 001 ko
+[17] : CATCH23 .B�N : 0 036 ko
+[20] : CATCHSCN.P�W : 0 001 ko
+[21] : CATCHSCR.P�W : 0 004 ko
+[22] : AGENTSCR.P�W : 0 004 ko
+[23] : DEEPSCR .P�W : 0 005 ko
+Dsk 187 Ko used

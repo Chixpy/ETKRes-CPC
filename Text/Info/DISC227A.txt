@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AAARGH  .BAS : 0 001 ko
+[01] : ATV     .BAS : 0 001 ko
+[02] : ATV     .B�N : 0 040 ko
+[03] : AAARGH1 .L�L : 0 006 ko
+[05] : AAARGH  .B�N : 0 021 ko
+[07] : AAARGH3 .L�L : 0 006 ko
+[08] : AAARGH2 .L�L : 0 005 ko
+[09] : AAARGH5 .L�L : 0 006 ko
+[10] : AAARGH6 .L�L : 0 005 ko
+[11] : AAARGH4 .L�L : 0 007 ko
+[12] : AAARGH7 .L�L : 0 004 ko
+[13] : AAARGH8 .L�L : 0 005 ko
+[15] : BOB     .B�N : 0 035 ko
+[16] : AAARGH9 .L�L : 0 006 ko
+[19] : BOBSLEIG.BAS : 0 001 ko
+[20] : SUBBY   .B�N : 0 021 ko
+[22] : SUBTERRA.BAS : 0 001 ko
+[23] : SUBTEKOM.P�W : 0 003 ko
+[24] : BOBIMA  .P�W : 0 006 ko
+[25] : AAARGIMA.P�W : 0 007 ko
+Dsk 187 Ko used

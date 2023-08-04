@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ULCINOR .BAS : 0 008 ko
+[01] : WDW2    .BAS : 0 002 ko
+[02] : WDW2    .B�1 : 0 037 ko
+[05] : WDW2    .B�2 : 0 007 ko
+[06] : NARC    .BAS : 0 001 ko
+[07] : NARC    .B�1 : 0 002 ko
+[08] : NARC    .B�2 : 0 002 ko
+[09] : NARC    .B�3 : 0 002 ko
+[10] : NARC    .B�4 : 0 002 ko
+[11] : NARC    .B�5 : 0 002 ko
+[12] : NARC    .B�6 : 0 002 ko
+[13] : NARC    .B�7 : 0 002 ko
+[14] : NARC    .B�8 : 0 010 ko
+[15] : NARC    .B�9 : 0 012 ko
+[16] : NARC    .B�A : 0 008 ko
+[17] : NARC    .B�B : 0 008 ko
+[18] : NARC    .B�C : 0 008 ko
+[19] : NARC    .B�D : 0 009 ko
+[20] : NARC    .B�E : 0 008 ko
+[21] : NARC    .B�F : 0 009 ko
+[22] : NARC    .B�G : 0 009 ko
+[23] : NARC    .B�H : 0 019 ko
+[25] : NARC    .B�I : 0 009 ko
+[26] : NARC    .B�N : 0 003 ko
+[28] : NARCIMA .P�W : 0 006 ko
+Dsk 187 Ko used

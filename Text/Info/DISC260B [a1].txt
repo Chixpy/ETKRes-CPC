@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CASTLE  .B�N : 0 011 ko
+[01] : CAVES   .B�N : 0 011 ko
+[02] : GARDEN  .B�N : 0 011 ko
+[03] : HEART   .BAS : 0 001 ko
+[04] : KIM     .B�N : 0 022 ko
+[06] : MOONBASE.B�N : 0 011 ko
+[07] : VILLAGE .B�N : 0 011 ko
+[08] : INFODROI.B�N : 0 036 ko
+[11] : SGLIDER .BAS : 0 001 ko
+[12] : SGLIDER1.B�N : 0 030 ko
+[14] : SGLIDER2.B�N : 0 016 ko
+[15] : INFODROI.C�C : 0 004 ko
+[16] : LUCAS   .BAS : 0 007 ko
+[17] : HEARTSCR.P�W : 0 005 ko
+[18] : SGLIDSCR.P�W : 0 008 ko
+[19] : INFODROI.BAS : 0 001 ko
+[20] : OBSTACLE.BAS : 0 001 ko
+Dsk 187 Ko used

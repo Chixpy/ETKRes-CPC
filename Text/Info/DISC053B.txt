@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMSTERM .B�S : 0 022 ko
+[02] : APPRENTI.BAS : 0 001 ko
+[03] : APPRENTI.P�O : 0 037 ko
+[06] : BULL    .M�  : 0 002 ko
+[07] : BULLDOZ .BAS : 0 008 ko
+[08] : PLOTTER .BAS : 0 002 ko
+[09] : CHARG   .B�S : 0 001 ko
+[10] : DICO    .B�S : 0 020 ko
+[12] : DISC1   .B�S : 0 001 ko
+[13] : EDUCAT  .BAS : 0 001 ko
+[14] : FICHIERS.BAS : 0 002 ko
+[15] : IMP-RSX .BAS : 0 001 ko
+[16] : IMP-RSX .B�N : 0 002 ko
+[17] : MEMORAM .B�S : 0 025 ko
+[19] : MENU    .B�S : 0 001 ko
+[20] : NOMBRES .B�S : 0 010 ko
+[21] : PLURIEL .B�S : 0 011 ko
+[22] : RECHER  .B�S : 0 001 ko
+[23] : SAISIE  .B�S : 0 001 ko
+[24] : SAUVE   .B�S : 0 001 ko
+[25] : VERBANG+.B�S : 0 011 ko
+[26] : VERBES  .B�S : 0 001 ko
+[27] : VISION  .B�S : 0 001 ko
+[28] : VERBEBIN.B�N : 0 009 ko
+[29] : DATABASE.BAS : 0 007 ko
+[30] : CHAMPION.BAS : 0 003 ko
+[31] : APPRESCR.P�W : 0 002 ko
+[32] : DATACPCT.B�N : 0 003 ko
+Dsk 187 Ko used

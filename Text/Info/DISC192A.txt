@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ADIDAS  .BAS : 0 001 ko
+[01] : FOOTBALL.B�N : 0 001 ko
+[02] : FOOTBALL.L�1 : 0 001 ko
+[03] : FOOTBALL.L�2 : 0 031 ko
+[05] : FOOTBALL.L�3 : 0 017 ko
+[07] : FOOTBALL.L�4 : 0 001 ko
+[08] : FOOTBALL.L�5 : 0 029 ko
+[10] : FOOTBALL.L�6 : 0 010 ko
+[11] : FOOTBALL.L�L : 0 001 ko
+[12] : TOPCAT  .BAS : 0 001 ko
+[13] : TOPCAT1 .B�N : 0 038 ko
+[16] : TOPCAT2 .B�N : 0 004 ko
+[17] : TOPCAIMA.P�W : 0 008 ko
+[18] : BALLOON .BAS : 0 001 ko
+[19] : BALLOON .B�N : 0 030 ko
+[21] : BALLIMA .P�W : 0 006 ko
+[22] : FOOTBALL.I�A : 0 006 ko
+[23] : MENU    .BAS : 0 001 ko
+Dsk 187 Ko used

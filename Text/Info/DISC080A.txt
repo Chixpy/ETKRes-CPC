@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MISSION .-   : 0 004 ko
+[01] : MISSION2.B�N : 0 036 ko
+[02] : MANOROUT.B�N : 0 001 ko
+[05] : MANO    .-   : 0 006 ko
+[06] : 0       .BAS : 0 001 ko
+[07] : FUSION  .B�N : 0 034 ko
+[08] : CODEUR  .-   : 0 001 ko
+[10] : ZOLYX   .-   : 0 001 ko
+[11] : ZOLYX   .BIN : 0 017 ko
+[12] : FUSION2 .-   : 0 001 ko
+[13] : GALIVAN .-   : 0 001 ko
+[14] : GALIVAN .B�1 : 0 037 ko
+[17] : GALIVAN .B�2 : 0 008 ko
+[19] : MISSION1.B�S : 0 001 ko
+[20] : LEVEL1  .B�N : 0 007 ko
+[21] : LEVEL2  .B�N : 0 007 ko
+[23] : GALIVIMA.P�W : 0 005 ko
+[24] : MANOSPRI.B�N : 0 004 ko
+[25] : ECRAN   .C�M : 0 004 ko
+[26] : MISSISCR.P�W : 0 005 ko
+[27] : PACMAN  .-   : 0 006 ko
+Dsk 187 Ko used

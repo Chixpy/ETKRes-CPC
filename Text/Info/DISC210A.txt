@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FORCE   .M�S : 0 003 ko
+[01] : FORCE   .BAS : 0 001 ko
+[02] : FORCE1  .B�N : 0 033 ko
+[05] : FORCE2  .B�N : 0 011 ko
+[06] : FORCE2-1.B�N : 0 011 ko
+[07] : FORCE2-2.B�N : 0 009 ko
+[08] : FORCE3-1.B�N : 0 010 ko
+[09] : FORCE3-2.B�N : 0 009 ko
+[10] : FORCE4-1.B�N : 0 011 ko
+[11] : FORCE4-2.B�N : 0 009 ko
+[12] : FORCE5-1.B�N : 0 010 ko
+[13] : FORCE5-2.B�N : 0 009 ko
+[14] : FORCEFIN.I�L : 0 006 ko
+[15] : FORC1IMA.P�W : 0 005 ko
+[16] : FORC2IMA.P�W : 0 006 ko
+[17] : SPACEHA1.BAS : 0 001 ko
+[18] : SPACEHA3.B�N : 0 034 ko
+[21] : SPACEIMA.P�W : 0 009 ko
+Dsk 187 Ko used

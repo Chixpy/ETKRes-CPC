@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SAIGON  .BAS : 0 001 ko
+[01] : SAIGON1 .B�N : 0 039 ko
+[04] : SAIGON2 .B�N : 0 040 ko
+[07] : SLIGHTLY.BAS : 0 001 ko
+[08] : SLIGHT1 .B�N : 0 039 ko
+[11] : SLIGHT2 .B�N : 0 005 ko
+[12] : SLIGHTLY.I�L : 0 005 ko
+[13] : PARKPAT .BAS : 0 001 ko
+[14] : PARKPAT .B�N : 0 035 ko
+[17] : ELECTRO .BAS : 0 001 ko
+[18] : FREDDY1 .B�N : 0 008 ko
+[19] : FREDDY2 .B�N : 0 002 ko
+[20] : AMSOFT  .K�M : 0 002 ko
+[21] : SAIGOIMA.P�W : 0 008 ko
+Dsk 187 Ko used

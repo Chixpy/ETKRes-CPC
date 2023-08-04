@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACTREF  .BAS : 0 006 ko
+[01] : ACTREF  .C�D : 0 004 ko
+[02] : ACTREF  .J�U : 0 012 ko
+[03] : ACTREF  .REC : 0 001 ko
+[04] : BANQUISE.BAS : 0 012 ko
+[05] : BANQUISE.P�W : 0 002 ko
+[06] : BQ2     .C�M : 0 003 ko
+[07] : SCORES  .    : 0 001 ko
+[08] : DCA     .BIN : 0 010 ko
+[09] : PACBALL2.BIN : 0 009 ko
+[10] : PARANOIA.BAS : 0 001 ko
+[11] : PARANO1 .I�L : 0 006 ko
+[12] : PARANOIA.B�1 : 0 029 ko
+[14] : PARANOIA.B�2 : 0 016 ko
+[15] : REFLEX  .BAS : 0 006 ko
+[16] : REFLEX  .B�N : 0 002 ko
+[17] : SOK     .0�1 : 0 003 ko
+[18] : SOK     .0�5 : 0 005 ko
+[19] : SOK     .0�7 : 0 001 ko
+[20] : SOK     .0�6 : 0 006 ko
+[21] : SOK     .2�  : 0 005 ko
+[22] : SOK     .K�T : 0 004 ko
+[23] : SOK     .T�2 : 0 001 ko
+[24] : SOK     .TBL : 0 004 ko
+[25] : SOK2    .T�2 : 0 001 ko
+[26] : SOK2    .TBL : 0 003 ko
+[27] : SOKOBAM .BAS : 0 001 ko
+[28] : TRANSFIL.BAS : 0 003 ko
+[29] : TRANSFIL.C�D : 0 002 ko
+[30] : TROLL   .BAS : 0 008 ko
+[31] : CHIFLETR.BAS : 0 010 ko
+[32] : PARANO2 .I�L : 0 010 ko
+Dsk 187 Ko used

@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AFTERWAR.BAS : 0 001 ko
+[01] : AFTER1  .B�N : 0 040 ko
+[04] : AFTER2  .B�N : 0 041 ko
+[07] : CORSARIO.BAS : 0 001 ko
+[08] : CORSARIO.0�1 : 0 030 ko
+[10] : CORSARIO.0�2 : 0 030 ko
+[12] : CORSAIMA.P�W : 0 006 ko
+[13] : SATANIX .BAS : 0 006 ko
+[14] : AFTERIMA.P�W : 0 011 ko
+[15] : 8       .B�N : 0 017 ko
+[17] : BALLDOZ .BAS : 0 001 ko
+[18] : BOWLING .BAS : 0 003 ko
+Dsk 187 Ko used

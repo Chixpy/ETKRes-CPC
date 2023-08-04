@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3D-MERSI.BAS : 0 004 ko
+[01] : 3D-MERSI.B�N : 0 010 ko
+[02] : 3D-MERSI.HI  : 0 001 ko
+[03] : ARKANO1 .B�N : 0 007 ko
+[04] : ARKANO2 .B�N : 0 007 ko
+[05] : ARKANO3 .B�N : 0 007 ko
+[06] : ARKANO4 .B�N : 0 007 ko
+[07] : ARKANOID.B�N : 0 032 ko
+[09] : BIGGLES .BAS : 0 001 ko
+[10] : BIGGLES .P�1 : 0 042 ko
+[13] : BIGGLES .P�2 : 0 033 ko
+[16] : DOH     .BAS : 0 001 ko
+[17] : JUMPER  .BAS : 0 002 ko
+[18] : JUMPER  .B�N : 0 004 ko
+[19] : KIDCHEST.B�N : 0 001 ko
+[20] : KIDD    .BAS : 0 001 ko
+[21] : KIDDCODE.B�N : 0 009 ko
+[22] : SMASH   .BAS : 0 001 ko
+[23] : SMASH0  .B�N : 0 003 ko
+[24] : SMASH1  .B�N : 0 005 ko
+[25] : SMASH2  .B�N : 0 001 ko
+[26] : BIGGLIMA.P�W : 0 003 ko
+[27] : DOHIMAGI.P�W : 0 005 ko
+Dsk 187 Ko used

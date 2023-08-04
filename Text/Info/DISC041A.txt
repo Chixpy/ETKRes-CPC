@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CIRCUS  .BIN : 0 003 ko
+[01] : CIRCUS  .B�1 : 0 028 ko
+[03] : CIRCUS  .B�2 : 0 018 ko
+[05] : CIRCUS  .B�3 : 0 021 ko
+[07] : CIRCUS  .B�4 : 0 022 ko
+[09] : CIRCUS  .B�5 : 0 021 ko
+[11] : CRITICAL.BAS : 0 001 ko
+[12] : CRITICAL.B�N : 0 032 ko
+[14] : NUMEROLO.BAS : 0 003 ko
+[15] : PROFAN  .BAS : 0 001 ko
+[16] : PROFAN1 .B�N : 0 026 ko
+[18] : CRITISCR.P�W : 0 006 ko
+[19] : PROFASCR.P�W : 0 005 ko
+Dsk 187 Ko used

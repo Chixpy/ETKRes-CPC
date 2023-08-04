@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : VINDICAT.BAS : 0 001 ko
+[01] : BOULDER3.BAS : 0 001 ko
+[02] : BOULDER3.B�N : 0 023 ko
+[04] : COLONNE .BAS : 0 002 ko
+[05] : VIND    .1�  : 0 033 ko
+[08] : VIND    .1�  : 0 017 ko
+[10] : VIND    .A�  : 0 042 ko
+[13] : VIND    .B�  : 0 007 ko
+[14] : VIND    .C�  : 0 042 ko
+[17] : VIND    .D�  : 0 007 ko
+[18] : BOULDER3.C�C : 0 004 ko
+[19] : VINDISCR.P�W : 0 008 ko
+Dsk 187 Ko used

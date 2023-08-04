@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 2POKER3 .P�G : 0 010 ko
+[01] : CRAZY   .BAS : 0 008 ko
+[02] : DIABOLO .BAS : 0 015 ko
+[03] : ELEKTRA .BAS : 0 001 ko
+[04] : ELEKTRA1.B�N : 0 037 ko
+[07] : ELEKTRA2.B�N : 0 008 ko
+[08] : EXOCET  .BAS : 0 002 ko
+[09] : FIRSTV6 .BAS : 0 009 ko
+[10] : POKER   .BAS : 0 008 ko
+[11] : POKER4  .B�N : 0 022 ko
+[13] : RAL     .B�N : 0 003 ko
+[14] : ROMBA   .BAS : 0 007 ko
+[15] : ROUTROM .B�N : 0 002 ko
+[16] : RUNAWAY .BAS : 0 011 ko
+[17] : SPRIROM .B�N : 0 002 ko
+[18] : STAR    .B�N : 0 021 ko
+[20] : STARCOM .BAS : 0 006 ko
+[21] : POKER2  .R�D : 0 012 ko
+[22] : ELEKTIMA.P�W : 0 003 ko
+Dsk 187 Ko used

@@ -1,0 +1,30 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : WESTERN .B�S : 0 006 ko
+[01] : SANTAIMA.P�W : 0 008 ko
+[02] : ERBAS   .B�N : 0 001 ko
+[03] : DESERT  .B�N : 0 019 ko
+[05] : GOLD    .B�N : 0 020 ko
+[07] : MONTAGNE.B�N : 0 017 ko
+[09] : MUS10   .B�N : 0 005 ko
+[10] : MUS15   .B�N : 0 004 ko
+[11] : MUS4    .B�N : 0 007 ko
+[12] : MUS     .B�N : 0 004 ko
+[13] : MUS14   .B�N : 0 005 ko
+[14] : MUS16   .B�N : 0 005 ko
+[15] : MUS6    .B�N : 0 005 ko
+[16] : PUEBLO  .B�N : 0 020 ko
+[18] : RENO    .B�N : 0 018 ko
+[20] : SHERIF  .B�N : 0 012 ko
+[21] : WESTERN2.B�N : 0 001 ko
+[22] : BAL     .C�M : 0 004 ko
+[23] : DESERT  .B�S : 0 002 ko
+[24] : GOLD    .B�S : 0 003 ko
+[25] : MONTAGNE.B�S : 0 002 ko
+[26] : SHERIF  .B�S : 0 002 ko
+[27] : RENO    .B�S : 0 003 ko
+[28] : PUEBLO  .B�S : 0 003 ko
+[29] : BALLBIN .B�N : 0 003 ko
+[30] : BALLING .BAS : 0 007 ko
+[31] : SANTA-FE.BAS : 0 001 ko
+Dsk 187 Ko used

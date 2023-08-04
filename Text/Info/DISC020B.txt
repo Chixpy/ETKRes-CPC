@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OFFROAD .BAS : 0 001 ko
+[01] : OFFROAD1.B�N : 0 026 ko
+[03] : OFFROAD2.B�N : 0 017 ko
+[05] : OFFROIMA.P�W : 0 007 ko
+[06] : OIL     .BAS : 0 009 ko
+[07] : PROTOCOL.BAS : 0 002 ko
+[08] : PROTOCOL.B�1 : 0 034 ko
+[11] : PROTOCOL.B�2 : 0 037 ko
+[14] : PROTOCOL.B�3 : 0 037 ko
+[17] : PROTOCOL.I�A : 0 003 ko
+[18] : PROTOCOL.M�S : 0 005 ko
+[19] : PROTOCOL.R�M : 0 009 ko
+Dsk 187 Ko used

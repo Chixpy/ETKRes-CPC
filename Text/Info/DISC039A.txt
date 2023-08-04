@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SEPULCRI.BAS : 0 001 ko
+[01] : YAMS    .BAS : 0 004 ko
+[02] : SEPULCRI.B�N : 0 035 ko
+[03] : ELEVATOR.BAS : 0 001 ko
+[04] : ELEVATOR.C�1 : 0 037 ko
+[07] : ELEVATOR.C�2 : 0 007 ko
+[08] : RALLY2  .BIN : 0 023 ko
+[10] : STEUER  .BAS : 0 009 ko
+[12] : SAMANTHA.BAS : 0 001 ko
+[14] : SAMMC   .B�N : 0 040 ko
+[17] : POKE    .B�S : 0 001 ko
+[18] : THINK   .BAS : 0 006 ko
+[19] : SEPULKOM.P�W : 0 004 ko
+[20] : ELEVASCR.P�W : 0 005 ko
+[21] : THINK   .SCO : 0 001 ko
+[22] : JUMPER2 .BAS : 0 007 ko
+[23] : SAMYIMA .C�U : 0 005 ko
+Dsk 187 Ko used

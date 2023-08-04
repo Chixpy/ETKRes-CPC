@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COMPUTER.E�C : 0 006 ko
+[01] : DATAETR .B�N : 0 003 ko
+[02] : LEVEL001.B�N : 0 005 ko
+[03] : LEVEL002.B�N : 0 005 ko
+[04] : LEVEL003.B�N : 0 005 ko
+[05] : LEVEL004.B�N : 0 005 ko
+[06] : LEVEL005.B�N : 0 005 ko
+[07] : LEVEL006.B�N : 0 005 ko
+[08] : LEVEL007.B�N : 0 005 ko
+[09] : LEVEL008.B�N : 0 005 ko
+[10] : LEVEL009.B�N : 0 005 ko
+[11] : LEVEL010.B�N : 0 005 ko
+[12] : LEVEL011.B�N : 0 005 ko
+[13] : LEVEL012.B�N : 0 005 ko
+[14] : MENU    .B�N : 0 012 ko
+[15] : OPTIONS .E�C : 0 009 ko
+[16] : PLAYER1 .E�C : 0 006 ko
+[17] : PLAYER2 .E�C : 0 006 ko
+[18] : PLAYFILD.E�C : 0 007 ko
+[19] : PROG    .B�N : 0 023 ko
+[21] : ROBOT   .E�C : 0 009 ko
+[22] : SLIDERS .    : 0 010 ko
+[23] : TILEDAM .I�G : 0 013 ko
+[24] : ESHERLAN.    : 0 023 ko
+Dsk 187 Ko used

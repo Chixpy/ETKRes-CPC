@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SWIVEL  .BAS : 0 001 ko
+[01] : SWIVEL  .B�N : 0 021 ko
+[03] : SWIVESCR.P�W : 0 003 ko
+[04] : TITANIC .BAS : 0 001 ko
+[05] : TITANIC1.B�1 : 0 020 ko
+[07] : TITANIC1.B�2 : 0 004 ko
+[08] : TITANIC2.B�1 : 0 020 ko
+[10] : TITANIC2.B�2 : 0 006 ko
+[11] : TITANIMA.P�W : 0 007 ko
+[12] : ZARKON  .BAS : 0 001 ko
+[13] : ZARKON  .B�N : 0 016 ko
+[14] : ZARKOSCR.P�W : 0 003 ko
+[15] : MYTHOS2 .B�N : 0 012 ko
+[16] : MYTHOS  .BAS : 0 001 ko
+[17] : OUTLAW  .B�N : 0 025 ko
+[19] : OUTLAW  .BAS : 0 001 ko
+[20] : OUTLAW  .I�L : 0 006 ko
+[21] : MYTHOIMA.P�W : 0 009 ko
+[22] : MYTHOS1 .B�N : 0 030 ko
+Dsk 187 Ko used

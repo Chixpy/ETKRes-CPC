@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BAT1    .NHF : 15 001 ko
+[01] : BAT2    .NHF : 15 012 ko
+[02] : BAT3    .NHF : 15 001 ko
+[03] : BAT4    .NHF : 15 016 ko
+[04] : BAT5    .NHF : 15 016 ko
+[05] : BAT6    .NHF : 15 016 ko
+[06] : BAT7    .NHF : 15 016 ko
+[07] : BAT8    .NHF : 15 016 ko
+[08] : BAT9    .NHF : 15 016 ko
+[09] : BAT10   .NHF : 15 004 ko
+[10] : BAT11   .NHF : 15 016 ko
+[11] : XOR     .BAS : 0 001 ko
+[12] : XOR     .B�N : 0 025 ko
+[14] : PLANER  .BIN : 0 012 ko
+[15] : BAM1    .BIN : 0 005 ko
+[16] : BAM2    .BIN : 0 002 ko
+[17] : BAM     .BAS : 0 003 ko
+[18] : XOR     .I�L : 0 003 ko
+[19] : BAM3    .BIN : 0 006 ko
+Dsk 187 Ko used

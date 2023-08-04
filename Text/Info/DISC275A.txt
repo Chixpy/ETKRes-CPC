@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOWLING .BIN : 0 011 ko
+[01] : CHOYLEE .BAS : 0 001 ko
+[02] : CHOYLEE .B�N : 0 029 ko
+[04] : DAMBUSTE.BAS : 0 001 ko
+[05] : DAMBUSTE.B�N : 0 024 ko
+[07] : GROUND0 .BIN : 0 019 ko
+[09] : JAI-ALAI.BAS : 0 001 ko
+[10] : JAI-ALAI.B�N : 0 027 ko
+[12] : MINDTRAP.BAS : 0 006 ko
+[13] : MINDTRAP.B�N : 0 004 ko
+[14] : SPIRITS .BAS : 0 001 ko
+[15] : SPIRITS .B�N : 0 035 ko
+[18] : DAMBUSTE.C�C : 0 002 ko
+[19] : MINDTSCR.P�W : 0 004 ko
+[20] : SPIRISCR.P�W : 0 005 ko
+[21] : CHOYLIMA.P�W : 0 008 ko
+[22] : JAIALSCR.P�W : 0 009 ko
+Dsk 187 Ko used

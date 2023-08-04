@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HERCULE .I�L : 0 006 ko
+[01] : HERCULE1.B�N : 0 030 ko
+[03] : HERCULE2.B�N : 0 016 ko
+[04] : HERCULES.BAS : 0 001 ko
+[05] : STRYFE  .BAS : 0 001 ko
+[06] : STRYFE  .B�2 : 0 032 ko
+[08] : STRYFE  .B�3 : 0 008 ko
+[09] : STRYFE  .I�L : 0 011 ko
+[10] : STRYFE  .M�S : 0 004 ko
+[11] : NORTH   .BAS : 0 001 ko
+[12] : NORTH   .I�L : 0 007 ko
+[13] : PART1   .B�N : 0 041 ko
+[16] : PART2   .B�N : 0 007 ko
+[17] : CHILLER .BAS : 0 001 ko
+[18] : CH      .B�N : 0 021 ko
+Dsk 187 Ko used

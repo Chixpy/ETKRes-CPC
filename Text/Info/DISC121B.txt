@@ -1,0 +1,45 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 17 start at sector 65 while track 0 starts at 193
+Warning : track 18 start at sector 65 while track 0 starts at 193
+Warning : track 19 start at sector 65 while track 0 starts at 193
+Warning : track 20 start at sector 65 while track 0 starts at 193
+Warning : track 21 start at sector 65 while track 0 starts at 193
+Warning : track 22 start at sector 65 while track 0 starts at 193
+Warning : track 23 start at sector 65 while track 0 starts at 193
+Warning : track 24 start at sector 65 while track 0 starts at 193
+Warning : track 25 start at sector 65 while track 0 starts at 193
+Warning : track 26 start at sector 65 while track 0 starts at 193
+Warning : track 27 start at sector 65 while track 0 starts at 193
+Warning : track 28 start at sector 65 while track 0 starts at 193
+Warning : track 29 start at sector 65 while track 0 starts at 193
+Warning : track 30 start at sector 65 while track 0 starts at 193
+Warning : track 31 start at sector 65 while track 0 starts at 193
+Warning : track 32 start at sector 65 while track 0 starts at 193
+Warning : track 33 start at sector 65 while track 0 starts at 193
+Warning : track 34 start at sector 65 while track 0 starts at 193
+Warning : track 35 start at sector 65 while track 0 starts at 193
+Warning : track 36 start at sector 65 while track 0 starts at 193
+Warning : track 38 start at sector 65 while track 0 starts at 193
+Warning : track 39 start at sector 65 while track 0 starts at 193
+[00] : GALAXY  .BAS : 0 001 ko
+[01] : GALAXY  .B�N : 0 028 ko
+[03] : GALAXY1 .NHF : 15 016 ko
+[04] : GALAXY2 .NHF : 15 016 ko
+[05] : GALAXY3 .NHF : 15 016 ko
+[06] : GALAXY4 .NHF : 15 016 ko
+[07] : GALAXY5 .NHF : 15 016 ko
+[08] : GALAXY6 .NHF : 15 005 ko
+[09] : FURY    .BAS : 0 001 ko
+[10] : RESCUE  .BAS : 0 007 ko
+[11] : SPEEDWAY.BAS : 0 003 ko
+[12] : SPEEDWAY.B�N : 0 005 ko
+[13] : WAR     .BAS : 0 003 ko
+[14] : WAR     .B�N : 0 002 ko
+[15] : WAR     .C�C : 0 002 ko
+[16] : BIDIBUL .BAS : 0 001 ko
+[17] : BIDIBUL .B�N : 0 006 ko
+[18] : FURY    .B�N : 0 033 ko
+[21] : FURY    .I�L : 0 004 ko
+[22] : GFORCSCR.P�W : 0 006 ko
+Dsk 187 Ko used

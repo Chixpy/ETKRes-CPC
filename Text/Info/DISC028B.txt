@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AIDE    .B�N : 0 006 ko
+[01] : BABYLONE.BAS : 0 001 ko
+[02] : BABYLONE.B�N : 0 039 ko
+[05] : CODES   .B�N : 0 002 ko
+[06] : MEMOIRE .BAS : 0 003 ko
+[07] : MSGTAB  .B�N : 0 002 ko
+[08] : ORTHUS1 .B�S : 0 003 ko
+[09] : ORTHUS2 .B�N : 0 001 ko
+[10] : ORTHUS3 .B�S : 0 011 ko
+[11] : ORTHUS4 . �  : 0 018 ko
+[13] : ORTHUSTR.BAS : 0 001 ko
+[14] : SPITFIRE.BAS : 0 001 ko
+[15] : SPITFIRE.B�N : 0 022 ko
+[17] : V       .B�N : 0 005 ko
+[18] : VEDIX   .BAS : 0 001 ko
+[19] : HARDBALL.BAS : 0 001 ko
+[20] : HARD1   .B�N : 0 038 ko
+[23] : HARD2   .B�N : 0 006 ko
+[24] : JEWELSCR.P�W : 0 003 ko
+[25] : SPITIMA .P�W : 0 008 ko
+[26] : ORTHUS  .C�M : 0 004 ko
+[27] : MEMOSCR .P�W : 0 003 ko
+[28] : HARDBIMA.P�W : 0 008 ko
+Dsk 187 Ko used

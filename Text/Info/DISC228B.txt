@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LASERSQD.L�1 : 0 025 ko
+[02] : LASERSQD.L�2 : 0 025 ko
+[04] : LASERSQD.L�5 : 0 025 ko
+[06] : LASERSQD.UTL : 0 002 ko
+[07] : LASERSQD.L�6 : 0 025 ko
+[09] : LASERSQD.L�3 : 0 025 ko
+[11] : MAD-BALL.BAS : 0 012 ko
+[12] : MATCH2  .BAS : 0 001 ko
+[13] : MATCH2  .B�N : 0 042 ko
+[16] : MATCHIMA.P�W : 0 005 ko
+Dsk 187 Ko used

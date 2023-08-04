@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ESC-NIV .NHF : 15 014 ko
+[01] : APB     .BAS : 0 001 ko
+[02] : TITREUR .BAS : 0 003 ko
+[03] : DECOMP  .B�N : 0 001 ko
+[04] : ESCAPE  .BAS : 0 001 ko
+[05] : ESCAPE  .B�N : 0 001 ko
+[06] : ESCAPE1 .B�N : 0 014 ko
+[07] : ESCAPE2 .B�N : 0 016 ko
+[08] : ESCAPE3 .B�N : 0 015 ko
+[09] : ESCAPE4 .B�N : 0 010 ko
+[10] : 0       .B�N : 0 001 ko
+[11] : 1       .B�N : 0 016 ko
+[12] : 2       .B�N : 0 013 ko
+[13] : 3       .B�N : 0 013 ko
+[14] : 4       .B�N : 0 010 ko
+[15] : 5       .B�N : 0 032 ko
+[16] : NOMBRE  .BAS : 0 001 ko
+[17] : DEFEND  .BAS : 0 001 ko
+[18] : DEFEND  .B�N : 0 012 ko
+[20] : ESCAPIMA.P�W : 0 006 ko
+[21] : APBSCR  .P�W : 0 006 ko
+Dsk 187 Ko used

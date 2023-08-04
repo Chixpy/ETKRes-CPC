@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FIRELAND.BAS : 0 001 ko
+[01] : FIRELAND.B�N : 0 012 ko
+[02] : NO1     .BAS : 0 001 ko
+[03] : NO1     .B�N : 0 031 ko
+[05] : BRAXX   .BAS : 0 001 ko
+[06] : BRAXX   .B�N : 0 026 ko
+[08] : MORRIS  .BAS : 0 002 ko
+[09] : SPOOKED .B�N : 0 034 ko
+[12] : ULISES  .BAS : 0 001 ko
+[13] : ULISES1 .B�N : 0 036 ko
+[16] : ULISES2 .B�N : 0 012 ko
+[17] : NO1SCR  .P�W : 0 002 ko
+[18] : MORRIS  .B�N : 0 008 ko
+[19] : ULISEIMA.P�W : 0 007 ko
+[20] : FIRELSCR.P�W : 0 009 ko
+[21] : SPOOKED .BAS : 0 001 ko
+[22] : SPOOKSCR.P�W : 0 003 ko
+Dsk 187 Ko used

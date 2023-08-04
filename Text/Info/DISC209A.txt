@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NINJA2  .0�1 : 0 040 ko
+[03] : NINJA2  .0�2 : 0 040 ko
+[06] : NINJA2  .0�3 : 0 040 ko
+[09] : NINJA2  .BAS : 0 001 ko
+[10] : NINJA2  .C�M : 0 005 ko
+[11] : BATNAVAL.BAS : 0 010 ko
+[12] : TOM1    .1�  : 0 003 ko
+[13] : TOM1    .2�  : 0 003 ko
+[14] : TOM1    .3�  : 0 003 ko
+[15] : TOM1    .4�  : 0 003 ko
+[16] : TOM1    .5�  : 0 021 ko
+[18] : TOM&JER .BAS : 0 018 ko
+Dsk 187 Ko used

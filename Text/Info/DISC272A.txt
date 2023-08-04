@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MASTER  .B�N : 0 021 ko
+[01] : ORION   .BIN : 0 013 ko
+[02] : PLANET  .BAS : 0 003 ko
+[03] : MONUMEN1.B�N : 0 016 ko
+[04] : MONUMEN2.B�N : 0 011 ko
+[05] : MONUMENT.BAS : 0 001 ko
+[06] : POGO    .BAS : 0 001 ko
+[07] : MARTIAN .BAS : 0 001 ko
+[08] : MARTIAN .B�N : 0 030 ko
+[10] : MASTER  .BAS : 0 001 ko
+[12] : BOINGGG .BAS : 0 007 ko
+[13] : BOINGGG .B�N : 0 010 ko
+[14] : MYSTERY .BAS : 0 001 ko
+[15] : MYSTERY .B�N : 0 040 ko
+[18] : POGO    .B�N : 0 011 ko
+[19] : MYSTEIMA.P�W : 0 005 ko
+[20] : MARTIAN .C�C : 0 002 ko
+[21] : MASTESCR.P�W : 0 007 ko
+[22] : POGOSCR .P�W : 0 006 ko
+Dsk 187 Ko used

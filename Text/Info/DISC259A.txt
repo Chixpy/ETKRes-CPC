@@ -1,0 +1,43 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1K-SWAP .BAS : 0 001 ko
+[01] : ARTHUR  .BAS : 0 006 ko
+[02] : DARK2   .B�N : 0 001 ko
+[03] : ENCHANTE.BAS : 0 001 ko
+[04] : ENCHANTE.B�1 : 0 042 ko
+[07] : ENCHANTE.B�2 : 0 002 ko
+[08] : LAPIN   .BAS : 0 008 ko
+[09] : LAPIN   .B�N : 0 003 ko
+[10] : TITAN   .B�1 : 0 007 ko
+[11] : TITAN   .B�2 : 0 007 ko
+[12] : TITAN   .B�3 : 0 007 ko
+[13] : TITAN   .B�4 : 0 008 ko
+[14] : TITAN   .B�5 : 0 003 ko
+[15] : TITAN   .B�6 : 0 001 ko
+[16] : TITAN   .B�7 : 0 001 ko
+[17] : TITAN   .B�8 : 0 001 ko
+[18] : TITAN   .B�9 : 0 002 ko
+[19] : TITAN   .B�0 : 0 002 ko
+[20] : TITAN   .B�1 : 0 002 ko
+[21] : TITAN   .B�2 : 0 002 ko
+[22] : TITAN   .B�3 : 0 002 ko
+[23] : TITAN   .B�4 : 0 002 ko
+[24] : TITAN   .B�5 : 0 002 ko
+[25] : TITAN   .B�6 : 0 002 ko
+[26] : TITAN   .B�7 : 0 002 ko
+[27] : TITAN   .B�8 : 0 002 ko
+[28] : TITAN   .B�9 : 0 002 ko
+[29] : TITAN   .B�0 : 0 002 ko
+[30] : TITAN   .B�1 : 0 002 ko
+[31] : TITAN   .B�2 : 0 002 ko
+[32] : TITAN   .B�3 : 0 002 ko
+[33] : TITAN   .B�4 : 0 002 ko
+[34] : TITAN   .B�5 : 0 002 ko
+[35] : TITAN   .B�6 : 0 005 ko
+[36] : TITAN   .B�N : 0 001 ko
+[37] : TITAN2  .B�N : 0 030 ko
+[39] : TITAN   .BAS : 0 001 ko
+[40] : DARK2SCR.P�W : 0 002 ko
+[41] : ENCHASCR.P�W : 0 004 ko
+[42] : TITANSCR.P�W : 0 006 ko
+Dsk 182 Ko used

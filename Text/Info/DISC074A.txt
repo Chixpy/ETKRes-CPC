@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : KENTUCKY.BAS : 0 001 ko
+[01] : KENTUCKY.B�N : 0 016 ko
+[02] : QUAD    .BAS : 0 001 ko
+[03] : QUAD    .B�N : 0 037 ko
+[06] : DIGGER  .BAS : 0 001 ko
+[07] : BARDPL  .B�N : 0 020 ko
+[09] : MAZE    .BAS : 0 003 ko
+[10] : MAZE1   .B�S : 0 032 ko
+[12] : ULTRA   .BAS : 0 005 ko
+[13] : ULTRA   .B�N : 0 001 ko
+[14] : STRAD   .BAS : 0 001 ko
+[15] : MENU    .B�N : 0 001 ko
+[16] : DAFBIN  .B�N : 0 006 ko
+[17] : DAFI    .B�S : 0 017 ko
+[19] : ROLCAVE .BAS : 0 002 ko
+[20] : ROLCAV2 .B�S : 0 003 ko
+[21] : PULCODE .B�N : 0 022 ko
+[23] : KENTUSCR.P�W : 0 005 ko
+[24] : STRAD   .C�M : 0 004 ko
+[25] : QUAD2   .C�C : 0 003 ko
+[26] : QUADSCR .P�W : 0 006 ko
+Dsk 187 Ko used

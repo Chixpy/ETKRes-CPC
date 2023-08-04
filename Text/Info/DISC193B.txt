@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BL      .0�1 : 0 005 ko
+[01] : BL      .0�2 : 0 031 ko
+[03] : BL      .0�3 : 0 003 ko
+[04] : BL      .0�4 : 0 011 ko
+[05] : BL      .0�5 : 0 003 ko
+[06] : BL      .0�6 : 0 003 ko
+[07] : BL      .0�7 : 0 003 ko
+[08] : BL      .0�8 : 0 001 ko
+[09] : BL      .0�9 : 0 022 ko
+[11] : BL      .0�0 : 0 002 ko
+[12] : BL      .0�1 : 0 005 ko
+[13] : BL      .0�2 : 0 015 ko
+[14] : BL      .0�3 : 0 003 ko
+[15] : BL      .0�4 : 0 001 ko
+[16] : BLOODIMA.P�W : 0 006 ko
+[17] : FOURTRIS.BAS : 0 004 ko
+[18] : POKER1  .B�N : 0 018 ko
+[20] : POKER2  .B�N : 0 019 ko
+[22] : POKER3  .B�N : 0 002 ko
+[23] : TENSIONS.BIN : 0 024 ko
+[25] : VALLEY  .BAS : 0 001 ko
+[26] : POKERIMA.P�W : 0 005 ko
+Dsk 187 Ko used

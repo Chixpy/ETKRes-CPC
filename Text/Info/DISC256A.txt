@@ -1,0 +1,46 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHIP    .C�2 : 0 002 ko
+[01] : CHIP    .B�N : 0 020 ko
+[03] : CHIP    .P�0 : 0 003 ko
+[04] : CHIP    .P�1 : 0 004 ko
+[05] : CHIP    .P�2 : 0 004 ko
+[06] : CHIP    .P�3 : 0 004 ko
+[07] : CHIP    .P�4 : 0 003 ko
+[08] : CHIP    .P�5 : 0 004 ko
+[09] : CHIP    .P�6 : 0 004 ko
+[10] : CHIP    .P�7 : 0 004 ko
+[11] : CHIP    .P�8 : 0 004 ko
+[12] : CHIP    .P�9 : 0 004 ko
+[13] : CHIP    .P�A : 0 004 ko
+[14] : CHIP    .P�B : 0 004 ko
+[15] : CHIP    .P�C : 0 004 ko
+[16] : CHIP    .P�D : 0 004 ko
+[17] : CHIP    .P�E : 0 004 ko
+[18] : CHIP    .P�F : 0 004 ko
+[19] : CHIP    .P�G : 0 004 ko
+[20] : CHIP    .P�H : 0 004 ko
+[21] : CHIP    .P�I : 0 003 ko
+[22] : CHIP    .P�J : 0 005 ko
+[23] : CHIP    .P�K : 0 001 ko
+[24] : CHIP    .P�L : 0 001 ko
+[25] : CHIP    .P�M : 0 001 ko
+[26] : CHIP    .P�N : 0 001 ko
+[27] : CHIP    .P�O : 0 001 ko
+[28] : CHIP    .P�P : 0 001 ko
+[29] : CHIP    .P�Q : 0 001 ko
+[30] : CHIP    .P�R : 0 001 ko
+[31] : CHIP    .P�S : 0 001 ko
+[32] : CHIP    .P�T : 0 001 ko
+[33] : CHIP    .P�U : 0 001 ko
+[34] : CHIP    .P�V : 0 001 ko
+[35] : CHIP    .P�W : 0 009 ko
+[36] : CHIP    .P�X : 0 009 ko
+[37] : CHIP    .P�Y : 0 008 ko
+[38] : CHIP    .P�Z : 0 007 ko
+[39] : FIRE    .BAS : 0 001 ko
+[40] : FIRE    .G�E : 0 023 ko
+[42] : SQUELET .BAS : 0 007 ko
+[43] : CHIP'S  .BAS : 0 001 ko
+[44] : FIREIMA .P�W : 0 010 ko
+Dsk 187 Ko used

@@ -1,0 +1,43 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BIORYTHM.BAS : 0 002 ko
+[01] : HOTA    .B�N : 0 003 ko
+[02] : ESAT    .BAS : 0 016 ko
+[03] : HOTROD  .B�N : 0 028 ko
+[04] : HOTB    .B�N : 0 004 ko
+[06] : HOTROD  .BAS : 0 001 ko
+[07] : HOTN    .B�N : 0 004 ko
+[08] : HOTO    .B�N : 0 004 ko
+[09] : HOTC    .B�N : 0 004 ko
+[10] : ESAT1   .B�N : 0 001 ko
+[11] : ESAT2   .B�N : 0 001 ko
+[12] : HOTE    .B�N : 0 003 ko
+[13] : HOTD    .B�N : 0 004 ko
+[14] : HOTKOM  .P�W : 0 007 ko
+[15] : HOTF    .B�N : 0 003 ko
+[16] : HOTG    .B�N : 0 003 ko
+[17] : HOTH    .B�N : 0 004 ko
+[18] : HOTI    .B�N : 0 004 ko
+[19] : HOTJ    .B�N : 0 005 ko
+[20] : HOTK    .B�N : 0 004 ko
+[21] : HOTL    .B�N : 0 004 ko
+[22] : HOTM    .B�N : 0 004 ko
+[23] : HOTP    .B�N : 0 004 ko
+[24] : HOTQ    .B�N : 0 004 ko
+[25] : HOTR    .B�N : 0 004 ko
+[26] : HOTS    .B�N : 0 004 ko
+[27] : HOTT    .B�N : 0 004 ko
+[28] : HOTU    .B�N : 0 004 ko
+[29] : HOTV    .B�N : 0 004 ko
+[30] : HOTW    .B�N : 0 004 ko
+[31] : HOTX    .B�N : 0 004 ko
+[32] : HOTY    .B�N : 0 004 ko
+[33] : HOTZ    .B�N : 0 004 ko
+[34] : HOT0    .B�N : 0 004 ko
+[35] : HOT1    .B�N : 0 004 ko
+[36] : HOT2    .B�N : 0 004 ko
+[37] : HOT3    .B�N : 0 004 ko
+[38] : ESAT4   .B�N : 0 010 ko
+[39] : ESAT5   .B�N : 0 002 ko
+[40] : ESAT7   .B�N : 0 002 ko
+Dsk 187 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GILLIGAN.BAS : 0 001 ko
+[01] : CG      .B�N : 0 024 ko
+[03] : DIMEN6  .BIN : 0 007 ko
+[04] : NEBULIMA.P�W : 0 007 ko
+[05] : NEBULUS .BAS : 0 001 ko
+[06] : NEBULUS .B�N : 0 037 ko
+[09] : ULTIMAT .BAS : 0 008 ko
+[10] : SKULL   .BAS : 0 001 ko
+[11] : SKULL   .B�1 : 0 017 ko
+[13] : SKULL   .B�2 : 0 017 ko
+[15] : SKULL   .B�3 : 0 017 ko
+[17] : SKULL   .B�4 : 0 017 ko
+[19] : SKULL   .B�N : 0 019 ko
+[21] : ULTIMAT .B�N : 0 006 ko
+[22] : SKULLIMA.P�W : 0 008 ko
+Dsk 187 Ko used

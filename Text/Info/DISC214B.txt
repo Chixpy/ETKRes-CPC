@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STORMWAR.B�2 : 0 017 ko
+[02] : STORMWAR.I�L : 0 011 ko
+[03] : STORMWAR.BAS : 0 001 ko
+[04] : STORMWAR.B�1 : 0 030 ko
+[06] : COMET   .BAS : 0 006 ko
+[07] : COMETCDE.B�N : 0 007 ko
+[08] : JETSKI  .BAS : 0 001 ko
+[09] : JETSKI0 .B�N : 0 013 ko
+[10] : JETSKI1 .B�N : 0 026 ko
+[12] : JETSKI2 .B�N : 0 027 ko
+[14] : CORSAIRE.BAS : 0 004 ko
+[15] : CAVE    .B�N : 0 035 ko
+[18] : CAVEMANI.BAS : 0 001 ko
+[19] : JETSKI  .I�L : 0 008 ko
+Dsk 187 Ko used

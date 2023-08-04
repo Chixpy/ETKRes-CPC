@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : P2      .B�N : 0 005 ko
+[01] : P3      .B�N : 0 008 ko
+[02] : 3D      .P�G : 0 002 ko
+[03] : P1      .B�N : 0 002 ko
+[04] : BRADEFER.B�N : 0 016 ko
+[05] : MAIN    .M�S : 0 005 ko
+[06] : BRAS    .S�R : 0 015 ko
+[07] : BRA     .P�G : 0 004 ko
+[08] : TAVERNE .B�N : 0 021 ko
+[10] : TAV     .P�G : 0 001 ko
+[11] : WAR     .P�G : 0 004 ko
+[12] : ACTION  .M�S : 0 009 ko
+[13] : BRA     .S�R : 0 004 ko
+[14] : DES     .P�G : 0 003 ko
+[16] : JEUDE   .B�N : 0 013 ko
+[17] : DES     .S�R : 0 005 ko
+[18] : WARGAME .B�N : 0 017 ko
+[20] : FOND3D  .B�N : 0 006 ko
+[21] : WAR1    .S�R : 0 007 ko
+[24] : END     .B�N : 0 013 ko
+[29] : P4      .B�N : 0 008 ko
+Dsk 168 Ko used

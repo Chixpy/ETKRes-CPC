@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3DSNAKE2.BAS : 0 012 ko
+[01] : 3DSNASCR.I�L : 0 003 ko
+[02] : HORMUIMA.P�W : 0 004 ko
+[03] : HORMUZ  .BAS : 0 001 ko
+[04] : HORMUZ  .B�N : 0 040 ko
+[07] : KONG    .B�N : 0 031 ko
+[09] : KONGBACK.BAS : 0 001 ko
+[10] : KONGBACK.I�L : 0 005 ko
+[11] : MENUCAT .BAS : 0 002 ko
+[12] : RADIUS  .BAS : 0 009 ko
+[13] : REVERSI .BAS : 0 009 ko
+[14] : REVERSI .B�N : 0 013 ko
+[15] : REVERSI .L�D : 0 001 ko
+[16] : TARZAN  .BAS : 0 001 ko
+[17] : TARZAN  .S�R : 0 007 ko
+[18] : TARZAN1 .B�N : 0 037 ko
+[21] : TARZAN2 .B�N : 0 011 ko
+Dsk 187 Ko used

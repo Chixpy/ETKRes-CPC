@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COULEURS.BIN : 0 001 ko
+[01] : ANGLAIS1.BAS : 0 004 ko
+[02] : ASSIMIL .0�1 : 0 022 ko
+[04] : ASSIMIL .0�2 : 0 023 ko
+[06] : ASSIMIL .0�3 : 0 033 ko
+[09] : ASSIMIL .0�4 : 0 032 ko
+[11] : CAT     .BAS : 0 004 ko
+[12] : CODEFI  .B�N : 0 002 ko
+[13] : DISQUE 1. �  : 0 001 ko
+[14] : ENGLISH .B�S : 0 017 ko
+[16] : DUET    .B�N : 0 034 ko
+[19] : DUET    .BAS : 0 001 ko
+[20] : BALLCRAC.BAS : 0 004 ko
+[21] : INTER3  .BAS : 0 001 ko
+[22] : DUET    .I�L : 0 008 ko
+Dsk 187 Ko used

@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHUCK   . �  : 0 009 ko
+[01] : CHUCKIE .BAS : 0 001 ko
+[02] : COMBAT1 .B�N : 0 034 ko
+[05] : LEMOT   .BAS : 0 010 ko
+[06] : MENTOR  .BAS : 0 001 ko
+[07] : MENU    .BAS : 0 002 ko
+[08] : P-COPY  .BAS : 0 004 ko
+[09] : RENEGAD1.B�N : 0 015 ko
+[10] : RENEGAD2.B�N : 0 015 ko
+[11] : RENEGAD3.B�N : 0 008 ko
+[12] : RENEGAD4.B�N : 0 022 ko
+[14] : RENEGADE.BAS : 0 001 ko
+[15] : RENEGSCR.P�W : 0 007 ko
+[16] : SCREEN  .C�C : 0 002 ko
+[17] : SWEEVO  .BAS : 0 001 ko
+[18] : SWEEVO  .B�N : 0 034 ko
+[21] : THRILLER.BIN : 0 011 ko
+[22] : SWEEVSCR.P�W : 0 003 ko
+[23] : ZONEIMA .P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STARFKOM.P�W : 0 004 ko
+[01] : STARFOX .BAS : 0 001 ko
+[02] : STARFOX1.B�N : 0 036 ko
+[05] : STARFOX2.P�W : 0 005 ko
+[06] : STARFOX3.B�N : 0 005 ko
+[07] : GRPRIX2 .BAS : 0 001 ko
+[08] : GRPRIX  .I�L : 0 005 ko
+[09] : GRPRIX1 .B�N : 0 038 ko
+[12] : GRPRIX2 .B�N : 0 004 ko
+[13] : GOBOTS  .BAS : 0 001 ko
+[14] : GOBOTS  .B�N : 0 033 ko
+[17] : RALLYDRI.BAS : 0 001 ko
+[18] : RALLYDRI.B�N : 0 031 ko
+[20] : RALLYDRI.N�T : 0 010 ko
+[21] : GOBOTS  .I�A : 0 004 ko
+[22] : RALLYDRI.I�L : 0 008 ko
+Dsk 187 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EQUINOX .BAS : 0 001 ko
+[01] : EQUINOX1.B�N : 0 037 ko
+[04] : EQUINOX2.B�N : 0 009 ko
+[05] : HUMPHREY.BAS : 0 001 ko
+[06] : HUMPHREY.B�N : 0 038 ko
+[09] : VOLLEY  .BAS : 0 001 ko
+[10] : VOLLEY  .B�N : 0 028 ko
+[12] : MEGANOVA.BAS : 0 001 ko
+[13] : MEGA    .B�N : 0 024 ko
+[15] : MEGA    .R�M : 0 017 ko
+[17] : EQUINOX .I�L : 0 008 ko
+[18] : HUMPHSCR.P�W : 0 006 ko
+[19] : VOLLESCR.P�W : 0 007 ko
+[20] : MEGANSCR.P�W : 0 009 ko
+Dsk 187 Ko used

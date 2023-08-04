@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1942    .BAS : 0 001 ko
+[01] : 1942    .B�N : 0 021 ko
+[03] : CROSSFIR.BAS : 0 001 ko
+[04] : NEMESIS .BAS : 0 001 ko
+[05] : POPEYE  .BAS : 0 001 ko
+[06] : CROSSFIR.B�N : 0 019 ko
+[07] : EXOLON1 .B�N : 0 032 ko
+[09] : EXOLON  .BAS : 0 001 ko
+[10] : EXOLON2 .B�N : 0 013 ko
+[11] : NEMESIS .B�N : 0 041 ko
+[14] : 1942SCR .P�W : 0 005 ko
+[15] : POPEYE  .B�N : 0 035 ko
+[18] : NEMESSCR.P�W : 0 006 ko
+[19] : POPEYSCR.P�W : 0 004 ko
+[20] : EXOLOIMA.P�W : 0 004 ko
+[22] : CROSSFIR.C�C : 0 002 ko
+Dsk 187 Ko used

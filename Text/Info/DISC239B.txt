@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARGONAVI.BAS : 0 001 ko
+[01] : ARGONAVI.P�G : 0 034 ko
+[04] : AMAZING .BAS : 0 001 ko
+[05] : AMAZISCR.P�W : 0 005 ko
+[06] : AMAZING .B�N : 0 034 ko
+[07] : ABCODE  .B�N : 0 010 ko
+[09] : ABREAKIN.BAS : 0 004 ko
+[10] : AXIENS  .BAS : 0 001 ko
+[12] : AXIENS  .B�N : 0 013 ko
+[13] : ORANGE  .B�N : 0 031 ko
+[15] : ORANGE  .BAS : 0 001 ko
+[16] : BLUE    .BAS : 0 001 ko
+[17] : BLUE1   .B�N : 0 003 ko
+[18] : BLUE2   .B�S : 0 002 ko
+[19] : BLUE3   .B�S : 0 008 ko
+[20] : BLUE4   .B�S : 0 005 ko
+[21] : BLUE5   .B�N : 0 003 ko
+[22] : BLUE6   .B�N : 0 005 ko
+[23] : BLUE7   .B�N : 0 018 ko
+[25] : ORANGSCR.P�W : 0 007 ko
+Dsk 187 Ko used

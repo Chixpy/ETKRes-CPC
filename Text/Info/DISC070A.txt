@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : TURBOCUP.BAK : 0 001 ko
+[02] : TURBOCUP.BAS : 0 001 ko
+[03] : TURBOCUP.B�1 : 0 023 ko
+[05] : TURBOCUP.B�2 : 0 006 ko
+[06] : TURBOCUP.L�L : 0 009 ko
+[07] : TURBOCUP.S�1 : 0 005 ko
+[08] : TURBOCUP.S�2 : 0 003 ko
+[09] : TURBOCUP.SCO : 0 001 ko
+[10] : DAKAR   .BAS : 0 001 ko
+[11] : DAKAR   .B�N : 0 023 ko
+[13] : DAKAR2  .S�R : 0 004 ko
+[14] : DEFILE  .BAS : 0 009 ko
+[15] : DEFILE1 .B�N : 0 016 ko
+[16] : DEFILE2 .B�N : 0 016 ko
+[17] : DEFILE3 .B�N : 0 015 ko
+[18] : MOBIL   .B�N : 0 034 ko
+[21] : MOBILMAN.BAS : 0 001 ko
+[22] : DAKARIMA.P�W : 0 005 ko
+[23] : MOBILIMA.P�W : 0 005 ko
+[24] : TURBOIMA.P�W : 0 008 ko
+Dsk 186 Ko used

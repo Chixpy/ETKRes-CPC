@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STUN1   .R�M : 0 007 ko
+[01] : MATRIX  .B�N : 0 034 ko
+[02] : STUN2   .R�M : 0 016 ko
+[03] : STUNRUN .BAS : 0 001 ko
+[06] : MATRIX  .BAS : 0 001 ko
+[07] : MATRISCR.P�W : 0 005 ko
+[08] : STUNIMA .P�W : 0 004 ko
+[09] : JOHNNY2 .BIN : 0 008 ko
+[10] : STUN    .B�N : 0 041 ko
+[13] : EXPLOR  .BAS : 0 004 ko
+[14] : ZAPTBALL.BAS : 0 004 ko
+[15] : ZAPTBALL.B�0 : 0 002 ko
+[16] : ZAPTBALL.B�1 : 0 013 ko
+[17] : ZAPTBALL.B�2 : 0 008 ko
+[18] : ZAPTBALL.B�3 : 0 014 ko
+[19] : ZAPTBALL.B�4 : 0 011 ko
+[20] : ZAPTBALL.B�5 : 0 008 ko
+[21] : ZAPTBALL.L�V : 0 006 ko
+Dsk 187 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GAS     .BAS : 0 001 ko
+[01] : GAS     .B�N : 0 038 ko
+[04] : RASTER  .BAS : 0 001 ko
+[05] : RASTER  .B�N : 0 036 ko
+[08] : INHUMANO.BAS : 0 001 ko
+[09] : INHUMANO.B�N : 0 038 ko
+[12] : RODEO   .BAS : 0 003 ko
+[13] : RODEO   .B�N : 0 040 ko
+[16] : FREDDY  .BAS : 0 007 ko
+[17] : ROBBOT  .C�C : 0 002 ko
+[18] : RODEOSCR.B�N : 0 004 ko
+[19] : RASTESCR.P�W : 0 004 ko
+[20] : INHUMIMA.P�W : 0 006 ko
+[21] : GASSCR  .P�W : 0 006 ko
+Dsk 187 Ko used

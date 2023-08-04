@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BATMAN  .BAS : 0 001 ko
+[01] : �͠�����.S�� : 0 044 ko
+[04] : CARTOON .BAS : 0 010 ko
+[05] : QUARTET .BIN : 0 033 ko
+[06] : CORRIDOR.BAS : 0 002 ko
+[07] : CORRIDOR.B�1 : 0 004 ko
+[08] : CORRIDOR.B�2 : 0 037 ko
+[11] : CORRIDOR.B�3 : 0 015 ko
+[12] : CORRIDOR.B�4 : 0 015 ko
+[13] : CORRIKOM.P�W : 0 002 ko
+[16] : DUEL    .BAS : 0 010 ko
+[17] : CODE    .B�N : 0 001 ko
+[18] : RUNNER1 .B�N : 0 005 ko
+[19] : RUNNER1 .BAS : 0 001 ko
+[20] : DUELL   .B�N : 0 003 ko
+[21] : BATMAIMA.P�W : 0 004 ko
+Dsk 187 Ko used

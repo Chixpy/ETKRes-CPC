@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DRUID   .BAS : 0 001 ko
+[01] : DRUID   .M�S : 0 005 ko
+[02] : DRUID   .B�N : 0 030 ko
+[04] : FOOT    .BIN : 0 018 ko
+[06] : HUDSON  .BAS : 0 001 ko
+[07] : HUDSON  .B�N : 0 024 ko
+[09] : TRANSPEN.BAS : 0 005 ko
+[10] : HUDSON  .N�2 : 0 004 ko
+[11] : HUDSON  .N�3 : 0 003 ko
+[12] : HUDSON  .N�4 : 0 003 ko
+[13] : HUDSON  .N�5 : 0 002 ko
+[14] : HUDSON  .N�6 : 0 004 ko
+[15] : HUDSON  .N�7 : 0 002 ko
+[16] : HUDSON  .N�8 : 0 002 ko
+[17] : HUDSON  .N�9 : 0 005 ko
+[18] : HUDSON  .N�0 : 0 004 ko
+[19] : HUDSON  .N�1 : 0 004 ko
+[20] : HUDSON  .N�2 : 0 005 ko
+[21] : HUDSON  .N�3 : 0 004 ko
+[22] : HUDSON  .N�4 : 0 005 ko
+[23] : HUDSON  .N�5 : 0 005 ko
+[24] : HUDSON  .N�6 : 0 005 ko
+[25] : HUDSON  .N�7 : 0 006 ko
+[26] : HUDSON  .N�8 : 0 007 ko
+[27] : HUDSON  .N�9 : 0 003 ko
+[28] : HUDSON  .N�0 : 0 007 ko
+[29] : HUDSON  .N�1 : 0 004 ko
+[30] : HUDSON  .N�2 : 0 003 ko
+[31] : HUDSON  .N�3 : 0 007 ko
+[33] : HUDSOIMA.P�W : 0 002 ko
+[34] : DRUIDIMA.P�W : 0 007 ko
+Dsk 187 Ko used

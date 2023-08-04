@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RAM     .BAS : 0 001 ko
+[01] : RAM     .M�S : 0 003 ko
+[02] : RAM1    .B�N : 0 037 ko
+[05] : RAM2    .B�N : 0 010 ko
+[06] : TOPO    .B�N : 0 010 ko
+[07] : IRON    .BAS : 0 017 ko
+[09] : DOMINAT .B�N : 0 017 ko
+[11] : DOMINAT .BAS : 0 001 ko
+[12] : DOMINIMA.P�W : 0 002 ko
+[13] : LEVEL4  .B�N : 0 015 ko
+[14] : LEVEL2  .B�N : 0 015 ko
+[15] : LEVEL1  .B�N : 0 015 ko
+[16] : RAM     .I�L : 0 009 ko
+[17] : LEVEL3  .B�N : 0 015 ko
+[18] : PACMINI .BAS : 0 001 ko
+[19] : Z       .BAS : 0 001 ko
+[20] : Z1      .B�N : 0 018 ko
+Dsk 187 Ko used

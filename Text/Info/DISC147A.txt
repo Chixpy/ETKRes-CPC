@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CABAL   .BAS : 0 001 ko
+[01] : CABAL   .B�N : 0 038 ko
+[04] : ROUGNOIR.BAS : 0 003 ko
+[05] : CABAL4  .R�M : 0 017 ko
+[07] : CABAL5  .R�M : 0 017 ko
+[09] : CABAL6  .R�M : 0 017 ko
+[11] : CABAL7  .R�M : 0 003 ko
+[12] : LOSTCAVE.BAS : 0 001 ko
+[13] : LOSTCAVE.B�N : 0 039 ko
+[16] : LOSTCAVE.I�L : 0 004 ko
+[17] : PHOENIX .BAS : 0 001 ko
+[18] : PHOENIX .B�N : 0 032 ko
+[20] : CABALIMA.P�W : 0 006 ko
+[21] : PHOENIMA.P�W : 0 008 ko
+Dsk 187 Ko used

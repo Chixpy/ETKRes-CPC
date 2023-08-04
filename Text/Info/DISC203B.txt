@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SNOOPY  .2�  : 0 014 ko
+[01] : SNOOPY  .BAS : 0 001 ko
+[02] : SNOOPY  .I�A : 0 004 ko
+[03] : SNOOPY  .1�  : 0 033 ko
+[04] : MAGIC   .BAS : 0 001 ko
+[07] : MAGIC1  .B�N : 0 038 ko
+[08] : IMPACT  .BAS : 0 001 ko
+[09] : IMPACT  .B�N : 0 038 ko
+[12] : IMPACIMA.P�W : 0 003 ko
+[15] : MAGIC2  .B�N : 0 005 ko
+[16] : MAGIC3  .B�N : 0 038 ko
+[19] : MAGIC4  .B�N : 0 005 ko
+[20] : MAGICIMA.P�W : 0 006 ko
+Dsk 187 Ko used

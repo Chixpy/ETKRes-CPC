@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DEFLEKT .BAS : 0 001 ko
+[01] : DEFLEKT .B�N : 0 041 ko
+[04] : CA      .B�N : 0 008 ko
+[05] : SIGMA7  .BAS : 0 001 ko
+[06] : CONVERT .BAS : 0 002 ko
+[07] : SIGMA   .B�N : 0 032 ko
+[08] : G-OVER  .0�  : 0 035 ko
+[11] : GAMEOVER.BAS : 0 001 ko
+[12] : G-OVER  .0�  : 0 035 ko
+[15] : CPCASS  .BAS : 0 003 ko
+[16] : DEFLSCRU.P�W : 0 005 ko
+[18] : GAME1IMA.P�W : 0 008 ko
+[21] : SOLITAIR.BAS : 0 009 ko
+[22] : SOLITAIR.I�L : 0 002 ko
+[23] : SIGMSCRU.P�W : 0 004 ko
+Dsk 187 Ko used

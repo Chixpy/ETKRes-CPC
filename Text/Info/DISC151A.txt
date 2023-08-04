@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STRONG  .BAS : 0 001 ko
+[01] : STRONG  .B�N : 0 038 ko
+[04] : STRONIMA.P�W : 0 005 ko
+[05] : ATOMIC  .BIN : 0 018 ko
+[07] : ATOMIC  .P�1 : 0 014 ko
+[08] : ATOMIC  .P�2 : 0 009 ko
+[09] : ATOMIC  .P�3 : 0 007 ko
+[10] : -MENU   .BAS : 0 003 ko
+[11] : TURBOKIN.BAS : 0 001 ko
+[12] : TURBOKIN.B�N : 0 037 ko
+[14] : SALAM   .BAS : 0 001 ko
+[16] : TURBO   .I�L : 0 005 ko
+[17] : SALAM1  .B�N : 0 035 ko
+[20] : SALAM2  .B�N : 0 011 ko
+[21] : KOMPOS  .BAS : 0 002 ko
+Dsk 187 Ko used

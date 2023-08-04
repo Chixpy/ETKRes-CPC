@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODEUR  .J�U : 0 001 ko
+[01] : EVA     .BAS : 0 001 ko
+[02] : EVA1    .J�U : 0 005 ko
+[03] : EVA2    .J�U : 0 005 ko
+[04] : LM2     .J�U : 0 002 ko
+[05] : COSMO   .BAS : 0 001 ko
+[06] : COSMO   .B�N : 0 001 ko
+[07] : COSMO1  .B�S : 0 004 ko
+[08] : COSMO1  .B�N : 0 008 ko
+[09] : COSMO2  .S�R : 0 008 ko
+[10] : CUSTARD .BAS : 0 001 ko
+[11] : CUSTARD .B�N : 0 038 ko
+[14] : HAMSTER .BAS : 0 001 ko
+[15] : HAMSTER .B�N : 0 020 ko
+[17] : BM      .D�T : 0 018 ko
+[19] : CP      .D�T : 0 018 ko
+[21] : DL      .D�T : 0 018 ko
+[23] : RL      .D�T : 0 018 ko
+[25] : S1      .D�T : 0 003 ko
+[26] : S2      .D�T : 0 003 ko
+[27] : S3      .D�T : 0 003 ko
+[28] : S4      .D�T : 0 003 ko
+[29] : HAMSTER .I�L : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : T-GIRL  .BAS : 0 001 ko
+[01] : TURBO1  .B�N : 0 032 ko
+[03] : TURBO2  .B�N : 0 010 ko
+[04] : CAULDRO1.B�N : 0 037 ko
+[07] : CAULDRO2.B�N : 0 009 ko
+[08] : CAULDRON.BAS : 0 001 ko
+[09] : ROLLARO .BAS : 0 001 ko
+[10] : ROLLARO1.B�N : 0 027 ko
+[12] : ROLLARO2.B�N : 0 016 ko
+[13] : MANSION .BAS : 0 001 ko
+[14] : MANSION .B�N : 0 029 ko
+[16] : MANSIIMA.P�W : 0 004 ko
+[17] : CAULDRON.K�M : 0 004 ko
+[18] : TURBOIMA.P�W : 0 007 ko
+[19] : ROLLARO .P�W : 0 008 ko
+Dsk 187 Ko used

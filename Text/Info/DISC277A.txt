@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LOGICAL .BAS : 0 001 ko
+[01] : LOGICAL .B�3 : 0 004 ko
+[02] : LOGICAL .B�5 : 0 001 ko
+[03] : LOGICAL .B�7 : 0 017 ko
+[05] : LOGICAL .B�8 : 0 020 ko
+[07] : LOGICAL .B�9 : 0 006 ko
+[08] : LOGICAL .B�N : 0 002 ko
+[09] : ROADTOAD.BIN : 0 005 ko
+[10] : TORNADO .BAS : 0 001 ko
+[11] : TORNADO1.B�N : 0 019 ko
+[13] : TORNADO2.B�N : 0 016 ko
+[14] : 3WEEKS  .BAS : 0 001 ko
+[15] : PARADISE.B�N : 0 029 ko
+[17] : COCKTAIL.BAS : 0 006 ko
+[18] : GUNPOW  .BAS : 0 008 ko
+[19] : POOL    .BIN : 0 010 ko
+[20] : SPLAT!  .BAS : 0 002 ko
+[21] : SPLAT   .B�N : 0 011 ko
+[22] : SPLAT2  .B�S : 0 009 ko
+[23] : LOGICAL1.C�C : 0 002 ko
+[24] : LOGICAL2.C�C : 0 005 ko
+[25] : LOGICAL3.C�C : 0 003 ko
+[26] : LOGICAL4.C�C : 0 002 ko
+[27] : 3WEEKIMA.P�W : 0 007 ko
+Dsk 187 Ko used

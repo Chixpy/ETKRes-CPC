@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CH      .B�N : 0 012 ko
+[01] : FI      .B�N : 0 004 ko
+[02] : M1      .B�N : 0 002 ko
+[03] : M2      .B�N : 0 002 ko
+[04] : M3      .B�N : 0 003 ko
+[05] : MA      .B�N : 0 019 ko
+[07] : MAF     .B�S : 0 001 ko
+[08] : MAF1    .B�S : 0 001 ko
+[09] : MAFFIA  .BAS : 0 001 ko
+[10] : ME      .B�N : 0 010 ko
+[11] : MU      .B�N : 0 004 ko
+[12] : PR      .B�N : 0 014 ko
+[13] : RO      .B�N : 0 012 ko
+[14] : T0      .B�N : 0 001 ko
+[15] : T1      .B�N : 0 001 ko
+[16] : T2      .B�N : 0 002 ko
+[17] : T3      .B�N : 0 002 ko
+[18] : T4      .B�N : 0 002 ko
+[19] : T5      .B�N : 0 002 ko
+[20] : T6      .B�N : 0 002 ko
+[21] : T7      .B�N : 0 002 ko
+[22] : T8      .B�N : 0 002 ko
+[23] : T9      .B�N : 0 002 ko
+[24] : SC      .BAK : 1 001 ko
+[25] : SC      .BIN : 1 001 ko
+[27] : IBALL2  .BAS : 0 001 ko
+[28] : IBALL2  .B�N : 0 040 ko
+[31] : STAR    .BAS : 0 001 ko
+[32] : STAR    .B�N : 0 034 ko
+[35] : STARIMA .P�W : 0 005 ko
+Dsk 186 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACE2    .B�N : 0 035 ko
+[02] : ROBOCOP1.B�N : 0 016 ko
+[03] : ROBOCOP2.B�N : 0 009 ko
+[04] : ROBOCOP3.B�N : 0 017 ko
+[06] : ROBOCOP4.B�N : 0 017 ko
+[08] : ROBOCOP5.B�N : 0 017 ko
+[10] : ROBOCOP6.B�N : 0 017 ko
+[12] : ROBOCOP .I�L : 0 006 ko
+[14] : ROBOCOP .BAS : 0 001 ko
+[15] : ACE     .BAS : 0 001 ko
+[16] : ACE1    .B�N : 0 032 ko
+[18] : OPIUM   .BAS : 0 004 ko
+[19] : FRACTALE.BAS : 0 001 ko
+[20] : MENU    .BAS : 0 001 ko
+[21] : ACE     .I�L : 0 012 ko
+[22] : 1KO-TEST.BAS : 0 001 ko
+Dsk 187 Ko used

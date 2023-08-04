@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARGONAVI.BAS : 0 001 ko
+[01] : ARGONAVI.B�N : 0 034 ko
+[04] : HOBGOBLI.BAS : 0 001 ko
+[05] : HOBGOBLI.B�N : 0 019 ko
+[07] : MRFREEZE.BIN : 0 012 ko
+[08] : SCIENTIF.BAS : 0 016 ko
+[09] : SCIENTIF.B�N : 0 004 ko
+[10] : SPRING  .BAS : 0 001 ko
+[11] : SPRING1 .B�N : 0 035 ko
+[14] : SPRING2 .B�N : 0 008 ko
+[15] : TERREUR .BIN : 0 004 ko
+[16] : TERREUR1.B�N : 0 017 ko
+[18] : ZYGY    .BAS : 0 001 ko
+[19] : ZYGY    .B�N : 0 022 ko
+[21] : SCORES  .BIN : 0 001 ko
+[22] : ARGONSCR.P�W : 0 004 ko
+[23] : HOBGOSCR.P�W : 0 007 ko
+Dsk 187 Ko used

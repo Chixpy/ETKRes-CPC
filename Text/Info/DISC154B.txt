@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INFERNAL.B�N : 0 034 ko
+[02] : INFERIMA.P�W : 0 008 ko
+[03] : MADBALLS.BAS : 0 001 ko
+[04] : MADBALL1.B�N : 0 033 ko
+[07] : MADBALL2.B�N : 0 010 ko
+[08] : INFERNAL.BAS : 0 001 ko
+[09] : SCOOTER .BAS : 0 001 ko
+[10] : NINJA1  .B�N : 0 032 ko
+[12] : NINJA2  .B�N : 0 004 ko
+[13] : NINJA   .I�L : 0 009 ko
+[14] : REX     .B�N : 0 036 ko
+[17] : REX     .BAS : 0 001 ko
+[18] : REX     .I�L : 0 006 ko
+[20] : WORMRACE.BAS : 0 004 ko
+[21] : MADBAIMA.P�W : 0 007 ko
+Dsk 187 Ko used

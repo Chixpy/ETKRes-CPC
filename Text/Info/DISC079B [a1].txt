@@ -1,0 +1,45 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MOULINSA.BAK : 0 001 ko
+[01] : MOULINSA.BAS : 0 004 ko
+[02] : MOULINSA.B�N : 0 002 ko
+[03] : MOULINSA.C�C : 0 005 ko
+[04] : MOULINSA.P�G : 0 013 ko
+[05] : MOULINSC.0�1 : 0 002 ko
+[06] : MOULINSC.0�2 : 0 002 ko
+[07] : MOULINSC.0�3 : 0 002 ko
+[08] : MOULINSC.0�4 : 0 003 ko
+[09] : MOULINSC.0�5 : 0 003 ko
+[10] : MOULINSC.0�6 : 0 003 ko
+[11] : MOULINSC.0�7 : 0 002 ko
+[12] : MOULINSC.0�8 : 0 002 ko
+[13] : MOULINSC.0�9 : 0 002 ko
+[14] : MOULINSC.0�0 : 0 003 ko
+[15] : MOULINSC.0�1 : 0 002 ko
+[16] : MOULINSC.0�2 : 0 002 ko
+[17] : MOULINSC.0�3 : 0 003 ko
+[18] : MOULINSC.0�4 : 0 003 ko
+[19] : MOULINSC.0�5 : 0 003 ko
+[20] : MOULINSC.0�6 : 0 004 ko
+[21] : MOULINSC.0�7 : 0 003 ko
+[22] : MOULINSC.0�8 : 0 003 ko
+[23] : MOULINSC.0�9 : 0 002 ko
+[24] : MOULINSC.0�0 : 0 002 ko
+[25] : MOULINSC.0�1 : 0 003 ko
+[26] : MOULINSC.0�2 : 0 003 ko
+[27] : MOULINSC.0�3 : 0 003 ko
+[28] : MOULINSC.0�4 : 0 003 ko
+[29] : MOULINSC.0�5 : 0 002 ko
+[30] : MOULINSC.0�6 : 0 002 ko
+[31] : MOULINSC.0�7 : 0 003 ko
+[32] : MOULINSC.0�8 : 0 004 ko
+[33] : MOULINSC.0�9 : 0 002 ko
+[35] : KLAX    .BAS : 0 001 ko
+[36] : KLAX    .B�N : 0 023 ko
+[38] : KLAX    .R�M : 0 023 ko
+[40] : DREAM   .BAS : 0 001 ko
+[41] : WARRIOR1.B�N : 0 022 ko
+[43] : WARRIOR2.B�N : 0 007 ko
+[44] : KLAX    .C�C : 0 003 ko
+[45] : DREAMIMA.P�W : 0 005 ko
+Dsk 186 Ko used

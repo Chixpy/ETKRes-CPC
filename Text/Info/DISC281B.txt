@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : CM      .BAS : 0 002 ko
+[02] : CM      .B�N : 0 017 ko
+[04] : CMSCMAKE.BAS : 0 001 ko
+[05] : CMSCORES.BAK : 0 001 ko
+[06] : HIGHSTEE.BAS : 0 005 ko
+[07] : HIGHSTEE.B�N : 0 019 ko
+[09] : METELLA .BAS : 0 006 ko
+[10] : METELLA .B�N : 0 004 ko
+[11] : SCB     .BIN : 0 020 ko
+[13] : TROLLEY .BAS : 0 001 ko
+[14] : TROLLEY .B�N : 0 024 ko
+[16] : THUNDERB.BAK : 0 001 ko
+[17] : THUNDERB.BAS : 0 004 ko
+[18] : THUNDERB.B�1 : 0 011 ko
+[19] : THUNDERB.B�2 : 0 012 ko
+[20] : THUNDERB.B�3 : 0 011 ko
+[21] : THUNDERB.B�4 : 0 005 ko
+[22] : THUNDERB.B�5 : 0 005 ko
+[23] : THUNDERB.B�6 : 0 001 ko
+[24] : THUNDERB.B�N : 0 010 ko
+[25] : TILES   .BAS : 0 002 ko
+[26] : METELLA .C�C : 0 003 ko
+[27] : TROLLSCR.P�W : 0 004 ko
+[28] : THUNDSCR.P�W : 0 008 ko
+[29] : HIGHSSCR.P�W : 0 009 ko
+Dsk 186 Ko used

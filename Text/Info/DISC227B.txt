@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PROBMX  .BAS : 0 001 ko
+[01] : COMMUN  .B�N : 0 006 ko
+[02] : STANDARD.B�N : 0 020 ko
+[04] : EXPERT  .B�N : 0 020 ko
+[06] : SIMULAT2.B�N : 0 019 ko
+[08] : SIMULAT4.B�N : 0 019 ko
+[10] : SIMULAT6.B�N : 0 019 ko
+[12] : SIMULAT8.B�N : 0 019 ko
+[14] : RALLY   .BAS : 0 001 ko
+[15] : RALLY1  .B�N : 0 036 ko
+[18] : RALLY2  .B�N : 0 013 ko
+[19] : RALLYIMA.P�W : 0 007 ko
+[20] : SIMULIMA.P�W : 0 007 ko
+Dsk 187 Ko used

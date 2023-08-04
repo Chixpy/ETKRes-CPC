@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BADCAT  .BIN : 0 020 ko
+[02] : BADCAT  .C�A : 0 008 ko
+[03] : BADCAT  .C�B : 0 011 ko
+[04] : BADCAT  .C�C : 0 005 ko
+[05] : BADCAT  .C�D : 0 011 ko
+[06] : BADCAT  .C�E : 0 005 ko
+[07] : BADCAT  .C�F : 0 009 ko
+[08] : BADCAT  .C�G : 0 010 ko
+[09] : BADCAT  .C�H : 0 009 ko
+[10] : BADCAT  .C�I : 0 006 ko
+[11] : BADCAT  .C�J : 0 012 ko
+[12] : BADCAT  .C�K : 0 010 ko
+[13] : BADCAT  .C�L : 0 017 ko
+[15] : BADCAT  .C�N : 0 001 ko
+[16] : ALI     .C�M : 0 003 ko
+[17] : ALIBIN  .B�N : 0 002 ko
+[18] : BILLY   .BAS : 0 001 ko
+[19] : BILLY1  .B�N : 0 035 ko
+[22] : RETOUR  .BAS : 0 008 ko
+[23] : BILLSCRU.P�W : 0 004 ko
+Dsk 187 Ko used

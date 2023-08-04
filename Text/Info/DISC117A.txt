@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FLINT   .BIN : 0 041 ko
+[03] : CORTEX  .BAS : 0 006 ko
+[04] : TOTAL   .��1 : 0 013 ko
+[05] : TOTAL   .��2 : 0 013 ko
+[06] : TOTAL   .��3 : 0 011 ko
+[07] : TOTAL   .��4 : 0 011 ko
+[08] : TOTAL   .BAS : 0 002 ko
+[09] : TOTAL   .B�N : 0 027 ko
+[10] : L&LDIE  .BAS : 0 001 ko
+[11] : L&LDIE3 .B�N : 0 034 ko
+[12] : TOTAL   .I�L : 0 006 ko
+[16] : L&LDIE2 .B�N : 0 012 ko
+[17] : L&LDIE  .I�L : 0 010 ko
+Dsk 187 Ko used

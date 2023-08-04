@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MINIMAIL.BAS : 0 006 ko
+[01] : BURGER  .BAS : 0 007 ko
+[02] : MADDOG  .B�N : 0 025 ko
+[03] : STAINLES.BAS : 0 001 ko
+[04] : STAIN1  .B�N : 0 042 ko
+[05] : RAL     .B�N : 0 003 ko
+[08] : PETER   .BAS : 0 012 ko
+[09] : MADDOG  .BAS : 0 001 ko
+[10] : SIDEARMS.BAS : 0 001 ko
+[11] : STAINLES.I�L : 0 007 ko
+[12] : DAYTON  .BAS : 0 006 ko
+[13] : SIDEARMS.B�N : 0 039 ko
+[14] : MADDOSCR.P�W : 0 004 ko
+[17] : PR-LM   .B�N : 0 013 ko
+[18] : SIDEASCR.P�W : 0 008 ko
+[20] : FANTOME .BAS : 0 002 ko
+[21] : GRAPH+FA.B�N : 0 010 ko
+Dsk 187 Ko used

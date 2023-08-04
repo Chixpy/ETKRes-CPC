@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TPBABY  .BIN : 0 024 ko
+[01] : BLOCK   .O�  : 0 009 ko
+[03] : BLOCK   .G�  : 0 010 ko
+[04] : BLOCK   .H�  : 0 010 ko
+[05] : BLOCK   .I�  : 0 010 ko
+[06] : BLOCK   .B�  : 0 011 ko
+[07] : BLOCK   .C�  : 0 010 ko
+[08] : BLOCK   .D�  : 0 010 ko
+[09] : BLOCK   .E�  : 0 011 ko
+[10] : BLOCK   .F�  : 0 010 ko
+[11] : BLOCK   .A�  : 0 012 ko
+[12] : BLOCK   .P�  : 0 009 ko
+[13] : LOTO    .BAS : 0 001 ko
+[15] : BLOCK   .J�  : 0 010 ko
+[16] : BLOCK   .K�  : 0 010 ko
+[17] : BLOCK   .L�  : 0 010 ko
+[18] : BLOCK   .M�  : 0 010 ko
+[19] : BLOCK   .N�  : 0 010 ko
+Dsk 187 Ko used

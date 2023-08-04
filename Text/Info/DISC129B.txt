@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHAT0   .B�N : 0 003 ko
+[01] : CHAT1   .B�N : 0 001 ko
+[02] : CHAT2   .B�N : 0 002 ko
+[03] : PACW    .B�N : 0 002 ko
+[04] : PACX    .B�N : 0 001 ko
+[05] : PACE    .B�N : 0 019 ko
+[07] : PACF    .B�N : 0 016 ko
+[08] : PACG    .B�N : 0 020 ko
+[10] : PACH    .B�N : 0 021 ko
+[12] : PACI    .B�N : 0 018 ko
+[14] : PACJ    .B�N : 0 023 ko
+[16] : PACK    .B�N : 0 019 ko
+[18] : PACL    .B�N : 0 019 ko
+[20] : PACM    .B�N : 0 014 ko
+[21] : HAWKS   .BAS : 0 001 ko
+[22] : HAWKS   .B�N : 0 008 ko
+Dsk 187 Ko used

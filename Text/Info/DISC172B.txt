@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BREED   .BIN : 0 018 ko
+[02] : BREED   .C�A : 0 015 ko
+[03] : BREED   .C�B : 0 023 ko
+[05] : BREED   .C�C : 0 025 ko
+[07] : BREED   .C�D : 0 025 ko
+[09] : BREED   .C�E : 0 018 ko
+[11] : BREED   .C�F : 0 018 ko
+[13] : BREED   .C�G : 0 010 ko
+[14] : GP3D    .BAS : 0 001 ko
+[15] : SOLIDAM .BAS : 0 003 ko
+[16] : GP3D    .C�M : 0 004 ko
+[17] : GP3D1   .B�N : 0 027 ko
+Dsk 187 Ko used

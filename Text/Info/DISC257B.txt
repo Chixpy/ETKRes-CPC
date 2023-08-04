@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STUNTCAR.BAS : 0 001 ko
+[01] : REDEF   .BAS : 0 002 ko
+[02] : TETRIS95.B�T : 0 001 ko
+[03] : XYBOTS  .A�  : 0 001 ko
+[04] : XYBOTS  .BAS : 0 001 ko
+[05] : XYBOTS  .B�  : 0 001 ko
+[06] : XYBOTS  .C�  : 0 001 ko
+[07] : XYBOTS  .D�  : 0 001 ko
+[08] : XYBOTS  .E�  : 0 001 ko
+[09] : XYBOTS  .F�  : 0 001 ko
+[10] : XYBOTS  .G�  : 0 001 ko
+[11] : XYBOTS  .H�  : 0 001 ko
+[12] : XYBOTS  .I�  : 0 001 ko
+[13] : XYBOTS  .J�  : 0 001 ko
+[14] : XYBOTS  .K�  : 0 001 ko
+[15] : STUNT   .L�0 : 0 010 ko
+[16] : XYBOTS  .L�  : 0 001 ko
+[17] : XYBOTS  .M�  : 0 001 ko
+[18] : XYBOTS  .N�  : 0 001 ko
+[19] : XYBOTS  .O�  : 0 001 ko
+[20] : XYBOTS1 .B�N : 0 037 ko
+[23] : XYBOTS2 .B�N : 0 013 ko
+[24] : XYBOTSCR.P�W : 0 006 ko
+[25] : STUNTCAR.B�N : 0 031 ko
+[26] : TETRIS95.B�N : 0 021 ko
+[28] : TETRIS95.BAK : 0 001 ko
+[29] : TETRIS95.D�A : 0 036 ko
+[34] : REDSTONE.BAS : 0 005 ko
+[35] : STUNTSCR.P�W : 0 006 ko
+Dsk 186 Ko used

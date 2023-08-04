@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CHATEAU .B�S : 0 020 ko
+[02] : CHATEAU .B�N : 0 003 ko
+[03] : DIABLE  .BAS : 0 001 ko
+[04] : GRAVITY .BIN : 0 013 ko
+[05] : PALITRON.BAS : 0 001 ko
+[06] : PALITRON.B�1 : 0 033 ko
+[09] : PALITRON.B�2 : 0 009 ko
+[10] : PYRAMIDE.BAS : 0 001 ko
+[11] : PYRAMIDE.B�N : 0 040 ko
+[14] : REDARROW.BAS : 0 001 ko
+[15] : REDARROW.B�N : 0 017 ko
+[17] : VICARIO .BAS : 0 001 ko
+[18] : VICARIO1.B�N : 0 020 ko
+[20] : VICARIO2.B�N : 0 007 ko
+[21] : CHATEAU .C�C : 0 004 ko
+[22] : PALITSCR.P�W : 0 004 ko
+[23] : PYRAMIDE.C�C : 0 004 ko
+[24] : REDARROW.C�C : 0 004 ko
+[25] : VICARSCR.P�W : 0 004 ko
+Dsk 187 Ko used

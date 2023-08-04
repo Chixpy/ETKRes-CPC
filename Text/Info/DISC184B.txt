@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TYPHOON .BAS : 0 001 ko
+[01] : TYPHOON .B�N : 0 039 ko
+[04] : TYPHOON4.R�M : 0 017 ko
+[06] : TYPHOON5.R�M : 0 017 ko
+[08] : TYPHOON6.R�M : 0 016 ko
+[09] : TYPHOON7.R�M : 0 017 ko
+[11] : MAGIC   .BAS : 0 001 ko
+[12] : MAGIC1  .B�N : 0 041 ko
+[15] : MAGIC2  .B�N : 0 002 ko
+[16] : CHESS   .BAS : 0 002 ko
+[17] : CHESSMC .B�N : 0 027 ko
+[19] : MAGIC   .I�L : 0 005 ko
+[20] : TYPHOSCR.P�W : 0 002 ko
+Dsk 187 Ko used

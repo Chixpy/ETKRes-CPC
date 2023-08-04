@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GP      .BIN : 0 042 ko
+[03] : PART1   .B�N : 0 034 ko
+[06] : PART2   .B�N : 0 008 ko
+[07] : SCRA2   .B�N : 0 016 ko
+[08] : SCRA3   .B�N : 0 017 ko
+[10] : SCRA4   .B�N : 0 017 ko
+[12] : SCRA5   .B�N : 0 007 ko
+[13] : SCRA6   .B�N : 0 001 ko
+[14] : SCRABBLE.BIN : 0 003 ko
+[15] : TAUCETI .BAS : 0 001 ko
+[16] : WINO    .BAS : 0 001 ko
+[17] : WINO2   .B�N : 0 033 ko
+[20] : TAU     .I�L : 0 003 ko
+[21] : WINO    .C�M : 0 004 ko
+Dsk 187 Ko used

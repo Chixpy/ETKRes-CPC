@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AFRICAN .BAS : 0 001 ko
+[01] : AFRICAN1.B�N : 0 035 ko
+[04] : AFRICAN2.B�N : 0 007 ko
+[05] : CONTRAPT.BIN : 0 037 ko
+[08] : MERCENA1.B�1 : 0 033 ko
+[11] : MERCENA1.B�2 : 0 012 ko
+[12] : MERCENA2.B�1 : 0 033 ko
+[15] : MERCENA2.B�2 : 0 012 ko
+[16] : MERCENAR.BAS : 0 001 ko
+[17] : ECRAN   .C�M : 0 005 ko
+[18] : MERCENAR.I�L : 0 004 ko
+[19] : AFRICAN .I�L : 0 007 ko
+Dsk 187 Ko used

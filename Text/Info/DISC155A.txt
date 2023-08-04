@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ENERGY  .BAS : 0 001 ko
+[01] : GIANA   .0�1 : 0 032 ko
+[02] : ENERGY1 .B�N : 0 040 ko
+[06] : ENERGY2 .B�N : 0 007 ko
+[07] : CHATEAU .BAS : 0 008 ko
+[08] : GIANA   .0�2 : 0 016 ko
+[09] : REMAKE2 .BAS : 0 013 ko
+[10] : GIANA   .BAS : 0 001 ko
+[11] : MARAUD1 .B�N : 0 032 ko
+[13] : MARAUD2 .B�N : 0 017 ko
+[15] : MARAUDER.BAS : 0 001 ko
+[16] : ENERGIMA.P�W : 0 007 ko
+[17] : GIANAIMA.P�W : 0 005 ko
+[18] : MARAUIMA.P�W : 0 007 ko
+Dsk 187 Ko used

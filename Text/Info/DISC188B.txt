@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HYBRID  .BIN : 0 036 ko
+[03] : TUMA7   .BAS : 0 001 ko
+[04] : TUMA1-7 .B�1 : 0 032 ko
+[06] : TUMA1-7 .B�2 : 0 013 ko
+[07] : TUMA2-7 .B�1 : 0 032 ko
+[09] : TUMA2-7 .B�2 : 0 013 ko
+[10] : ITALIAN .BAS : 0 001 ko
+[11] : ITALIAN .B�1 : 0 041 ko
+[14] : ITALIAN .B�2 : 0 005 ko
+[15] : ITALIIMA.P�W : 0 006 ko
+[16] : TUMA7IMA.P�W : 0 007 ko
+Dsk 187 Ko used

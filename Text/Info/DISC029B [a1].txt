@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : METROX  .B�N : 0 035 ko
+[02] : P-LEVELS.A�  : 0 009 ko
+[03] : HELL    .BAS : 0 001 ko
+[04] : METROX  .BAS : 0 001 ko
+[05] : FOOTMAN2.BAS : 0 002 ko
+[06] : FM2     .B�N : 0 041 ko
+[08] : CAVE    .BAS : 0 008 ko
+[09] : CAVE    .M�2 : 0 002 ko
+[10] : POKER1  .BAS : 0 006 ko
+[11] : HELL    .B�N : 0 037 ko
+[13] : PUZZNIX .BAS : 0 009 ko
+[14] : PUZZNIX .B�N : 0 002 ko
+[16] : COMEX   .BAS : 0 001 ko
+[17] : SNOOKER .BAS : 0 005 ko
+[18] : SNOOKER .��N : 0 008 ko
+[21] : COMEX   .B�N : 0 003 ko
+[22] : HELL    .C�C : 0 003 ko
+[23] : METROIMA.C�M : 0 006 ko
+[24] : FM2     .I�L : 0 008 ko
+Dsk 187 Ko used

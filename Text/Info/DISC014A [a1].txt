@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARM1    .S�F : 0 036 ko
+[03] : ARM2    .S�F : 0 036 ko
+[06] : ARMY1-2 .BAS : 0 001 ko
+[07] : ARMYIMA .P�W : 0 008 ko
+[08] : WONG    .BAS : 0 002 ko
+[09] : WONG    .B�N : 0 016 ko
+[10] : KAGE    .BAS : 0 001 ko
+[11] : KAGE    .B�N : 0 029 ko
+[13] : KAGEIMA .P�W : 0 006 ko
+Dsk 135 Ko used

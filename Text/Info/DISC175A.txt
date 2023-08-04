@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CLEVER&S.P�B : 0 025 ko
+[02] : CLEVER&S.P�D : 0 025 ko
+[04] : CLEVER  .BAS : 0 001 ko
+[05] : CLEVER&S.P�F : 0 025 ko
+[07] : CHECK   .BAS : 0 002 ko
+[08] : CLEVER&S.M�S : 0 005 ko
+[09] : CLEVER&S.P�2 : 0 017 ko
+[11] : CLEVER&S.P�1 : 0 007 ko
+[12] : DADA    .BAS : 0 003 ko
+[13] : CLEVEIMA.P�W : 0 010 ko
+[14] : P4      .B�N : 0 010 ko
+[15] : P3      .B�S : 0 011 ko
+[16] : VAR     .BAK : 0 001 ko
+[17] : VAR     .    : 0 001 ko
+[18] : P1      .B�N : 0 002 ko
+[19] : P2      .B�N : 0 004 ko
+[20] : SNOBALL .B�N : 0 030 ko
+[21] : P5      .B�N : 0 006 ko
+[22] : SNOBALL .BAS : 0 001 ko
+Dsk 186 Ko used

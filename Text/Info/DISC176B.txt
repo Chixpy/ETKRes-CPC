@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOND    .B�N : 0 041 ko
+[01] : POSTMAN3.BAS : 0 001 ko
+[02] : POSTMAN3.B�1 : 0 038 ko
+[03] : CAP     .C�M : 0 006 ko
+[05] : CAPTAIN .BAS : 0 005 ko
+[06] : RIOT1   .B�N : 0 030 ko
+[08] : RIOT2   .B�N : 0 009 ko
+[09] : RIOT3   .B�N : 0 006 ko
+[10] : RIOT    .BAS : 0 001 ko
+[13] : BONDKOM .P�W : 0 007 ko
+[14] : AFTERMAT.BIN : 0 012 ko
+[15] : LANCELOT.BIN : 0 021 ko
+[18] : BOND    .BAS : 0 001 ko
+[20] : POSTMAN3.B�2 : 0 005 ko
+[21] : POSTMAN3.I�L : 0 004 ko
+Dsk 187 Ko used

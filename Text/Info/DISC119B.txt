@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EYE     .BAS : 0 001 ko
+[01] : DIRECTOR.BAS : 0 005 ko
+[02] : HATE    .BAS : 0 001 ko
+[03] : FIRELORD.BAS : 0 001 ko
+[04] : EYE     .B�N : 0 031 ko
+[06] : BUBBLER .BAS : 0 001 ko
+[07] : EYE     .C�M : 0 005 ko
+[08] : BUBBLER2.B�N : 0 038 ko
+[09] : OIK     .BIN : 0 009 ko
+[10] : HATE    .B�N : 0 028 ko
+[12] : HATE2   .C�M : 0 005 ko
+[13] : HATE1IMA.P�W : 0 006 ko
+[14] : F1      .B�N : 0 007 ko
+[15] : F2      .B�N : 0 041 ko
+[18] : F3      .B�N : 0 005 ko
+[19] : BUBBLIMA.P�W : 0 003 ko
+Dsk 187 Ko used

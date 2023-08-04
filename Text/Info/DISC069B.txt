@@ -1,0 +1,30 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LOOK-HI-.SCO : 0 001 ko
+[01] : ALINKA  .TBL : 0 001 ko
+[02] : ALINKA  .BAS : 0 001 ko
+[03] : ALINKA  .B�N : 0 024 ko
+[05] : HOTPLOT .BAS : 0 008 ko
+[06] : GOUTTES .BAS : 0 002 ko
+[07] : ALINKA  .BAK : 0 001 ko
+[08] : BOULDER .BAS : 0 001 ko
+[09] : BOULDER .B�N : 0 029 ko
+[10] : COMMANDO.BAS : 0 001 ko
+[11] : CHAIN   .BAS : 0 001 ko
+[12] : CHAIN   .B�N : 0 026 ko
+[14] : CHAIN   .I�A : 0 005 ko
+[16] : COMMAIMA.P�W : 0 007 ko
+[17] : OXYDA   .BAS : 0 002 ko
+[18] : LOOK-GRO.B�N : 0 002 ko
+[19] : LOOK    .BAS : 0 009 ko
+[20] : LOOK-RSX.B�N : 0 001 ko
+[21] : LOOK-SHA.B�N : 0 001 ko
+[22] : LOOK-TIT.B�N : 0 001 ko
+[23] : PFEIL-MC.B�N : 0 001 ko
+[24] : COMMANDO.B�1 : 0 037 ko
+[26] : PLOT    .C�M : 0 005 ko
+[28] : COMMANDO.B�2 : 0 011 ko
+[30] : TOPPLOT .B�K : 0 001 ko
+[31] : TOPPLOT .D�T : 0 001 ko
+[34] : OXYDA   .B�N : 0 006 ko
+Dsk 186 Ko used

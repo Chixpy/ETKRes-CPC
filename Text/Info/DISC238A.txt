@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARKOS   .BAS : 0 001 ko
+[01] : ARKOS2  .B�N : 0 039 ko
+[04] : ARKOS3  .B�N : 0 039 ko
+[07] : ARKOS4  .B�N : 0 041 ko
+[10] : ARKOSSCR.P�W : 0 006 ko
+[11] : BOYRACE .B�N : 0 030 ko
+[13] : BOYRACER.BAS : 0 001 ko
+[14] : HAGAR   .BAS : 0 001 ko
+[15] : HAGAR   .B�N : 0 016 ko
+[16] : HAGAR   .I�L : 0 006 ko
+[17] : BOYRAIMA.P�W : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BIATHLON.B�N : 0 035 ko
+[03] : BOBSLED .B�N : 0 017 ko
+[05] : CHINOIS .C�M : 0 004 ko
+[06] : HOTDOG  .B�N : 0 021 ko
+[08] : OPENINGS.B�N : 0 016 ko
+[09] : PUZZLE  .BAS : 0 007 ko
+[10] : RECORDS .B�K : 0 001 ko
+[11] : RECORDS .B�N : 0 001 ko
+[12] : SKATING .B�N : 0 035 ko
+[15] : SKIJUMP .B�N : 0 031 ko
+[17] : SPEEDSK .B�N : 0 010 ko
+[18] : WGAMES  .BAS : 0 001 ko
+[19] : WGAMES  .B�N : 0 007 ko
+Dsk 186 Ko used

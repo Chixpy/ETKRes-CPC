@@ -1,0 +1,37 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CIRCUS  .BAS : 0 012 ko
+[01] : BALAIHG .C�P : 0 007 ko
+[02] : FINAL   .B�S : 0 001 ko
+[04] : GIRLHG  .C�P : 0 008 ko
+[05] : DECWIN  .B�N : 0 001 ko
+[06] : ENFCIHG .C�P : 0 005 ko
+[07] : ORDI12HG.C�P : 0 005 ko
+[08] : MOLETTE .C�P : 0 008 ko
+[09] : PEINTRE .C�P : 0 008 ko
+[10] : PLESSHG .C�P : 0 008 ko
+[11] : REFLEXHG.C�P : 0 006 ko
+[12] : SCROLL1 .B�N : 0 005 ko
+[13] : SPORTHG .C�P : 0 007 ko
+[14] : ACADHG  .C�P : 0 006 ko
+[15] : BARKHG  .C�P : 0 007 ko
+[16] : CUCU3HG .C�P : 0 007 ko
+[17] : DRUID   .M�S : 0 005 ko
+[18] : ETANGHG .C�P : 0 005 ko
+[19] : FONT56HG.C�P : 0 006 ko
+[20] : MAISHG  .C�P : 0 006 ko
+[21] : MOULIN  .C�P : 0 007 ko
+[22] : ORDIPAPY.C�P : 0 006 ko
+[23] : PENSEURH.C�P : 0 006 ko
+[24] : POMPIERS.C�P : 0 007 ko
+[25] : RELAXHG .C�P : 0 005 ko
+[26] : JLW     .W�N : 0 002 ko
+[27] : TOILE   .C�P : 0 007 ko
+[28] : NCW     .W�N : 0 003 ko
+[29] : BARQUE  .I�L : 0 004 ko
+[30] : PAW     .W�N : 0 003 ko
+[31] : MLDW    .W�N : 0 002 ko
+[32] : PEOPLE  .BAS : 0 003 ko
+[33] : PEOPLE5 .I�L : 0 003 ko
+[34] : SKI175  .C�M : 0 005 ko
+Dsk 186 Ko used

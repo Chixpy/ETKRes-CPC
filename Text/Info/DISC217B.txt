@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GINGBALL.BAS : 0 004 ko
+[01] : GINGBALL.SCO : 0 001 ko
+[02] : SKTAB   . �  : 0 023 ko
+[04] : SKWEEK  .BAS : 0 001 ko
+[05] : SKWEEK  .B�N : 0 040 ko
+[08] : FILE2IMA.P�W : 0 005 ko
+[09] : FILEMON .B�N : 0 016 ko
+[10] : FILEMON1.B�N : 0 041 ko
+[13] : FILEMON2.BAS : 0 001 ko
+[14] : FILEMON2.B�N : 0 031 ko
+[16] : FILEMON3.B�N : 0 016 ko
+[17] : SKWEEK  .S�R : 0 008 ko
+Dsk 187 Ko used

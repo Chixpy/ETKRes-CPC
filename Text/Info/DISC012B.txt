@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 0       .B�N : 0 015 ko
+[01] : 1       .B�N : 0 013 ko
+[02] : 2       .B�N : 0 016 ko
+[03] : 3       .B�N : 0 015 ko
+[04] : 4       .B�N : 0 011 ko
+[05] : 5       .B�N : 0 015 ko
+[06] : 7       .B�N : 0 017 ko
+[08] : DADAMAX .BAS : 0 007 ko
+[09] : DL2     .BAS : 0 001 ko
+[10] : DL2     .B�N : 0 024 ko
+[12] : DOPPLE  .BAS : 0 001 ko
+[13] : DOPPLE  .B�N : 0 025 ko
+[15] : DOPPLSCR.P�W : 0 005 ko
+[16] : RSXECRAN.BAS : 0 003 ko
+[17] : RSXECRAN.B�N : 0 001 ko
+[18] : ZONE1   .BIN : 0 009 ko
+[19] : ZONE2   .BIN : 0 009 ko
+Dsk 187 Ko used

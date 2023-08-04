@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AUTO    .B�S : 0 017 ko
+[02] : AUTOMEC .BAS : 0 005 ko
+[03] : AUTOMEC2.B�N : 0 007 ko
+[04] : BMX     .BAS : 0 001 ko
+[05] : VERSURA .BAS : 0 005 ko
+[06] : BMX     .I�  : 0 038 ko
+[09] : MGV     .BAS : 0 018 ko
+[11] : AMNESI2 .B�N : 0 005 ko
+[12] : BMX     .I�  : 0 006 ko
+[13] : TURTLES .BAS : 0 001 ko
+[14] : TURTLES .B�N : 0 039 ko
+[16] : AMNESIA .BAS : 0 010 ko
+[17] : EDDY    .AMN : 0 001 ko
+[19] : TURTLES1.M�S : 0 004 ko
+[20] : AMNESIA .C�C : 0 005 ko
+[21] : PRESESCR.P�W : 0 005 ko
+[22] : TURTLSCR.P�W : 0 004 ko
+[23] : TURTLIMA.P�W : 0 007 ko
+[26] : ZONEDEF .B�N : 0 009 ko
+Dsk 187 Ko used

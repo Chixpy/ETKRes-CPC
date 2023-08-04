@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INTRO   .A�S : 0 030 ko
+[02] : START   .A�S : 0 010 ko
+[03] : PETER   .BAS : 0 001 ko
+[04] : AXYS2   .B�N : 0 015 ko
+[05] : KINETIMA.P�W : 0 005 ko
+[06] : XRAYS   .BAS : 0 003 ko
+[07] : PETER   .B�N : 0 029 ko
+[08] : AXYS1   .B�N : 0 027 ko
+[11] : KINETIK .BAS : 0 001 ko
+[12] : KINETIK .B�N : 0 040 ko
+[13] : AXYS    .BAS : 0 001 ko
+[15] : VERBES  .BAS : 0 016 ko
+[16] : PETERSCR.P�W : 0 009 ko
+Dsk 187 Ko used

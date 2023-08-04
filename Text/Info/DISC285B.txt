@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INVIT   .BAS : 0 001 ko
+[01] : INVIT   .B�N : 0 019 ko
+[03] : PODER   .BAS : 0 001 ko
+[04] : PODER   .B�N : 0 026 ko
+[06] : PRIZE   .BAS : 0 002 ko
+[07] : PRIZE   .B�N : 0 010 ko
+[08] : PSYCHO  .BAS : 0 001 ko
+[09] : PSYCHO  .B�N : 0 020 ko
+[11] : SPIKE   .BAS : 0 001 ko
+[12] : SPIKE   .B�N : 0 030 ko
+[14] : PROGOLF .BAS : 0 001 ko
+[15] : PROGOLF1.B�N : 0 031 ko
+[17] : PROGOLF2.B�N : 0 015 ko
+[18] : ECRANSCR.P�W : 0 007 ko
+[19] : PODER   .I�L : 0 007 ko
+[20] : PROGOSCR.P�W : 0 004 ko
+[21] : SPIKESCR.P�W : 0 004 ko
+[22] : PSYCHSCR.P�W : 0 007 ko
+Dsk 187 Ko used

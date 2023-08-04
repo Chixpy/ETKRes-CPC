@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HIJACK  .BAS : 0 001 ko
+[01] : HIJACK  .B�N : 0 035 ko
+[04] : AMAUROTE.BAS : 0 001 ko
+[05] : AMAUROTE.B�N : 0 032 ko
+[06] : HIJACK  .C�C : 0 003 ko
+[08] : AMAUROTE.I�L : 0 009 ko
+[09] : HUXLESCR.P�W : 0 005 ko
+[10] : HUXLEY1 .B�N : 0 014 ko
+[11] : HUXLEY2 .B�N : 0 008 ko
+[12] : HUXLEY  .BAS : 0 001 ko
+[13] : HUXLEY3 .B�N : 0 013 ko
+[14] : HUXLEY2 .C�C : 0 002 ko
+[15] : OCA     .BAS : 0 001 ko
+[16] : OCA     .B�N : 0 012 ko
+[17] : JONNY-Q .BAS : 0 001 ko
+[18] : JONNY1  .B�N : 0 031 ko
+[20] : JONNY2  .B�N : 0 010 ko
+[21] : JONNYSCR.P�W : 0 004 ko
+[22] : OCASCR  .P�W : 0 004 ko
+Dsk 187 Ko used

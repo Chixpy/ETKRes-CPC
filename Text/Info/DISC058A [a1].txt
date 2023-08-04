@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AIDE    .H�P : 0 002 ko
+[01] : CLASDEMO. �  : 0 001 ko
+[02] : DIRECTO .R�  : 0 001 ko
+[03] : ESF1    .B�S : 0 007 ko
+[04] : ESF2    .B�S : 0 007 ko
+[05] : ESF2V2  .B�S : 0 007 ko
+[06] : ESF3    .B�S : 0 007 ko
+[07] : EXEG20  .B�S : 0 023 ko
+[09] : EXEK20  .B�S : 0 023 ko
+[11] : EXES22  .B�S : 0 025 ko
+[13] : EXESEN20.B�S : 0 024 ko
+[15] : FRANCET1.BAS : 0 002 ko
+[16] : GENERAL .B�S : 0 010 ko
+[17] : GESEL19 .B�S : 0 017 ko
+[19] : LIEN    .O�T : 0 001 ko
+[20] : PROF    .B�S : 0 008 ko
+[21] : SORES19 .N�0 : 0 006 ko
+[22] : TOMCEDIC.B�N : 0 004 ko
+[24] : IMPLOD  .BIN : 0 007 ko
+[25] : GRO-BOUF.BAS : 0 002 ko
+Dsk 184 Ko used

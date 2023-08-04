@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARB1   .B�N : 0 007 ko
+[01] : BARB2   .B�N : 0 007 ko
+[02] : BARB3   .B�N : 0 008 ko
+[03] : BARB4   .B�N : 0 008 ko
+[04] : BARB5   .B�N : 0 006 ko
+[05] : BARB6   .B�N : 0 005 ko
+[06] : BARB7   .B�N : 0 007 ko
+[07] : BARBARE .BAS : 0 001 ko
+[08] : BARBARE .B�N : 0 036 ko
+[11] : BARBARE .I�L : 0 003 ko
+[12] : CALCULAT.BAS : 0 006 ko
+[13] : CALCULAT.C�M : 0 003 ko
+[14] : DIGGER  .BAS : 0 003 ko
+[15] : DIGGER1 .B�N : 0 019 ko
+[17] : FRACTION.BAS : 0 003 ko
+[18] : KONAGOLF.BAS : 0 001 ko
+[19] : KONAGOLF.B�N : 0 038 ko
+[22] : KONAGSCR.P�W : 0 005 ko
+[23] : KUNIBERT.BAS : 0 008 ko
+[24] : KUNIBERT.M�  : 0 007 ko
+[25] : KUNIBERT.M�S : 0 005 ko
+[26] : VENUS   .BAS : 0 001 ko
+Dsk 187 Ko used

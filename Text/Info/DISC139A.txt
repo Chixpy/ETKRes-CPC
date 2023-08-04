@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARBITRE .B�N : 0 001 ko
+[01] : BLEU    .B�N : 0 003 ko
+[02] : CONGRATU.C�M : 0 006 ko
+[03] : DP      .C�M : 0 006 ko
+[04] : GAME    .B�N : 0 008 ko
+[05] : JUMPBLOK.B�N : 0 005 ko
+[06] : KICK    .BAS : 0 001 ko
+[07] : KUMATE  .C�M : 0 007 ko
+[08] : LANCE   .B�N : 0 001 ko
+[09] : MENU    .B�N : 0 005 ko
+[10] : MUSIC   .B�N : 0 003 ko
+[11] : RINGNUIT.C�M : 0 006 ko
+[12] : ROUGE   .B�N : 0 003 ko
+[13] : SON     .B�N : 0 001 ko
+[14] : TOUTCPC .B�N : 0 028 ko
+[16] : TOUTINVI.B�N : 0 004 ko
+[17] : TOUTMENU.B�N : 0 031 ko
+[19] : TRAINING.B�N : 0 006 ko
+[20] : TRAINING.C�M : 0 005 ko
+[21] : WELCOME .C�M : 0 005 ko
+[22] : WHATAFIG.C�M : 0 012 ko
+[23] : YOUARE  .C�M : 0 009 ko
+[24] : YOURFIGH.C�M : 0 012 ko
+[25] : ROUTINE2.B�N : 0 001 ko
+[26] : DESIGN' .BAS : 0 006 ko
+[27] : ROUTINE3.B�N : 0 001 ko
+[28] : TRAME   .B�N : 0 001 ko
+[29] : WILLY   .BAS : 0 010 ko
+Dsk 187 Ko used

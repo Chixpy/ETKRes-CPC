@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACTION  .BAS : 0 001 ko
+[01] : SUMMER1 .C�A : 0 008 ko
+[02] : SUMMER1 .C�B : 0 012 ko
+[03] : SUMMER1 .C�C : 0 013 ko
+[04] : SUMMER1 .C�D : 0 011 ko
+[05] : SUMMER1 .C�E : 0 021 ko
+[07] : SUMMER1 .C�F : 0 019 ko
+[09] : SUMMER1 .C�G : 0 015 ko
+[10] : SUMMER1 .BIN : 0 023 ko
+[12] : SUMMER1 .C�I : 0 001 ko
+[13] : ACTION1 .B�N : 0 037 ko
+[16] : ACTION2 .B�N : 0 009 ko
+[17] : MARYLIN .BAS : 0 011 ko
+[18] : MARYLSCR.P�W : 0 002 ko
+[19] : ACTIOIMA.P�W : 0 004 ko
+Dsk 187 Ko used

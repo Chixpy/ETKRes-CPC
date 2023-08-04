@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CEE     .BAS : 0 001 ko
+[01] : ATLAS   .B�S : 0 005 ko
+[02] : EUROPE  .B�N : 0 017 ko
+[03] : QUEST   .B�S : 0 005 ko
+[04] : MOONBUGG.BAS : 0 001 ko
+[05] : MARCOM2 .B�S : 0 015 ko
+[06] : V8      . �  : 0 002 ko
+[07] : V1      . �  : 0 002 ko
+[08] : ECRANLOR.B�N : 0 003 ko
+[09] : DEUTCH  .B�N : 0 013 ko
+[10] : ITALIE  .B�N : 0 013 ko
+[11] : PORTUGAL.B�N : 0 013 ko
+[12] : BELGIQUE.B�N : 0 013 ko
+[13] : FRANCE  .B�N : 0 013 ko
+[14] : IRLANDE .B�N : 0 013 ko
+[15] : V6      . �  : 0 003 ko
+[16] : CIBLE0  .B�N : 0 001 ko
+[17] : BATEAU0 .B�N : 0 001 ko
+[18] : DATEUROP. �  : 0 001 ko
+[19] : V4      . �  : 0 002 ko
+[20] : V11     . �  : 0 002 ko
+[21] : V2      . �  : 0 002 ko
+[22] : V7      . �  : 0 002 ko
+[23] : V3      . �  : 0 002 ko
+[24] : DATAS   . �  : 0 012 ko
+[25] : V5      . �  : 0 002 ko
+[26] : V9      . �  : 0 002 ko
+[27] : R5      . �  : 0 002 ko
+[28] : HELICO0 .B�N : 0 001 ko
+[29] : ROUTLM  .B�N : 0 002 ko
+[30] : V10     . �  : 0 002 ko
+[32] : MOONBUGG.B�N : 0 011 ko
+[33] : ELECTFOU.BAS : 0 001 ko
+[34] : V12     . �  : 0 002 ko
+[35] : MOONBIMA.P�W : 0 005 ko
+Dsk 187 Ko used

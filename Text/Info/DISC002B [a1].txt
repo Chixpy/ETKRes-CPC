@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOUNTSCR.P�W : 0 005 ko
+[01] : BOUNTY  .BAS : 0 001 ko
+[02] : BOUNTY1 .B�N : 0 038 ko
+[05] : CAS     .BAS : 0 009 ko
+[06] : JACKLE  .BAS : 0 001 ko
+[07] : CRILION .BAS : 0 005 ko
+[08] : BOUNTY2 .B�N : 0 004 ko
+[09] : WIZBALL1.B�N : 0 037 ko
+[12] : WIZBALL2.B�N : 0 011 ko
+[13] : WIZBALL .BAS : 0 001 ko
+[14] : KETTLE  .BIN : 0 026 ko
+[15] : JACKLE  .B�N : 0 029 ko
+[17] : CRILION .L�V : 0 003 ko
+[18] : CRILION .M�  : 0 002 ko
+[20] : JACKLIMA.P�W : 0 009 ko
+[21] : WIZIMA  .P�W : 0 006 ko
+Dsk 187 Ko used

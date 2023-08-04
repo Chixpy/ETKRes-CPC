@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EDITEUR .BAS : 0 004 ko
+[01] : AIRCODE .B�N : 0 041 ko
+[04] : AIRWOLF2.BAS : 0 001 ko
+[05] : COSA    .BAS : 0 001 ko
+[06] : ARTISTE .BAS : 0 006 ko
+[07] : TEMPEST .BAS : 0 001 ko
+[08] : COSA1   .B�N : 0 040 ko
+[11] : SHOOTOUT.BAS : 0 010 ko
+[12] : CREATE  .B�S : 0 003 ko
+[13] : SHOOTOUT.G�A : 0 002 ko
+[14] : SHOOTOUT.M�  : 0 002 ko
+[15] : MAC2    .BAS : 0 005 ko
+[16] : MAC2INFO.B�S : 0 002 ko
+[17] : MAC2INFO.D�C : 0 003 ko
+[18] : MAC2TOUT.B�N : 0 003 ko
+[20] : TEMPEST .B�N : 0 025 ko
+[21] : QUICK55 .B�N : 0 003 ko
+[22] : QUICK55 .BAS : 0 001 ko
+[23] : AIRW2IMA.P�W : 0 006 ko
+[25] : COSA2   .B�N : 0 004 ko
+[26] : L0      .M�  : 0 002 ko
+[27] : L1      .M�  : 0 002 ko
+[28] : L2      .M�  : 0 002 ko
+[29] : L3      .M�  : 0 002 ko
+[30] : L4      .M�  : 0 002 ko
+[31] : L5      .M�  : 0 002 ko
+[32] : L6      .M�  : 0 002 ko
+[33] : L7      .M�  : 0 002 ko
+[34] : L8      .M�  : 0 002 ko
+[35] : L9      .M�  : 0 002 ko
+[36] : COSAIMA .P�W : 0 004 ko
+Dsk 187 Ko used

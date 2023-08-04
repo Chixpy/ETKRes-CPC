@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SIRWOOD .BAS : 0 001 ko
+[01] : SIRWOOD1.B�2 : 0 011 ko
+[02] : SIRWOOD1.B�1 : 0 037 ko
+[05] : GUNBOAT .BAS : 0 001 ko
+[06] : SIRWOOD2.B�2 : 0 011 ko
+[07] : SIRWOOD2.B�1 : 0 037 ko
+[10] : SIRWOOD3.B�2 : 0 011 ko
+[11] : SIRWOOD3.B�1 : 0 037 ko
+[14] : GUNBOAT .B�N : 0 037 ko
+[17] : GUNKOM  .P�W : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THUNDER2.I�L : 0 008 ko
+[01] : THUNDER3.I�L : 0 007 ko
+[02] : THUNDER2.B�2 : 0 009 ko
+[03] : THUNDER2.B�1 : 0 040 ko
+[06] : THUNDER1.B�1 : 0 040 ko
+[09] : DECOMP  .BAS : 0 001 ko
+[10] : THUNDER1.I�L : 0 008 ko
+[11] : REFLEC  .BAS : 0 010 ko
+[12] : THUNDER1.B�2 : 0 008 ko
+[13] : THUNDER3.B�1 : 0 040 ko
+[16] : THUNDER3.B�2 : 0 008 ko
+[17] : THUNDER1.BAS : 0 001 ko
+[18] : BIN+COM .B�N : 0 004 ko
+[19] : THUNDER2.BAS : 0 001 ko
+[20] : DECOMP  .O�P : 0 001 ko
+[21] : THUNDER3.BAS : 0 001 ko
+Dsk 187 Ko used

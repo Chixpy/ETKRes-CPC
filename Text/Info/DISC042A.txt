@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SAPIENS .BAS : 0 001 ko
+[01] : KILLAPED.B�N : 0 040 ko
+[04] : BASKET  .B�N : 0 039 ko
+[05] : FANTRIP .BAS : 0 002 ko
+[06] : KILLAPED.BAS : 0 001 ko
+[07] : FANTRIP .B�N : 0 036 ko
+[10] : TETRIS  .BAS : 0 001 ko
+[11] : SAPIENS .K�M : 0 001 ko
+[12] : SAPIENS2.B�N : 0 037 ko
+[15] : TETRIS  .B�N : 0 012 ko
+[16] : TETRISCR.P�W : 0 005 ko
+[19] : BASKET  .BAS : 0 001 ko
+[20] : BASKET  .I�L : 0 003 ko
+[21] : KILLASCR.P�W : 0 005 ko
+[22] : JEUX    .BAS : 0 002 ko
+[23] : DRINK   .BAS : 0 001 ko
+Dsk 187 Ko used

@@ -1,0 +1,53 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ASTRO   .BAS : 0 002 ko
+[01] : ASTRO   .B�N : 0 009 ko
+[02] : HUMANKM .BAS : 0 001 ko
+[03] : HUMANKM .B�N : 0 014 ko
+[04] : HUMANKM .L�A : 0 011 ko
+[05] : HUMANKM .L�B : 0 003 ko
+[06] : HUMANKM .L�C : 0 011 ko
+[07] : HUMANKM .L�D : 0 004 ko
+[08] : HUMANKM .L�E : 0 012 ko
+[09] : HUMANKM .L�F : 0 004 ko
+[10] : HUMANKM .L�G : 0 009 ko
+[11] : HUMANKM .L�H : 0 004 ko
+[12] : HUMANKM .L�I : 0 010 ko
+[13] : HUMANKM .L�J : 0 005 ko
+[14] : LAWNTEN .BAS : 0 001 ko
+[15] : LAWNTEN .B�N : 0 019 ko
+[17] : LIVRE   .BAS : 0 004 ko
+[18] : RSX     .B�N : 0 002 ko
+[19] : TITLE   .L�T : 0 002 ko
+[20] : A       .L�T : 0 002 ko
+[21] : B       .L�T : 0 001 ko
+[22] : C       .L�T : 0 001 ko
+[23] : D       .L�T : 0 002 ko
+[24] : E       .L�T : 0 001 ko
+[25] : F       .L�T : 0 001 ko
+[26] : G       .L�T : 0 002 ko
+[27] : H       .L�T : 0 001 ko
+[28] : I       .L�T : 0 001 ko
+[29] : J       .L�T : 0 001 ko
+[30] : K       .L�T : 0 001 ko
+[31] : L       .L�T : 0 001 ko
+[32] : M       .L�T : 0 001 ko
+[33] : N       .L�T : 0 001 ko
+[34] : O       .L�T : 0 001 ko
+[35] : P       .L�T : 0 001 ko
+[36] : Q       .L�T : 0 001 ko
+[37] : R       .L�T : 0 001 ko
+[38] : S       .L�T : 0 001 ko
+[39] : T       .L�T : 0 001 ko
+[40] : U       .L�T : 0 001 ko
+[41] : V       .L�T : 0 001 ko
+[42] : W       .L�T : 0 001 ko
+[43] : X       .L�T : 0 001 ko
+[44] : Y       .L�T : 0 001 ko
+[45] : Z       .L�T : 0 001 ko
+[46] : MBORNES .BAS : 0 013 ko
+[47] : MBORNES .B�N : 0 001 ko
+[48] : LIVR+DEC.B�N : 0 002 ko
+[49] : HUMANIMA.P�W : 0 006 ko
+[50] : LAWNTEN .S�R : 0 009 ko
+Dsk 187 Ko used

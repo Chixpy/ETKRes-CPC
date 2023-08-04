@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STUNTMAN.BAS : 0 001 ko
+[01] : STUNTMAN.B�N : 0 021 ko
+[03] : SUPERSPO.BAS : 0 001 ko
+[04] : SUPERSPO.B�1 : 0 013 ko
+[05] : SUPERSPO.B�2 : 0 012 ko
+[06] : SUPERSPO.B�3 : 0 014 ko
+[07] : SUPERSPO.B�4 : 0 014 ko
+[08] : SUPERSPO.B�5 : 0 016 ko
+[09] : SUPERSPO.B�N : 0 016 ko
+[10] : SMILEY  .BAS : 0 010 ko
+[11] : SMILEY  .B�N : 0 011 ko
+[12] : SMILOAD .BAS : 0 004 ko
+[13] : SUBWAY  .BAS : 0 001 ko
+[14] : SUBWAY  .B�N : 0 039 ko
+[17] : SUPERSPO.C�C : 0 004 ko
+[18] : SUBWASCR.P�W : 0 005 ko
+[19] : STUNTSCR.P�W : 0 005 ko
+Dsk 187 Ko used

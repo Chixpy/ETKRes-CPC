@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BEACH   .B�N : 0 037 ko
+[03] : BEACH2  .BAS : 0 001 ko
+[04] : CHRONOS .BAS : 0 001 ko
+[05] : CHRONOS .B�N : 0 032 ko
+[07] : CODE    .B�N : 0 023 ko
+[09] : ENIGMA  .BAS : 0 019 ko
+[11] : ENIGME  .B�N : 0 005 ko
+[12] : LABY    .BIN : 0 008 ko
+[13] : NONTERRA.BAS : 0 001 ko
+[14] : NONTERRA.B�N : 0 022 ko
+[16] : SCOUT   .BAS : 0 013 ko
+[17] : TRIBBLES.BIN : 0 007 ko
+[18] : CHRONSCR.P�W : 0 003 ko
+[19] : TRACE6  .B�N : 0 001 ko
+[20] : NONTERRA.C�C : 0 006 ko
+[21] : NONTEIMA.P�W : 0 007 ko
+[22] : TRACER  .BAS : 0 001 ko
+Dsk 187 Ko used

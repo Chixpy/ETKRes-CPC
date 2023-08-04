@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CAULDRO3.BAS : 0 002 ko
+[01] : CAULDRO3.B�5 : 0 005 ko
+[02] : CAULDRO3.B�4 : 0 011 ko
+[03] : CAULDRO3.B�1 : 0 003 ko
+[04] : CAULDRO3.B�2 : 0 004 ko
+[05] : CAULDRO3.B�3 : 0 020 ko
+[07] : CAULDRO3.B�4 : 0 019 ko
+[09] : CAULDRO3.B�A : 0 014 ko
+[10] : CAULDRO3.B�A : 0 009 ko
+[11] : CAULDRO3.B�A : 0 015 ko
+[12] : CAULDRO3.B�A : 0 005 ko
+[13] : CAULDRO3.B�B : 0 011 ko
+[14] : CAULDRO3.B�B : 0 009 ko
+[15] : CAULDRO3.B�B : 0 010 ko
+[16] : CAULDRO3.B�B : 0 005 ko
+[17] : CAULDRO3.B�C : 0 015 ko
+[18] : CAULDRO3.B�C : 0 015 ko
+[19] : CAULDRO3.B�C : 0 005 ko
+[20] : CAULDRO3.B�D : 0 010 ko
+Dsk 187 Ko used

@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SFIGHTER.BAS : 0 001 ko
+[01] : SFIGHTER.B�1 : 0 007 ko
+[02] : SFIGHTER.B�2 : 0 006 ko
+[03] : SFIGHTER.B�1 : 0 005 ko
+[04] : SFIGHTER.B�2 : 0 006 ko
+[05] : SFIGHTER.B�1 : 0 007 ko
+[06] : SFIGHTER.B�2 : 0 006 ko
+[07] : SFIGHTER.B�1 : 0 007 ko
+[08] : SFIGHTER.B�2 : 0 007 ko
+[09] : SFIGHTER.B�1 : 0 007 ko
+[10] : SFIGHTER.B�2 : 0 006 ko
+[11] : SFIGHTER.B�N : 0 020 ko
+[13] : SFIGHTER.D�1 : 0 005 ko
+[14] : SFIGHTER.D�2 : 0 005 ko
+[15] : SFIGHTER.D�3 : 0 005 ko
+[16] : SFIGHTER.D�4 : 0 005 ko
+[17] : SFIGHTER.D�5 : 0 005 ko
+[18] : SFIGHTER.I�L : 0 009 ko
+[19] : PAC     .B�2 : 0 017 ko
+[21] : PAC     .E�R : 0 003 ko
+[22] : PAC     .M�1 : 0 011 ko
+[23] : HEART   .BAS : 0 001 ko
+[24] : PAC     .M�N : 0 006 ko
+[25] : PAC     .P�L : 0 001 ko
+[26] : PAC     .P�G : 0 009 ko
+[27] : PACGIRL .BAS : 0 004 ko
+[28] : OXO     .BAS : 0 002 ko
+[29] : PAC     .I�T : 0 014 ko
+Dsk 187 Ko used

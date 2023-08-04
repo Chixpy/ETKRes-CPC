@@ -1,0 +1,36 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DIREDIT .H�P : 0 002 ko
+[01] : DIREDIT .O�J : 0 004 ko
+[02] : DISCLONE.H�P : 0 001 ko
+[03] : DISCLONE.O�J : 0 003 ko
+[04] : BEURK   .BAS : 0 011 ko
+[05] : KONTO   .BAS : 0 010 ko
+[06] : CARA    .BAS : 0 006 ko
+[07] : EMPIRE  .BAS : 0 007 ko
+[08] : FERNAND .BAS : 0 001 ko
+[09] : FERNAND .B�N : 0 035 ko
+[10] : EMPIBIN .B�N : 0 002 ko
+[13] : CAPTAIN .2�  : 0 036 ko
+[15] : KONTO1  .BAS : 0 009 ko
+[16] : DISCMAP .H�P : 0 001 ko
+[18] : SOFTBALL.BAS : 0 015 ko
+[19] : CAPTAIN .BAS : 0 001 ko
+[20] : EMPIRE  .C�M : 0 004 ko
+[23] : DISCMAP .O�J : 0 003 ko
+[24] : DISCODE .O�J : 0 004 ko
+[25] : DISCODE2.O�J : 0 002 ko
+[26] : DISCTAPE.H�P : 0 002 ko
+[27] : DISCTAPE.O�J : 0 001 ko
+[28] : FASTFORM.H�P : 0 001 ko
+[29] : FASTFORM.O�J : 0 002 ko
+[30] : HELP    .BAS : 0 002 ko
+[31] : REMPRO  .H�P : 0 001 ko
+[32] : REMPRO  .O�J : 0 001 ko
+[33] : SECTEDIT.H�P : 0 001 ko
+[34] : SECTEDIT.O�J : 0 004 ko
+[35] : SPEEDISC.H�P : 0 001 ko
+[36] : SPEEDISC.O�J : 0 001 ko
+[37] : FERNAIMA.P�W : 0 007 ko
+[38] : CAPTAIMA.P�W : 0 006 ko
+Dsk 187 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : H1C000  .B�N : 0 003 ko
+[01] : H1P1    .B�N : 0 020 ko
+[03] : H1P3    .B�N : 0 001 ko
+[04] : H2C000  .B�N : 0 003 ko
+[05] : H2P1    .B�N : 0 019 ko
+[07] : H2P2    .B�N : 0 014 ko
+[08] : H2P3    .B�N : 0 001 ko
+[09] : H2P4    .B�N : 0 001 ko
+[10] : HERO    .I�L : 0 007 ko
+[11] : HERO1   .B�1 : 0 008 ko
+[12] : HERO1   .B�2 : 0 009 ko
+[13] : HERO1   .B�4 : 0 013 ko
+[14] : HERO2   .B�1 : 0 006 ko
+[15] : HERO2   .B�2 : 0 009 ko
+[16] : HERO2   .B�3 : 0 005 ko
+[17] : HERO2   .B�4 : 0 012 ko
+[18] : HEROQUES.BAS : 0 001 ko
+[19] : HEROQUES.SAV : 0 004 ko
+[20] : TOOBIN  .BAS : 0 001 ko
+[21] : TOOBIN  .B�N : 0 042 ko
+[24] : TOOBIN  .I�L : 0 008 ko
+Dsk 187 Ko used

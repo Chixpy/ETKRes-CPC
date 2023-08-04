@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GUNSMOKE.B�N : 0 018 ko
+[02] : GUNSMOKE.BAS : 0 001 ko
+[03] : GUNSMOKE.L�1 : 0 016 ko
+[04] : GUNSMIMA.P�W : 0 008 ko
+[05] : GUNSMOKE.L�2 : 0 016 ko
+[06] : TOPO    .B�N : 0 005 ko
+[07] : GUNSMOKE.L�3 : 0 017 ko
+[09] : GUNSMOKE.L�4 : 0 017 ko
+[11] : GUNSMOKE.L�5 : 0 017 ko
+[13] : GUNSMOKE.L�6 : 0 016 ko
+[14] : MOUNTIE .BAS : 0 001 ko
+[15] : MOUNTIE .B�N : 0 029 ko
+[17] : MOUNTSCR.P�W : 0 009 ko
+[18] : RICHARD .BAS : 0 013 ko
+[19] : RICHARD .P�A : 0 004 ko
+Dsk 187 Ko used

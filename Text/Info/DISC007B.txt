@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BATTLE  .BIN : 0 011 ko
+[01] : CIRBIN  .B�N : 0 003 ko
+[02] : CIRCUIMA.P�W : 0 004 ko
+[03] : CIRCUS  .BAS : 0 008 ko
+[04] : CUISBL  .S�E : 0 003 ko
+[05] : CUISINE .BAS : 0 004 ko
+[06] : CUISINE .P�G : 0 029 ko
+[08] : CUISINE .S�E : 0 001 ko
+[09] : HANSEAT .BAS : 0 010 ko
+[10] : HANSEAT .S�R : 0 014 ko
+[11] : NETWOIMA.P�W : 0 008 ko
+[12] : NETWORLD.BAS : 0 001 ko
+[13] : NETWORLD.B�N : 0 041 ko
+[16] : REALITY .BAS : 0 001 ko
+[17] : REALITY .B�N : 0 027 ko
+[19] : REALITY .C�M : 0 008 ko
+[20] : REPTEL  .BAS : 0 002 ko
+[21] : SPHERIC .BAS : 0 002 ko
+[22] : SPHERIC1.B�N : 0 004 ko
+[23] : SPHERIC2.B�N : 0 001 ko
+[24] : SPHERIC3.B�N : 0 003 ko
+[25] : SPHERIC4.B�N : 0 002 ko
+Dsk 187 Ko used

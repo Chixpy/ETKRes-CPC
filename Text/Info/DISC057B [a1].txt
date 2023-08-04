@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : AMSOFT  .C�C : 0 001 ko
+[02] : GATE    .BAS : 0 008 ko
+[03] : GATE    .B�N : 0 005 ko
+[04] : DIGIGLOB.BAS : 0 006 ko
+[05] : DIGIGLOB.D�T : 0 002 ko
+[06] : DIGIGLOB.M�  : 0 004 ko
+[07] : TRIAXOS .BAS : 0 001 ko
+[08] : TRIAXOS .B�N : 0 038 ko
+[11] : CARA    .B�N : 0 002 ko
+[12] : D1      .B�N : 0 002 ko
+[13] : D2      .B�N : 0 002 ko
+[14] : D3      .B�N : 0 002 ko
+[15] : DES     .B�N : 0 017 ko
+[17] : G1      .B�N : 0 002 ko
+[18] : G2      .B�N : 0 002 ko
+[19] : G3      .B�N : 0 002 ko
+[20] : GEA     .B�N : 0 017 ko
+[22] : S1      .B�N : 0 002 ko
+[23] : S2      .B�N : 0 002 ko
+[24] : S3      .B�N : 0 002 ko
+[25] : SAU     .B�N : 0 017 ko
+[27] : SKH     .B�N : 0 004 ko
+[28] : SLA     .B�N : 0 017 ko
+[30] : SUPER   .C�C : 0 001 ko
+[31] : SUPERSKI.BAS : 0 001 ko
+[32] : TBH     .B�N : 0 014 ko
+[33] : TRI2    .B�N : 0 002 ko
+[34] : SUPERIMA.P�W : 0 007 ko
+[35] : TRIAXSCR.P�W : 0 004 ko
+Dsk 186 Ko used

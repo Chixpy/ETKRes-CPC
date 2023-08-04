@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JACKCOCO.BAS : 0 001 ko
+[01] : JII     .1�  : 0 038 ko
+[04] : JII     .2�  : 0 008 ko
+[05] : PULSOID .BIN : 0 015 ko
+[06] : ASTROBAL.BAS : 0 013 ko
+[07] : ASTROBAL.B�N : 0 006 ko
+[08] : SHARK   .BAS : 0 001 ko
+[09] : SHARK3  .B�N : 0 003 ko
+[10] : SHARK4  .B�N : 0 024 ko
+[12] : SHARK5  .B�N : 0 004 ko
+[13] : SHARK6  .B�N : 0 023 ko
+[15] : SHARK7  .B�N : 0 001 ko
+[16] : SHARK8  .B�N : 0 023 ko
+[18] : SHARK9  .B�N : 0 001 ko
+[19] : SHARKA  .B�N : 0 001 ko
+[20] : SHARKB  .B�N : 0 010 ko
+[21] : SHARKC  .B�N : 0 002 ko
+[22] : ASTROSCR.P�W : 0 003 ko
+[23] : SHARK   .I�L : 0 004 ko
+[24] : JACK2IMA.P�W : 0 006 ko
+Dsk 187 Ko used

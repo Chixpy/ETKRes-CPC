@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INVADERS.BIN : 0 004 ko
+[01] : GOODY   .BAS : 0 001 ko
+[02] : GOODY1  .B�N : 0 036 ko
+[05] : GOODY2  .B�N : 0 011 ko
+[06] : FINDERS .BAS : 0 001 ko
+[07] : FINDERS .B�N : 0 031 ko
+[09] : OUTWORLD.BAS : 0 001 ko
+[10] : OUTWORLD.B�N : 0 024 ko
+[12] : OUTWOSCR.P�W : 0 005 ko
+[13] : OUTWORLD.B�1 : 0 017 ko
+[15] : OUTWORLD.B�2 : 0 017 ko
+[17] : OUTWORLD.B�3 : 0 017 ko
+[19] : OUTWORLD.B�4 : 0 017 ko
+[21] : GOODYSCR.P�W : 0 005 ko
+Dsk 187 Ko used

@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AIDE    .H�P : 0 002 ko
+[01] : CLASDEMO. �  : 0 001 ko
+[02] : DIRECTO .R�  : 0 001 ko
+[03] : ESF1V2  .B�S : 0 007 ko
+[04] : ESF4    .B�S : 0 007 ko
+[05] : ESF5    .B�S : 0 007 ko
+[06] : ESF7    .B�S : 0 007 ko
+[07] : EXEAN49 .B�S : 0 025 ko
+[09] : EXEGZ20 .B�S : 0 023 ko
+[11] : EXEJ20  .B�S : 0 023 ko
+[13] : EXEZ20  .N�0 : 0 023 ko
+[15] : FRANCET2.BAS : 0 002 ko
+[16] : GENERAL .B�S : 0 010 ko
+[17] : GESEL19 .B�S : 0 017 ko
+[19] : LIEN    .O�T : 0 001 ko
+[20] : PROF    .B�S : 0 008 ko
+[21] : REYNAERT. �  : 0 001 ko
+[22] : SORES19 .N�0 : 0 006 ko
+[23] : TOMCEDIC.B�N : 0 004 ko
+[25] : HIXFER  .B�N : 0 002 ko
+[26] : LOXFER  .B�N : 0 002 ko
+[27] : XFER    .BAS : 0 001 ko
+Dsk 180 Ko used

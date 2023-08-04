@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FW      .BAS : 0 001 ko
+[01] : FW1     .B�N : 0 036 ko
+[04] : FW2     .B�N : 0 011 ko
+[05] : OBSTACLE.BAS : 0 001 ko
+[06] : SPYA    .B�N : 0 029 ko
+[08] : SPYB    .B�N : 0 017 ko
+[10] : SPY3    .BAS : 0 001 ko
+[11] : LASTBRIC.BAS : 0 006 ko
+[12] : DARK    .BAS : 0 001 ko
+[13] : FWSCR   .P�W : 0 004 ko
+[14] : DARK1   .B�N : 0 037 ko
+[17] : LEVEL1  .B�N : 0 009 ko
+[18] : LEVEL2  .B�N : 0 009 ko
+[19] : LEVEL3  .B�N : 0 009 ko
+[20] : LEVEL4  .B�N : 0 009 ko
+[21] : DARKIMA .P�W : 0 007 ko
+Dsk 187 Ko used

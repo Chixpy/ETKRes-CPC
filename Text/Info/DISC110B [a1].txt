@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 10 start at sector 1 while track 0 starts at 193
+Warning : track 11 start at sector 1 while track 0 starts at 193
+Warning : track 12 start at sector 1 while track 0 starts at 193
+Warning : track 13 start at sector 1 while track 0 starts at 193
+Warning : track 14 start at sector 1 while track 0 starts at 193
+Warning : track 15 start at sector 1 while track 0 starts at 193
+Warning : track 16 start at sector 1 while track 0 starts at 193
+[00] : OFFSHORE.BAS : 0 001 ko
+[01] : BATTY   .BAS : 0 001 ko
+[02] : BOOLY2  .B�N : 0 011 ko
+[03] : BATTY   .B�N : 0 026 ko
+[05] : BOLOY   .NHF : 15 032 ko
+[07] : BOOLY1  .B�N : 0 014 ko
+[08] : OFFSHIMA.P�W : 0 010 ko
+[09] : OFF     .B�N : 0 032 ko
+[11] : BOOLY   .BAS : 0 001 ko
+[12] : BOOL2SCR.P�W : 0 004 ko
+[13] : BOOL1SCR.P�W : 0 004 ko
+[14] : CORTEX  .BAS : 0 006 ko
+[15] : C5      .BAS : 0 007 ko
+[16] : INTERRO .BAS : 0 005 ko
+[17] : C5      .B�N : 0 005 ko
+[18] : PICK    .BAS : 0 001 ko
+[19] : BATTYIMA.P�W : 0 007 ko
+[20] : PICK    .B�N : 0 016 ko
+[21] : PICK    .C�C : 0 004 ko
+Dsk 187 Ko used

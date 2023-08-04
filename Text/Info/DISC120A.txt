@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INFERNAL.BAS : 0 001 ko
+[01] : 8       .B�N : 0 002 ko
+[02] : ECRITURE.B�N : 0 001 ko
+[03] : FIN     .B�S : 0 003 ko
+[04] : FIN     .B�N : 0 025 ko
+[06] : GAGNER  .B�S : 0 003 ko
+[07] : GAGNER  .B�N : 0 001 ko
+[08] : GAGNER  .P�W : 0 011 ko
+[09] : INTRO1  .B�S : 0 004 ko
+[10] : INTRO1  .B�N : 0 029 ko
+[12] : INTRO2  .B�S : 0 002 ko
+[13] : INTRO2  .B�N : 0 031 ko
+[15] : JEU     .B�S : 0 006 ko
+[16] : JEU     .B�N : 0 025 ko
+[18] : MAISON  .I�L : 0 009 ko
+[19] : ^       .B�N : 0 002 ko
+[20] : COLONNY9.BAS : 0 004 ko
+[21] : CRAZY   .BAS : 0 001 ko
+[22] : CRAZY2  .B�N : 0 014 ko
+[23] : CRAZY1  .B�N : 0 004 ko
+[24] : CRAZY2  .K�M : 0 004 ko
+[25] : CRAZY1  .P�W : 0 005 ko
+Dsk 187 Ko used

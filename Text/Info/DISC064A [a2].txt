@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BEVERLY .BAS : 0 001 ko
+[01] : BHC1A   .B�N : 0 032 ko
+[03] : COMBED  .B�N : 0 010 ko
+[04] : COMBEV  .B�N : 0 011 ko
+[05] : COMWIN  .B�N : 0 010 ko
+[06] : CORSAIRE.BAS : 0 004 ko
+[07] : CSET    .B�N : 0 002 ko
+[08] : DOO     .B�N : 0 001 ko
+[09] : INS     .B�N : 0 024 ko
+[11] : TRESOR  .BAS : 0 002 ko
+[12] : LOOD    .B�N : 0 001 ko
+[13] : MUSIK   .B�N : 0 009 ko
+[14] : PRG     .B�N : 0 004 ko
+[15] : STORM   .B�N : 0 025 ko
+[17] : WARE    .B�N : 0 020 ko
+[19] : TRECODE .B�N : 0 009 ko
+[20] : TRESOR1 .B�S : 0 011 ko
+[21] : IMAGE1  .C�C : 0 002 ko
+[22] : IMAGE3  .C�M : 0 005 ko
+[24] : IMAG2SCR.P�W : 0 004 ko
+Dsk 187 Ko used

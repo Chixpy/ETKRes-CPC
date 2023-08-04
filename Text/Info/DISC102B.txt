@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BBW     .C�U : 0 004 ko
+[01] : BITCH   .C�U : 0 004 ko
+[02] : CAPTAIN .C�U : 0 006 ko
+[03] : CHITES1 .C�U : 0 009 ko
+[04] : CHITES3 .C�U : 0 011 ko
+[05] : CHITES5 .C�U : 0 010 ko
+[06] : FATTWAT .C�U : 0 007 ko
+[07] : LEVEL2  .M�P : 0 003 ko
+[08] : LEVEL4  .M�P : 0 001 ko
+[09] : LOWRIE  .C�U : 0 006 ko
+[10] : PLAYER  .C�U : 0 011 ko
+[11] : TITLE   .C�U : 0 009 ko
+[12] : BILL    .C�U : 0 007 ko
+[13] : BITS    .C�U : 0 005 ko
+[14] : CARTGUY .C�U : 0 006 ko
+[15] : CHITES2 .C�U : 0 010 ko
+[16] : CHITES4 .C�U : 0 006 ko
+[17] : DDRAGON2.BAS : 0 001 ko
+[18] : DATA    .B�N : 0 011 ko
+[19] : EXPIRE  .B�N : 0 003 ko
+[20] : LEVEL1  .M�P : 0 002 ko
+[21] : LEVEL3  .M�P : 0 003 ko
+[22] : LEVEL5  .M�P : 0 003 ko
+[23] : MUSIC   .B�N : 0 004 ko
+[24] : PUNK    .C�U : 0 005 ko
+[25] : WIGFOD  .C�U : 0 006 ko
+[26] : CUISTOT .BAS : 0 003 ko
+[27] : DDRAGON2.B�N : 0 020 ko
+[29] : ARC     .BAS : 0 002 ko
+Dsk 178 Ko used

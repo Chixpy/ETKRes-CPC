@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JAWS    .BAS : 0 001 ko
+[01] : JAWS    .B�N : 0 031 ko
+[03] : JAWSIMA .P�W : 0 005 ko
+[04] : MAC1    .B�N : 0 023 ko
+[06] : MAC2    .B�N : 0 020 ko
+[08] : MACADAM .BAS : 0 001 ko
+[09] : MACIMA  .P�W : 0 005 ko
+[10] : SAT     .BAS : 0 002 ko
+[11] : SAT     .C�M : 0 005 ko
+[12] : SAT     .D�T : 0 001 ko
+[13] : SAT     .P�G : 0 015 ko
+[14] : SPACE   .BIN : 0 006 ko
+[15] : XARQ    .BIN : 0 026 ko
+[17] : XEVIOUS .BAS : 0 001 ko
+[18] : XEVIOUS .B�N : 0 015 ko
+[19] : XEVKOM  .P�W : 0 007 ko
+[20] : ZIQUES  .BAS : 0 002 ko
+[21] : ZIQUES  .B�1 : 0 007 ko
+[22] : ZIQUES  .B�2 : 0 005 ko
+[23] : ZIQUES  .B�3 : 0 005 ko
+[24] : ZIQUES  .B�4 : 0 004 ko
+Dsk 187 Ko used

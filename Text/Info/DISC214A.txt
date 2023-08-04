@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BIRDIE  .BAS : 0 005 ko
+[01] : BIRDIE1 .B�N : 0 040 ko
+[04] : BIRDIE2 .B�N : 0 007 ko
+[05] : BIRDIE3 .B�N : 0 005 ko
+[06] : DASH    .BAS : 0 008 ko
+[07] : DASH    .B�N : 0 003 ko
+[08] : DEADALIV.BIN : 0 018 ko
+[10] : DURENDAL.BAS : 0 001 ko
+[11] : DUR     .B�S : 0 017 ko
+[13] : INVADERB.BAS : 0 005 ko
+[14] : INVADERC.B�N : 0 004 ko
+[15] : FLASH   .BAS : 0 001 ko
+[16] : POWER   .B�N : 0 027 ko
+[18] : PHRASES .A�C : 0 002 ko
+[19] : CAPOT   .C�C : 0 012 ko
+[20] : ELECTRON.B�N : 0 015 ko
+[21] : CHIFFRES.B�N : 0 002 ko
+[22] : BIRDIE  .I�L : 0 008 ko
+[23] : TOURNI  .BAS : 0 007 ko
+Dsk 187 Ko used

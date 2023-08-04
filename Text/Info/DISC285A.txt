@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROLSPACE.BAS : 0 001 ko
+[01] : ROLSPACE.B�N : 0 035 ko
+[04] : SUPERTED.BAS : 0 001 ko
+[05] : SUPERTED.B�N : 0 027 ko
+[07] : GOGLY   .B�N : 0 015 ko
+[08] : HYPSIS  .BAS : 0 001 ko
+[09] : OLYMPIAD.B�N : 0 007 ko
+[10] : HYPSIS2 .B�N : 0 015 ko
+[11] : HYPSISCR.P�W : 0 007 ko
+[12] : GOGLY   .BAS : 0 003 ko
+[13] : HYPSIS  .I�T : 0 002 ko
+[14] : KATTRAP .BAS : 0 001 ko
+[15] : HYPSIS1 .B�N : 0 015 ko
+[16] : ROLSPSCR.P�W : 0 003 ko
+[17] : SUPTESCR.P�W : 0 005 ko
+[18] : OLYMPIAD.BAS : 0 009 ko
+[19] : OLYMPIAD.C�C : 0 004 ko
+[20] : KATTRAP .B�N : 0 029 ko
+[22] : KATTRSCR.P�W : 0 007 ko
+Dsk 187 Ko used

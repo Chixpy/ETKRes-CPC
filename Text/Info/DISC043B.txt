@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BILLY   .BAS : 0 007 ko
+[01] : GHOST3  .BAS : 0 007 ko
+[02] : GHOST3  .B�N : 0 008 ko
+[03] : KIDBIN  .B�N : 0 004 ko
+[04] : RAID    .BAS : 0 004 ko
+[05] : RAIDBIN .B�N : 0 007 ko
+[06] : TIGER   .BAS : 0 001 ko
+[07] : TIGER0  .I�L : 0 004 ko
+[08] : TIGER1  .B�N : 0 017 ko
+[10] : TIGER3  .B�N : 0 017 ko
+[12] : TIGER4  .B�N : 0 017 ko
+[14] : TIGER5  .B�N : 0 017 ko
+[16] : TIGER6  .B�N : 0 017 ko
+[18] : TIGER7  .B�N : 0 017 ko
+[20] : TIGER8  .B�N : 0 017 ko
+[22] : TIGER9  .B�N : 0 017 ko
+[24] : TIGER2  .B�N : 0 009 ko
+Dsk 187 Ko used

@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FOSO    .BIN : 0 011 ko
+[01] : CHALA   .BAS : 0 004 ko
+[02] : CHALA   .B�N : 0 002 ko
+[03] : CHALA   .C�M : 0 005 ko
+[04] : CHALA   .I�T : 0 005 ko
+[05] : FRONTLI1.B�N : 0 030 ko
+[07] : FRONTLIN.BIN : 0 001 ko
+[08] : MEGABUCK.BAS : 0 001 ko
+[09] : MEGABUCK.B�N : 0 040 ko
+[12] : SONG1   .B�N : 0 004 ko
+[13] : SONG2   .B�N : 0 004 ko
+[14] : SONG3   .B�N : 0 004 ko
+[15] : SHACKLED.BAS : 0 001 ko
+[16] : SHACK   .B�N : 0 035 ko
+[19] : SHACKRAM.1�  : 0 014 ko
+[20] : SHACKRAM.2�  : 0 007 ko
+[23] : SHACKLED.I�L : 0 005 ko
+[25] : TOLKI   .BAS : 0 007 ko
+[26] : TOLKI   .B�N : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THUNDERJ.BAS : 0 001 ko
+[01] : THUNDERJ.T�1 : 0 007 ko
+[02] : THUNDERJ.T�2 : 0 005 ko
+[03] : THUNDERJ.T�3 : 0 014 ko
+[04] : THUNDERJ.T�4 : 0 004 ko
+[05] : THUNDERJ.T�5 : 0 015 ko
+[06] : THUNDERJ.T�6 : 0 005 ko
+[07] : THUNDERJ.T�7 : 0 016 ko
+[08] : THUNDERJ.T�8 : 0 004 ko
+[09] : THUNDERJ.T�9 : 0 014 ko
+[10] : THUNDERJ.T�A : 0 010 ko
+[11] : THUNDERJ.B�N : 0 010 ko
+[12] : THUNDERJ.S�R : 0 005 ko
+[13] : TIRNANOG.1�  : 0 030 ko
+[15] : TIRNANOG.BAS : 0 001 ko
+[16] : TIRNANOG.2�  : 0 012 ko
+[17] : YAM     .BAS : 0 014 ko
+[18] : TIRNAKOM.I�L : 0 005 ko
+[19] : PERSEPHO.BAS : 0 004 ko
+[20] : DESSINAT.BAS : 0 004 ko
+[22] : THUNDIMA.P�W : 0 007 ko
+Dsk 187 Ko used

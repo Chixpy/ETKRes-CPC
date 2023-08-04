@@ -1,0 +1,11 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CALORIES.BAS : 0 015 ko
+[01] : HANG    .BAS : 0 001 ko
+[02] : HANG1   .B�N : 0 037 ko
+[05] : HANG2   .B�N : 0 038 ko
+[08] : HANG3   .B�N : 0 038 ko
+[11] : HANG4   .B�N : 0 037 ko
+[14] : MONOPOLY.BAS : 0 016 ko
+[15] : HANG    .I�L : 0 005 ko
+Dsk 187 Ko used

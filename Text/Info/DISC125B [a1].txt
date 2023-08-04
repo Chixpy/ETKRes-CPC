@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COMBAT  .BAS : 0 002 ko
+[01] : COMBAT  .B�N : 0 005 ko
+[02] : FACTKOM .P�W : 0 003 ko
+[03] : CHEOPS  .BAS : 0 006 ko
+[04] : COPY    .B�N : 0 002 ko
+[05] : PING    .B�N : 0 003 ko
+[06] : PINGPONG.BAS : 0 007 ko
+[07] : PINGPONG.C�M : 0 002 ko
+[08] : 3DC     .BAS : 0 001 ko
+[09] : 3DC     .B�N : 0 041 ko
+[12] : BRAIN   .BAS : 0 001 ko
+[13] : HERCULE .4-3 : 0 010 ko
+[14] : 3DMONSTE.BAS : 0 001 ko
+[15] : 3D      .B�N : 0 011 ko
+[16] : FACTOR  .BAS : 0 001 ko
+[17] : FACTOR  .B�N : 0 022 ko
+[18] : AM-PIX  .B�N : 0 021 ko
+[20] : AM-PIX  .BAS : 0 008 ko
+[21] : BRAIN   .B�N : 0 012 ko
+[22] : BRAIN   .I�L : 0 004 ko
+[23] : SHYNTOW .BAS : 0 006 ko
+[24] : SHYNTOW .B�N : 0 003 ko
+[26] : 3DCIMAGI.P�W : 0 007 ko
+[27] : SHYNTOW .S�R : 0 008 ko
+Dsk 187 Ko used

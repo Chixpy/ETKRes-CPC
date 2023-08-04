@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JOE     .BAS : 0 010 ko
+[01] : SCEPTRE .BAS : 0 001 ko
+[02] : SCEPTRE .B�N : 0 038 ko
+[05] : SUPHERO .BAS : 0 001 ko
+[06] : SUPHERO1.B�N : 0 031 ko
+[08] : SUPHERO2.B�N : 0 017 ko
+[10] : THEWAY  .BAS : 0 010 ko
+[11] : TROOPER .BIN : 0 020 ko
+[13] : RAMPAGE .BAS : 0 001 ko
+[14] : RAMPAGE .BIN : 0 030 ko
+[16] : SUPER   .S�R : 0 011 ko
+[17] : SCEPTRES.S�R : 0 008 ko
+[18] : RAMPAGE .S�R : 0 009 ko
+Dsk 187 Ko used

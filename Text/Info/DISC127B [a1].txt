@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MAZEMANI.BAS : 0 001 ko
+[01] : ROBOZONE.BIN : 0 006 ko
+[02] : PROG    .B�1 : 0 040 ko
+[05] : PROG    .B�2 : 0 038 ko
+[08] : PROG    .B�3 : 0 040 ko
+[11] : MAZEMANI.B�N : 0 031 ko
+[13] : LOGON   .B�N : 0 006 ko
+[14] : LOGON'S .BAS : 0 001 ko
+[15] : JEASON  .BAS : 0 007 ko
+[16] : JEASON1 .B�N : 0 001 ko
+[17] : CONTACT .BAS : 0 009 ko
+[19] : MAZEMANI.I�L : 0 007 ko
+Dsk 187 Ko used

@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1943    .BAS : 0 001 ko
+[01] : 1943    .B�N : 0 032 ko
+[03] : BIGDIRK .��B : 0 004 ko
+[04] : CHECK   .��N : 0 003 ko
+[05] : CHECK   .��B : 0 001 ko
+[06] : DL1     .B�N : 0 023 ko
+[08] : DRAGON1 .BAS : 0 001 ko
+[09] : DRLCHECK.��N : 0 003 ko
+[10] : DRLDISC .��N : 0 013 ko
+[11] : DRLGIDDY.��N : 0 006 ko
+[12] : DRLROPE .��N : 0 007 ko
+[13] : DRLSKULL.��N : 0 011 ko
+[14] : DRLSLAY .��N : 0 004 ko
+[15] : DRLTENT .��N : 0 009 ko
+[16] : DRLWEAP .��N : 0 012 ko
+[17] : LANDS   .BAS : 0 002 ko
+[18] : LCODE   .B�N : 0 005 ko
+[19] : LONG-WAY.BAS : 0 005 ko
+[20] : LONG-WAY.E�1 : 0 003 ko
+[21] : LONG-WAY.M�S : 0 002 ko
+[22] : MIDDIRK .��B : 0 002 ko
+[23] : NDRAGON .��B : 0 006 ko
+[24] : NMALDIRK.��B : 0 002 ko
+[25] : NSDIRK  .��B : 0 002 ko
+[26] : NSLAY   .��N : 0 005 ko
+[27] : SDIRK   .��B : 0 002 ko
+[28] : SMALDIRK.��B : 0 004 ko
+[29] : LONG+EC2.I�L : 0 006 ko
+[30] : MENU    .BAS : 0 002 ko
+[31] : 1943SCR .P�W : 0 009 ko
+Dsk 187 Ko used

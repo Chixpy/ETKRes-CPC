@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COLDITZ .BAS : 0 011 ko
+[01] : GP750CC .BAS : 0 001 ko
+[02] : GP750CC .B�N : 0 021 ko
+[04] : IKPLUS  .BIN : 0 029 ko
+[06] : JOCKYCOM.BIN : 0 020 ko
+[08] : REM     .BAS : 0 006 ko
+[09] : REM     .B�N : 0 009 ko
+[10] : RENEGADE.BAS : 0 002 ko
+[11] : RENEGADE.B�N : 0 018 ko
+[13] : STARANGE.BAS : 0 002 ko
+[14] : STARANGE.B�N : 0 008 ko
+[15] : TAGTEAM .BIN : 0 020 ko
+[17] : WARRIOR .BAS : 0 017 ko
+[19] : WARRIOR .B�N : 0 006 ko
+[20] : WARRIOR .I�L : 0 004 ko
+[21] : WARRIOR .S�R : 0 003 ko
+[22] : RENEGADE.S�R : 0 001 ko
+[23] : REMSCR  .P�W : 0 004 ko
+[24] : GP750IMA.P�W : 0 005 ko
+Dsk 187 Ko used

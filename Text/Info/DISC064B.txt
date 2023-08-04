@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1       .B�S : 0 001 ko
+[01] : BEJIN   .B�N : 0 004 ko
+[02] : BIFF    .B�N : 0 003 ko
+[03] : BOA     .BAS : 0 005 ko
+[04] : DATA    .B�N : 0 003 ko
+[05] : DATAMENU.B�N : 0 002 ko
+[06] : DC3     .B�N : 0 003 ko
+[07] : EFEVISUE.B�N : 0 014 ko
+[08] : EGG     .BAS : 0 007 ko
+[09] : ENEG    .B�N : 0 004 ko
+[10] : HISCORES.BIN : 0 001 ko
+[11] : LETSWORK.BAS : 0 005 ko
+[12] : LETSWORK.B�N : 0 004 ko
+[13] : LEVEL   .LET : 0 008 ko
+[14] : LEVEL1  .LET : 0 001 ko
+[15] : LEXAN   .B�N : 0 005 ko
+[16] : LOADER  .B�N : 0 001 ko
+[17] : MENU    .B�N : 0 015 ko
+[18] : MENUOPTN.B�N : 0 015 ko
+[19] : NERUAL  .B�N : 0 004 ko
+[20] : PROG    .B�N : 0 011 ko
+[21] : ROINTIME.BIN : 0 032 ko
+[23] : SAVEGAME.B�N : 0 001 ko
+[24] : SHUFFLE .BAS : 0 001 ko
+[25] : SKIP    .B�N : 0 002 ko
+[26] : VINNIE  .B�N : 0 003 ko
+[27] : VISINE  .B�N : 0 003 ko
+[28] : WINDOWS .BAS : 0 001 ko
+[29] : WINDOWS .B�N : 0 004 ko
+[30] : ZONE1   .B�N : 0 010 ko
+[31] : BRODER  .C�M : 0 003 ko
+[33] : ENTRESCR.P�W : 0 009 ko
+Dsk 185 Ko used

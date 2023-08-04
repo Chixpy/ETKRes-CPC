@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ALIEN   .BIN : 0 007 ko
+[01] : BLAGGER .BAS : 0 001 ko
+[02] : BLAGGER .B�N : 0 010 ko
+[03] : CYBERBAL.BAS : 0 001 ko
+[04] : CYBERBAL.B�N : 0 030 ko
+[06] : CYBERRAM.B�N : 0 015 ko
+[07] : EXPLORER.BAS : 0 002 ko
+[08] : GAUNTLET.BAS : 0 001 ko
+[09] : GAUNTLET.B�N : 0 015 ko
+[10] : INK     .BAS : 0 007 ko
+[11] : NIGHTSHA.BAS : 0 001 ko
+[12] : NIGHTSHA.B�N : 0 038 ko
+[15] : SPELLBOU.BAS : 0 001 ko
+[16] : SPELLBOU.B�N : 0 039 ko
+[19] : BLAGESCR.P�W : 0 001 ko
+[20] : GAUTLSCR.P�W : 0 002 ko
+[21] : NIGHTSCR.P�W : 0 004 ko
+[22] : SPELLSCR.P�W : 0 005 ko
+[23] : CYBERSCR.P�W : 0 007 ko
+Dsk 187 Ko used

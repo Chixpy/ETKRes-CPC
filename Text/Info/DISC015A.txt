@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : -SOUNDT1.D�M : 0 024 ko
+[02] : BASSDRUM.I�S : 0 001 ko
+[03] : DALEY   .BAS : 0 001 ko
+[04] : DALEY   .B�N : 0 039 ko
+[07] : DALEYIMA.P�W : 0 005 ko
+[08] : DEMO2   .BAS : 0 001 ko
+[09] : DUCKMIX .S�G : 0 009 ko
+[10] : LOUD-AKK.I�S : 0 001 ko
+[11] : LOW-AKKO.I�S : 0 001 ko
+[12] : NIGHTGUN.BAS : 0 001 ko
+[13] : NIGHTGUN.B�N : 0 040 ko
+[16] : NIGHTSCR.P�W : 0 004 ko
+[17] : PACBOY  .BAS : 0 007 ko
+[18] : SNAREDRU.I�S : 0 001 ko
+[19] : SONTRAK .BIN : 0 025 ko
+[21] : STRING  .I�S : 0 001 ko
+[22] : TEST    .B�N : 0 021 ko
+[24] : TEST    .C�M : 0 004 ko
+[25] : TOMTOM  .I�S : 0 001 ko
+Dsk 187 Ko used

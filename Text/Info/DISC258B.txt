@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3LUCES  .BAS : 0 001 ko
+[01] : 3LUCES  .B�N : 0 040 ko
+[04] : ANTARES .BIN : 0 029 ko
+[06] : ASALTO  .BAS : 0 001 ko
+[07] : ASALTO1 .B�N : 0 015 ko
+[08] : BELLS   .BAS : 0 008 ko
+[09] : BELLS   .G�M : 0 005 ko
+[10] : BELLS2  .S�R : 0 003 ko
+[11] : BUGGYRAN.BAS : 0 001 ko
+[12] : BUGGY   .B�N : 0 039 ko
+[15] : CADRESCR.P�W : 0 004 ko
+[16] : DACTYLO .BAS : 0 010 ko
+[17] : PENETROR.BAS : 0 014 ko
+[18] : BUGGYIMA.P�W : 0 008 ko
+[19] : 3LUCESCR.P�W : 0 005 ko
+[20] : BELLSSCR.P�W : 0 004 ko
+Dsk 187 Ko used

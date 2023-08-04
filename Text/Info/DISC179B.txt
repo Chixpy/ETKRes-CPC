@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JACKPOT .BAS : 0 003 ko
+[02] : N-SPIRIT.BAS : 0 001 ko
+[03] : DIZZY5  .I�L : 0 008 ko
+[04] : SPIRIT  .L�5 : 0 012 ko
+[05] : SPELLBND.BAS : 0 001 ko
+[06] : SPELLBND.B�5 : 0 041 ko
+[09] : SPIRIT  .L�6 : 0 008 ko
+[10] : SPIRIT  .L�1 : 0 012 ko
+[11] : SPIRIT  .L�2 : 0 010 ko
+[12] : SPIRIT  .L�3 : 0 008 ko
+[13] : SPIRIT  .L�4 : 0 009 ko
+[14] : SPIRIT  .L�7 : 0 009 ko
+[15] : SPIRIT  .B�N : 0 025 ko
+[17] : SPELLBND.B�0 : 0 009 ko
+[18] : SPELLBND.B�1 : 0 015 ko
+[19] : SPELLBND.B�2 : 0 001 ko
+[20] : SPELLBND.B�3 : 0 001 ko
+[21] : SPIRKOM .P�W : 0 003 ko
+[22] : SPELLBND.B�4 : 0 007 ko
+[23] : SPELLBND.B�6 : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LEVELS  .B�N : 0 004 ko
+[01] : LOOK-1K .BAS : 0 001 ko
+[02] : BINSPO  .B�N : 0 003 ko
+[03] : CHIMERA .B�N : 0 033 ko
+[04] : CRASH   .BAS : 0 003 ko
+[05] : MARIO   .BAS : 0 001 ko
+[07] : CAPDAKAR.BAS : 0 016 ko
+[08] : COURASS .B�S : 0 013 ko
+[09] : MARIO   .B�N : 0 034 ko
+[12] : SCALEX  .BAS : 0 001 ko
+[13] : CHIMERA .BAS : 0 001 ko
+[14] : SCALEX  .BAK : 0 001 ko
+[15] : CHIMEIMA.P�W : 0 005 ko
+[16] : SCALEX  .B�N : 0 038 ko
+[19] : SUPERB  .B�N : 0 007 ko
+[21] : CANARDS .BAS : 0 001 ko
+[22] : SOKO    .BAS : 0 011 ko
+[23] : MARIO   .C�C : 0 003 ko
+[24] : SOKO    .C�C : 0 001 ko
+[25] : HISCORE .    : 0 001 ko
+[26] : SCALEX  .SAV : 0 001 ko
+[27] : SCALEX  .S�R : 0 003 ko
+[28] : CRASH   .HI  : 0 001 ko
+[29] : CRASHMC .B�N : 0 003 ko
+Dsk 186 Ko used

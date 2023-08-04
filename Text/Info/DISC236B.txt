@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LAIR    .BAS : 0 001 ko
+[01] : LAIR1   .B�N : 0 040 ko
+[02] : SUMMER2 .C�A : 0 010 ko
+[03] : SUMMER2 .C�B : 0 011 ko
+[04] : SUMMER2 .C�C : 0 009 ko
+[05] : SUMMER2 .C�D : 0 009 ko
+[06] : SUMMER2 .C�E : 0 022 ko
+[08] : SUMMER2 .C�F : 0 011 ko
+[09] : SUMMER2 .C�G : 0 017 ko
+[11] : SUMMER2 .C�H : 0 010 ko
+[12] : SUMMER2 .C�I : 0 014 ko
+[13] : SUMMER2 .C�J : 0 005 ko
+[14] : SUMMER2 .BIN : 0 015 ko
+[17] : PLOMBIER.BAS : 0 002 ko
+[18] : SPANNER1.B�N : 0 011 ko
+Dsk 187 Ko used

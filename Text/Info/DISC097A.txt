@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARTHELS.BAS : 0 002 ko
+[01] : USHER   .BAS : 0 001 ko
+[02] : STARION .BIN : 0 026 ko
+[03] : BD1     .B�L : 0 017 ko
+[05] : FROSTIMA.P�W : 0 006 ko
+[07] : MENU    .BAS : 0 001 ko
+[08] : BD2     .B�L : 0 017 ko
+[10] : BD3     .B�L : 0 007 ko
+[11] : FROST   .BAS : 0 001 ko
+[12] : BD4     .B�L : 0 008 ko
+[13] : BDASH   .BAK : 0 003 ko
+[14] : BDASH   .P�W : 0 002 ko
+[15] : BDASH1  .B�N : 0 015 ko
+[16] : BDASH   .HSC : 0 003 ko
+[18] : USHER   .B�N : 0 016 ko
+[19] : BDASH2  .B�N : 0 016 ko
+[20] : BDEMO   .B�N : 0 005 ko
+[21] : H-COPY  .BAS : 0 002 ko
+[22] : FROST2  .B�N : 0 028 ko
+[23] : REMAKE  .BAS : 0 008 ko
+Dsk 184 Ko used

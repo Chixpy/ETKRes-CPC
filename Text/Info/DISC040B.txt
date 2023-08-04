@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PACMANIA.BAS : 0 001 ko
+[01] : PACMANIA.B�N : 0 039 ko
+[04] : DELIVER .BAS : 0 001 ko
+[05] : DELIVER .N�0 : 0 038 ko
+[06] : OTHELLO .BAS : 0 004 ko
+[07] : NINJA   .BIN : 0 013 ko
+[10] : DELIVER .N�1 : 0 038 ko
+[13] : DELIVER .N�2 : 0 038 ko
+[16] : OTHELLO2.BAS : 0 005 ko
+[17] : HEWSON  .K�M : 0 005 ko
+[18] : PACMASCR.P�W : 0 005 ko
+Dsk 187 Ko used

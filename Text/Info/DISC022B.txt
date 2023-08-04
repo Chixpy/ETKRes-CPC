@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BESTIAL .BAS : 0 001 ko
+[01] : BESTIAL1.B�N : 0 039 ko
+[04] : BESTIAL2.B�N : 0 004 ko
+[05] : BESTIIMA.P�W : 0 007 ko
+[06] : HARKOM  .P�W : 0 002 ko
+[07] : HARRIER .BAS : 0 001 ko
+[08] : HARRIER .B�N : 0 021 ko
+[10] : HARRISCR.P�W : 0 004 ko
+[11] : MAT     .BAS : 0 001 ko
+[12] : MAT     .B�N : 0 026 ko
+[14] : MATKOM  .P�W : 0 002 ko
+[15] : MENU    .BAS : 0 002 ko
+[16] : RANARAMA.BAS : 0 001 ko
+[17] : RANARAMA.B�N : 0 036 ko
+[20] : SKYFOIMA.P�W : 0 005 ko
+[21] : SKYFOX  .BAS : 0 001 ko
+[22] : SKYFOX  .B�N : 0 033 ko
+[25] : SYMBOL  .BAS : 0 001 ko
+Dsk 187 Ko used

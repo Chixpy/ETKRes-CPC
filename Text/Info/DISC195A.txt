@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HAMS    .BAK : 0 001 ko
+[01] : HAMS    .HAM : 0 001 ko
+[02] : HAMSTERS.BAS : 0 007 ko
+[03] : HAMSTERS.N�1 : 0 014 ko
+[04] : HAMSTERS.N�2 : 0 004 ko
+[05] : HAMSTERS.N�3 : 0 001 ko
+[06] : HAMSTERS.N�4 : 0 014 ko
+[07] : HAMSTERS.N�5 : 0 002 ko
+[08] : HAMSTERS.N�6 : 0 012 ko
+[09] : HAMSTERS.N�7 : 0 005 ko
+[10] : HAMSTERS.N�8 : 0 005 ko
+[11] : HAMSTERS.N�9 : 0 001 ko
+[12] : HAMSTERS.N�1 : 0 002 ko
+[13] : HAMSTERS.N�2 : 0 002 ko
+[14] : HAMSTERS.N�3 : 0 002 ko
+[15] : HAMSTERS.N�4 : 0 002 ko
+[16] : HAMSTERS.N�5 : 0 002 ko
+[17] : HAMSTERS.N�6 : 0 002 ko
+[18] : HAMSTERS.N�1 : 0 001 ko
+[19] : HAMSTERS.N�2 : 0 002 ko
+[20] : HAMSTERS.N�3 : 0 002 ko
+[21] : HAMSTERS.N�1 : 0 001 ko
+[22] : HAMSTERS.N�2 : 0 001 ko
+[23] : HAMSTERS.N�3 : 0 001 ko
+[24] : HAMSTERS.N�4 : 0 001 ko
+[25] : HAMSTERS.N�5 : 0 001 ko
+[26] : CANON   .BAS : 0 002 ko
+[27] : MONACO  .BAS : 0 001 ko
+[28] : MONACO  .B�N : 0 001 ko
+[29] : MONACO  .N�1 : 0 012 ko
+[30] : MONACO  .N�2 : 0 037 ko
+[33] : MONACO  .N�3 : 0 032 ko
+[35] : HAMSTERS.N�6 : 0 001 ko
+[36] : HAMSTSCR.P�W : 0 001 ko
+[37] : MONACIMA.P�W : 0 008 ko
+Dsk 184 Ko used

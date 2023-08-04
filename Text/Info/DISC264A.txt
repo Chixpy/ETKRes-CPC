@@ -1,0 +1,30 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOB     .0�1 : 0 002 ko
+[01] : BOB     .0�2 : 0 001 ko
+[02] : BOB     .0�3 : 0 006 ko
+[03] : BOB     .BAS : 0 005 ko
+[04] : BOB     .D�C : 0 008 ko
+[05] : BOBEDIT .BAS : 0 004 ko
+[06] : BOBHELP .BAS : 0 002 ko
+[07] : DEACTIVA.BAS : 0 001 ko
+[08] : DEACTIVA.B�N : 0 040 ko
+[11] : DOMDATA .B�N : 0 005 ko
+[12] : DOMINO  .BAS : 0 004 ko
+[13] : ESPION  .BAS : 0 001 ko
+[14] : ESPION  .B�N : 0 035 ko
+[17] : GUARDIAN.BOB : 0 001 ko
+[18] : LEVELS  .BOB : 0 001 ko
+[19] : LEVELS2 .BOB : 0 001 ko
+[20] : LEVELS3 .BOB : 0 001 ko
+[21] : MENACE  .BAS : 0 001 ko
+[22] : MENACE  .B�N : 0 021 ko
+[24] : ROY     .BAS : 0 009 ko
+[25] : ROY     .B�N : 0 010 ko
+[26] : BOB     .0�4 : 0 007 ko
+[27] : DEACTSCR.P�W : 0 005 ko
+[28] : DOMINIMA.P�W : 0 005 ko
+[29] : ESPION  .C�C : 0 003 ko
+[30] : ROYSCR  .P�W : 0 003 ko
+[31] : MENACSCR.P�W : 0 005 ko
+Dsk 187 Ko used

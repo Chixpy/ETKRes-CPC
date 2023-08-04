@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RAM4    .B�N : 0 012 ko
+[01] : RAM5    .B�N : 0 011 ko
+[02] : RAM6    .B�N : 0 016 ko
+[03] : RAM7    .B�N : 0 011 ko
+[04] : SOCCER1 .B�N : 0 039 ko
+[07] : SOCCER2 .B�N : 0 003 ko
+[08] : SOCCER  .C�M : 0 006 ko
+[09] : SOCCER  .BAS : 0 001 ko
+[10] : MOLECUL2.BIN : 0 014 ko
+[11] : BANK0S  .B�N : 0 017 ko
+[13] : BANK1AA .B�N : 0 025 ko
+[15] : BANK345 .B�N : 0 009 ko
+[16] : SUPER   .BAS : 0 001 ko
+[17] : CASTLE  .BAS : 0 006 ko
+[18] : HYPNOSE .BAS : 0 013 ko
+[20] : HYPNOSE1.B�N : 0 002 ko
+[21] : HYPNOSE2.B�N : 0 001 ko
+Dsk 187 Ko used

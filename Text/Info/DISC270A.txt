@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RASPUTIN.BAS : 0 001 ko
+[01] : RASPUTIN.B�N : 0 038 ko
+[04] : HITSQUAD.BAS : 0 001 ko
+[05] : HITSQUAD.B�1 : 0 037 ko
+[08] : HITSQUAD.B�2 : 0 006 ko
+[09] : ECHELON .B�7 : 0 024 ko
+[11] : ECHELON .B�6 : 0 023 ko
+[13] : ECHELON .BAS : 0 001 ko
+[14] : ECHELON .B�N : 0 024 ko
+[16] : MUSTAR  .BAS : 0 009 ko
+[17] : MUSTAR  .B�N : 0 005 ko
+[18] : HITSQUAD.S�R : 0 009 ko
+[19] : ECHELON .C�C : 0 003 ko
+[20] : RASPUSCR.P�W : 0 006 ko
+Dsk 187 Ko used

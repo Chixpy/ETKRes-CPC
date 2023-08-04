@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CYBERBOY.BAS : 0 001 ko
+[01] : CYBERBOY.B�N : 0 014 ko
+[02] : DARKSIDE.BAS : 0 001 ko
+[03] : DARKSIDE.B�N : 0 035 ko
+[06] : NIBBLER .BAS : 0 008 ko
+[07] : SORCEROR.BAS : 0 004 ko
+[08] : SORCEROR.B�N : 0 002 ko
+[09] : SSLAYER .BAS : 0 001 ko
+[10] : SSLAYER .B�N : 0 026 ko
+[12] : TASKFORC.BAS : 0 001 ko
+[13] : TASKFORC.B�N : 0 026 ko
+[15] : TUT     .BAS : 0 001 ko
+[16] : TUT     .B�N : 0 027 ko
+[18] : VECTOR  .BAS : 0 001 ko
+[19] : VECTOR  .B�N : 0 017 ko
+[21] : CYBERBOY.C�C : 0 003 ko
+[22] : MENUDISC.BAS : 0 002 ko
+[23] : TUT     .C�C : 0 004 ko
+[24] : VECTOSCR.P�W : 0 004 ko
+[25] : SSLAYKOM.S�R : 0 002 ko
+[26] : DARKSCR2.P�W : 0 002 ko
+[27] : DARKIMA .P�W : 0 005 ko
+Dsk 187 Ko used

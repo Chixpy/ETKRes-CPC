@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NEXUS   .BAS : 0 001 ko
+[01] : NEXUS   .B�N : 0 040 ko
+[03] : ATOM-ANT.BAS : 0 001 ko
+[05] : NEXUS   .C�M : 0 003 ko
+[06] : ATOMIC  .BIN : 0 026 ko
+[08] : ATOMANT .B�N : 0 035 ko
+[09] : MARADIMA.P�W : 0 004 ko
+[10] : MARADONA.B�N : 0 034 ko
+[15] : DELTA   .BAS : 0 004 ko
+[16] : DELTA   .D�T : 0 002 ko
+[17] : MARADONA.BAS : 0 001 ko
+[18] : DELTA   .P�G : 0 003 ko
+[19] : GUNSTAR .BIN : 0 029 ko
+[21] : ATOMAIMA.P�W : 0 004 ko
+Dsk 187 Ko used

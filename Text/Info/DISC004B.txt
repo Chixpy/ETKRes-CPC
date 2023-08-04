@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TOUR    .BAS : 0 020 ko
+[01] : DATA0   .B�N : 0 001 ko
+[02] : DATA1   .B�N : 0 017 ko
+[04] : DATA2   .B�N : 0 010 ko
+[05] : RESCUE  .B�N : 0 011 ko
+[06] : TITLES  .B�N : 0 010 ko
+[07] : G-BERET .BAS : 0 001 ko
+[08] : KUNG-FU .BAS : 0 001 ko
+[09] : KUNGFU1 . �  : 0 004 ko
+[11] : KUNGFU  .B�N : 0 001 ko
+[12] : KUNGFU2 . �  : 0 007 ko
+[13] : KUNGFU3 . �  : 0 008 ko
+[14] : KUNGFU4 . �  : 0 025 ko
+[16] : KUNGFU5 . �  : 0 021 ko
+[18] : SYMBOL  .B�S : 0 003 ko
+[19] : SYMBOL2 .B�S : 0 002 ko
+[20] : DATA1   .B�S : 0 004 ko
+[21] : DATA2   .B�S : 0 005 ko
+[22] : DATA3   .B�S : 0 004 ko
+[23] : DATA4   .B�S : 0 004 ko
+[24] : DATA5   .B�S : 0 003 ko
+[25] : RALY3000.BAS : 0 002 ko
+[26] : SMILEY  .BAS : 0 003 ko
+[27] : LEVEL1��.B�N : 0 002 ko
+[28] : LEVEL2  .B�N : 0 002 ko
+[29] : LEVEL3  .B�N : 0 002 ko
+[30] : LEVEL4  .B�N : 0 002 ko
+[31] : PIRATE  .BIN : 0 008 ko
+[32] : BERETSCR.P�W : 0 004 ko
+Dsk 187 Ko used

@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ADAPT   .B�S : 0 003 ko
+[01] : ALPHA1  .B�N : 0 009 ko
+[02] : ALPHA2  .B�N : 0 007 ko
+[03] : ALPHAJET.BAS : 0 002 ko
+[04] : ALPHAJET.B�N : 0 001 ko
+[05] : BOUNCING.BAS : 0 014 ko
+[06] : BOUNCING.B�N : 0 002 ko
+[07] : DECOMP  .B�N : 0 001 ko
+[08] : IM      .B�N : 0 005 ko
+[09] : IMAGIC  .BAS : 0 008 ko
+[10] : LUDO    .BIN : 0 037 ko
+[13] : MAGIC   .BAS : 0 007 ko
+[14] : MGS     .B�N : 0 002 ko
+[15] : SERIE1  .B�N : 0 005 ko
+[16] : SPRITE1 .B�N : 0 008 ko
+[17] : SUPER   .B�N : 0 040 ko
+[20] : SUPERSAM.BAS : 0 001 ko
+[21] : TABLEAU0.B�N : 0 005 ko
+[22] : TABLEAU1.B�N : 0 005 ko
+[23] : TABLEAU2.B�N : 0 005 ko
+[24] : TABLEAU3.B�N : 0 005 ko
+[25] : TABLEAU4.B�N : 0 005 ko
+[26] : TRIANGLE.BAS : 0 001 ko
+[27] : ALPHASCR.P�W : 0 005 ko
+[28] : SUPERSCR.P�W : 0 004 ko
+Dsk 187 Ko used

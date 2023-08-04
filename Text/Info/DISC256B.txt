@@ -1,0 +1,37 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RNR1    .B�N : 0 020 ko
+[02] : RNR2    .B�N : 0 013 ko
+[03] : ROCK    .BAS : 0 001 ko
+[04] : ROCK    .I�L : 0 005 ko
+[05] : ROCK    .M�S : 0 006 ko
+[06] : BLOCKA1 .B�N : 0 004 ko
+[07] : BLOCKA2 .B�N : 0 005 ko
+[08] : BLOCKB1 .B�N : 0 004 ko
+[09] : BLOCKB2 .B�N : 0 005 ko
+[10] : BLOCKC1 .B�N : 0 004 ko
+[11] : BLOCKC2 .B�N : 0 005 ko
+[12] : BLOCKD1 .B�N : 0 004 ko
+[13] : BLOCKD2 .B�N : 0 005 ko
+[14] : BLOCKE1 .B�N : 0 004 ko
+[15] : BLOCKE2 .B�N : 0 005 ko
+[16] : BLOCKF1 .B�N : 0 004 ko
+[17] : BLOCKF2 .B�N : 0 005 ko
+[18] : BLOCKG1 .B�N : 0 004 ko
+[19] : BLOCKG2 .B�N : 0 005 ko
+[20] : BLOCKH1 .B�N : 0 004 ko
+[21] : BLOCKH2 .B�N : 0 005 ko
+[22] : BLOCKI1 .B�N : 0 004 ko
+[23] : BLOCKI2 .B�N : 0 005 ko
+[24] : BLOCKJ1 .B�N : 0 004 ko
+[25] : BLOCKJ2 .B�N : 0 005 ko
+[26] : BLOCKK1 .B�N : 0 004 ko
+[27] : BLOCKK2 .B�N : 0 005 ko
+[28] : BLOCKL1 .B�N : 0 004 ko
+[29] : BLOCKL2 .B�N : 0 005 ko
+[30] : BLOCKM1 .B�N : 0 004 ko
+[31] : BLOCKM2 .B�N : 0 005 ko
+[32] : CM      .BAS : 0 001 ko
+[33] : OCT     .B�N : 0 017 ko
+[34] : ROCKIMA .P�W : 0 007 ko
+Dsk 187 Ko used

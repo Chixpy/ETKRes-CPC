@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ACTURUS .BAS : 0 004 ko
+[01] : AMSTROID.BAS : 0 003 ko
+[02] : AMSTROID.B�1 : 0 007 ko
+[03] : AMSTROID.B�2 : 0 021 ko
+[05] : AMSTRSCR.P�W : 0 002 ko
+[06] : BEETLE  .BIN : 0 013 ko
+[07] : BRONX   .BAS : 0 001 ko
+[08] : BRONX1  .B�N : 0 036 ko
+[11] : BRONX2  .B�N : 0 010 ko
+[12] : BRONXSCR.P�W : 0 005 ko
+[13] : DRAKKAR .BAS : 0 001 ko
+[14] : DRAKKAR .B�N : 0 038 ko
+[17] : MAZE    .B�N : 0 010 ko
+[18] : MAZE0   .B�N : 0 026 ko
+[20] : MOLECULE.BAS : 0 001 ko
+[21] : DRAKKSCR.P�W : 0 009 ko
+Dsk 187 Ko used

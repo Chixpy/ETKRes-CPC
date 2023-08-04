@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : VENUSIS .BIN : 0 009 ko
+[01] : SQUASH  .BAS : 0 001 ko
+[02] : FRAME   .B�N : 0 039 ko
+[03] : ANARCHY .B�N : 0 020 ko
+[05] : FRAME   .BAS : 0 001 ko
+[06] : SHADOW  .BAS : 0 001 ko
+[07] : SHADOW  .B�N : 0 037 ko
+[10] : DESSIN3D.BAS : 0 002 ko
+[11] : SHADOW4 .R�M : 0 016 ko
+[14] : SHADOW5 .R�M : 0 016 ko
+[15] : SHADOW6 .R�M : 0 014 ko
+[16] : FRAMESCR.P�W : 0 005 ko
+[17] : SHADOW7 .R�M : 0 016 ko
+[18] : SHADOIMA.P�W : 0 006 ko
+[19] : ANARCSCR.P�W : 0 003 ko
+[20] : ANARCHY .BAS : 0 001 ko
+Dsk 187 Ko used

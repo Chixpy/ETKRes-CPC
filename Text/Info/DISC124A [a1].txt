@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GPS1    .BAS : 0 001 ko
+[01] : GPS1    .B�N : 0 042 ko
+[04] : PART1   .B�N : 0 034 ko
+[07] : PART2   .B�N : 0 008 ko
+[08] : TAUCETI .BAS : 0 001 ko
+[09] : WINO    .BAS : 0 001 ko
+[10] : WINO    .B�N : 0 021 ko
+[12] : SCRABBLE.BIN : 0 002 ko
+[13] : SCRA2   .B�N : 0 016 ko
+[14] : SCRA3   .B�N : 0 017 ko
+[16] : SCRA4   .B�N : 0 017 ko
+[18] : SCRA5   .B�N : 0 007 ko
+[19] : SCRA6   .B�N : 0 001 ko
+[20] : BURNING .BIN : 0 007 ko
+[21] : TAU     .I�L : 0 003 ko
+[22] : WINOSCR .P�W : 0 003 ko
+[23] : GPS1SCR .P�W : 0 006 ko
+Dsk 187 Ko used

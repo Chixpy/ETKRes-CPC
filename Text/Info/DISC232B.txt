@@ -1,0 +1,50 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Warning : Sector size [3840] differs from the amount of data found [5120], enlarge data part
+Bad sector 18
+*************************************************************************
+[ERROR] :	Error while read dsk file (H:\Emu\Sys\Amstrad\CPC\Soft\NoRen\Nueva carpeta\d\DISC232B.dsk) error dsk has wrong sector number
+
+[HINT ] :	Check your dsk file path or Check your dsk file with option -dsk yourdsk.dsk -analyze
+*************************************************************************

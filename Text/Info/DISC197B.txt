@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CABANE  .B�S : 0 003 ko
+[01] : CHASSEUR.B�S : 0 003 ko
+[02] : INDIEN  .B�S : 0 002 ko
+[03] : JUGEMENT.B�S : 0 002 ko
+[04] : MUS     .B�N : 0 004 ko
+[05] : MUS2    .B�N : 0 005 ko
+[06] : TRAPPEUR.B�S : 0 002 ko
+[07] : VILLAGE .B�S : 0 003 ko
+[08] : VILLAGE .B�N : 0 021 ko
+[10] : TRAPPEUR.B�N : 0 016 ko
+[11] : MUS9    .B�N : 0 005 ko
+[12] : MUS13   .B�N : 0 005 ko
+[13] : JUGEMENT.B�N : 0 015 ko
+[14] : CHASSEUR.B�N : 0 018 ko
+[16] : INDIEN  .B�N : 0 017 ko
+[18] : CABANE  .B�N : 0 016 ko
+[20] : STRATBAL.BAS : 0 003 ko
+[21] : VAMPIMA .P�W : 0 006 ko
+[22] : VAMPIRE .BAS : 0 001 ko
+[23] : VAMPIRE .B�N : 0 040 ko
+Dsk 187 Ko used

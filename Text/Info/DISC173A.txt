@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BATTLE  .BAS : 0 001 ko
+[01] : BATTLE  .B�N : 0 016 ko
+[02] : BATL2IMA.P�W : 0 005 ko
+[03] : BATLEIMA.P�W : 0 006 ko
+[04] : ATROG   .BAS : 0 001 ko
+[05] : ATROG   .M�S : 0 004 ko
+[06] : PARTIE1 .B�N : 0 018 ko
+[08] : PARTIE2 .B�N : 0 018 ko
+[10] : PARTIE3 .B�N : 0 019 ko
+[12] : COMMUN  .B�N : 0 010 ko
+[13] : TRACY   .BAS : 0 001 ko
+[14] : TRACY   .N�0 : 0 003 ko
+[15] : TRACY   .N�1 : 0 008 ko
+[16] : TRACY   .N�2 : 0 008 ko
+[17] : TRACY   .N�3 : 0 008 ko
+[18] : TRACY   .N�4 : 0 008 ko
+[19] : TRACY   .N�5 : 0 008 ko
+[20] : TRACY   .N�6 : 0 002 ko
+[21] : TRACY   .N�7 : 0 005 ko
+[22] : TRACY   .N�8 : 0 008 ko
+[23] : TRACY   .N�9 : 0 007 ko
+[24] : TRACY   .N�0 : 0 011 ko
+[25] : RASTER  .BIN : 0 001 ko
+[26] : TRACY   .I�A : 0 004 ko
+[27] : ATROGIMA.P�W : 0 007 ko
+Dsk 187 Ko used

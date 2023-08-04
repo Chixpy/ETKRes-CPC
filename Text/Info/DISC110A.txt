@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DISC    .B�N : 0 032 ko
+[02] : KHOM    .C�P : 0 006 ko
+[03] : MAGS    .C�P : 0 009 ko
+[04] : MIK     .C�P : 0 007 ko
+[05] : OFF     .B�N : 0 001 ko
+[06] : POPE    .C�P : 0 008 ko
+[07] : PW      .C�P : 0 008 ko
+[08] : RON     .C�P : 0 008 ko
+[09] : CODE    .B�N : 0 017 ko
+[11] : MUTANTS .BAS : 0 001 ko
+[12] : GABRIEL .I�L : 0 008 ko
+[13] : MOUCHE  .BAS : 0 005 ko
+[14] : MUTANTS .B�N : 0 026 ko
+[15] : GABRIEL .BAS : 0 001 ko
+[16] : GABRIEL .B�N : 0 040 ko
+[20] : SPITTING.BAS : 0 001 ko
+[21] : MUTANIMA.P�W : 0 007 ko
+[23] : GABRIELE.I�L : 0 002 ko
+Dsk 187 Ko used

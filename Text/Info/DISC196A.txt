@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MONTY   .BAS : 0 001 ko
+[01] : MONTY1  .B�N : 0 039 ko
+[04] : MONTY2  .B�N : 0 010 ko
+[05] : POTS    .BAS : 0 001 ko
+[06] : MONTYIMA.P�W : 0 005 ko
+[07] : POTSIMA .P�W : 0 006 ko
+[08] : POTS    .B�N : 0 019 ko
+[10] : POTS    .1�  : 0 020 ko
+[12] : POTS    .2�  : 0 020 ko
+[14] : POTS    .3�  : 0 019 ko
+[16] : POTS    .4�  : 0 020 ko
+[18] : POTS    .5�  : 0 019 ko
+[20] : POTS    .6�  : 0 007 ko
+[21] : DEPROTEC.BAS : 0 001 ko
+Dsk 187 Ko used

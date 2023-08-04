@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HYPER   .BAS : 0 001 ko
+[01] : SPY     .BAS : 0 001 ko
+[02] : HYPER1  .B�N : 0 016 ko
+[03] : BUGGYBOY.BAS : 0 001 ko
+[04] : BUGGY   .B�1 : 0 038 ko
+[07] : BUGGYSCR.P�W : 0 009 ko
+[08] : BUGGY   .B�2 : 0 013 ko
+[09] : SPY1    .B�N : 0 019 ko
+[11] : SPY2    .B�N : 0 011 ko
+[12] : CIEL    .B�S : 0 023 ko
+[13] : HYPER2  .B�N : 0 014 ko
+[14] : HYPER3  .B�N : 0 005 ko
+[15] : SPYSCR  .P�W : 0 004 ko
+[17] : CIEL-DIF.B�S : 0 016 ko
+[18] : ETOILES .BAS : 0 001 ko
+[19] : NERVOUS .BAS : 0 009 ko
+[21] : HYPERSCR.P�W : 0 006 ko
+Dsk 187 Ko used

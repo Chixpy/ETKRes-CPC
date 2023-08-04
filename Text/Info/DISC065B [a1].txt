@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NINJA   .P�R : 0 031 ko
+[02] : NINJA   .D�C : 0 023 ko
+[04] : 2088    .BAS : 0 001 ko
+[05] : CAVERN  .BAS : 0 016 ko
+[06] : ROCK    .BAS : 0 002 ko
+[07] : ROCKKOM .P�W : 0 002 ko
+[08] : 2088    .B�N : 0 016 ko
+[09] : SILENT  .BAS : 0 001 ko
+[10] : SILENT  .B�N : 0 031 ko
+[12] : TETRIX  .BIN : 0 009 ko
+[13] : ROCK    .B�N : 0 004 ko
+[14] : SILESCRU.P�W : 0 003 ko
+[15] : NINJA   .BAS : 0 002 ko
+[16] : NINJA   .B�N : 0 035 ko
+[19] : TRACER  .BAS : 0 003 ko
+[20] : NINJAIMA.P�W : 0 005 ko
+[21] : TRACER  .B�N : 0 003 ko
+Dsk 187 Ko used

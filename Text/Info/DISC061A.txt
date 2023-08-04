@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 24 start at sector 65 while track 0 starts at 193
+Warning : track 25 start at sector 65 while track 0 starts at 193
+Warning : track 26 start at sector 65 while track 0 starts at 193
+Warning : track 27 start at sector 65 while track 0 starts at 193
+Warning : track 28 start at sector 65 while track 0 starts at 193
+Warning : track 29 start at sector 65 while track 0 starts at 193
+Warning : track 30 start at sector 65 while track 0 starts at 193
+Warning : track 31 start at sector 65 while track 0 starts at 193
+Warning : track 32 start at sector 65 while track 0 starts at 193
+Warning : track 33 start at sector 65 while track 0 starts at 193
+Warning : track 34 start at sector 65 while track 0 starts at 193
+Warning : track 35 start at sector 65 while track 0 starts at 193
+Warning : track 36 start at sector 65 while track 0 starts at 193
+Warning : track 37 start at sector 65 while track 0 starts at 193
+Warning : track 38 start at sector 65 while track 0 starts at 193
+Warning : track 39 start at sector 65 while track 0 starts at 193
+[00] : JT37    .BIN : 0 012 ko
+[01] : POST2IMA.P�W : 0 005 ko
+[02] : POSTMAN2.BAS : 0 001 ko
+[03] : ROOMIMA .P�W : 0 004 ko
+[04] : ROOMTEN .BAS : 0 001 ko
+[05] : ROOMTEN .B�N : 0 017 ko
+[07] : POSTMAN2.B�1 : 0 038 ko
+[10] : POSTMAN2.B�2 : 0 011 ko
+[11] : MANSELL2.B�N : 0 004 ko
+[12] : MANSIMA .K�M : 0 003 ko
+[16] : MANSELL1.B�N : 0 040 ko
+[19] : MANSELL .BAS : 0 001 ko
+[20] : MANSELL0.NHF : 15 016 ko
+[21] : MANSELL1.NHF : 15 016 ko
+[22] : MANSELL2.NHF : 15 017 ko
+Dsk 186 Ko used

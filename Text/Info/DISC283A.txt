@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MAGGOT  .BAS : 0 002 ko
+[01] : DEFCOM  .BAS : 0 001 ko
+[02] : DEFCOM  .B�N : 0 024 ko
+[04] : DEFCOSCR.P�W : 0 004 ko
+[05] : NEIL    .BAS : 0 001 ko
+[06] : NEIL    .B�N : 0 037 ko
+[09] : NEIL    .S�R : 0 002 ko
+[10] : SUKIDSCR.P�W : 0 004 ko
+[11] : SUNSTAR .BAS : 0 001 ko
+[12] : SUNSTAR .B�N : 0 009 ko
+[13] : SUNSTAR .C�C : 0 003 ko
+[14] : SUPERKID.BAS : 0 001 ko
+[15] : SUPERKID.B�N : 0 030 ko
+[17] : KILCOBRA.BAS : 0 001 ko
+[18] : COBRA   .B�N : 0 029 ko
+[20] : LASTV8  .BAS : 0 001 ko
+[21] : LASTV8  .B�N : 0 026 ko
+[23] : LASTV8  .C�C : 0 006 ko
+[24] : MAGGOT  .B�N : 0 003 ko
+[25] : BACKUP  .BIN : 0 002 ko
+Dsk 187 Ko used

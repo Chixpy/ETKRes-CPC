@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ASPAR   .BAS : 0 001 ko
+[01] : ASPAR   .B�N : 0 039 ko
+[04] : ASPARIMA.P�W : 0 009 ko
+[05] : CIRCUIT .BAS : 0 002 ko
+[06] : FARGO   .I�L : 0 008 ko
+[07] : W&FARGO .BAS : 0 001 ko
+[08] : WARLIMA .P�W : 0 007 ko
+[09] : WARLOCK .BAS : 0 001 ko
+[10] : WARLOCK1.B�N : 0 035 ko
+[13] : WARLOCK2.B�N : 0 009 ko
+[14] : WELLS   .F�N : 0 032 ko
+[16] : WELLS1  .B�N : 0 039 ko
+[19] : WELLS2  .B�N : 0 004 ko
+Dsk 187 Ko used

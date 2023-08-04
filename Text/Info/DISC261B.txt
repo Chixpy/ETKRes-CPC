@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : LASER   .BAS : 0 001 ko
+[01] : LASER   .B�N : 0 019 ko
+[03] : GOLIATH .BAS : 0 001 ko
+[04] : GOLIATH .B�N : 0 036 ko
+[07] : DAMES   .BAS : 0 007 ko
+[08] : DAMES   .B�N : 0 004 ko
+[09] : FAIRLIGH.BAS : 0 001 ko
+[10] : FAIRLIGH.B�N : 0 035 ko
+[13] : KING    .BAS : 0 005 ko
+[14] : POKER   .BAS : 0 016 ko
+[15] : XENON   .BAS : 0 001 ko
+[16] : XENON1  .B�N : 0 024 ko
+[18] : XENON2  .B�N : 0 014 ko
+[19] : LASER   .C�C : 0 002 ko
+[20] : FAIRLSCR.P�W : 0 006 ko
+[21] : GOLIASCR.P�W : 0 006 ko
+[22] : XENONIMA.P�W : 0 009 ko
+Dsk 187 Ko used

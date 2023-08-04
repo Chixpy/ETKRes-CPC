@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : O0      .B�N : 0 006 ko
+[01] : O1      .B�N : 0 011 ko
+[02] : ORMUZ   .BAS : 0 013 ko
+[03] : MADNESS .BAS : 0 001 ko
+[04] : MADNESS .BIN : 0 033 ko
+[07] : MADNESS3.B�N : 0 005 ko
+[08] : MADNESS4.B�N : 0 005 ko
+[09] : LOPEARS1.B�N : 0 029 ko
+[11] : MADNESS5.B�N : 0 005 ko
+[12] : LOPEARS2.B�N : 0 017 ko
+[14] : MADNESS6.B�N : 0 005 ko
+[15] : MADNESS7.B�N : 0 005 ko
+[16] : LOPEARS .I�A : 0 007 ko
+[17] : LOPEARS .BAS : 0 001 ko
+[18] : MADNESS8.B�N : 0 005 ko
+[19] : MADNESS9.B�N : 0 005 ko
+[20] : DRAGONS .BAS : 0 001 ko
+[21] : DRAGONS .C�C : 0 022 ko
+[23] : DRAGONS .I�L : 0 004 ko
+[24] : MOTORIMA.P�W : 0 007 ko
+Dsk 187 Ko used

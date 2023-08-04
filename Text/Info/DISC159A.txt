@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MUTANZO1.B�N : 0 032 ko
+[02] : MUTANZO2.B�N : 0 017 ko
+[04] : MUTANZO3.B�N : 0 032 ko
+[06] : MUTANZO4.B�N : 0 017 ko
+[08] : MUTANZON.BAS : 0 001 ko
+[09] : PUFF    .BAS : 0 001 ko
+[10] : PUFF    .B�N : 0 033 ko
+[13] : PUFFIMA .P�W : 0 006 ko
+[14] : STRIPPOK.BAS : 0 010 ko
+[15] : STRIPPOK.B�N : 0 024 ko
+[17] : MUTANT  .I�L : 0 012 ko
+[18] : CALCULON.BAS : 0 002 ko
+Dsk 187 Ko used

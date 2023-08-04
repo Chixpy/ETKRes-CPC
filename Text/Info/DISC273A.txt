@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 4SOCCER .BAS : 0 001 ko
+[01] : 4SOCCER .B�N : 0 024 ko
+[03] : EYE     .BIN : 0 037 ko
+[06] : FINAL   .B�N : 0 006 ko
+[07] : MUSICA  .B�N : 0 003 ko
+[08] : TOMATOES.BAS : 0 002 ko
+[09] : TOMATOES.B�N : 0 033 ko
+[12] : TUAREG  .BAS : 0 001 ko
+[13] : TUAREG  .B�N : 0 040 ko
+[16] : JUMPJET .BAS : 0 006 ko
+[17] : JUMPJET .B�N : 0 013 ko
+[18] : CTRACKER.BIN : 0 005 ko
+[19] : TUAREIMA.P�W : 0 007 ko
+[20] : JUMPJSCR.P�W : 0 003 ko
+[21] : 4SOCCIMA.P�W : 0 006 ko
+Dsk 187 Ko used

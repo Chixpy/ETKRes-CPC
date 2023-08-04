@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PENDU   .BAS : 0 001 ko
+[01] : DESPERA2.BAS : 0 001 ko
+[02] : DESPERA2.L�1 : 0 039 ko
+[05] : DESPERA2.L�2 : 0 039 ko
+[08] : DEFCOM1 .0�1 : 0 020 ko
+[10] : DEFCOM1 .0�2 : 0 019 ko
+[12] : DEFCOM1 .0�3 : 0 017 ko
+[14] : DEFCOM1 .BAS : 0 001 ko
+[15] : DERVISH .BAS : 0 001 ko
+[16] : DERVISH .B�N : 0 029 ko
+[18] : DESPERA2.S�R : 0 004 ko
+[19] : DERVISH .S�R : 0 002 ko
+[20] : DEFCOM  .I�L : 0 007 ko
+[21] : NEMESIS4.BAS : 0 006 ko
+[22] : DEMO    .BAS : 0 001 ko
+Dsk 187 Ko used

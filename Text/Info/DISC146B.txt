@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PAPERBO2.BAS : 0 001 ko
+[01] : PAPERBO2.B�N : 0 038 ko
+[04] : PAPERBO2.M�S : 0 005 ko
+[05] : PAPERBO2.S�R : 0 009 ko
+[06] : SKINNER .BAS : 0 001 ko
+[07] : SKINNER .B�N : 0 035 ko
+[10] : SKINNIMA.P�W : 0 006 ko
+[11] : SPINDIZY.B�N : 0 036 ko
+[12] : SPINDY1 .B�N : 0 001 ko
+[15] : SPINDIZY.BAS : 0 001 ko
+[16] : ZUB     .BAS : 0 001 ko
+[17] : COL-DUMP.BAS : 0 005 ko
+[18] : ZUB     .B�N : 0 039 ko
+[21] : ZUBIMA  .P�W : 0 007 ko
+[22] : AZIMUT  .BIN : 0 002 ko
+Dsk 187 Ko used

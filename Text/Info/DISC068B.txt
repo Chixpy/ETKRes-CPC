@@ -1,0 +1,37 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SCHLUMPI.BAS : 0 006 ko
+[01] : MUSIQUE .B�N : 0 007 ko
+[02] : PHASER  .I�L : 0 009 ko
+[03] : PHASER  .BAS : 0 001 ko
+[04] : MENU    .B�N : 0 011 ko
+[05] : BARAK   .A�S : 0 016 ko
+[07] : SIDEB   .C�T : 0 001 ko
+[08] : SON     .B�N : 0 001 ko
+[09] : TBMASK  .B�N : 0 001 ko
+[10] : CANARD  .B�N : 0 005 ko
+[11] : CARTON  .B�N : 0 006 ko
+[12] : DATABALL.B�N : 0 004 ko
+[13] : DATACANA.B�N : 0 002 ko
+[14] : DATACART.B�N : 0 002 ko
+[15] : DATAJUNG.B�N : 0 004 ko
+[16] : DATAPIPE.B�N : 0 002 ko
+[17] : DECOBALL.C�T : 0 007 ko
+[18] : DECOCANA.C�T : 0 006 ko
+[19] : DECOCIBL.C�T : 0 005 ko
+[20] : DECOJUNG.C�T : 0 011 ko
+[21] : DECOLOTS.A�S : 0 016 ko
+[23] : FAME    .B�N : 0 003 ko
+[24] : HALLFAME.A�S : 0 016 ko
+[25] : BALLONS .B�N : 0 005 ko
+[26] : JUNGLE  .B�N : 0 006 ko
+[27] : LOT0    .C�T : 0 001 ko
+[28] : LOT1    .C�T : 0 001 ko
+[29] : LOT2    .C�T : 0 002 ko
+[30] : LOT3    .C�T : 0 002 ko
+[31] : LOT4    .C�T : 0 002 ko
+[32] : LOT5    .C�T : 0 001 ko
+[33] : PIPDECAM.C�T : 0 003 ko
+[34] : PIPES   .B�N : 0 006 ko
+[35] : REGLAGE .A�S : 0 016 ko
+Dsk 187 Ko used

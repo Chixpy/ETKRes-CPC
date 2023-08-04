@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TRUAND1 .B�S : 0 001 ko
+[01] : TOUTBIN .B�N : 0 035 ko
+[03] : WORLDSCR.P�W : 0 007 ko
+[04] : WORLD0  .B�N : 0 024 ko
+[06] : WORLD1  .B�N : 0 024 ko
+[08] : WORLD2  .B�N : 0 024 ko
+[10] : WORLD3  .B�N : 0 024 ko
+[12] : WORLD4  .B�N : 0 016 ko
+[13] : WORLDS  .BAS : 0 001 ko
+[15] : TONY    .BAS : 0 002 ko
+[16] : TONY    .S�N : 0 005 ko
+[17] : TRUAND  .B�S : 0 004 ko
+[18] : REMAKE3 .BAS : 0 012 ko
+[19] : BRAG    .BAS : 0 008 ko
+Dsk 187 Ko used

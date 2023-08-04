@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BADMAX  .BAS : 0 002 ko
+[01] : BADMAX  .T�T : 0 001 ko
+[02] : BADMAX1 .B�N : 0 041 ko
+[05] : SOCCPIN2.B�N : 0 009 ko
+[06] : SOCCPIN3.B�N : 0 009 ko
+[07] : SOCCPIN .BAS : 0 001 ko
+[08] : SOCCPIN1.B�N : 0 025 ko
+[10] : SOCCPIN .I�L : 0 005 ko
+[11] : CARSON  .BAS : 0 001 ko
+[12] : CARSON1 .B�N : 0 037 ko
+[15] : CARSON2 .B�N : 0 005 ko
+[16] : WIBSTARS.BAS : 0 001 ko
+[17] : WIBSTARS.B�N : 0 032 ko
+[19] : CARSOIMA.P�W : 0 005 ko
+[20] : WIBSTIMA.P�W : 0 006 ko
+[21] : BADMAIMA.P�W : 0 007 ko
+Dsk 187 Ko used

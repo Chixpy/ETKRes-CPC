@@ -1,0 +1,43 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SYS     .P�G : 0 005 ko
+[01] : PER     .P�G : 0 001 ko
+[02] : ANI4    .S�R : 0 001 ko
+[03] : PRE     .P�G : 0 004 ko
+[04] : ANI8    .S�R : 0 001 ko
+[05] : PER2    .P�G : 0 004 ko
+[06] : PRESENT .B�N : 0 005 ko
+[07] : IRONLORD.BAS : 0 001 ko
+[08] : PERSO4  .P�R : 0 008 ko
+[09] : DIAL1   .S�R : 0 004 ko
+[10] : PRE     .S�R : 0 014 ko
+[11] : PERSO1  .P�R : 0 007 ko
+[12] : PERSO2  .P�R : 0 008 ko
+[13] : PERSO9  .P�R : 0 008 ko
+[14] : DIAL2   .S�R : 0 004 ko
+[15] : PERSO5  .P�R : 0 008 ko
+[16] : PERSO3  .P�R : 0 008 ko
+[17] : PERSO7  .P�R : 0 008 ko
+[18] : PERSO8  .P�R : 0 008 ko
+[19] : ANI5    .S�R : 0 001 ko
+[20] : PER     .S�R : 0 004 ko
+[21] : DIAL3   .S�R : 0 004 ko
+[22] : DIAL4   .S�R : 0 004 ko
+[23] : DIAL5   .S�R : 0 003 ko
+[24] : DIAL6   .S�R : 0 004 ko
+[25] : DIAL7   .S�R : 0 004 ko
+[26] : DIAL8   .S�R : 0 003 ko
+[27] : DIAL9   .S�R : 0 004 ko
+[28] : SYS     .S�R : 0 003 ko
+[29] : TEX     .S�R : 0 001 ko
+[30] : OBJET   .S�R : 0 005 ko
+[31] : ANI6    .S�R : 0 001 ko
+[32] : TITLE2  .M�S : 0 004 ko
+[33] : TITLE   .M�S : 0 007 ko
+[34] : ANI2    .S�R : 0 001 ko
+[35] : ANI9    .S�R : 0 001 ko
+[36] : ANI3    .S�R : 0 001 ko
+[37] : ANI7    .S�R : 0 001 ko
+[38] : PERSO6  .P�R : 0 008 ko
+[41] : CODE    .B�N : 0 002 ko
+Dsk 173 Ko used

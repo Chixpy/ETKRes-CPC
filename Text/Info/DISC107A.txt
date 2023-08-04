@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BUBBLE  .BAS : 0 001 ko
+[01] : BOULTRA .BAS : 0 001 ko
+[02] : BOULTRA .B�N : 0 033 ko
+[05] : BUBBLE1 .B�N : 0 022 ko
+[07] : BUBBLE2 .B�N : 0 012 ko
+[08] : BUBBLE3 .B�N : 0 018 ko
+[09] : RESULTAT.    : 0 001 ko
+[11] : BUBBLE4 .B�N : 0 012 ko
+[12] : BUBBLE5 .B�N : 0 014 ko
+[13] : MM-COPY .B�N : 0 001 ko
+[14] : PAINT   .BAS : 0 010 ko
+[15] : BUBBLIMA.P�W : 0 004 ko
+[16] : TITAN   .BAS : 0 001 ko
+[17] : TITAN   .B�N : 0 040 ko
+[20] : BOULTSCR.P�W : 0 004 ko
+[21] : TITANSCR.P�W : 0 006 ko
+[22] : SPACEWAR.BAS : 0 007 ko
+Dsk 187 Ko used

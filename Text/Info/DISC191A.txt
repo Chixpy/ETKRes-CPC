@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EXTREME .BAS : 0 001 ko
+[01] : EXTREME1.B�N : 0 040 ko
+[04] : EXTREME2.B�N : 0 013 ko
+[05] : EXTRESCR.P�W : 0 010 ko
+[06] : GCOURSCR.P�W : 0 003 ko
+[07] : GCOURTS .BAS : 0 001 ko
+[08] : GCOURTS .B�N : 0 039 ko
+[11] : JBLADE1 .BIN : 0 040 ko
+[14] : JBLADE2 .BIN : 0 040 ko
+Dsk 187 Ko used

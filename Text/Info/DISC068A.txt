@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SHOGUN  .BAS : 0 001 ko
+[01] : BEARD   .BAS : 0 001 ko
+[02] : BEARD1  .B�N : 0 036 ko
+[04] : SHOGUN  .B�N : 0 039 ko
+[07] : SHOGUN  .C�M : 0 006 ko
+[08] : SHOGUN1 .B�N : 0 005 ko
+[10] : BEARD2  .B�N : 0 008 ko
+[11] : PLUIES  .BAS : 0 004 ko
+[12] : COPIEUR .BAS : 0 003 ko
+[13] : SSPRINT .BAS : 0 001 ko
+[14] : SPRINIMA.P�W : 0 007 ko
+[15] : SSPRINT .B�N : 0 035 ko
+[16] : TRAIL   .BAS : 0 001 ko
+[18] : TRAIL   .C�1 : 0 023 ko
+[20] : TRAIL   .C�2 : 0 006 ko
+[21] : TRAILIMA.P�W : 0 006 ko
+[23] : BLACKIMA.P�W : 0 005 ko
+Dsk 187 Ko used

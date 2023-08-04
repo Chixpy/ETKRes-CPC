@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DIZZY5  .BAS : 0 001 ko
+[01] : CRYSTAL1.B�N : 0 042 ko
+[04] : CRYSTAL2.B�N : 0 016 ko
+[05] : BLOKKER2.BAS : 0 002 ko
+[06] : SCRAMBLE.BAS : 0 001 ko
+[07] : SCRAMBLE.B�N : 0 039 ko
+[10] : SCRAMBLE.I�L : 0 006 ko
+[11] : SCRAMBLE.L�1 : 0 007 ko
+[12] : SCRAMBLE.L�2 : 0 004 ko
+[13] : SCRAMBLE.L�3 : 0 006 ko
+[14] : SCRAMBLE.L�4 : 0 005 ko
+[15] : SCRAMBLE.L�5 : 0 005 ko
+[16] : SCRAMBLE.L�6 : 0 006 ko
+[17] : SCRAMBLE.L�7 : 0 004 ko
+[18] : POWER   .BAS : 0 001 ko
+[19] : POWER   .B�N : 0 035 ko
+[22] : DIZY5IMA.P�W : 0 007 ko
+Dsk 187 Ko used

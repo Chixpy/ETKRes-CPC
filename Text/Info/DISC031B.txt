@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : XALK    .S�G : 0 001 ko
+[01] : MILLION .BAS : 0 015 ko
+[02] : ZYNAPKOM.P�W : 0 004 ko
+[03] : BANKMAN .B�N : 0 002 ko
+[04] : EDEN    .BAS : 0 001 ko
+[05] : STREAMER.BAS : 0 004 ko
+[06] : BLOOD   .BAS : 0 001 ko
+[07] : BLOOD   .B�N : 0 040 ko
+[08] : ZYNAPS  .BAS : 0 001 ko
+[09] : ZYNAPS  .B�N : 0 036 ko
+[11] : EDEN    .B�N : 0 039 ko
+[13] : TRIDIMEN.BAS : 0 010 ko
+[14] : XALK    .B�N : 0 001 ko
+[17] : XALK    .C�M : 0 004 ko
+[18] : XALK    .S�R : 0 003 ko
+[20] : XALK    .BAS : 0 005 ko
+[21] : SURPRISE.BIN : 0 001 ko
+[22] : EDENIMA .C�M : 0 004 ko
+[24] : JARRE   .B�N : 0 004 ko
+[25] : SCREEN1 .I�L : 0 004 ko
+[26] : SCREEN2 .I�L : 0 007 ko
+Dsk 187 Ko used
