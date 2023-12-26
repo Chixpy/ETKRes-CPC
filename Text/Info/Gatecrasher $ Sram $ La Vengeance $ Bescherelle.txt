@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SRAM    .006 : 0 030 ko
+[02] : SRAM    .BAS : 0 009 ko
+[03] : GATE1   .BAS : 0 004 ko
+[04] : GATE2   .BAS : 0 013 ko
+[05] : SRAM    .008 : 0 006 ko
+[06] : SRAM    .001 : 0 001 ko
+[07] : GATE3   .BIN : 0 010 ko
+[08] : VERBES  .BAS : 0 020 ko
+[09] : SRAM    .009 : 0 006 ko
+[10] : SRAM    .007 : 0 006 ko
+[11] : SRAM    .002 : 0 017 ko
+[14] : BESCH   .BAS : 0 001 ko
+[15] : DISC    .BAS : 0 001 ko
+[16] : SRAM    .003 : 0 018 ko
+[18] : PART    .BIN : 0 017 ko
+[20] : PART2   .BAS : 0 001 ko
+[21] : PART1   .BAS : 0 006 ko
+[22] : V       .BAS : 0 001 ko
+Dsk 167 Ko used

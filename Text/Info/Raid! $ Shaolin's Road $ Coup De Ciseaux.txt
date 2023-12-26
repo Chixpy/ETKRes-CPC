@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : 0       .    : 0 001 ko
+[01] : 1       .BAS : 0 001 ko
+[02] : 2       .    : 0 041 ko
+[05] : 3       .    : 0 004 ko
+[06] : RAID    .BAS : 0 001 ko
+[07] : SHAO-LIN.BAS : 0 002 ko
+[08] : SHAO-LIN.N01 : 0 014 ko
+[09] : SHAO-LIN.N02 : 0 038 ko
+[12] : SHAO-LIN.N03 : 0 005 ko
+[13] : PLAGE   .002 : 0 043 ko
+[16] : PLAGE   .001 : 0 003 ko
+[17] : PLAGE   .BAS : 0 002 ko
+[18] : ETUDIAN1.-   : 0 013 ko
+Dsk 168 Ko used

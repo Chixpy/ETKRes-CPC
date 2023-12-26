@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TITAN   .ECR : 0 017 ko
+[02] : TITAN   .SCR : 0 017 ko
+[04] : TITAN2  .BIN : 0 004 ko
+[05] : TITAN1  .BIN : 0 008 ko
+[06] : TITAN3  .BIN : 0 013 ko
+[07] : CALCUMA1.BIN : 0 018 ko
+[09] : CALCUMA2.BAS : 0 001 ko
+[10] : CALCUMAT.BAS : 0 001 ko
+[11] : ASTRO   .BAS : 0 001 ko
+[12] : ASTRO   .SCR : 0 017 ko
+[14] : ASTRO   .PRG : 0 037 ko
+[17] : TITAN   .BAS : 0 001 ko
+[18] : MMONTY  .BAS : 0 001 ko
+[19] : MMONTY2 .BIN : 0 007 ko
+[20] : MMONTY1 .BIN : 0 029 ko
+Dsk 172 Ko used

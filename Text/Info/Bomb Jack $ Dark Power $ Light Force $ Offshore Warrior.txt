@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DARK    .BAS : 0 001 ko
+[01] : DARK0   .BIN : 0 005 ko
+[02] : DARK2   .BIN : 0 010 ko
+[03] : DARK1   .BIN : 0 008 ko
+[04] : OFF     .BIN : 0 033 ko
+[07] : OFFSHORE.BAS : 0 001 ko
+[08] : OFF     .SCR : 0 017 ko
+[10] : BOMBJACK.�AS : 0 003 ko
+[12] : BOMBJACK.�RG : 0 035 ko
+[15] : BOMBJACK.�CR : 0 008 ko
+[16] : LIGHT   .BAS : 0 001 ko
+[17] : LIGHT2  .BIN : 0 036 ko
+[20] : LIGHT   .SCR : 0 008 ko
+[21] : CHICAGO .�   : 0 003 ko
+Dsk 169 Ko used

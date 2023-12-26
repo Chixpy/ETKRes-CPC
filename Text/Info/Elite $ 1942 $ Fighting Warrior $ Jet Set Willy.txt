@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : JET     .BAS : 0 001 ko
+[01] : JET2    .BIN : 0 017 ko
+[03] : JET3    .BIN : 0 014 ko
+[04] : JET1    .BIN : 0 013 ko
+[05] : ELITE   .BAS : 0 001 ko
+[06] : 1942    .BIN : 0 042 ko
+[09] : FW      .BAS : 0 001 ko
+[10] : DON     .BIN : 0 028 ko
+[12] : CODE    .BIN : 0 009 ko
+[13] : SCREEN  .BIN : 0 017 ko
+Dsk 143 Ko used

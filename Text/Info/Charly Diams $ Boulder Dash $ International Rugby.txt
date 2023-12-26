@@ -1,0 +1,213 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : Sector size [14336] differs from the amount of data found [62365], enlarge data part
+Error while reading CPCEmuSect.Data error :unexpected EOF
+Error track (3) error :unexpected EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (4) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (5) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (6) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (7) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (8) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (9) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (10) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (11) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (12) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (13) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (14) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (15) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (16) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (17) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (18) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (19) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (20) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (21) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (22) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (23) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (24) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (25) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (26) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (27) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (28) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (29) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (30) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (31) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (32) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (33) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (34) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (35) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (36) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (37) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (38) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (39) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 1 start at sector 121 while track 0 starts at 65
+Warning : track 2 start at sector 0 while track 0 starts at 65
+Warning : track 3 start at sector 255 while track 0 starts at 65
+Warning : track 4 start at sector 255 while track 0 starts at 65
+Warning : track 5 start at sector 255 while track 0 starts at 65
+Warning : track 6 start at sector 255 while track 0 starts at 65
+Warning : track 7 start at sector 255 while track 0 starts at 65
+Warning : track 8 start at sector 255 while track 0 starts at 65
+Warning : track 9 start at sector 255 while track 0 starts at 65
+Warning : track 10 start at sector 255 while track 0 starts at 65
+Warning : track 11 start at sector 255 while track 0 starts at 65
+Warning : track 12 start at sector 255 while track 0 starts at 65
+Warning : track 13 start at sector 255 while track 0 starts at 65
+Warning : track 14 start at sector 255 while track 0 starts at 65
+Warning : track 15 start at sector 255 while track 0 starts at 65
+Warning : track 16 start at sector 255 while track 0 starts at 65
+Warning : track 17 start at sector 255 while track 0 starts at 65
+Warning : track 18 start at sector 255 while track 0 starts at 65
+Warning : track 19 start at sector 255 while track 0 starts at 65
+Warning : track 20 start at sector 255 while track 0 starts at 65
+Warning : track 21 start at sector 255 while track 0 starts at 65
+Warning : track 22 start at sector 255 while track 0 starts at 65
+Warning : track 23 start at sector 255 while track 0 starts at 65
+Warning : track 24 start at sector 255 while track 0 starts at 65
+Warning : track 25 start at sector 255 while track 0 starts at 65
+Warning : track 26 start at sector 255 while track 0 starts at 65
+Warning : track 27 start at sector 255 while track 0 starts at 65
+Warning : track 28 start at sector 255 while track 0 starts at 65
+Warning : track 29 start at sector 255 while track 0 starts at 65
+Warning : track 30 start at sector 255 while track 0 starts at 65
+Warning : track 31 start at sector 255 while track 0 starts at 65
+Warning : track 32 start at sector 255 while track 0 starts at 65
+Warning : track 33 start at sector 255 while track 0 starts at 65
+Warning : track 34 start at sector 255 while track 0 starts at 65
+Warning : track 35 start at sector 255 while track 0 starts at 65
+Warning : track 36 start at sector 255 while track 0 starts at 65
+Warning : track 37 start at sector 255 while track 0 starts at 65
+Warning : track 38 start at sector 255 while track 0 starts at 65
+Warning : track 39 start at sector 255 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+Warning : track 43 start at sector 255 while track 0 starts at 65
+Warning : track 44 start at sector 255 while track 0 starts at 65
+[00] : �1031.wr : 8 001 ko
+[01] : 010�bw.� : 51 031 ko
+[02] : 0����.�� : 119 030 ko
+[03] : XN����.�� : 246 001 ko
+[04] : ��0���.�� : 240 002 ko
+[05] : ����.� : 252 006 ko
+[06] : ��0���.�� : 1 026 ko
+[07] : ����.�� : 240 028 ko
+[08] : 0�����.� : 255 026 ko
+[09] : �����.�0 : 15 001 ko
+[10] : 0�����O.� : 6 030 ko
+[11] : �����.�� : 192 025 ko
+[12] : �����.0� : 192 026 ko
+[13] : ��XN�.0�0 : 240 006 ko
+[14] : 0�0010.1X : 48 026 ko
+[15] : 0�XNr�."XN : 49 000 ko
+[16] : RUG107  .��N : 0 004 ko
+[17] : RUGGER  .BAS : 0 014 ko
+[18] : 3DTENNIS.BIN : 0 001 ko
+[19] : TENNIS1 .��N : 0 015 ko
+[20] : TENNIS2 .��N : 0 055 ko
+[24] : 0Jy�J8�.� : 193 016 ko
+[25] : >A�\>�.\> : 12 003 ko
+[26] : >���
+(.D : 247 016 ko
+[27] : �
+z�(.�x : 33 060 ko
+[28] : 
+T(�^.�
+ : 0 001 ko
+[29] : T
+
+^T
+.
+T : 2 003 ko
+[30] : ������.��
+ : 84 004 ko
+[31] : ���
+
+
+.
+
+ : 2 018 ko
+[48] : ������
+
+.
+^ : 162 003 ko
+[49] : �
+A�
+�.�
+ : 17 002 ko
+[50] : 
+���.
+� : 3 001 ko
+[51] : �Ã
+A.�� : 8 025 ko
+[52] : A�
+A.� : 0 001 ko
+[53] : 
+.
+ : 2 001 ko
+[54] : 
+
+.
+ : 3 002 ko
+[55] : ���
+��.
+� : 0 032 ko
+[56] : 
+A��.
+� : 15 010 ko
+[57] : C��.Ã : 195 031 ko
+[58] : 
+J��.
+@� : 130 001 ko
+[59] : ������.� : 192 024 ko
+[60] : ��HJ.�Q : 6 002 ko
+[61] : J��Q�.��� : 72 002 ko
+[62] : Q�H�.[� : 133 030 ko
+[63] : A
+���.�^^ : 3 032 ko
+Dsk 674 Ko used

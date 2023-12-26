@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TRANSFER.BIN : 0 001 ko
+[01] : TURBO   .BAS : 0 001 ko
+[02] : COMPSCR .TT  : 0 006 ko
+[03] : MAINLOAD.TT  : 0 016 ko
+[04] : BLOCKS  .TT  : 0 004 ko
+[05] : LEVEL1H .TT  : 0 001 ko
+[06] : LEVEL1D .TT  : 0 015 ko
+[07] : LEVEL2H .TT  : 0 001 ko
+[08] : LEVEL2D .TT  : 0 015 ko
+[09] : LEVEL3H .TT  : 0 001 ko
+[10] : LEVEL3D .TT  : 0 015 ko
+[11] : LIFE    .BAS : 0 002 ko
+[12] : LIFE    .BIN : 0 001 ko
+Dsk 079 Ko used

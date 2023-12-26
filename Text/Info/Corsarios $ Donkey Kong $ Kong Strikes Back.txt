@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CORSAIRE.��S : 0 022 ko
+[02] : CORSARIO.��1 : 0 041 ko
+[05] : CORSARIO.��2 : 0 041 ko
+[08] : KONGJEU .B�S : 0 033 ko
+[11] : DONKEY  . �  : 0 001 ko
+[12] : DONKEY  .B�K : 0 010 ko
+[13] : DONKEY  .B�N : 0 027 ko
+[15] : MENU    .B�K : 0 001 ko
+[16] : MENU    .2�2 : 0 001 ko
+[17] : MENU    .    : 0 001 ko
+Dsk 178 Ko used

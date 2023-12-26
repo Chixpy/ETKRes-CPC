@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : VOITURE .GXC : 0 001 ko
+[01] : BATMAN3 .BIN : 0 019 ko
+[03] : BATMAN3 .TB2 : 0 029 ko
+[05] : VOITURE .GXE : 0 017 ko
+[06] : BATMAN3 .TB1 : 0 030 ko
+[08] : BATMAN3 .TB3 : 0 027 ko
+[11] : RELIEF3 .BAS : 0 018 ko
+[13] : SURF2   .BAS : 0 001 ko
+[14] : SURF3   .BAS : 0 001 ko
+[15] : SURF    .BAS : 0 001 ko
+[16] : SURF1   .BAS : 0 001 ko
+[18] : ROUT    .BIN : 0 002 ko
+[19] : LECDEC  .BIN : 0 001 ko
+[21] : RELIEF2 .BAS : 0 018 ko
+[23] : SURFACE .BAS : 0 001 ko
+[24] : SURFACE .BAK : 0 002 ko
+Dsk 169 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ANGE    .BIN : 0 014 ko
+[01] : ANGE0   .BIN : 0 001 ko
+[02] : ANGE1   .BIN : 0 017 ko
+[04] : ANGE2   .BIN : 0 017 ko
+[06] : ANGE5   .BIN : 0 010 ko
+[07] : A       .BIN : 0 017 ko
+[09] : B       .BIN : 0 014 ko
+[10] : BATTY   .BAS : 0 002 ko
+[11] : SOLAR   .BAS : 0 005 ko
+[12] : SOLAR   .BIN : 0 007 ko
+[13] : SOLAR1  .BIN : 0 009 ko
+[14] : ANGE3   .BIN : 0 017 ko
+[16] : ANGE4   .BIN : 0 017 ko
+[18] : ANGE6   .BIN : 0 031 ko
+Dsk 178 Ko used

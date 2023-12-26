@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 3 start at sector 65 while track 0 starts at 193
+[00] : 
+
+
+
+
+
+
+
+.��N : 0 025 ko
+[02] : DISC    .BIN : 0 001 ko
+[03] : A       .BAK : 0 001 ko
+[04] : M       .BAK : 0 001 ko
+[05] : M       .BAS : 0 001 ko
+[06] : ASPHALT .    : 0 001 ko
+[07] : ASPHALT .ECR : 0 036 ko
+[10] : ASPHALT .GAM : 0 042 ko
+[13] : 3DFIGHT .BIN : 0 023 ko
+[14] : A       .BAS : 0 001 ko
+Dsk 132 Ko used

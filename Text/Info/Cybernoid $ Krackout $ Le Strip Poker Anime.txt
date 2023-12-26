@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : POK2    .BA1 : 0 016 ko
+[01] : POK3    .BIN : 0 022 ko
+[03] : POK4    .BIN : 0 001 ko
+[04] : STRIP   .BAS : 0 002 ko
+[05] : STARQUAK.BIN : 0 042 ko
+[08] : KRAKOUT .BAS : 0 001 ko
+[09] : KRAKOUT1.BIN : 0 033 ko
+[12] : KRAKOUT2.BIN : 0 017 ko
+[14] : KRAKOUT3.BIN : 0 001 ko
+[15] : CYBER   .    : 0 001 ko
+[16] : CYBER1  .    : 0 001 ko
+[17] : CYBER2  .    : 0 026 ko
+[19] : CYBER3  .    : 0 015 ko
+Dsk 178 Ko used

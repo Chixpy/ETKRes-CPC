@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MAGMAX  .BAS : 0 001 ko
+[01] : MAG     .VIE : 0 001 ko
+[02] : MAG-MAX .BAS : 0 001 ko
+[03] : MAG-MAX .ECR : 0 017 ko
+[05] : MAG-MAX .BIN : 0 034 ko
+[07] : ROBIN   .BAS : 0 013 ko
+[08] : ROBIN   .BIN : 0 040 ko
+[15] : MACADAM .BIN : 0 001 ko
+[16] : MACADAM .SCR : 0 010 ko
+[17] : MACADAM1.COD : 0 043 ko
+[21] : PACMAN  .BIN : 0 005 ko
+[22] : PACMAN  .BAS : 0 004 ko
+Dsk 170 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMC     .0�0 : 0 016 ko
+[01] : AMC     .1�1 : 0 032 ko
+[04] : AMC     .1�2 : 0 017 ko
+[06] : AMC     .2�1 : 0 032 ko
+[09] : AMC     .2�2 : 0 017 ko
+[11] : AMC     .S�S : 0 002 ko
+[12] : AMC     . �  : 0 002 ko
+[13] : MENU    .B�K : 0 001 ko
+[14] : JEDI    .B�S : 0 024 ko
+[16] : JEDI    .B�N : 0 030 ko
+[18] : MENU    .B�S : 0 001 ko
+[19] : MENU1   . �  : 0 001 ko
+[20] : MENU2   .B�K : 0 001 ko
+[21] : MENU2   .B�S : 0 001 ko
+[22] : MENU    .    : 0 001 ko
+Dsk 178 Ko used

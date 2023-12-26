@@ -1,0 +1,59 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 6       .SCR : 0 016 ko
+[01] : BIG     .BAS : 0 001 ko
+[02] : CODE    .BAS : 0 001 ko
+[03] : CRISTAUX.BAS : 0 001 ko
+[04] : CUBE    .BAS : 0 002 ko
+[05] : DIGITPOR.BIN : 0 017 ko
+[07] : EFFET-3D.BAS : 0 004 ko
+[08] : FEUILLE .BAS : 0 001 ko
+[09] : FRANCE  .BAS : 0 001 ko
+[10] : GALAC2  .BIN : 0 026 ko
+[12] : GALAXIA .BAS : 0 002 ko
+[13] : HYMNE   .BAS : 0 001 ko
+[14] : JARRE   .BAS : 0 002 ko
+[15] : MENU    .BAS : 0 003 ko
+[16] : MUSI11  .BAS : 0 002 ko
+[17] : MUSIC   .    : 0 009 ko
+[18] : MUSIC   .BAS : 0 006 ko
+[19] : MUSIC2  .    : 0 004 ko
+[20] : MUSIC2  .BAS : 0 004 ko
+[21] : MUSICORE.002 : 0 001 ko
+[22] : MUSICORE.003 : 0 001 ko
+[23] : MUSICORE.004 : 0 001 ko
+[24] : MUSICORE.005 : 0 001 ko
+[25] : MUSICORE.006 : 0 001 ko
+[26] : MUSIDATA.BAS : 0 001 ko
+[27] : MUSIDIGI.BAS : 0 009 ko
+[28] : MUSIQUE .BAS : 0 001 ko
+[29] : OMLET   .BAS : 0 001 ko
+[30] : PELOTE  .BAS : 0 001 ko
+[31] : POUIC   .BAS : 0 001 ko
+[32] : RENEVIES.BAS : 0 001 ko
+[33] : RONDCOUL.BAS : 0 001 ko
+[34] : SAUVE8  .    : 0 001 ko
+[35] : SAUVE5  .    : 0 001 ko
+[36] : STOMBOSC.BAS : 0 001 ko
+[37] : TABLES  .BAS : 0 001 ko
+[38] : TOUPIE  .BAS : 0 001 ko
+[39] : USA     .BAS : 0 001 ko
+[40] : WHO133  .    : 0 001 ko
+[42] : WHO1333 .    : 0 002 ko
+[44] : CARACTER.VEN : 0 001 ko
+[45] : RECUP-D .BIN : 0 002 ko
+[46] : RECUP-V .BIN : 0 002 ko
+[47] : SCGZB2  .BIN : 0 002 ko
+[48] : SCGZB   .BIN : 0 002 ko
+[49] : SCGZB3  .BIN : 0 002 ko
+[50] : SCROL   .    : 0 001 ko
+[51] : SCROL   .BIN : 0 001 ko
+[52] : VUMETRE .BAS : 0 004 ko
+[53] : VUMETRE .BI2 : 0 001 ko
+[54] : VUMETRE .BI4 : 0 002 ko
+[55] : VUMETRE .BI3 : 0 001 ko
+[56] : VUMETRE .BI1 : 0 001 ko
+[58] : OBSCENE .�AS : 0 001 ko
+[59] : OBSCEDE .�AS : 0 001 ko
+[60] : SOMXAY  .BAS : 0 005 ko
+Dsk 162 Ko used

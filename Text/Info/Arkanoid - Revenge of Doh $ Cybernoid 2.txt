@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ARKANO  .BIN : 0 035 ko
+[03] : ARKANO2 .BIN : 0 007 ko
+[04] : ARKANO4 .BIN : 0 007 ko
+[05] : ARKANO1 .BIN : 0 007 ko
+[06] : ARKANO3 .BIN : 0 007 ko
+[07] : A       .BAS : 0 001 ko
+[08] : CYBER   .BI2 : 0 009 ko
+[09] : CYBER2  .BAS : 0 001 ko
+[10] : SCREEN  .BIN : 0 017 ko
+[12] : CYBER   .BI1 : 0 041 ko
+[15] : CYBER   .ECR : 0 016 ko
+[16] : GRUGEUR .BAK : 0 001 ko
+[17] : GRUGEUR .BAS : 0 002 ko
+[19] : CPCREC  .BAS : 0 002 ko
+[20] : SLOWSEND.BAS : 0 002 ko
+[21] : ZEICHEN9.BIN : 0 001 ko
+[22] : CPCPARA .BAS : 0 005 ko
+[25] : ROMGET  .BAS : 0 003 ko
+Dsk 164 Ko used

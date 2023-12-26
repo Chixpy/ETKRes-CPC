@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SNOOPY  .1   : 0 006 ko
+[01] : SNOOPY  .2   : 0 039 ko
+[04] : SNOOPY  .BAS : 0 001 ko
+[05] : GRYZOR  .BAS : 0 001 ko
+[06] : GRYZOR  .LDR : 0 001 ko
+[07] : GRYZOR1 .BNK : 0 017 ko
+[09] : GRYZOR2 .BNK : 0 017 ko
+[11] : GRYZOR3 .BNK : 0 017 ko
+[13] : GRYZOR4 .BNK : 0 017 ko
+[15] : GRYZOR2 .LDR : 0 001 ko
+[16] : GRYZOR1 .BIN : 0 016 ko
+[17] : GRYZOR2 .BIN : 0 013 ko
+[18] : GRYZOR3 .BIN : 0 009 ko
+[19] : GRYZOR  .SCN : 0 017 ko
+Dsk 172 Ko used

@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Warning : track 3 start at sector 65 while track 0 starts at 193
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+[00] : 
+
+
+
+
+
+
+
+.��N : 0 025 ko
+[02] : ZYNAPS  .B�N : 0 037 ko
+[05] : ZYNAPS  .BAS : 0 001 ko
+[06] : LF      .BIN : 0 008 ko
+[07] : LF      .��N : 8 036 ko
+[10] : NETHE1  .B�N : 0 033 ko
+[13] : NW      .BAS : 0 001 ko
+[14] : NETHLOAD.B�N : 0 001 ko
+[15] : NETHSC  .B�N : 0 017 ko
+[17] : NETHE2  .B�N : 0 016 ko
+Dsk 175 Ko used

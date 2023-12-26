@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : CODE1   .BIN : 0 006 ko
+[01] : TOTAPE  .BIN : 0 001 ko
+[02] : HIGHWAY .BIN : 0 039 ko
+[03] : VIE     .BAS : 0 001 ko
+[04] : CODE2   .BIN : 0 034 ko
+[05] : D1      .BIN : 0 001 ko
+[08] : CODE3   .BIN : 0 016 ko
+[09] : D2      .BIN : 0 001 ko
+[10] : CODE4   .BIN : 0 033 ko
+[12] : LOADER  .BIN : 0 001 ko
+[13] : D2      .BAS : 0 001 ko
+[16] : HIGHWAY .BAS : 0 001 ko
+[18] : DISC    .BAS : 0 001 ko
+[20] : VOIT    .PAL : 0 001 ko
+[21] : VOIT    .SCR : 0 017 ko
+[22] : TOTAPE  .BAS : 0 001 ko
+Dsk 155 Ko used

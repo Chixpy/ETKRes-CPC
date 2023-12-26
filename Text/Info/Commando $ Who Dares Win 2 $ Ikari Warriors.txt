@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DARES   .BAS : 0 001 ko
+[01] : DARES0  .BIN : 0 001 ko
+[02] : DARES1  .BIN : 0 025 ko
+[04] : DARES2  .BIN : 0 017 ko
+[06] : DARES3  .BIN : 0 005 ko
+[07] : IKARI   .BAS : 0 001 ko
+[08] : IKARI   .BID : 0 001 ko
+[09] : IKARI   .BIN : 0 036 ko
+[12] : IKARI   .SCR : 0 014 ko
+[13] : COM1    .BIN : 0 007 ko
+[14] : COM2    .BIN : 0 023 ko
+[16] : COM3    .BIN : 0 012 ko
+[17] : COM4    .BIN : 0 014 ko
+[18] : COMMANDO.BAS : 0 001 ko
+[19] : COMMANDO.BIN : 0 001 ko
+Dsk 159 Ko used

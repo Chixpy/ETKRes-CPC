@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MICKEY  .BI1 : 0 001 ko
+[01] : MICKEY  .BI2 : 0 009 ko
+[02] : MICKEY  .BI3 : 0 004 ko
+[03] : MICKEY  .BI4 : 0 003 ko
+[04] : MICKEY  .BI5 : 0 001 ko
+[05] : MICKEY  .BI6 : 0 007 ko
+[06] : MICKEY  .BI7 : 0 020 ko
+[08] : MICKEY  .BI8 : 0 004 ko
+[09] : MICKEY  .BIA : 0 001 ko
+[10] : MICKEY  .BIN : 0 001 ko
+[11] : MICKEY  .LV1 : 0 005 ko
+[12] : MICKEY  .LV2 : 0 005 ko
+[13] : MICKEY  .BI9 : 0 017 ko
+[15] : MICKEY  .LV3 : 0 005 ko
+[16] : MICKEY  .LV4 : 0 005 ko
+[17] : MICKEY  .LV5 : 0 012 ko
+[18] : SHANGHAI.BAS : 0 013 ko
+[19] : DIZZY   .BIN : 0 001 ko
+[20] : DIZZYFL0.BIN : 0 001 ko
+[21] : DIZZYFL1.BIN : 0 017 ko
+[23] : DIZZYFL2.BIN : 0 042 ko
+Dsk 174 Ko used

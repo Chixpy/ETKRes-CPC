@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DRILL   .B�N : 0 035 ko
+[03] : DRILLER .�IN : 0 001 ko
+[04] : DSCN1   .B�N : 0 017 ko
+[06] : DSCN2   .B�N : 0 017 ko
+[08] : ECLIPSE .�IN : 0 001 ko
+[09] : TE      .B�N : 0 001 ko
+[10] : TECODE  .B�N : 0 035 ko
+[13] : TECON   .S�R : 0 017 ko
+[15] : TESCR   .S�R : 0 017 ko
+Dsk 141 Ko used

@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GHOST   .BIN : 0 037 ko
+[03] : DISC    .�AS : 0 001 ko
+[05] : MEANPRO .��N : 0 001 ko
+[06] : CODE    .BIN : 0 036 ko
+[08] : M       .BAS : 0 001 ko
+[16] : P       .BIN : 0 017 ko
+[18] : SNOOK   .BIN : 0 017 ko
+[20] : SNOOKER .BIN : 0 003 ko
+[22] : K       .BAS : 0 001 ko
+Dsk 114 Ko used

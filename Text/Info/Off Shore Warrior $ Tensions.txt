@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEmuSect.Data error :unexpected EOF
+Error track (40) error :unexpected EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : POKER0  .BIN : 0 017 ko
+[02] : POKER2  .BIN : 0 019 ko
+[04] : POKER3  .BIN : 0 002 ko
+[05] : POKER1  .BIN : 0 018 ko
+[07] : POKER   .BIN : 0 024 ko
+[16] : CODE    .    : 0 033 ko
+[19] : OFFSHORE.    : 0 001 ko
+Dsk 114 Ko used

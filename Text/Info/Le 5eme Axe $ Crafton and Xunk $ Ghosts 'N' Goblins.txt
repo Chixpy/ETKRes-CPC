@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CRAFTON .464 : 0 001 ko
+[01] : GOBLINS .COM : 0 014 ko
+[02] : GOBLINS .BAS : 0 001 ko
+[03] : GOBLINS .BIN : 0 036 ko
+[06] : 5A      .BAS : 0 020 ko
+[07] : CRAFTON .BAS : 0 001 ko
+[08] : CRAFTON .BIN : 0 001 ko
+[09] : CRAFTON1.BIN : 0 017 ko
+[11] : CRAFTON2.BIN : 0 042 ko
+[14] : CRAFTON3.BIN : 0 008 ko
+[16] : AXE     .BAS : 0 037 ko
+Dsk 178 Ko used

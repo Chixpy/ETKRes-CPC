@@ -1,0 +1,42 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : -EDITEUR.BIN : 0 005 ko
+[01] : -MEGA   .BIN : 0 008 ko
+[02] : -VOCA   .BAS : 0 002 ko
+[03] : -VOCAEX .BAS : 0 001 ko
+[04] : CAT     .BAS : 0 001 ko
+[05] : CATEDIT .BIN : 0 010 ko
+[06] : ID      .BIN : 0 001 ko
+[07] : CATA    .BIN : 0 004 ko
+[08] : FAME    .    : 0 001 ko
+[09] : SGAME4  .BIN : 0 002 ko
+[10] : SLDAT4  .BIN : 0 001 ko
+[11] : ED      .BIN : 0 008 ko
+[12] : EX1     .BAS : 0 001 ko
+[13] : EX2     .BAS : 0 001 ko
+[14] : FICS    .BIN : 0 005 ko
+[15] : MEGA    .EC1 : 0 010 ko
+[16] : MEGA    .EC2 : 0 008 ko
+[17] : MEGA    .EC3 : 0 009 ko
+[18] : MEGA    .EC4 : 0 012 ko
+[19] : MEGA    .EC5 : 0 006 ko
+[20] : MEGA    .LOD : 0 001 ko
+[21] : MEGA    .RSX : 0 002 ko
+[22] : MENU    .BIN : 0 004 ko
+[23] : SGAME1  .BIN : 0 002 ko
+[24] : SLDAT1  .BIN : 0 001 ko
+[25] : SGAME2  .BIN : 0 002 ko
+[26] : SLDAT2  .BIN : 0 001 ko
+[27] : RAPIDE  .BAS : 0 001 ko
+[28] : RASTER  .BIN : 0 003 ko
+[29] : RASTER2 .BIN : 0 003 ko
+[30] : RT      .BAS : 0 002 ko
+[31] : SOS     .SEQ : 0 003 ko
+[33] : SYNT    .BIN : 0 006 ko
+[35] : UTIL    .BIN : 0 007 ko
+[36] : VOCA    .BIN : 0 013 ko
+[37] : -VUMETRE.BIN : 0 025 ko
+Dsk 172 Ko used

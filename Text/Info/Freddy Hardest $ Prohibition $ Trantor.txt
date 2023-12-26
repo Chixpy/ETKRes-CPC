@@ -1,0 +1,11 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FRED1   .BIN : 0 032 ko
+[02] : FRED2   .BIN : 0 038 ko
+[05] : TRANT2  .BIN : 0 009 ko
+[06] : TRANT3  .BIN : 0 032 ko
+[08] : TRANTOR .BIN : 0 015 ko
+[09] : TRANTOR .BAS : 0 001 ko
+[10] : PROHIB  .BIN : 0 009 ko
+[11] : PROHIB1 .BIN : 0 040 ko
+Dsk 176 Ko used

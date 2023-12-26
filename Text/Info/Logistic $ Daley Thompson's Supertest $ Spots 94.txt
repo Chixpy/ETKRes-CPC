@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : F0      .BIN : 0 035 ko
+[03] : F1      .BIN : 0 035 ko
+[06] : F2      .BIN : 0 004 ko
+[07] : F3      .BIN : 0 004 ko
+[08] : F4      .BIN : 0 004 ko
+[09] : F5      .BIN : 0 004 ko
+[10] : F6      .BIN : 0 004 ko
+[11] : F7      .BIN : 0 004 ko
+[12] : F8      .BIN : 0 004 ko
+[13] : F9      .BIN : 0 004 ko
+[14] : FA      .BIN : 0 002 ko
+[15] : FB      .BIN : 0 001 ko
+[16] : FC      .BIN : 0 017 ko
+[18] : LOGISTIC.BAS : 0 001 ko
+[19] : LOGISTIC.BIN : 0 020 ko
+[21] : SPOTS94 .BAS : 0 001 ko
+[22] : SPOTS94 .BIN : 0 028 ko
+[24] : TEST    .1   : 0 001 ko
+[25] : TEST    .BAS : 0 001 ko
+[26] : -LUPIN  .BIN : 0 009 ko
+Dsk 183 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 5       .    : 0 002 ko
+[01] : INDIANA3.SCN : 0 011 ko
+[02] : INDIANA3.BIN : 0 034 ko
+[05] : BUMPY   .BAS : 0 001 ko
+[06] : DATADEMO.BIN : 0 001 ko
+[07] : DP      .BIN : 0 017 ko
+[09] : HALL    .BIN : 0 017 ko
+[11] : LOADER  .BAS : 0 001 ko
+[12] : MB      .BIN : 0 006 ko
+[13] : PAGEJEU .BIN : 0 005 ko
+[14] : TABLEAUX.LOR : 0 008 ko
+[15] : PAGEDIT .BIN : 0 005 ko
+[16] : LOADER  .BIN : 0 002 ko
+[17] : HS      .BIN : 0 001 ko
+[18] : DATAPROG.BIN : 0 011 ko
+[19] : BUMPY   .RUN : 0 014 ko
+[20] : AFFHS   .BIN : 0 003 ko
+Dsk 139 Ko used

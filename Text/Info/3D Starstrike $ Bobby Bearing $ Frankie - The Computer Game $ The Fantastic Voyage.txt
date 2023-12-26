@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : VOYAGE2 .BIN : 0 037 ko
+[03] : BC1     .BIN : 0 021 ko
+[05] : BC2     .BIN : 0 017 ko
+[07] : FRANKIE .BAS : 0 001 ko
+[08] : FRANKIE .BIN : 0 042 ko
+[10] : VOYAGE  .BAS : 0 002 ko
+[11] : BOB     .COM : 0 008 ko
+[13] : FRANKIE .COM : 0 006 ko
+[14] : CODE    .BIN : 0 032 ko
+[16] : SETUP   .BIN : 0 005 ko
+[17] : STAR    .BAS : 0 001 ko
+[19] : BOB     .BAS : 0 001 ko
+Dsk 173 Ko used

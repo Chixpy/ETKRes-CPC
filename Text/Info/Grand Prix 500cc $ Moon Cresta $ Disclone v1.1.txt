@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GP1     .BIN : 0 037 ko
+[03] : GP0     .BIN : 0 018 ko
+[05] : GP      .BAS : 0 006 ko
+[06] : DISCLONE.BAS : 0 002 ko
+[07] : DISCODE .ODJ : 0 006 ko
+[08] : CRESTA  .BAS : 0 001 ko
+[09] : CRESTA  .BIN : 0 033 ko
+[12] : CRESTA  .ECR : 0 017 ko
+[14] : CRESTA  .BAK : 0 001 ko
+[15] : CRESTA  .LOD : 0 001 ko
+Dsk 122 Ko used

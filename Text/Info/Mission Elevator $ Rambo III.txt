@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ELEVATOR.BIN : 0 012 ko
+[01] : ELEVATOR.CO1 : 0 041 ko
+[04] : ELEVATOR.CO2 : 0 004 ko
+[05] : RAMBO3  .    : 0 006 ko
+[06] : RAMBO3  .BAS : 0 001 ko
+[07] : RAMBO3  .BI1 : 0 017 ko
+[09] : RAMBO3  .BI2 : 0 017 ko
+[11] : RAMBO3  .BI3 : 0 017 ko
+[13] : RAMBO3  .BI4 : 0 017 ko
+[15] : RAMBO3  .BI5 : 0 044 ko
+Dsk 176 Ko used

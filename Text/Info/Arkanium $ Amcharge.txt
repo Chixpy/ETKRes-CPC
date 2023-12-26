@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TOAD    .�IN : 0 001 ko
+[01] : TOD     .�IN : 0 037 ko
+[04] : SCRN    .�CN : 0 017 ko
+[06] : RUN     .BAS : 0 004 ko
+[07] : STAR    .BIN : 0 001 ko
+[08] : ARKANIUM.BAS : 0 001 ko
+[09] : STAR1   .BIN : 0 007 ko
+[10] : STAR2   .BIN : 0 028 ko
+[12] : BRIQUES .BIN : 0 003 ko
+[13] : BRIQUES .SCR : 0 008 ko
+[14] : BRIQUES2.BIN : 0 003 ko
+[15] : BRIQUES2.SCR : 0 009 ko
+[16] : BRIQUES3.BIN : 0 003 ko
+[17] : BRIQUES3.SCR : 0 009 ko
+[18] : BRIQUES4.BIN : 0 003 ko
+[19] : BRIQUES4.SCR : 0 012 ko
+[20] : BRIQUES5.BIN : 0 003 ko
+[21] : BRIQUES5.SCR : 0 010 ko
+[22] : AMCH    .BIN : 0 002 ko
+[23] : AMCHARGE.BIN : 0 003 ko
+[24] : AMCHARGE.DAT : 0 002 ko
+[25] : AMCHARGE.BAS : 0 001 ko
+Dsk 167 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : A       .BIN : 0 001 ko
+[01] : SCOOB   .BIN : 0 008 ko
+[02] : SCOOBY  .BIN : 0 035 ko
+[05] : C       .BIN : 0 029 ko
+[07] : D       .BIN : 0 010 ko
+[08] : E       .BIN : 0 017 ko
+[10] : LASTV8  .BAS : 0 001 ko
+[11] : JUMPJET1.BAS : 0 010 ko
+[12] : MASSACRE.BAS : 0 001 ko
+[13] : JUMPJET .BAS : 0 002 ko
+[14] : WIZARD  .BIN : 0 015 ko
+[15] : JUMPJET .JUP : 0 001 ko
+[16] : MASSACRE.BIN : 0 016 ko
+[17] : JUMPJET .PC1 : 0 006 ko
+[18] : JUMPJET .PC2 : 0 023 ko
+[20] : JUMPJET .PRO : 0 001 ko
+[21] : M       .BAS : 0 001 ko
+Dsk 177 Ko used

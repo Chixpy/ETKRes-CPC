@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : COURTS  .BIN : 0 001 ko
+[01] : COURTS  .N01 : 0 015 ko
+[02] : COURTS  .N02 : 0 040 ko
+[05] : COURTS  .N03 : 0 001 ko
+[06] : COURTS  .N04 : 0 017 ko
+[08] : FIST    .BAS : 0 001 ko
+[09] : FIST0   .BIN : 0 001 ko
+[10] : FIST1   .BIN : 0 017 ko
+[12] : FIST2   .BIN : 0 017 ko
+[19] : FIST3   .BIN : 0 006 ko
+[20] : FIST4   .BIN : 0 017 ko
+Dsk 133 Ko used

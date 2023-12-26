@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : A       .COM : 0 009 ko
+[01] : B       .COM : 0 012 ko
+[02] : BATTITLE.BIN : 0 017 ko
+[04] : C       .COM : 0 008 ko
+[05] : CONTROL .BIN : 0 017 ko
+[07] : D       .COM : 0 009 ko
+[08] : E       .COM : 0 009 ko
+[09] : ELITE   .BAS : 0 001 ko
+[10] : ELITE   .BIN : 0 001 ko
+[11] : F       .COM : 0 013 ko
+[12] : G       .COM : 0 008 ko
+[13] : INIT    .BAS : 0 001 ko
+[14] : PLANET  .BAS : 0 007 ko
+[15] : MAINPRO1.BIN : 0 031 ko
+[17] : SENTINEL.BAS : 0 001 ko
+[18] : SENTINEL.P�G : 0 016 ko
+[19] : SENTINEL.PRG : 0 007 ko
+[20] : SENTINEL.SCR : 0 011 ko
+Dsk 178 Ko used

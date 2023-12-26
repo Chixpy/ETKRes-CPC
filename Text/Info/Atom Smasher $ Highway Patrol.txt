@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AAA     .BIN : 0 006 ko
+[01] : AAD     .BIN : 0 003 ko
+[02] : AAP     .BIN : 0 016 ko
+[03] : BA1     .BIN : 0 016 ko
+[04] : BA2     .BIN : 0 017 ko
+[06] : BA3     .BIN : 0 017 ko
+[08] : PAA     .BIN : 0 013 ko
+[09] : PAD     .BIN : 0 013 ko
+[10] : TAB     .BIN : 0 021 ko
+[12] : TAH     .BIN : 0 005 ko
+[13] : TIT     .BIN : 0 004 ko
+[14] : TP1     .BIN : 0 003 ko
+[15] : TP2     .BIN : 0 003 ko
+[16] : TP3     .BIN : 0 003 ko
+[17] : HIGH    .BIN : 0 016 ko
+[18] : PAP     .BIN : 0 009 ko
+[19] : ATOM    .BAS : 0 005 ko
+[20] : ATOM2   .BIN : 0 006 ko
+[21] : ATOME   .LOD : 0 002 ko
+Dsk 178 Ko used

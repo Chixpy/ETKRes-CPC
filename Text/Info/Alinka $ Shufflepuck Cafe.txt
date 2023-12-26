@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BRODER  .E�R : 0 017 ko
+[02] : BEJIN   .B�N : 0 004 ko
+[03] : DATAMENU.B�N : 0 002 ko
+[04] : EFEVISUE.B�N : 0 014 ko
+[05] : ENTRCAFE.E�R : 0 017 ko
+[07] : LEXAN   .B�N : 0 005 ko
+[08] : MENU    .B�N : 0 015 ko
+[09] : NERUAL  .B�N : 0 004 ko
+[10] : SAVEGAME.B�N : 0 001 ko
+[11] : SKIP    .B�N : 0 002 ko
+[12] : VISINE  .B�N : 0 003 ko
+[13] : ZONE1   .B�N : 0 010 ko
+[14] : BUG     .B�G : 0 003 ko
+[15] : SHUFFLE .B�S : 0 001 ko
+[16] : PROG    .B�N : 0 011 ko
+[17] : MENUOPTN.B�N : 0 015 ko
+[18] : LOADER  .B�N : 0 001 ko
+[19] : HISCORES.B�N : 0 001 ko
+[20] : ENEG    .B�N : 0 004 ko
+[21] : DC3     .B�N : 0 003 ko
+[22] : DATA    .B�N : 0 003 ko
+[23] : BIFF    .B�N : 0 003 ko
+[25] : ALINKA  .BAS : 0 001 ko
+[26] : VINNIE  .B�N : 0 003 ko
+[27] : ALINKA-1.BIN : 0 008 ko
+[28] : ALINKA-2.BIN : 0 008 ko
+[29] : ALINKA-3.BIN : 0 008 ko
+[30] : MENU    .    : 0 001 ko
+[31] : ALINKA  .TBL : 0 001 ko
+[32] : ALINKA  .BAK : 0 001 ko
+Dsk 170 Ko used

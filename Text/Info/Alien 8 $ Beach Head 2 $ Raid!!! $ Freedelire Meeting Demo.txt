@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ALIEN8  .1   : 0 004 ko
+[01] : ALIEN8  .2   : 0 025 ko
+[03] : ALIEN8  .BAS : 0 001 ko
+[04] : BEACH   .1   : 0 009 ko
+[05] : BEACH   .2   : 0 013 ko
+[06] : BEACH   .3   : 0 004 ko
+[07] : BEACH   .4   : 0 012 ko
+[08] : BEACH   .BAS : 0 001 ko
+[09] : RAID    .1   : 0 005 ko
+[10] : RAID    .2   : 0 040 ko
+[13] : RAID    .BAS : 0 001 ko
+[14] : -FREE   .    : 0 006 ko
+[15] : FREEDELI.B�1 : 0 025 ko
+[17] : FREEDELI.B�2 : 0 011 ko
+[18] : FREEDELI.B�3 : 0 015 ko
+[19] : FREEDELI.B�4 : 0 015 ko
+Dsk 187 Ko used

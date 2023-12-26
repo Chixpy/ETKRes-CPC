@@ -1,0 +1,28 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : GALAXIAM.BIN : 0 026 ko
+[02] : GALAXIA .BAS : 0 002 ko
+[03] : ANDROMED.BAS : 0 002 ko
+[04] : MILLION .BAS : 0 027 ko
+[06] : TENNIS  .BAS : 0 002 ko
+[07] : TENNIS1 .BIN : 0 013 ko
+[08] : AND2    .BAS : 0 004 ko
+[09] : TENNIS2 .BAS : 0 011 ko
+[11] : MIDWAY1 .BIN : 0 007 ko
+[12] : MIDWAY2 .BIN : 0 026 ko
+[14] : MIDWAY3 .BIN : 0 003 ko
+[15] : CODE1   .BIN : 0 002 ko
+[16] : CODE2   .BIN : 0 015 ko
+[17] : CODE3   .BIN : 0 016 ko
+[18] : MIDWAY  .BAK : 0 001 ko
+[19] : MIDWAY  .BAS : 0 001 ko
+Dsk 158 Ko used

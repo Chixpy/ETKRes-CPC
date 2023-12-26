@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DRILL   .B�N : 0 035 ko
+[03] : DRILLER .BAS : 0 001 ko
+[04] : DSCN2   .C�M : 0 005 ko
+[05] : PREHIST2.BIN : 0 010 ko
+[06] : PREHIST2.N�1 : 0 017 ko
+[08] : PREHIST2.N�2 : 0 018 ko
+[10] : HOTSHOT .BIN : 0 037 ko
+[15] : WEREW1  .B�N : 0 038 ko
+[18] : WEREW2  .B�N : 0 013 ko
+[19] : WEREWOLF.BAS : 0 001 ko
+[20] : DSCN1   .C�M : 0 006 ko
+[21] : WOLFIMA .P�W : 0 004 ko
+[22] : LOCKER  .BAS : 0 001 ko
+[23] : LOCKER  .B�N : 0 001 ko
+Dsk 187 Ko used

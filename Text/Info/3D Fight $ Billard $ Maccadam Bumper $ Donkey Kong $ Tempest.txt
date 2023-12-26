@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : 3DFIGHT .BIN : 0 023 ko
+[02] : TEMPEST .BIN : 0 025 ko
+[04] : DONKEY  .BAS : 0 001 ko
+[05] : DONKEY  .002 : 0 027 ko
+[07] : BILLARD .BAS : 0 007 ko
+[08] : POOLC   .BIN : 0 009 ko
+[09] : MAC     .BIN : 0 001 ko
+[10] : MAC2    .BIN : 0 001 ko
+[11] : MACADAM .LAY : 0 020 ko
+[13] : MACADAM .SCN : 0 017 ko
+[15] : MACADAM .PRG : 0 023 ko
+Dsk 154 Ko used

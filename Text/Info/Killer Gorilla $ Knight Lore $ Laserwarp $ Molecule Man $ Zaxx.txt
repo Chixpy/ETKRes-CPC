@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : D1      .BIN : 0 006 ko
+[01] : ZAXX    .BAS : 0 001 ko
+[02] : ZAXX    .BID : 0 001 ko
+[03] : DESIGNER.BAS : 0 001 ko
+[04] : LASER   .BIN : 0 019 ko
+[06] : LASER   .BAS : 0 003 ko
+[07] : KNI     .    : 0 001 ko
+[08] : KNIGHT  .BIN : 0 008 ko
+[09] : LORE    .BIN : 0 033 ko
+[12] : M1      .BIN : 0 023 ko
+[14] : M2      .BIN : 0 004 ko
+[15] : MAZE    .BAK : 0 010 ko
+[16] : MAZE    .BIN : 0 010 ko
+[17] : ZAXX    .BIN : 0 024 ko
+[18] : GORILLA .BAS : 0 001 ko
+[19] : GAME    .BIN : 0 023 ko
+[21] : SCREEN  .BIN : 0 008 ko
+[23] : ZAXX    .SON : 0 001 ko
+[24] : MOLECULE.BAS : 0 001 ko
+Dsk 178 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ATLANTIS.BAS : 0 001 ko
+[01] : ATLANTIS.SCR : 0 017 ko
+[03] : ATLANTIS.BIN : 0 023 ko
+[05] : DECHAV  .BAS : 0 001 ko
+[06] : DECHAV  .HMS : 0 040 ko
+[09] : DECHAV2 .BAS : 0 002 ko
+[10] : DECHAV  .VOI : 0 001 ko
+[11] : CPCMAG1 .SCR : 0 006 ko
+[12] : CPCMAG1 .PAL : 0 001 ko
+[13] : CPCMAG2 .SCR : 0 007 ko
+[14] : CPCMAG2 .PAL : 0 001 ko
+Dsk 100 Ko used

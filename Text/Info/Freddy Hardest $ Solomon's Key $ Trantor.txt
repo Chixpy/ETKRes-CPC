@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FRED1   .BIN : 0 032 ko
+[02] : FRED2   .BIN : 0 038 ko
+[05] : SOLOMON .BAS : 0 015 ko
+[06] : SOLOMON .BIN : 0 030 ko
+[08] : TRANTOR .    : 0 001 ko
+[09] : TRANTOR .ECR : 0 014 ko
+[10] : TRANTOR .GA1 : 0 006 ko
+[11] : TRANTOR .GA2 : 0 039 ko
+[14] : VIES1   .BAS : 0 001 ko
+Dsk 176 Ko used

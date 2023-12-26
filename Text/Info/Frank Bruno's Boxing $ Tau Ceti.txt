@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : B2      .BIN : 0 011 ko
+[01] : B3      .BIN : 0 011 ko
+[02] : B4      .BIN : 0 011 ko
+[03] : B5      .BIN : 0 011 ko
+[04] : B6      .BIN : 0 011 ko
+[05] : BOXING  .BAS : 0 001 ko
+[06] : BOXING3 .BIN : 0 001 ko
+[07] : B7      .BIN : 0 011 ko
+[08] : B8      .BIN : 0 011 ko
+[09] : B9      .BIN : 0 011 ko
+[10] : BCODE   .BIN : 0 014 ko
+[11] : BOXING2 .BIN : 0 026 ko
+[12] : PART1   .BIN : 0 034 ko
+[15] : PART2   .BIN : 0 008 ko
+[16] : TAUCETI .    : 0 001 ko
+[18] : TITLE   .BIN : 0 005 ko
+Dsk 178 Ko used

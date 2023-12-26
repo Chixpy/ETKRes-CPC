@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SAM     .BAS : 0 011 ko
+[01] : SAM1    .BIN : 0 006 ko
+[02] : SAM2    .BIN : 0 001 ko
+[03] : SAM3    .BIN : 0 003 ko
+[04] : DADI    .BAS : 0 002 ko
+[05] : DADI1   .BIN : 0 001 ko
+[06] : DADI2   .BAS : 0 009 ko
+[07] : DADI3   .BAS : 0 014 ko
+[08] : DADI4   .BAS : 0 031 ko
+[09] : ENIGMA  .BAS : 0 002 ko
+[10] : ENIGMA0 .SCR : 0 017 ko
+[12] : ENIGMA1 .PGM : 0 042 ko
+[15] : ENIGMA2 .SCR : 0 017 ko
+[17] : ENIGMA3 .SCR : 0 017 ko
+[20] : DADI5   .BAS : 0 002 ko
+[21] : DADI6   .BIN : 0 002 ko
+Dsk 177 Ko used

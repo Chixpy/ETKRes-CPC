@@ -1,0 +1,36 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DEEP    .BAS : 0 001 ko
+[01] : SOUNDTO .BAS : 0 001 ko
+[02] : TYPHON  .BIN : 0 013 ko
+[03] : DEPOSUIT.BAS : 0 002 ko
+[04] : FORMAT  .BAS : 0 002 ko
+[05] : ONSQDEMO.BAS : 0 001 ko
+[06] : SHADED  .BAS : 0 002 ko
+[07] : 3DEFFET .BAS : 0 001 ko
+[08] : FILLDEMO.BAS : 0 001 ko
+[09] : CIRCLE  .BAS : 0 001 ko
+[10] : DEGDEMO .BAS : 0 001 ko
+[11] : TYPHON  .BAS : 0 004 ko
+[12] : GRAFDEMO.BAS : 0 001 ko
+[13] : MULTIDEM.BAS : 0 002 ko
+[14] : SORT    .BAS : 0 002 ko
+[15] : TYPHON  .128 : 0 013 ko
+[16] : TEXTCOPY.BAS : 0 001 ko
+[17] : POSDEMO .BAS : 0 001 ko
+[18] : TYPHON  .664 : 0 013 ko
+[19] : SPLIT   .BAS : 0 002 ko
+[20] : SPLITDEM.BAS : 0 001 ko
+[21] : DEEP1   .BIN : 0 017 ko
+[23] : DEEP2   .BIN : 0 001 ko
+[24] : DEEP3   .BIN : 0 024 ko
+[26] : SORTDEMO.BAS : 0 001 ko
+[27] : WINDOWS .BAS : 0 001 ko
+[28] : DEEP4   .BIN : 0 001 ko
+[29] : DEEP5   .BIN : 0 001 ko
+[30] : DEEP6   .BIN : 0 001 ko
+[31] : DEEP7   .BIN : 0 009 ko
+[32] : AX      .BIN : 0 042 ko
+[35] : SCROL   .BIN : 0 004 ko
+[36] : REAL3D  .BAS : 0 001 ko
+Dsk 169 Ko used

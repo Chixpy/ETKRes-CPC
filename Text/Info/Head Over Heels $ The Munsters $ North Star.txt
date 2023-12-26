@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : HEADOVER.BIN : 0 001 ko
+[01] : HEADOVER.I   : 0 014 ko
+[02] : HEADOVER.II  : 0 041 ko
+[05] : HEADOVER.III : 0 003 ko
+[06] : MUNSTERS.B01 : 0 032 ko
+[08] : MUNSTERS.B02 : 0 017 ko
+[10] : MUNSTERS.BAS : 0 001 ko
+[11] : NORTH   .BIN : 0 012 ko
+[12] : NORTH0  .BIN : 0 006 ko
+[13] : NORTH1  .BIN : 0 039 ko
+Dsk 166 Ko used

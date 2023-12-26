@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TARO1   .B�N : 0 001 ko
+[01] : TAROT   .B�N : 0 001 ko
+[02] : TAROT1  .B�S : 0 032 ko
+[04] : TAROT   .B�S : 0 008 ko
+[05] : TAROT   .S�N : 0 017 ko
+[07] : RUNNER  .BAS : 0 001 ko
+[08] : RUNNER2 .BIN : 0 034 ko
+[11] : RUNNER1 .BIN : 0 017 ko
+[17] : WDW     .BAS : 0 002 ko
+[18] : WDW1    .BAS : 0 001 ko
+[19] : WDW2    .BIN : 0 033 ko
+[22] : WDW3    .BIN : 0 013 ko
+Dsk 160 Ko used

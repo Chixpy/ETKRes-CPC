@@ -1,0 +1,69 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : HAR     .BIN : 0 002 ko
+[01] : SCROLL  .BIN : 0 001 ko
+[02] : DATALOAD.BAS : 0 006 ko
+[03] : OVER3   .BAS : 0 002 ko
+[04] : ANIMATOR.BAS : 0 006 ko
+[05] : CODING  .BAS : 0 001 ko
+[06] : FORMATS .BIN : 0 002 ko
+[07] : SCROL   .BIN : 0 001 ko
+[08] : EXEMPLE .PAR : 0 001 ko
+[09] : EXEMPLE .BIN : 0 001 ko
+[10] : MOLECULE.BAS : 0 001 ko
+[11] : OVER5   .BIN : 0 002 ko
+[13] : VIE     .BAS : 0 001 ko
+[14] : FONTE   .BIN : 0 004 ko
+[15] : KEY     .BIN : 0 002 ko
+[16] : EXEMPLE .SPR : 0 004 ko
+[17] : EXEMPLE .TAS : 0 001 ko
+[18] : OVER6   .BIN : 0 002 ko
+[19] : EXEMPLE .BAS : 0 002 ko
+[20] : INFO    .ACI : 0 004 ko
+[21] : INFO    .PRG : 0 001 ko
+[22] : H6      .BIN : 0 010 ko
+[24] : MOTYF   .BIN : 0 009 ko
+[25] : MOTYF   .CAR : 0 001 ko
+[26] : MOTYF2  .COM : 0 005 ko
+[27] : MOTYF1  .COM : 0 002 ko
+[28] : MOTYF   .RSX : 0 001 ko
+[29] : TAP     .BAS : 0 002 ko
+[30] : POPO    .BAS : 0 030 ko
+[32] : SLAYER  .BIN : 0 001 ko
+[33] : SCROLLL .BIN : 0 002 ko
+[35] : SUPER   .BIN : 0 002 ko
+[36] : SCROLING.BIN : 0 001 ko
+[37] : ANIMA   .BAS : 0 006 ko
+[38] : LOGON2  .BIN : 0 001 ko
+[39] : MOLECULE.BIN : 0 014 ko
+[40] : RASTER  .BIN : 0 001 ko
+[41] : BOMBE   .BAS : 0 003 ko
+[42] : RAPIDE  .BAS : 0 001 ko
+[43] : AS34    .BIN : 0 001 ko
+[44] : DEPROTEJ.BAS : 0 001 ko
+[45] : SPRITE  .BIN : 0 001 ko
+[46] : LECTURE .BAS : 0 001 ko
+[47] : OVER2   .BAS : 0 001 ko
+[48] : JEU     .BAS : 0 003 ko
+[49] : SPRITES .BIN : 0 001 ko
+[50] : RELOGEUR.BAS : 0 002 ko
+[52] : FORMAT  .BIN : 0 001 ko
+[53] : SECTEUR .BIN : 0 001 ko
+[54] : ICONE   .BAS : 0 001 ko
+[55] : F210    .BIN : 0 001 ko
+[56] : AS34    .BAS : 0 001 ko
+[57] : LOGON   .BIN : 0 001 ko
+[58] : INFO    .BAS : 0 001 ko
+[59] : MEMORISE.BAS : 0 001 ko
+[62] : LANCEUR .BAS : 0 001 ko
+[63] : HARD    .BIN : 0 002 ko
+Dsk 161 Ko used

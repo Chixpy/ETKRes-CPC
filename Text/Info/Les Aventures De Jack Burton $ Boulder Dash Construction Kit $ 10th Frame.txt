@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : B       .�IN : 0 002 ko
+[01] : BOULE   .�I1 : 0 001 ko
+[02] : BOULE   .�I2 : 0 010 ko
+[03] : BOULE   .�I3 : 0 001 ko
+[04] : BOULE   .�I4 : 0 014 ko
+[05] : BOULE   .�I5 : 0 023 ko
+[07] : BOULE   .�I6 : 0 001 ko
+[08] : BOULE   .�AM : 0 005 ko
+[09] : FRAME   .BAS : 0 001 ko
+[10] : FRAME   .BIN : 0 039 ko
+[13] : FRAME   .ECR : 0 017 ko
+[15] : BURTON  .BAS : 0 001 ko
+[16] : BURTON  .N01 : 0 009 ko
+[17] : BURTON  .N02 : 0 009 ko
+[18] : BURTON  .N03 : 0 041 ko
+Dsk 174 Ko used

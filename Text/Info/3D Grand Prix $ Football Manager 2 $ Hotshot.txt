@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+[00] : FM2     .BAS : 0 002 ko
+[01] : SINUM   .��N : 0 004 ko
+[02] : WHEELS  .��N : 0 005 ko
+[03] : 3DFILE  .��N : 0 033 ko
+[06] : 3DGP    .BAS : 0 001 ko
+[07] : FM2     .B�N : 0 041 ko
+[10] : IMAGE   .C�M : 0 031 ko
+[12] : HOTSHOT .BAS : 0 001 ko
+[13] : CODE    .B�N : 0 034 ko
+[16] : SELSCR  .B�N : 0 005 ko
+[17] : SPDA0   .    : 0 015 ko
+Dsk 172 Ko used

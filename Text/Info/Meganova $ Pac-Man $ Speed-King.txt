@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : MEGANOVA.001 : 0 039 ko
+[03] : MEGANOVA.BAS : 0 001 ko
+[04] : MEGANOVA.BIN : 0 001 ko
+[05] : MEGANOVA.ECR : 0 013 ko
+[06] : MEGANOVA.002 : 0 039 ko
+[09] : MEGANOVA.003 : 0 039 ko
+[13] : SKING   .BIN : 0 034 ko
+[16] : SPEEDKIN.BAS : 0 001 ko
+[17] : PAC     .BAS : 0 011 ko
+Dsk 178 Ko used

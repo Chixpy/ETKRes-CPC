@@ -1,0 +1,50 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : CABAL   .BAS : 0 001 ko
+[01] : BARBARE .BAS : 0 001 ko
+[02] : SORT2   .BAS : 0 018 ko
+[03] : CHASE   .BAS : 0 001 ko
+[04] : AFTER   .BAS : 0 001 ko
+[05] : R-TYPE  .BAS : 0 001 ko
+[06] : TWINS1  .BIN : 0 003 ko
+[08] : SA4     .BAS : 0 015 ko
+[09] : AIGLE   .BAS : 0 005 ko
+[10] : SOS     .�BA : 0 001 ko
+[11] : LOADER  .BIN : 0 001 ko
+[12] : FIRE2   .BIN : 0 010 ko
+[13] : SATANAS .BAS : 0 001 ko
+[14] : RAMBO   .BAS : 0 001 ko
+[15] : AC      .BIN : 0 001 ko
+[16] : ��������.��� : 255 510 ko
+[32] : FIRE1   .BIN : 0 008 ko
+[33] : AC      .BAS : 0 005 ko
+[34] : BZZZZZ80.BIN : 0 004 ko
+[35] : T5      .BAS : 0 020 ko
+[36] : FORMAT  .BAS : 0 002 ko
+[37] : FORMAT  .BIN : 0 001 ko
+[38] : TWINS   .BAS : 0 001 ko
+[39] : SORT    .BAS : 0 004 ko
+[40] : OUTRUN  .BAS : 0 001 ko
+[41] : LMACHINE.BIN : 0 002 ko
+[42] : TWINS2  .BIN : 0 005 ko
+[43] : SORTILEG.BAS : 0 002 ko
+[44] : AIGLE   .BIN : 0 042 ko
+[45] : FIRELAND.BAS : 0 001 ko
+[46] : DRAGON  .BAS : 0 001 ko
+[47] : ECRISCT .BIN : 0 001 ko
+[48] : BUBBLE  .BAS : 0 001 ko
+[49] : LIRESECT.BIN : 0 001 ko
+[51] : BICRO   .BIN : 0 001 ko
+[52] : BICRO   .BAS : 0 001 ko
+[53] : KROBIS  .BAS : 0 001 ko
+[54] : KROBIS  .BIN : 0 001 ko
+[55] : POPO    .ASC : 0 001 ko
+[56] : XYPHOES .BAS : 0 001 ko
+[59] : AIGLE   .DAT : 0 004 ko
+[60] : GHOSTS  .BAS : 0 001 ko
+[61] : SHARK   .BAS : 0 001 ko
+[62] : TITAN   .BAS : 0 001 ko
+Dsk 686 Ko used

@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AIGLE   .B�S : 0 005 ko
+[01] : AIGLE1  .B�N : 0 004 ko
+[02] : AIGLE2  .B�N : 0 041 ko
+[04] : OXPHAR  .B�N : 0 013 ko
+[05] : OXPHAR1 .B�N : 0 009 ko
+[06] : OXPHAR2 .B�N : 0 030 ko
+[09] : MENU    .A�B : 0 001 ko
+[10] : TOTAL   .B�1 : 0 006 ko
+[11] : TOTAL   .B�2 : 0 035 ko
+[14] : TOTAL   .B�3 : 0 009 ko
+[15] : TOTAL   .B�S : 0 001 ko
+[16] : MENU    .BAS : 0 001 ko
+[17] : MENU    .A�A : 0 001 ko
+[18] : MENU    .A�C : 0 001 ko
+[19] : MENU    .B�K : 0 001 ko
+[20] : MENU    .A�D : 0 001 ko
+[21] : MENU    .A�E : 0 001 ko
+[22] : MENU    .A�F : 0 001 ko
+[23] : MENU    .A�G : 0 001 ko
+[24] : MENU    .A�H : 0 001 ko
+[25] : MENU    .A�I : 0 001 ko
+[26] : MENU    .A�J : 0 001 ko
+[27] : MENU    .A�K : 0 001 ko
+[28] : MENU    .A�L : 0 001 ko
+[29] : MENU    .A�M : 0 001 ko
+[30] : MENU    .A�N : 0 001 ko
+[31] : MENU    .A�O : 0 001 ko
+[32] : MENU    .A�P : 0 001 ko
+[33] : MENU    .A�Q : 0 001 ko
+[34] : MENU    .A�R : 0 001 ko
+[35] : MENU    .A�S : 0 001 ko
+[36] : MENU    .A�T : 0 001 ko
+[37] : MENU    .A�U : 0 001 ko
+[38] : MENU    .A�V : 0 001 ko
+[39] : MENU    .V�A : 0 001 ko
+Dsk 178 Ko used

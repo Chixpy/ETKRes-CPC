@@ -1,0 +1,36 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 16 start at sector 65 while track 0 starts at 193
+Warning : track 17 start at sector 65 while track 0 starts at 193
+Warning : track 18 start at sector 65 while track 0 starts at 193
+Warning : track 19 start at sector 65 while track 0 starts at 193
+Warning : track 20 start at sector 65 while track 0 starts at 193
+Warning : track 21 start at sector 65 while track 0 starts at 193
+Warning : track 22 start at sector 65 while track 0 starts at 193
+Warning : track 23 start at sector 65 while track 0 starts at 193
+Warning : track 24 start at sector 65 while track 0 starts at 193
+Warning : track 25 start at sector 65 while track 0 starts at 193
+Warning : track 26 start at sector 65 while track 0 starts at 193
+Warning : track 27 start at sector 65 while track 0 starts at 193
+Warning : track 28 start at sector 65 while track 0 starts at 193
+Warning : track 29 start at sector 65 while track 0 starts at 193
+Warning : track 30 start at sector 65 while track 0 starts at 193
+Warning : track 31 start at sector 65 while track 0 starts at 193
+Warning : track 32 start at sector 65 while track 0 starts at 193
+Warning : track 33 start at sector 65 while track 0 starts at 193
+Warning : track 34 start at sector 65 while track 0 starts at 193
+Warning : track 35 start at sector 65 while track 0 starts at 193
+Warning : track 36 start at sector 65 while track 0 starts at 193
+Warning : track 37 start at sector 65 while track 0 starts at 193
+Warning : track 38 start at sector 65 while track 0 starts at 193
+Warning : track 39 start at sector 65 while track 0 starts at 193
+[00] : WOLF    .BIN : 0 008 ko
+[01] : WOLF    .PRG : 0 022 ko
+[03] : JL-MDEMO.BIN : 0 028 ko
+[04] : POGMUS  .BIN : 0 003 ko
+[05] : POGMUS  .BAS : 0 001 ko
+[06] : WOLF    .DAT : 0 112 ko
+[13] : W       .BAS : 0 002 ko
+[15] : WELLMUS .BAS : 0 001 ko
+[16] : WELLMUS .BIN : 0 003 ko
+Dsk 180 Ko used

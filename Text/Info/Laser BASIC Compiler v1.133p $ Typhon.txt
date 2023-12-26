@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : +LASER  .BAS : 0 001 ko
+[01] : TYPHON  .128 : 0 013 ko
+[02] : TYPHON  .664 : 0 013 ko
+[03] : TYPHON  .ASC : 0 004 ko
+[04] : TYPHON  .BAS : 0 004 ko
+[05] : TYPHON  .BIN : 0 013 ko
+[06] : TYPHON  .DOC : 0 002 ko
+[07] : BRTS    .BIN : 2 007 ko
+[08] : COMP    .BAS : 2 001 ko
+[09] : COMP    .BIN : 2 010 ko
+[10] : COMP2   .BIN : 2 008 ko
+[11] : COMPSPR .BIN : 2 014 ko
+[12] : COMPSYS .BIN : 2 001 ko
+[13] : COMPTAB .BIN : 2 001 ko
+[14] : DEMO    .BAS : 2 001 ko
+[15] : DEMO    .BIN : 2 027 ko
+[17] : LASE    .BIN : 2 012 ko
+[18] : MENDELB .BAS : 2 001 ko
+[19] : SCREEN  .BIN : 2 017 ko
+[21] : XFR     .BIN : 2 005 ko
+Dsk 155 Ko used

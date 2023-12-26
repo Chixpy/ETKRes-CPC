@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : GOLIATH .BAS : 0 001 ko
+[01] : GOLIATH .BIN : 0 036 ko
+[03] : LOCOMO  .BAS : 0 001 ko
+[05] : GOLIATH .COM : 0 011 ko
+[06] : V       .BAS : 0 021 ko
+[08] : ZOMBIE  .BAS : 0 035 ko
+[10] : DATA1   .BIN : 0 022 ko
+[15] : DATA2   .BIN : 0 004 ko
+[16] : DATA4   .BIN : 0 003 ko
+[17] : DATA3   .BIN : 0 003 ko
+[18] : PIPELINE.BAS : 0 002 ko
+[19] : P1      .BAS : 0 001 ko
+[20] : P2      .BIN : 0 038 ko
+Dsk 178 Ko used

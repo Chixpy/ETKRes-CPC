@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : KAGE    .BAS : 0 001 ko
+[01] : KAGE    .ECR : 0 017 ko
+[03] : KAGE    .PRG : 0 031 ko
+[05] : BATTLE  .BAS : 0 001 ko
+[06] : BATTITLE.BIN : 0 017 ko
+[08] : BATTLE  .BIN : 0 001 ko
+[09] : CONTROL .BIN : 0 017 ko
+[11] : MAINPRO1.BIN : 0 031 ko
+[13] : TRAPDOOR.BIN : 0 001 ko
+[14] : TRAPSC  .BIN : 0 017 ko
+[16] : TRAPP1  .BIN : 0 016 ko
+[17] : TRAPP2  .BIN : 0 024 ko
+Dsk 174 Ko used

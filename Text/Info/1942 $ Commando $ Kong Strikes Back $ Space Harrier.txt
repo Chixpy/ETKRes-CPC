@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : COM1    .BIN : 0 017 ko
+[01] : 1942    .BIN : 0 042 ko
+[04] : COM2    .BIN : 0 023 ko
+[06] : COM3    .BIN : 0 012 ko
+[07] : KONG    .BIN : 0 033 ko
+[10] : SPHA    .BIN : 0 036 ko
+[13] : COMMANDO.BIN : 0 001 ko
+[15] : COM4    .BIN : 0 014 ko
+Dsk 178 Ko used

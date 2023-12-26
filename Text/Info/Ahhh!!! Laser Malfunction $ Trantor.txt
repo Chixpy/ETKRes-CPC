@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : TRANTOR .BAS : 0 002 ko
+[01] : TRANTOR1.BIN : 0 017 ko
+[03] : TRANTOR2.BIN : 0 029 ko
+[05] : TRANTOR3.BIN : 0 005 ko
+[06] : TRANTOR4.BIN : 0 017 ko
+[08] : TRANTOR5.BIN : 0 017 ko
+[10] : TRANTOR6.BIN : 0 003 ko
+[11] : TRANTOR7.BIN : 0 040 ko
+[14] : AHHH    .BAS : 0 001 ko
+[15] : AHHH1   .BIN : 0 013 ko
+[16] : AHHH2   .BIN : 0 033 ko
+Dsk 177 Ko used

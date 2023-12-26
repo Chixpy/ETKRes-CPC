@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ITALY90 .    : 0 017 ko
+[02] : ITALY90 .N02 : 0 010 ko
+[03] : ITALY90 .N04 : 0 006 ko
+[04] : ITALY90 .N06 : 0 001 ko
+[05] : ITALY90 .N08 : 0 002 ko
+[06] : ITALY90 .N10 : 0 022 ko
+[08] : WORLD90 .BIN : 0 031 ko
+[10] : ITALY90 .N01 : 0 008 ko
+[11] : ITALY90 .N03 : 0 008 ko
+[12] : ITALY90 .N05 : 0 020 ko
+[14] : ITALY90 .N07 : 0 002 ko
+[15] : ITALY90 .N09 : 0 002 ko
+[16] : WORLD90 .    : 0 018 ko
+[18] : -CROCO  .BIN : 0 029 ko
+Dsk 176 Ko used

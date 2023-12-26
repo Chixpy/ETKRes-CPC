@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CRAZY   .BAS : 0 001 ko
+[01] : GAUNTLET.BIN : 0 017 ko
+[03] : CRAZY   .BIN : 0 001 ko
+[04] : CRAZY   .COM : 0 010 ko
+[05] : CRAZY1  .BIN : 0 033 ko
+[06] : DUND    .BAS : 0 001 ko
+[08] : DUN     .BIN : 0 039 ko
+[11] : MGT     .BIN : 0 007 ko
+[12] : FOOT    .BIN : 0 028 ko
+[14] : MGT     .001 : 0 041 ko
+Dsk 178 Ko used

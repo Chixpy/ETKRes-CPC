@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEmuSect.Data error :EOF
+Error track (37) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (38) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (39) error :EOF
+Warning : track :37 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 37! (maxSect:0,minSect:FF)
+Warning : track 37 start at sector 255 while track 0 starts at 193
+Warning : track :38 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 38! (maxSect:0,minSect:FF)
+Warning : track 38 start at sector 255 while track 0 starts at 193
+Warning : track :39 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 39! (maxSect:0,minSect:FF)
+Warning : track 39 start at sector 255 while track 0 starts at 193
+[06] : MR-WONG .BAS : 0 002 ko
+[07] : WONG127 .BIN : 0 016 ko
+Dsk 018 Ko used

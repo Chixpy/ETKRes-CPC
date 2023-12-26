@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : TITUS   .002 : 0 025 ko
+[02] : TITUS   .BAS : 0 001 ko
+[03] : SOL     .BAS : 0 003 ko
+[04] : SOLIT1  .BAS : 0 021 ko
+[06] : FIGHT   .BAS : 0 013 ko
+[07] : ULTIMAT1.BIN : 0 002 ko
+[08] : ULTIMAT2.BIN : 0 003 ko
+[09] : ULTIMAT3.BIN : 0 003 ko
+[10] : FAIRLY  .    : 0 001 ko
+[11] : PIC     .BIN : 0 017 ko
+[13] : RUN1    .BIN : 0 017 ko
+[15] : RUN2    .BIN : 0 034 ko
+[18] : INF     .BAS : 0 001 ko
+[19] : FCD     .BIN : 0 037 ko
+Dsk 178 Ko used

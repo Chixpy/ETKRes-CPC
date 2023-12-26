@@ -1,0 +1,30 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : AMC     .BIN : 0 001 ko
+[01] : CARA    .BIN : 0 002 ko
+[02] : D1      .BIN : 0 002 ko
+[03] : D2      .BIN : 0 002 ko
+[04] : D3      .BIN : 0 002 ko
+[05] : DES     .BIN : 0 017 ko
+[07] : ECRAN   .ECR : 0 017 ko
+[09] : G1      .BIN : 0 002 ko
+[10] : G2      .BIN : 0 002 ko
+[11] : G3      .BIN : 0 002 ko
+[12] : S       .BAK : 0 001 ko
+[13] : S1      .BIN : 0 002 ko
+[14] : S2      .BIN : 0 002 ko
+[15] : S3      .BIN : 0 002 ko
+[16] : SKH     .BIN : 0 005 ko
+[17] : SUPERSKI.BAS : 0 001 ko
+[18] : GEA     .BIN : 0 017 ko
+[20] : SAU     .BIN : 0 017 ko
+[22] : SLA     .BIN : 0 017 ko
+[24] : TBH     .BIN : 0 014 ko
+[25] : EX      .BAS : 0 001 ko
+[26] : EXOLON2 .BIN : 0 001 ko
+[27] : EXOLON3 .BIN : 0 032 ko
+[29] : EXOLON4 .BIN : 0 017 ko
+Dsk 178 Ko used

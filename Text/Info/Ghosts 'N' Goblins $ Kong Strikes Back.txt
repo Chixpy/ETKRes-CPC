@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COM2    .B�N : 0 023 ko
+[02] : COM3    .B�N : 0 012 ko
+[03] : COM4    .B�N : 0 014 ko
+[04] : COMMANDO.B�N : 0 001 ko
+[05] : KONG1   .BIN : 0 017 ko
+[07] : KONG2   .BIN : 0 033 ko
+[10] : KONGII  .BIN : 0 001 ko
+[11] : CODE    .BIN : 0 036 ko
+[12] : y
+
+4>
+.
+:. : 20 008 ko
+[15] : ELITE   .BAS : 0 001 ko
+[16] : VIES    .BAS : 0 001 ko
+[17] : ATTACK  .BAK : 0 001 ko
+[18] : ATTACK  .BAS : 0 001 ko
+[19] : ATTACB  .BAS : 0 001 ko
+[20] : DAVID   .BAS : 0 001 ko
+[21] : 1942    .BAS : 0 001 ko
+[22] : BERET   .BAS : 0 001 ko
+[23] : BILLY   .LOD : 0 001 ko
+[24] : BERET   .BIN : 0 001 ko
+[25] : FAUX    .BAS : 0 001 ko
+[26] : LUTIN   .BAS : 0 001 ko
+[27] : D       .BAS : 0 001 ko
+[28] : HARRIER .BAS : 0 003 ko
+[29] : FRONT!  .BAS : 0 003 ko
+[30] : LUTI2   .BAS : 0 001 ko
+Dsk 165 Ko used

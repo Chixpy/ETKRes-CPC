@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PAPERBOY.BAS : 0 001 ko
+[01] : PAPERBOY.00A : 0 012 ko
+[02] : PAPERBOY.00B : 0 001 ko
+[03] : PAPERBOY.00C : 0 036 ko
+[06] : PAPERBOY.00D : 0 017 ko
+[08] : LOAD    .BAS : 0 001 ko
+[09] : NEMCODE .BIN : 0 041 ko
+[12] : NEMSIS  .BIN : 0 017 ko
+[14] : 3DSTUNT .BAS : 0 001 ko
+[15] : 3DSTUNT .BI1 : 0 042 ko
+[18] : 3DSTUNT .LOD : 0 001 ko
+[19] : 3DSTUNT .BI2 : 0 007 ko
+[20] : NEM     .BAS : 0 001 ko
+Dsk 178 Ko used

@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COOL    .    : 0 002 ko
+[01] : COOL    .1�  : 0 002 ko
+[02] : COOL    .1�  : 0 004 ko
+[03] : COOL    .1�  : 0 005 ko
+[04] : COOL    .1�  : 0 003 ko
+[05] : COOL    .1�  : 0 010 ko
+[06] : COOL    .1�  : 0 005 ko
+[07] : COOL    .1�  : 0 006 ko
+[08] : COOL    .1�  : 0 003 ko
+[09] : COOL    .1�  : 0 004 ko
+[10] : COOL    .2�  : 0 014 ko
+[11] : COOL    .3�  : 0 004 ko
+[12] : COOL    .4�  : 0 007 ko
+[13] : COOL    .5�  : 0 004 ko
+[14] : COOL    .6�  : 0 003 ko
+[15] : COOL    .7�  : 0 002 ko
+[16] : COOL    .8�  : 0 003 ko
+[17] : COOL    .9�  : 0 008 ko
+[18] : RC-QUEST.    : 0 025 ko
+[20] : BALLDOZE.0�1 : 0 006 ko
+[21] : BALLDOZE.0�2 : 0 002 ko
+[22] : BALLDOZE.0�3 : 0 004 ko
+[23] : BALLDOZE.0�4 : 0 004 ko
+[24] : BALLDOZE.0�5 : 0 003 ko
+[25] : BALLDOZE.    : 0 001 ko
+[26] : LAST    .    : 0 001 ko
+[27] : LAST    .B�N : 0 033 ko
+[30] : VICKI   .    : 0 001 ko
+[31] : VICKI   .B�N : 0 002 ko
+[32] : VICKI   .L�V : 0 002 ko
+Dsk 173 Ko used

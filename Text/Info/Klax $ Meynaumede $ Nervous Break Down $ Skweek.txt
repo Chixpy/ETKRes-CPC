@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SKTAB   . �  : 0 023 ko
+[02] : SKWEEK  . �  : 0 010 ko
+[03] : SKWEEK  .B�N : 0 039 ko
+[06] : KLAX    . �  : 0 009 ko
+[07] : KLAX    .A�D : 0 001 ko
+[08] : KLAX    .B�0 : 0 001 ko
+[09] : KLAX    .B�1 : 0 014 ko
+[10] : KLAX    .B�2 : 0 012 ko
+[11] : KLAX    .B�3 : 0 010 ko
+[12] : KLAX    .B�4 : 0 033 ko
+[15] : MEYNAUME.B�S : 0 013 ko
+[16] : NERVOUS .B�S : 0 013 ko
+[17] : MENU    .BAS : 0 001 ko
+Dsk 179 Ko used

@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : CAUL0   .BAS : 0 001 ko
+[01] : CAUL1   .JEU : 0 032 ko
+[03] : CAUL2   .JEU : 0 003 ko
+[04] : CAULDRON.ECR : 0 017 ko
+[06] : CAULDRON.LOD : 0 001 ko
+[07] : MENU    .BAS : 0 001 ko
+[08] : CAUL3   .BIN : 0 013 ko
+[09] : WHODARE1.BIN : 0 003 ko
+[10] : WHODARE2.BIN : 0 038 ko
+[13] : WHODARE3.BIN : 0 005 ko
+[14] : WIN2    .BAS : 0 001 ko
+[15] : FLIP    .BIN : 0 015 ko
+[16] : CONFU2  .�IN : 0 027 ko
+[17] : MENU    .BAK : 0 001 ko
+[19] : CONFU3  .�AS : 0 012 ko
+[20] : CONFU   .�AS : 0 003 ko
+[21] : CATA    .BAS : 0 005 ko
+Dsk 178 Ko used

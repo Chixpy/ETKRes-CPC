@@ -1,0 +1,49 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : SOLAR   .BIN : 0 008 ko
+[01] : LUNE    .PAL : 0 001 ko
+[02] : LUNE    .SCR : 0 005 ko
+[03] : TORTUE  .PAL : 0 001 ko
+[04] : CCPVC   .BIN : 0 001 ko
+[05] : DATA    .BAS : 0 002 ko
+[06] : MOLECULE.BIN : 0 014 ko
+[07] : 225K    .BAS : 0 002 ko
+[08] : POPO    .BAS : 0 030 ko
+[10] : COPYLOCK.BIN : 0 010 ko
+[11] : COPYTEXT.BIN : 0 001 ko
+[12] : DISPLAY .BAS : 0 002 ko
+[13] : DISPLAY .BIN : 0 001 ko
+[14] : FDC     .BIN : 0 002 ko
+[15] : FLOPPY  .BAS : 0 019 ko
+[17] : HERCULE .BAS : 0 009 ko
+[18] : RD      .DOC : 0 006 ko
+[19] : RESTORE .BIN : 0 001 ko
+[20] : SECTOR  .BAS : 0 003 ko
+[21] : EXEMPLE .BAS : 0 002 ko
+[22] : EXEMPLE .BIN : 0 001 ko
+[23] : EXEMPLE .PAR : 0 001 ko
+[24] : EXEMPLE .SPR : 0 004 ko
+[25] : EXEMPLE .TAS : 0 001 ko
+[26] : INFO    .ACI : 0 004 ko
+[27] : INFO    .BAS : 0 001 ko
+[28] : INFO    .PRG : 0 001 ko
+[29] : MOTYF   .BAS : 0 001 ko
+[30] : MOTYF   .BIN : 0 009 ko
+[31] : MOTYF   .CAR : 0 001 ko
+[32] : MOTYF   .RSX : 0 001 ko
+[33] : MOTYF1  .COM : 0 002 ko
+[34] : MOTYF2  .COM : 0 005 ko
+[35] : MP      .BAS : 0 001 ko
+[36] : ESPION  .BAS : 0 003 ko
+[37] : ESPION  .BIN : 0 001 ko
+[38] : RELOGEUR.BAS : 0 002 ko
+[39] : DEMO    .SPR : 0 001 ko
+[40] : CRESTA  .SPR : 0 006 ko
+[41] : CRESTA  .TAS : 0 001 ko
+[42] : DEMO    .TAS : 0 001 ko
+[43] : SECTOR  .BIN : 0 001 ko
+[45] : CPC     .BAS : 0 005 ko
+Dsk 174 Ko used

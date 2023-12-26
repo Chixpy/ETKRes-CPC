@@ -1,0 +1,57 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : BONKEY  .�IN : 0 001 ko
+[01] : BUNLOCK .�IN : 0 001 ko
+[03] : MAST664 .�AS : 0 001 ko
+[04] : OPTION5 .�IN : 0 001 ko
+[05] : OPTION2X.�IN : 0 001 ko
+[06] : OPTION6 .�IN : 0 001 ko
+[07] : PICBONK .�IN : 0 001 ko
+[08] : SUBFLASH.�AS : 0 001 ko
+[09] : MOD5SHAN.BAS : 7 001 ko
+[10] : OP1-DUND.LDR : 7 001 ko
+[11] : OP1-KLOR.LDR : 7 001 ko
+[12] : OP1-SCOO.LDR : 7 001 ko
+[13] : OP1-TRAP.LDR : 7 001 ko
+[14] : OP2-BOUL.LDR : 7 001 ko
+[15] : OP2-CINV.LDR : 7 001 ko
+[16] : OP2-DAND.LDR : 7 001 ko
+[17] : OP2-CAUL.LDR : 7 001 ko
+[18] : OP2-APPR.LDR : 7 001 ko
+[19] : OP1-TNOG.LDR : 7 001 ko
+[20] : OP1-MARS.LDR : 7 001 ko
+[21] : OP1-FSHK.LDR : 7 001 ko
+[22] : OP1-BLUD.LDR : 7 001 ko
+[23] : 2XLEVEL9.MOD : 7 001 ko
+[24] : RUNMAST .BA� : 0 001 ko
+[25] : OPTION7 .�IN : 0 002 ko
+[26] : OPTION5X.�IN : 0 001 ko
+[27] : OPTION4 .�IN : 0 001 ko
+[28] : MEDDLER .��N : 0 004 ko
+[29] : HIBONKEY.�AS : 0 001 ko
+[30] : DISC    .�AS : 0 001 ko
+[31] : BONZO   .�AS : 0 001 ko
+[32] : OP2-REDA.LDR : 7 001 ko
+[33] : OP2-SKYF.LDR : 7 001 ko
+[34] : OP2-THAN.LDR : 7 001 ko
+[35] : OP2-XCEL.LDR : 7 001 ko
+[36] : OP4-3WKS.LDR : 7 001 ko
+[37] : OP5-RACE.LDR : 7 001 ko
+[38] : M       .��  : 9 004 ko
+[39] : OP5-XOR .LDR : 7 001 ko
+[40] : OP4-HERB.LDR : 7 001 ko
+[41] : OP3-GPSM.LDR : 7 001 ko
+[42] : OP2-WALK.LDR : 7 001 ko
+[43] : OP2-SUBS.LDR : 7 001 ko
+[44] : OP2-SAB2.LDR : 7 001 ko
+[45] : GETMAST .BAS : 0 002 ko
+Dsk 053 Ko used

@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+Warning : track 43 start at sector 255 while track 0 starts at 193
+Warning : track 44 start at sector 255 while track 0 starts at 193
+[00] : DOUBLE1 .BIN : 0 029 ko
+[02] : P       .BAS : 0 001 ko
+[03] : TURTLES .BAS : 0 001 ko
+[04] : DOUBLE0 .BIN : 0 013 ko
+[05] : DOUBLE2 .BIN : 0 012 ko
+[06] : DOUBLE  .BAS : 0 001 ko
+[07] : Q       .BIN : 0 001 ko
+[08] : -AVISO  .BAS : 0 002 ko
+[09] : CIRCUS  .BAS : 0 001 ko
+[10] : CIRCUS  .BIN : 0 033 ko
+[13] : CIRCUS1 .BIN : 0 017 ko
+[15] : CIRCUS3 .BIN : 0 017 ko
+[17] : CIRCUS  .BI1 : 0 017 ko
+[19] : CIRCUS  .SCR : 0 012 ko
+[20] : CIRCUS2 .BIN : 0 017 ko
+[22] : TURT2   .BAS : 0 001 ko
+[23] : M       .BAS : 0 001 ko
+Dsk 176 Ko used

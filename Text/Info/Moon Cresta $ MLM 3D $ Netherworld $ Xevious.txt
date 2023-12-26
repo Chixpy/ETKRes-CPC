@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CRESTA  .BAS : 0 001 ko
+[01] : CRESTA  .BIN : 0 033 ko
+[04] : CRESTA  .ECR : 0 010 ko
+[05] : CRESTA  .LOD : 0 001 ko
+[06] : MLM     .BAS : 0 001 ko
+[07] : MLM     .BIN : 0 028 ko
+[09] : MLM     .ECR : 0 010 ko
+[10] : XEV     .SBF : 0 042 ko
+[12] : NETHER  .BAS : 0 015 ko
+[13] : NETHER  .BIN : 0 035 ko
+[17] : XEVIOUS .BAS : 0 001 ko
+[18] : XEVLOAD .BIN : 0 001 ko
+Dsk 178 Ko used

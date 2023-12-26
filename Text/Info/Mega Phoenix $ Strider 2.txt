@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : STRIDER2. �  : 0 017 ko
+[02] : -PHOENIX.��  : 0 001 ko
+[03] : STRIDER2.YH0 : 0 023 ko
+[05] : STRIDER2.A�D : 0 001 ko
+[06] : PHOENIX .��N : 0 029 ko
+[07] : STRIDER2.YH2 : 0 019 ko
+[09] : STRIDER2.YH3 : 0 021 ko
+[11] : STRIDER2.YH4 : 0 019 ko
+[13] : STRIDER2.YH5 : 0 021 ko
+[15] : STRIDER2.YH6 : 0 003 ko
+[16] : STRIDER2.YH1 : 0 020 ko
+[18] : MENU    .    : 0 001 ko
+[20] : MENU    .B�S : 0 001 ko
+[21] : MENU1   .B�S : 0 001 ko
+[22] : MENU2   .B�S : 0 001 ko
+[23] : MENU3   .B�S : 0 001 ko
+[24] : MENU4   .B�S : 0 001 ko
+[25] : MENU5   .B�S : 0 001 ko
+[26] : MENU6   .B�S : 0 001 ko
+[27] : MENU7   .B�S : 0 001 ko
+[28] : MENU8   .B�S : 0 001 ko
+Dsk 184 Ko used

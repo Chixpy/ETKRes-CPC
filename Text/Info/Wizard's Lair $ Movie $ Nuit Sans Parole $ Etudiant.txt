@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : LAIR    .BAS : 0 001 ko
+[01] : LAIR1   .BIN : 0 019 ko
+[03] : LAIR2   .BIN : 0 022 ko
+[05] : MOVIE   .-   : 0 001 ko
+[06] : MOVIE   .BI1 : 0 032 ko
+[08] : MOVIE   .BI2 : 0 017 ko
+[10] : MOVIE   .BIN : 0 001 ko
+[11] : MOVIE   .CAS : 0 001 ko
+[12] : MOVIE   .ECR : 0 011 ko
+[13] : MOVIE   .LOD : 0 001 ko
+[14] : NUITSP  .002 : 0 043 ko
+[17] : NUITSP  .BAS : 0 001 ko
+[18] : NUITSP  .001 : 0 003 ko
+[19] : ETUDIAN2.-   : 0 015 ko
+Dsk 168 Ko used

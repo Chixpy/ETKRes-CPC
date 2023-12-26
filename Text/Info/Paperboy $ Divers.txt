@@ -1,0 +1,50 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : AVION   .PAL : 0 001 ko
+[01] : AVION   .SCR : 0 004 ko
+[02] : FUSEE   .PAL : 0 001 ko
+[03] : FUSEE   .SCR : 0 005 ko
+[04] : FUSEE2  .PAL : 0 001 ko
+[05] : FUSEE2  .SCR : 0 004 ko
+[06] : HOMEWELL.SCR : 0 017 ko
+[08] : HOMME   .PAL : 0 001 ko
+[09] : HOMME   .SCR : 0 003 ko
+[10] : TRAIN   .SCR : 0 005 ko
+[11] : CARTE   .PAL : 0 001 ko
+[12] : CARTE   .SCR : 0 007 ko
+[13] : ALPBET  .FNT : 0 001 ko
+[14] : CHARGEUR.BAS : 0 001 ko
+[15] : DE      .BAS : 0 001 ko
+[16] : DE      .BIN : 0 001 ko
+[17] : DECOMPA .BAS : 0 001 ko
+[18] : ECR     .    : 0 003 ko
+[19] : ECRAN   .BAS : 0 001 ko
+[20] : ITALIC  .FNT : 0 001 ko
+[21] : LOADER  .BAS : 0 001 ko
+[22] : PAPER   .BAS : 0 001 ko
+[23] : RASTER  .BAS : 0 001 ko
+[24] : RASTER  .BIN : 0 003 ko
+[25] : RASTER2 .BIN : 0 003 ko
+[26] : SCRIPT  .FNT : 0 001 ko
+[27] : SOURIS  .BAS : 0 002 ko
+[28] : MOUSE   .BAS : 0 001 ko
+[29] : MOUSE   .BIN : 0 001 ko
+[30] : ELITE   .BAS : 0 001 ko
+[31] : ELITE   .B�N : 0 001 ko
+[32] : PCODE   .B�N : 0 036 ko
+[35] : BRODER  .EC1 : 0 017 ko
+[37] : CAFE    .BAS : 0 001 ko
+[38] : DEMO    .BAS : 0 001 ko
+[39] : DEMO2   .BAS : 0 001 ko
+[40] : SU      .BAS : 0 001 ko
+[41] : PRELOC  .B�N : 0 001 ko
+[42] : SCR     .B�N : 0 017 ko
+[44] : EMLYN   .BAS : 0 001 ko
+[45] : VUMETRE .BAS : 0 002 ko
+[46] : AE      .BAS : 0 002 ko
+[47] : ASM49   .BIN : 0 001 ko
+[48] : SCREEN  .B�N : 0 017 ko
+Dsk 174 Ko used

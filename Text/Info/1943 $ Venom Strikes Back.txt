@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1943    .    : 0 015 ko
+[01] : M       .BAS : 0 001 ko
+[02] : VENOM   .CO2 : 0 009 ko
+[03] : 1943    .BIN : 0 033 ko
+[06] : VENOM   .BIN : 0 002 ko
+[07] : VENOM   .SCR : 0 017 ko
+[09] : VENOM   .CO1 : 0 041 ko
+Dsk 118 Ko used

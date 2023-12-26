@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : IKARI   .BAS : 0 001 ko
+[01] : IKARI   .N01 : 0 014 ko
+[02] : IKARI   .N02 : 0 036 ko
+[05] : ECLIPSE .BAS : 0 001 ko
+[06] : FORMATS .BIN : 0 002 ko
+[07] : TE      .BIN : 0 001 ko
+[08] : TECODE  .BIN : 0 035 ko
+[11] : TECON   .SCR : 0 017 ko
+[12] : RAMPAGE .BIN : 0 011 ko
+[13] : RAMPAGE2.BIN : 0 029 ko
+[15] : RAMPAGE1.BIN : 0 011 ko
+[17] : TESCR   .SCR : 0 017 ko
+[19] : DRAGON  .BAS : 0 001 ko
+Dsk 176 Ko used

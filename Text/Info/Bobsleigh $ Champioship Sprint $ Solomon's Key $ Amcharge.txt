@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMCH    .B�N : 0 002 ko
+[01] : AMCHARGE.BIN : 0 003 ko
+[02] : CHAMP   .    : 0 007 ko
+[03] : CHAMP-2-.BIN : 0 034 ko
+[06] : CHAMP-3-.BIN : 0 032 ko
+[08] : DATA    .BAK : 0 001 ko
+[09] : BOB     .    : 0 010 ko
+[10] : BOBSL-2-.BIN : 0 035 ko
+[13] : SALOMON .KEY : 0 032 ko
+[15] : AMCHARG2.BAS : 0 003 ko
+[16] : DATA    .000 : 0 001 ko
+[17] : DATA    .001 : 0 001 ko
+Dsk 161 Ko used

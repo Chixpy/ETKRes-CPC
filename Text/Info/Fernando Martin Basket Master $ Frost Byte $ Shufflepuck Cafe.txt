@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BASKET  .BAS : 0 001 ko
+[01] : BASKET2 .BIN : 0 004 ko
+[02] : BASKET3 .BIN : 0 040 ko
+[05] : BASKET4 .BIN : 0 001 ko
+[06] : SHUFFLE .BAS : 0 013 ko
+[07] : SHUFL10 .BIN : 0 004 ko
+[08] : SHUFL5  .BIN : 0 001 ko
+[09] : SHUFFLE .BIN : 0 018 ko
+[11] : SHUFL1  .BIN : 0 015 ko
+[12] : SHUFL11 .BIN : 0 002 ko
+[13] : SHUFL12 .BIN : 0 003 ko
+[14] : SHUFL13 .BIN : 0 004 ko
+[15] : SHUFL14 .BIN : 0 004 ko
+[16] : SHUFL15 .BIN : 0 005 ko
+[17] : SHUFL2  .BIN : 0 002 ko
+[18] : SHUFL6  .BIN : 0 001 ko
+[19] : SHUFL7  .BIN : 0 003 ko
+[20] : SHUFL8  .BIN : 0 003 ko
+[21] : SHUFL9  .BIN : 0 003 ko
+[22] : SHUFL3  .BIN : 0 014 ko
+[23] : SHUFL4  .BIN : 0 015 ko
+[24] : FROST   .BIN : 0 022 ko
+Dsk 178 Ko used

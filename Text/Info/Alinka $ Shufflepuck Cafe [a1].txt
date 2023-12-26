@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BEJIN   .BIN : 0 004 ko
+[01] : BIFF    .BIN : 0 003 ko
+[02] : BRODER  .ECR : 0 017 ko
+[04] : DATA    .BIN : 0 003 ko
+[05] : DATAMENU.BIN : 0 002 ko
+[06] : DC3     .BIN : 0 003 ko
+[07] : EFEVISUE.BIN : 0 014 ko
+[08] : ENEG    .BIN : 0 004 ko
+[09] : ENTRCAFE.ECR : 0 017 ko
+[11] : HISCORES.BIN : 0 001 ko
+[12] : LEXAN   .BIN : 0 005 ko
+[13] : LOADER  .BIN : 0 001 ko
+[14] : MENU    .BIN : 0 015 ko
+[15] : MENUOPTN.BIN : 0 015 ko
+[16] : NERUAL  .BIN : 0 004 ko
+[17] : PROG    .BIN : 0 011 ko
+[18] : SAVEGAME.BAK : 0 001 ko
+[19] : SAVEGAME.BIN : 0 001 ko
+[20] : -SHUFFLE.    : 0 001 ko
+[21] : SKIP    .BIN : 0 002 ko
+[22] : VINNIE  .BIN : 0 003 ko
+[23] : VISINE  .BIN : 0 003 ko
+[24] : ZONE1   .BIN : 0 010 ko
+Dsk 140 Ko used

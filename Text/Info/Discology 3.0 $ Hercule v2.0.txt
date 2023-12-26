@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : strange sector numbering in track 1! (maxSect:88,minSect:69)
+Warning : track 1 start at sector 105 while track 0 starts at 65
+[00] : HERCULE .BAS : 0 002 ko
+[01] : ��������.��� : 0 001 ko
+[02] : HERCULE .BIN : 0 001 ko
+[03] : DISCO50 .BIN : 0 017 ko
+[05] : HERCULE1.BIN : 0 008 ko
+[06] : HERCULE2.BAS : 0 003 ko
+[07] : DISCO   .C�1 : 0 023 ko
+[09] : DISCO   .C�3 : 0 015 ko
+[10] : DISCO   .C�2 : 0 013 ko
+[11] : DISCO   .C�0 : 0 015 ko
+[12] : D       .BAS : 0 001 ko
+[13] : HERCULE3.BIN : 0 002 ko
+[14] : HERCULE4.BIN : 0 003 ko
+[15] : HERCULE5.BAS : 0 002 ko
+[16] : HERCULE6.BIN : 0 001 ko
+[17] : HERCULE7.BAS : 0 002 ko
+[18] : C81     .    : 0 010 ko
+[19] : HERC60  .BIN : 0 010 ko
+[20] : ROCK    .PAL : 0 001 ko
+[21] : F       .BIN : 0 001 ko
+[22] : ROCK    .SCR : 0 014 ko
+Dsk 145 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : AIGDAT  .BIN : 0 004 ko
+[01] : AIGLE   .    : 0 003 ko
+[02] : PGM     .BIN : 0 040 ko
+[05] : FRANCE  .BAS : 0 009 ko
+[06] : LEAD1   .BIN : 0 001 ko
+[07] : LEAD1   .ECR : 0 017 ko
+[09] : LEAD5   .BIN : 0 026 ko
+[11] : LEADER  .BAS : 0 001 ko
+[12] : LEADER  .BIN : 0 001 ko
+[13] : LEADER2 .BIN : 0 002 ko
+[14] : LEADER3 .BIN : 0 007 ko
+[15] : LEADER4 .BIN : 0 002 ko
+[16] : STREET  .BAS : 0 037 ko
+[20] : TEMPEST .BIN : 0 028 ko
+Dsk 178 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DANDARE .BIN : 0 042 ko
+[03] : KANE    .BAS : 0 001 ko
+[04] : KANE1   .BIN : 0 001 ko
+[05] : KANE2   .BIN : 0 030 ko
+[07] : KANE3   .BIN : 0 011 ko
+[08] : OBS     .BAS : 0 001 ko
+[09] : OBSI1   .BIN : 0 001 ko
+[10] : OBSI2   .BIN : 0 017 ko
+[12] : OBSI3   .BIN : 0 038 ko
+[15] : SLAPSHOT.BIN : 0 031 ko
+[17] : HOCKEY  .BAS : 0 001 ko
+Dsk 174 Ko used

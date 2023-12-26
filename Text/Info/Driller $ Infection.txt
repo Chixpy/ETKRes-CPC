@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CODE    .BIN : 0 034 ko
+[03] : INFECT  .BAS : 0 001 ko
+[04] : LOADPIC .SCR : 0 017 ko
+[06] : SPRITES .SPR : 0 017 ko
+[11] : DRILLER .BIN : 0 009 ko
+[12] : DRILLER1.BIN : 0 008 ko
+[13] : DRILLER2.BIN : 0 037 ko
+Dsk 123 Ko used

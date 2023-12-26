@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : GALAXIA .BAS : 0 002 ko
+[01] : LASER   .BIN : 0 019 ko
+[03] : HARRIER .BAS : 0 001 ko
+[04] : HARRIER1.BIN : 0 009 ko
+[05] : FIGHTER .BIN : 0 037 ko
+[08] : DRAGON  .BIN : 0 016 ko
+[09] : AHOY    .BIN : 0 019 ko
+[11] : HAWKS   .BIN : 0 008 ko
+[12] : AMSON   .BAS : 0 011 ko
+[13] : M       .BAS : 0 002 ko
+[14] : GALAXIAM.BIN : 0 026 ko
+Dsk 150 Ko used

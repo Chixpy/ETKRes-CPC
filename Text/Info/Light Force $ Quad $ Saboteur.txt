@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : QUAD4   .BIN : 0 037 ko
+[03] : QUAD3   .BIN : 0 001 ko
+[04] : QUAD2   .BIN : 0 017 ko
+[06] : QUAD1   .BIN : 0 001 ko
+[07] : QUAD    .BAS : 0 001 ko
+[08] : LIGHT   .BAS : 0 001 ko
+[09] : LIGHT-F1.BIN : 0 007 ko
+[10] : LIGHT-F2.BIN : 0 036 ko
+[13] : SABOTEUR.2   : 0 017 ko
+[15] : SABOTEUR.3   : 0 004 ko
+[16] : SABOTEUR.4   : 0 005 ko
+[17] : SABOTEUR.5   : 0 002 ko
+[18] : SABOTEUR.6   : 0 017 ko
+[20] : SABOTEUR.BAS : 0 001 ko
+[21] : SAB     .BAS : 0 001 ko
+Dsk 148 Ko used

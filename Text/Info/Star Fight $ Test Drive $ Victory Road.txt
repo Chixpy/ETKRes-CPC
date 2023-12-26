@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODES   .BIN : 0 003 ko
+[01] : DATAS   .BIN : 0 002 ko
+[02] : STAR    .BAS : 0 004 ko
+[03] : VICTORY .BAS : 0 011 ko
+[04] : VICTORY .BIN : 0 032 ko
+[06] : TESTDRIV.    : 0 014 ko
+[07] : TESTDRIV.BIN : 0 031 ko
+Dsk 097 Ko used

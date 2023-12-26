@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 1 while track 0 starts at 193
+Warning : track 41 start at sector 1 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : 225K    .BAS : 0 002 ko
+[01] : COPYLOCK.BIN : 0 010 ko
+[02] : COPYTEXT.BIN : 0 001 ko
+[03] : DISC    .BAS : 0 009 ko
+[04] : DISPLAY .BAS : 0 002 ko
+[05] : DISPLAY .BIN : 0 001 ko
+[06] : FDC     .BIN : 0 002 ko
+[07] : FLOPPY  .BAS : 0 019 ko
+[09] : HERCULE .BAS : 0 009 ko
+[10] : ELITE   .BIN : 0 008 ko
+[11] : TC1     .BIN : 7 023 ko
+[13] : TC2     .BIN : 7 017 ko
+[15] : TC3     .BIN : 7 004 ko
+[16] : TC4     .BIN : 7 016 ko
+[17] : TC5     .BIN : 7 015 ko
+[18] : RAMDISK .BAS : 0 001 ko
+[19] : PHOENIX .BIN : 0 005 ko
+[20] : RAMDISK .BIN : 0 002 ko
+[21] : RD      .DOC : 0 006 ko
+[22] : RESTORE .BIN : 0 001 ko
+[23] : SECTOR  .BAS : 0 003 ko
+[24] : SECTOR  .BIN : 0 001 ko
+[25] : ULYSSE  .BIN : 0 003 ko
+[26] : TC6     .BIN : 7 013 ko
+[27] : JEU     .BIN : 0 001 ko
+[28] : JEU     .BAS : 0 001 ko
+[29] : LIST    .BAS : 0 001 ko
+Dsk 176 Ko used

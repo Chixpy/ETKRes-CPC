@@ -1,0 +1,43 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : PICT    .BIN : 0 001 ko
+[01] : CAT1    .BAK : 0 014 ko
+[02] : CAT     .BAS : 0 001 ko
+[03] : CAT0    .BAS : 0 010 ko
+[04] : DAMS    .BIN : 0 017 ko
+[06] : DEMOC   .BAS : 0 002 ko
+[07] : COULOR  .BIN : 0 002 ko
+[08] : EDITEUR .BAS : 0 004 ko
+[09] : T3      .BAS : 0 005 ko
+[10] : CAT3    .BAS : 0 020 ko
+[12] : CAT5    .BAS : 0 013 ko
+[13] : CAT1    .BAS : 0 001 ko
+[14] : CAT4    .BAS : 0 006 ko
+[15] : CAT2    .BAS : 0 016 ko
+[16] : ONDUL   .BIN : 0 002 ko
+[17] : COULEUR .BAS : 0 002 ko
+[18] : FORMATER.BIN : 0 001 ko
+[19] : CATEDIT .BIN : 0 021 ko
+[21] : TRUC    .BIN : 0 001 ko
+[22] : COLOR   .BIN : 0 001 ko
+[23] : CRTC    .BAS : 0 002 ko
+[24] : REGIS   .BIN : 0 001 ko
+[25] : DEMO2   .BIN : 0 002 ko
+[26] : JEU1    .BAS : 0 001 ko
+[27] : DAMS1   .BIN : 0 001 ko
+[28] : SPRITE  .BAS : 0 001 ko
+[29] : DEMO    .BAS : 0 001 ko
+[30] : AS33    .BIN : 0 001 ko
+[31] : TRUC    .BAS : 0 001 ko
+[32] : RUBI    .BIN : 0 001 ko
+[33] : DAMS    .BAS : 0 001 ko
+[34] : LOADER  .BIN : 0 001 ko
+[36] : J2      .BAS : 0 007 ko
+[37] : JEU     .BIN : 0 002 ko
+[38] : J6      .BAS : 0 004 ko
+[39] : TABLJEU .BIN : 0 001 ko
+[41] : SPRITES .BIN : 0 001 ko
+Dsk 169 Ko used

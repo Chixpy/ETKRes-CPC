@@ -1,0 +1,8 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DASHIII .BIN : 0 029 ko
+[02] : SPEEL   .BAS : 0 001 ko
+[03] : 39K     .BIN : 0 039 ko
+[06] : SCODE   .BIN : 0 017 ko
+[08] : SPROG   .BIN : 0 001 ko
+Dsk 087 Ko used

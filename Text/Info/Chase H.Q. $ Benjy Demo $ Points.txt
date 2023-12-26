@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : HQ      .    : 0 001 ko
+[01] : HQ      .BAS : 0 007 ko
+[02] : HQ      .BI1 : 0 013 ko
+[03] : HQ      .BIN : 0 030 ko
+[05] : HQ      .SCN : 0 009 ko
+[06] : HQ1     .BIN : 0 014 ko
+[07] : HQ2     .BIN : 0 014 ko
+[08] : HQ3     .BIN : 0 015 ko
+[09] : HQ4     .BIN : 0 013 ko
+[10] : FONT    .SPR : 0 003 ko
+[11] : POINTS  .BAS : 0 001 ko
+[12] : POINTS  .BIN : 0 006 ko
+[13] : TABSIN  .BIN : 0 001 ko
+[14] : TABCOS  .BIN : 0 001 ko
+[15] : BEN     .BIN : 0 008 ko
+[16] : BOL     .BIN : 0 002 ko
+[17] : BOL     .DAM : 0 006 ko
+[18] : BEN     .BI1 : 0 006 ko
+[19] : B       .BAS : 0 001 ko
+[20] : HOT-ROD .MUS : 0 004 ko
+[21] : TEXTE   .    : 0 009 ko
+[22] : BEN     .TXT : 0 009 ko
+[23] : SCROLV  .DAM : 0 005 ko
+Dsk 178 Ko used

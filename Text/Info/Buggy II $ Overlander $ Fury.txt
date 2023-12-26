@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DISC    .BIN : 0 001 ko
+[01] : LOADER  .SCR : 0 017 ko
+[03] : OVERCODE.BIN : 0 039 ko
+[06] : OVER2   .BIN : 0 017 ko
+[08] : FURY    .BAS : 0 001 ko
+[09] : FURYCODE.BIN : 0 035 ko
+[12] : FURY    .SCR : 0 017 ko
+[14] : BUGGY   .BAS : 0 001 ko
+[15] : BUGGY   .BIN : 0 020 ko
+Dsk 148 Ko used

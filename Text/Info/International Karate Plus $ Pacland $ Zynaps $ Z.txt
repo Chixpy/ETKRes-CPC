@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : KARATE+ .BAS : 0 006 ko
+[01] : KARATE+1.BIN : 0 037 ko
+[04] : KARATE+2.BIN : 0 017 ko
+[06] : PACLAND .1   : 0 017 ko
+[08] : PACLAND .2   : 0 041 ko
+[11] : PACLAND .BIN : 0 001 ko
+[12] : Z       .    : 0 001 ko
+[13] : Z       .000 : 0 018 ko
+[15] : ZYNAPS  .BIN : 0 007 ko
+[16] : ZYNAPS  .N01 : 0 033 ko
+Dsk 178 Ko used

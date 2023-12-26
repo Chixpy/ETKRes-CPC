@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : OCP     .BAS : 0 001 ko
+[01] : CHESS   .BIN : 0 036 ko
+[04] : ECHEC   .BAS : 0 001 ko
+[05] : SORCERY .BIN : 0 042 ko
+[08] : TEMPEST .BIN : 0 027 ko
+[10] : ASTERIX .BIN : 0 038 ko
+[13] : LODPIC  .BIN : 0 005 ko
+Dsk 150 Ko used

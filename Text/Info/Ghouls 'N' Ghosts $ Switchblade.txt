@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GHOULS  .�   : 0 011 ko
+[01] : GHOULS  .�V1 : 0 011 ko
+[02] : GHOULS  .�V3 : 0 011 ko
+[03] : GHOULS  .�V5 : 0 011 ko
+[04] : GHOULS  .�RG : 0 006 ko
+[05] : GHOULS  .�V4 : 0 010 ko
+[06] : GHOULS  .BIN : 0 033 ko
+[09] : GHOULS  .�V2 : 0 010 ko
+[10] : CODE1   .BIN : 0 006 ko
+[11] : CODE2   .BIN : 0 034 ko
+[14] : CODE3   .BIN : 0 016 ko
+[15] : CODE4   .BIN : 0 017 ko
+[17] : DISC    .BAS : 0 001 ko
+[18] : LOADER  .BIN : 0 001 ko
+[19] : MENU    .    : 0 001 ko
+Dsk 179 Ko used

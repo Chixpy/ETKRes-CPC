@@ -1,0 +1,35 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CMDLIN  .PAS : 0 001 ko
+[01] : LISTER  .PAS : 0 006 ko
+[02] : TINST   .�OM : 0 025 ko
+[04] : TINST   .�TA : 0 005 ko
+[05] : TINST   .�SG : 0 004 ko
+[06] : TURBO   .�OM : 0 031 ko
+[08] : TURBO   .�SG : 0 002 ko
+[09] : TURBO   .�VR : 0 002 ko
+[10] : WINDOW  .PAS : 0 003 ko
+[11] : CIRCLE  .BAS : 0 001 ko
+[12] : DEGDEMO .BAS : 0 001 ko
+[13] : DEPOSUIT.BAS : 0 002 ko
+[14] : FILLDEMO.BAS : 0 001 ko
+[15] : FORMAT  .BAS : 0 002 ko
+[16] : GRAFDEMO.BAS : 0 001 ko
+[17] : MULTIDEM.BAS : 0 002 ko
+[18] : ONSQDEMO.BAS : 0 001 ko
+[19] : POSDEMO .BAS : 0 001 ko
+[20] : REAL3D  .BAS : 0 001 ko
+[21] : SCROL   .BIN : 0 004 ko
+[22] : SHADED  .BAS : 0 002 ko
+[23] : SORT    .BAS : 0 002 ko
+[24] : SORTDEMO.BAS : 0 001 ko
+[25] : SOUNDTO .BAS : 0 001 ko
+[26] : SPLIT   .BAS : 0 002 ko
+[27] : SPLITDEM.BAS : 0 001 ko
+[28] : TEXTCOPY.BAS : 0 001 ko
+[29] : TYPHON  .128 : 0 013 ko
+[30] : TYPHON  .664 : 0 013 ko
+[31] : TYPHON  .BAS : 0 004 ko
+[32] : TYPHON  .BIN : 0 013 ko
+[33] : WINDOWS .BAS : 0 001 ko
+Dsk 150 Ko used

@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : M       .BAS : 0 001 ko
+[01] : XENON   .    : 0 015 ko
+[02] : XENON   .B01 : 0 031 ko
+[04] : XENON   .B02 : 0 016 ko
+[05] : XENON   .LV2 : 0 005 ko
+[06] : XENON   .LV3 : 0 008 ko
+[07] : XENON   .LV4 : 0 006 ko
+[08] : SILKWORM.    : 0 011 ko
+[09] : SILKWORM.N01 : 0 013 ko
+[10] : SILKWORM.N02 : 0 025 ko
+[12] : LICENCE .    : 0 013 ko
+[13] : LICENCE .BIN : 0 034 ko
+Dsk 178 Ko used

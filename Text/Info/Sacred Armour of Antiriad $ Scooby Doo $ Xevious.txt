@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ANTI1   .BIN : 0 021 ko
+[02] : ANTI2   .BIN : 0 021 ko
+[04] : ANTI3   .BIN : 0 017 ko
+[06] : ANTIRIAD.BIN : 0 001 ko
+[07] : ANTIRIAD.DEG : 0 001 ko
+[08] : SCOOBY  .    : 0 035 ko
+[11] : SCO     .BAS : 0 001 ko
+[12] : XEVIOUS2.BIN : 0 042 ko
+[15] : XEVIOUS1.BIN : 0 001 ko
+[16] : XEVIOUS0.BIN : 0 017 ko
+[18] : XEVIOUS .BAS : 0 001 ko
+[19] : ELITE   .    : 0 008 ko
+Dsk 166 Ko used

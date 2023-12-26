@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BABYJO  .    : 0 011 ko
+[01] : BABYJO  .N01 : 0 020 ko
+[03] : BABYJO  .N10 : 0 010 ko
+[04] : BABYJO  .N11 : 0 003 ko
+[05] : BABYJO  .N12 : 0 004 ko
+[06] : BABYJO  .N13 : 0 004 ko
+[07] : BABYJO  .N14 : 0 003 ko
+[08] : BABYJO  .N20 : 0 008 ko
+[09] : BABYJO  .N22 : 0 005 ko
+[10] : BABYJO  .N23 : 0 003 ko
+[11] : BABYJO  .N24 : 0 005 ko
+[12] : BABYJO  .N21 : 0 005 ko
+[13] : BABYJO  .N25 : 0 005 ko
+[14] : BABYJO  .N30 : 0 011 ko
+[15] : BABYJO  .N31 : 0 003 ko
+[16] : BABYJO  .N32 : 0 003 ko
+[17] : BABYJO  .N33 : 0 003 ko
+[18] : BABYJO  .N34 : 0 002 ko
+[19] : BABYJO  .N35 : 0 003 ko
+[20] : BABYJO  .N36 : 0 001 ko
+[21] : BABYJO  .N40 : 0 010 ko
+[22] : BABYJO  .N41 : 0 003 ko
+[23] : BABYJO  .N42 : 0 001 ko
+[24] : BABYJO  .N43 : 0 003 ko
+[25] : BABYJO  .N44 : 0 003 ko
+[26] : BABYJO  .N45 : 0 003 ko
+[27] : BABYJO  .N46 : 0 003 ko
+[28] : CC3     .BIN : 0 037 ko
+Dsk 175 Ko used

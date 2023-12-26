@@ -1,0 +1,6 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SPRINT  .BAS : 0 012 ko
+[01] : SPRINT  .BIN : 0 030 ko
+[03] : KONG    .BIN : 0 027 ko
+Dsk 069 Ko used

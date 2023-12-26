@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : PACMANIA.BIN : 0 002 ko
+[01] : PACMANIA.H01 : 0 017 ko
+[03] : PACMANIA.H02 : 0 041 ko
+[06] : PACMANIA.H03 : 0 008 ko
+[07] : FERNAND .BAS : 0 001 ko
+[08] : FUTBAL  .BIN : 0 033 ko
+[11] : FERNAND .BI1 : 0 033 ko
+[13] : PINBALL .II  : 0 031 ko
+[16] : PINBALL .I   : 0 008 ko
+[17] : PINBALL .BAS : 0 001 ko
+[18] : FERNAND2.BIN : 0 001 ko
+[19] : PACMANIA.BAS : 0 002 ko
+Dsk 178 Ko used

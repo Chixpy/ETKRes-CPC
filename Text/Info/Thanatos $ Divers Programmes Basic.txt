@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THANATO5.BIN : 0 039 ko
+[03] : THANATO4.BIN : 0 002 ko
+[04] : THANATO3.BIN : 0 017 ko
+[06] : THANATO2.BIN : 0 007 ko
+[07] : THANATO1.BIN : 0 005 ko
+[08] : THANATO .BAS : 0 001 ko
+[10] : PARTY1  .BIN : 0 006 ko
+[11] : PARTY2  .BIN : 0 005 ko
+[12] : PARTY3  .BIN : 0 004 ko
+[13] : #3      .BIN : 0 005 ko
+[14] : LOCO    .BAS : 0 001 ko
+[15] : DATA4   .BIN : 0 003 ko
+[16] : DATA3   .BIN : 0 003 ko
+[17] : DATA2   .BIN : 0 004 ko
+[18] : DATA1   .BIN : 0 022 ko
+[20] : BOA     .BAS : 0 004 ko
+[21] : PENDU   .BAS : 0 002 ko
+[22] : TENNIS  .BAS : 0 003 ko
+[23] : SOURIES .BAS : 0 004 ko
+[24] : ESCRIME .BAS : 0 004 ko
+Dsk 141 Ko used

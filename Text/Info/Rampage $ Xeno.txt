@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : XENO    .BAS : 0 016 ko
+[01] : XENO    .BIN : 0 042 ko
+[12] : RAMPAGE .BIN : 0 011 ko
+[13] : RAMPAGE1.BIN : 0 011 ko
+[14] : RAMPAGE2.BIN : 0 029 ko
+Dsk 109 Ko used

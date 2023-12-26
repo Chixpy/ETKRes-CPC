@@ -1,0 +1,9 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COLISEUM.    : 0 009 ko
+[01] : COLISEUM.SC1 : 0 033 ko
+[04] : GUNFRIGH.    : 0 032 ko
+[06] : HATE    .    : 0 028 ko
+[08] : RICK    .    : 0 034 ko
+[11] : WEC     .    : 0 038 ko
+Dsk 174 Ko used

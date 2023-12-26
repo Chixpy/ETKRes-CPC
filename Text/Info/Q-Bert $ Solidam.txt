@@ -1,0 +1,38 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : DO      .��N : 0 005 ko
+[01] : DB      .��N : 0 004 ko
+[02] : DC      .��N : 0 005 ko
+[03] : DD      .��N : 0 005 ko
+[04] : DE      .��N : 0 005 ko
+[05] : DF      .��N : 0 005 ko
+[06] : DG      .��N : 0 003 ko
+[07] : S3      .��N : 0 011 ko
+[08] : DI      .��N : 0 004 ko
+[09] : DJ      .��N : 0 004 ko
+[10] : DK      .��N : 0 004 ko
+[11] : DL      .��N : 0 004 ko
+[12] : DM      .��N : 0 005 ko
+[13] : DN      .��N : 0 005 ko
+[14] : S2      .��N : 0 011 ko
+[15] : DA      .��N : 0 005 ko
+[16] : DP      .��N : 0 004 ko
+[17] : DR      .��N : 0 005 ko
+[18] : DS      .��N : 0 005 ko
+[19] : DQ      .��N : 0 005 ko
+[20] : DU      .��N : 0 004 ko
+[21] : DT      .��N : 0 004 ko
+[22] : DV      .��N : 0 005 ko
+[23] : P1      .��N : 0 011 ko
+[24] : DX      .��N : 0 007 ko
+[25] : DW      .��N : 0 005 ko
+[26] : PA      .BAK : 0 002 ko
+[27] : DH      .��N : 0 005 ko
+[28] : S1      .��N : 0 011 ko
+[29] : PA      .BIN : 0 002 ko
+[30] : CUBERT  .BAS : 0 013 ko
+[31] : SOLIDAM .BAS : 0 005 ko
+Dsk 178 Ko used

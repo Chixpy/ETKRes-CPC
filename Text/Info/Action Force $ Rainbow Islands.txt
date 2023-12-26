@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : RAIN0   .BIN : 0 010 ko
+[01] : RAIN1   .BIN : 0 010 ko
+[02] : RAIN2   .BIN : 0 010 ko
+[03] : RAIN3   .BIN : 0 010 ko
+[04] : RAIN4   .BIN : 0 010 ko
+[05] : RAIN5   .BIN : 0 010 ko
+[06] : RAIN6   .BIN : 0 010 ko
+[07] : RAINBOW .    : 0 001 ko
+[08] : RAINBOW .BAS : 0 010 ko
+[09] : RAINBOW .BIN : 0 036 ko
+[12] : RAINBOW .SCN : 0 015 ko
+[13] : ACTION  .BAS : 0 001 ko
+[14] : ACTION2 .BIN : 0 006 ko
+[15] : ACTION3 .BIN : 0 007 ko
+[16] : ACTION4 .BIN : 0 032 ko
+Dsk 178 Ko used

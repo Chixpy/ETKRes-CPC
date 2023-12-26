@@ -1,0 +1,11 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TITAN   .BAS : 0 001 ko
+[01] : TITAN   .SCA : 0 024 ko
+[03] : TITAN1  .BAS : 0 001 ko
+[04] : TITAN2  .BIN : 0 031 ko
+[06] : TITAN3  .BIN : 0 017 ko
+[08] : SKATE   .BIN : 0 011 ko
+[09] : SKATE1  .BIN : 0 042 ko
+[12] : SKATE2  .BIN : 0 035 ko
+Dsk 162 Ko used

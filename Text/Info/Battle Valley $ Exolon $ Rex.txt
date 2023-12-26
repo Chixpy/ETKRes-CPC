@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Warning : track 3 start at sector 0 while track 0 starts at 65
+Warning : track 4 start at sector 9 while track 0 starts at 65
+Warning : track 5 start at sector 18 while track 0 starts at 65
+Warning : track 6 start at sector 27 while track 0 starts at 65
+Warning : track 7 start at sector 36 while track 0 starts at 65
+Warning : track 8 start at sector 45 while track 0 starts at 65
+Warning : track 9 start at sector 54 while track 0 starts at 65
+Warning : track 10 start at sector 63 while track 0 starts at 65
+Warning : track 11 start at sector 72 while track 0 starts at 65
+Warning : track 12 start at sector 81 while track 0 starts at 65
+Warning : track 13 start at sector 90 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+[00] : EXOLON  .    : 0 001 ko
+[01] : FLAG    .B�N : 0 050 ko
+[05] : VALLEY  .    : 0 040 ko
+[08] : REXCODE1.B�N : 0 032 ko
+[10] : REXCODE2.B�N : 0 017 ko
+[12] : REX     .BAS : 0 001 ko
+Dsk 141 Ko used

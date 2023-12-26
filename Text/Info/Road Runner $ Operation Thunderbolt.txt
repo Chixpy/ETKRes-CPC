@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : THUNDER .B00 : 0 010 ko
+[01] : THUNDER .B01 : 0 032 ko
+[03] : THUNDER .BAS : 0 001 ko
+[04] : THUNDER .LV0 : 0 015 ko
+[05] : THUNDER .LV1 : 0 012 ko
+[06] : THUNDER .LV2 : 0 016 ko
+[07] : THUNDER .LV3 : 0 014 ko
+[08] : THUNDER .LV4 : 0 016 ko
+[09] : ROADRUN .BAS : 0 008 ko
+[10] : ROADRUN0.BIN : 0 008 ko
+[11] : ROADRUN1.BIN : 0 007 ko
+[12] : ROADRUN2.BIN : 0 033 ko
+Dsk 172 Ko used

@@ -1,0 +1,44 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COPYROM .BAS : 0 001 ko
+[01] : CLS     .BAS : 0 001 ko
+[02] : COMPACT .BAS : 0 002 ko
+[03] : ECRAN   .BAK : 0 017 ko
+[05] : ECR     .BIN : 0 009 ko
+[06] : ECRA    .BIN : 0 009 ko
+[07] : AZ      .BIN : 0 009 ko
+[08] : /�"/��s#.r�� : 91 007 ko
+[09] : |�(^#V�.S-� : 184 001 ko
+[10] : �!1�~� .�6
+ : 1 030 ko
+[11] : ���##��.� : 1 016 ko
+[12] : �y��È.*� : 184 025 ko
+[13] : ##�#���.F+N : 213 006 ko
+[14] : ���y��.͈ : 17 012 ko
+[15] : ��##�~4�.� : 35 016 ko
+[16] : ES      .BIN : 0 001 ko
+[17] : GATE    .BIN : 0 001 ko
+[18] : COULEUR .BAS : 0 002 ko
+[19] : O3000   .BIN : 0 001 ko
+[20] : OVERTXT8.BIN : 0 003 ko
+[21] : L       .BIN : 0 001 ko
+[22] : COULEURS.BAS : 0 003 ko
+[23] : OVERTXT9.BIN : 0 002 ko
+[24] : -VUMETRE.BIN : 0 025 ko
+[26] : RTXT    .BIN : 0 002 ko
+[27] : CASE    .BAS : 0 001 ko
+[28] : 3DSCROLL.BIN : 0 004 ko
+[29] : DAMS    .BIN : 0 017 ko
+[30] : PROFTAB .BIN : 0 002 ko
+[31] : ECRAN   .BIN : 0 017 ko
+[34] : DMP     .BAS : 0 001 ko
+[35] : RASTER  .BIN : 0 001 ko
+[36] : RASTERT .BIN : 0 002 ko
+[37] : RASTXT  .BIN : 0 002 ko
+[38] : SURASTER.BIN : 0 002 ko
+[39] : RASECR  .BIN : 0 002 ko
+[40] : COLOR1  .BIN : 0 002 ko
+[41] : COLOR2  .BIN : 0 002 ko
+[42] : COLOR3  .BIN : 0 002 ko
+[43] : STEPHIE .BIN : 0 004 ko
+Dsk 263 Ko used

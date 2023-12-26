@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ITALY   .SCN : 0 006 ko
+[01] : ITALY   .BIN : 0 024 ko
+[02] : ITALY   .BI3 : 0 006 ko
+[03] : ITALY   .BAS : 0 011 ko
+[04] : ITALY51 .BIN : 0 014 ko
+[05] : ITALY   .BI1 : 0 004 ko
+[06] : ITALY   .BI2 : 0 009 ko
+[07] : ITALY52 .BIN : 0 013 ko
+[08] : ITALY6  .BIN : 0 010 ko
+[09] : ITALY7  .BIN : 0 005 ko
+[10] : ITALY8  .BIN : 0 003 ko
+[11] : ITALY9  .BIN : 0 002 ko
+[13] : WORLD   .BAS : 0 010 ko
+[14] : ITALY   .    : 0 001 ko
+[15] : WORLD   .    : 0 015 ko
+[16] : WORLD   .BI1 : 0 007 ko
+[17] : WORLD   .BIN : 0 025 ko
+[19] : M       .BAS : 0 001 ko
+Dsk 166 Ko used

@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : P47     .1   : 0 017 ko
+[02] : P47     .2   : 0 032 ko
+[04] : P47     .3   : 0 001 ko
+[05] : CONTAMIN.BAS : 0 001 ko
+[06] : CONTAMIN.BIN : 0 041 ko
+[09] : CONTAMIN.ECR : 0 013 ko
+[10] : P47     .BIN : 0 001 ko
+[11] : P47     .LV1 : 0 009 ko
+[12] : P47     .LV2 : 0 009 ko
+[13] : P47     .LV3 : 0 009 ko
+[14] : P47     .LV4 : 0 009 ko
+[15] : P47     .LV5 : 0 009 ko
+[16] : P47     .LV6 : 0 009 ko
+[17] : P47     .LV7 : 0 009 ko
+[18] : P47     .LV8 : 0 009 ko
+Dsk 178 Ko used

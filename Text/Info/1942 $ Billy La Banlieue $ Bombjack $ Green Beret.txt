@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1942    .    : 0 042 ko
+[03] : BERET   .    : 0 001 ko
+[04] : GREEN   .BIN : 0 028 ko
+[06] : GREEN1  .BIN : 0 001 ko
+[07] : BILLY   .    : 0 001 ko
+[08] : BILLY   .BI2 : 0 001 ko
+[09] : BILLY   .LOD : 0 001 ko
+[10] : BILLY1  .BIN : 0 042 ko
+[13] : BJCODE  .BIN : 0 035 ko
+[16] : BJSCREEN.BIN : 0 017 ko
+[18] : BOMBJACK.    : 0 002 ko
+[19] : MENU    .BAS : 0 001 ko
+[20] : CAMIONB .BAS : 0 002 ko
+[21] : FONCTION.BAS : 0 001 ko
+[22] : CAMION  .BAK : 0 001 ko
+[23] : CAMION  .BAS : 0 002 ko
+Dsk 178 Ko used

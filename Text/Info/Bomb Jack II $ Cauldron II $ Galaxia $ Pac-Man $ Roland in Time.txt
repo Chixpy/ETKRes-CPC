@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : PAC2    .BAS : 0 011 ko
+[01] : B2      .COM : 0 010 ko
+[02] : B2CODE  .BIN : 0 033 ko
+[05] : ROL     .BIN : 0 002 ko
+[06] : CAUL    .COM : 0 009 ko
+[07] : CAUL1   .BIN : 0 034 ko
+[09] : GAL     .BAS : 0 002 ko
+[10] : GALAXIA .BIN : 0 026 ko
+[13] : CAUL2   .BIN : 0 017 ko
+[14] : ROINTIME.BIN : 0 032 ko
+[16] : BOMB2   .BAS : 0 001 ko
+[18] : DISC    .BAS : 0 001 ko
+Dsk 178 Ko used

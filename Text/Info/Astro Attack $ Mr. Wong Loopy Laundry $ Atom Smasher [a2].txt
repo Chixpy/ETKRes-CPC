@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEmuSect.Data error :EOF
+Error track (37) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (38) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (39) error :EOF
+Warning : track :37 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 37! (maxSect:0,minSect:FF)
+Warning : track 37 start at sector 255 while track 0 starts at 193
+Warning : track :38 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 38! (maxSect:0,minSect:FF)
+Warning : track 38 start at sector 255 while track 0 starts at 193
+Warning : track :39 has 0 sectors ! wanted 9
+Warning : strange sector numbering in track 39! (maxSect:0,minSect:FF)
+Warning : track 39 start at sector 255 while track 0 starts at 193
+[12] : ATOM    .BAS : 0 002 ko
+[13] : LINK    .BAS : 0 005 ko
+[14] : FILE    .BIN : 0 006 ko
+Dsk 013 Ko used

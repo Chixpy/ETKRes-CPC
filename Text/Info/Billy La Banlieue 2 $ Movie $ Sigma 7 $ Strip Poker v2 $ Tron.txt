@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : BILLY2  .BIN : 0 035 ko
+[05] : SIGMA7  .BAS : 0 001 ko
+[06] : MOV     .BAS : 0 001 ko
+[07] : MOVIE   .BI1 : 0 032 ko
+[08] : MAIN    .BIN : 0 033 ko
+[11] : SIG     .COM : 0 008 ko
+[13] : MOVIE   .BI2 : 0 017 ko
+[15] : MOVIE   .CAS : 0 001 ko
+[16] : MOVIE   .COM : 0 010 ko
+[17] : MOVIE   .DOL : 0 001 ko
+[18] : STRIP   .BAS : 0 006 ko
+[19] : STRIP2  .BAS : 0 024 ko
+[21] : TRON    .BAS : 0 009 ko
+Dsk 178 Ko used

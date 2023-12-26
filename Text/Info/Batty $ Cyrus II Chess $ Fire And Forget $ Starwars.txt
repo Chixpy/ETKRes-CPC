@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FIRE    .BAS : 0 001 ko
+[01] : STAR    .BI2 : 0 017 ko
+[03] : STARWARS.BAS : 0 001 ko
+[04] : STAR    .ECR : 0 010 ko
+[05] : STAR    .BI1 : 0 032 ko
+[07] : SCREEN  .BIN : 0 017 ko
+[09] : PROG    .BIN : 0 030 ko
+[11] : CYRUS   .DAT : 0 034 ko
+[14] : DISC    .BAS : 0 002 ko
+[15] : CYRUS-II.BAS : 0 001 ko
+[17] : BATTY2  .    : 0 014 ko
+[18] : BATTY1  .    : 0 017 ko
+[20] : BATTY   .    : 0 001 ko
+Dsk 177 Ko used

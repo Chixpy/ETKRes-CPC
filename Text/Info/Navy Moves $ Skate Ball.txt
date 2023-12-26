@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : NAVY2   .BIN : 0 040 ko
+[03] : NAVY3   .BIN : 0 012 ko
+[04] : NAVY4   .BIN : 0 040 ko
+[07] : NAVY5   .BIN : 0 008 ko
+[08] : NAVY6   .BIN : 0 016 ko
+[09] : NAVYMOVE.BAS : 0 001 ko
+[10] : SKATE   .BIN : 0 026 ko
+[12] : SKATECOD.BIN : 0 035 ko
+Dsk 178 Ko used

@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : IMPOSSA .BAS : 0 001 ko
+[01] : BALL    .BI1 : 0 037 ko
+[04] : BALL    .BI2 : 0 005 ko
+[05] : Z       .BAS : 0 001 ko
+[06] : Z       .BIN : 0 018 ko
+[08] : NEMESIS .BAS : 0 001 ko
+[09] : NEMESIS .001 : 0 010 ko
+[10] : NEMESIS .002 : 0 041 ko
+[13] : ASSEM2  .BIN : 0 010 ko
+[14] : BIN-HEX .BAS : 0 005 ko
+[15] : GRAPHDEM.BAS : 0 007 ko
+[16] : ASSEMBLE.BAS : 0 007 ko
+[17] : GRAPH-B .BIN : 0 002 ko
+[18] : GRAPHEXT.BIN : 0 005 ko
+[19] : EXSIMON .BAS : 0 001 ko
+[20] : EXSIMON2.BAS : 0 001 ko
+[21] : DECOR   .BIN : 0 017 ko
+[23] : DECOR2  .BAS : 0 005 ko
+[24] : EXCOLA  .BAK : 0 001 ko
+[25] : EXCOLA  .BAS : 0 001 ko
+Dsk 176 Ko used

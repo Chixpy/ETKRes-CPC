@@ -1,0 +1,11 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOULDER .BIN : 0 031 ko
+[03] : BREAKER0.BIN : 0 017 ko
+[05] : GALAXIA .BAS : 0 002 ko
+[06] : RICK    .    : 0 042 ko
+[09] : BREAKER1.BIN : 0 042 ko
+[12] : GALAXIAN.BIN : 0 026 ko
+[14] : BREAKER .BAS : 0 001 ko
+[15] : M       .BAS : 0 001 ko
+Dsk 162 Ko used

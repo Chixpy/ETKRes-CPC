@@ -1,0 +1,39 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : PIC1    .PIC : 0 009 ko
+[01] : PIC2    .PIC : 0 009 ko
+[02] : PIC4    .PIC : 0 009 ko
+[03] : PIC6    .PIC : 0 009 ko
+[04] : PIC7    .PIC : 0 009 ko
+[05] : PIC5    .PIC : 0 009 ko
+[06] : PICTURE2.BIN : 0 001 ko
+[07] : DUMPMOD1.BIN : 0 001 ko
+[08] : PICTURE .BAS : 0 001 ko
+[09] : PIC3    .PIC : 0 009 ko
+[10] : ESSAI5  .BAS : 0 001 ko
+[11] : COPY    .BIN : 0 002 ko
+[12] : COPY    .BAS : 0 001 ko
+[13] : SPEECH  .BAS : 0 002 ko
+[14] : WRIGGLE .BAS : 0 001 ko
+[15] : WRIGGLE1.BIN : 0 009 ko
+[16] : WRIGGLE2.BIN : 0 024 ko
+[18] : MACADAM .PRG : 0 023 ko
+[20] : MACADAM .SCN : 0 017 ko
+[22] : MACADAM .LAY : 0 020 ko
+[24] : MACADAM .BIN : 0 001 ko
+[25] : MACADAM .TRS : 0 001 ko
+[26] : HARD    .BAK : 0 002 ko
+[27] : HARD2   .BAS : 0 002 ko
+[28] : HARD    .BAS : 0 002 ko
+[29] : MENU    .BIN : 0 001 ko
+[30] : MENU    .BAS : 0 003 ko
+Dsk 178 Ko used

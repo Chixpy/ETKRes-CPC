@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MENU    .BAS : 0 001 ko
+[01] : WEC1    .B�N : 0 017 ko
+[03] : WEC2    .B�N : 0 042 ko
+[06] : TOPCOLOR.��N : 0 001 ko
+[07] : TOPGUN  .��S : 0 001 ko
+[08] : TOPGUN  .��R : 0 017 ko
+[10] : TOPGUN  .��D : 0 001 ko
+[11] : TOPGUN1 .��N : 0 038 ko
+[19] : MATH    .BAS : 0 003 ko
+Dsk 121 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 1 start at sector 32 while track 0 starts at 193
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : METRO   .�AS : 0 031 ko
+[02] : SMOOTH  .��J : 0 003 ko
+[03] : METRO1  .��S : 0 006 ko
+[04] : IMAGE   .��  : 0 027 ko
+[06] : METRO   .��J : 0 041 ko
+[09] : M1      .    : 0 001 ko
+[10] : M2      .��  : 0 004 ko
+[11] : FR1     .BIN : 0 035 ko
+[12] : 1       .��  : 0 029 ko
+[14] : A       .�   : 0 029 ko
+[16] : FRUITY  .    : 0 002 ko
+[17] : TOPGUN  .BIN : 0 038 ko
+[21] : DUP     .BAS : 0 013 ko
+Dsk 259 Ko used

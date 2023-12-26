@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BATMAN  .BAS : 0 001 ko
+[01] : BATMAN  .BIN : 0 001 ko
+[02] : BATMAN  .SCR : 0 017 ko
+[04] : BATMAN1 .BIN : 0 032 ko
+[06] : BATMAN2 .BIN : 0 012 ko
+[07] : HYPERSP2.BAS : 0 001 ko
+[08] : TITLE   .BIN : 0 017 ko
+[10] : Ȳ������.BI� : 0 033 ko
+[13] : SCREEN  .BIN : 0 013 ko
+[14] : MGT     .    : 0 007 ko
+[15] : MGT     .001 : 0 041 ko
+Dsk 175 Ko used

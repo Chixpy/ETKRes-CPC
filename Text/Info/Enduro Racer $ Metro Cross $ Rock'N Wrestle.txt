@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ROCKNW  .BAS : 0 001 ko
+[01] : ROCKNW  .LOD : 0 001 ko
+[02] : ROCKNW  .PA3 : 0 020 ko
+[04] : ROCKNW  .PA4 : 0 012 ko
+[05] : ROCKNW  .PA2 : 0 017 ko
+[07] : ROCKNW  .ECR : 0 017 ko
+[09] : ENDURO  .BIN : 0 001 ko
+[10] : ENDURO  .SCR : 0 011 ko
+[11] : ENDURO  .FFP : 0 041 ko
+[14] : METROX  .FFP : 0 032 ko
+[16] : METROX  .BAS : 0 002 ko
+[17] : METROX  .SCR : 0 014 ko
+[18] : R       .BAS : 0 001 ko
+[19] : MONIT   .BIN : 0 001 ko
+[20] : CEDRIC  .BAK : 0 001 ko
+[21] : CEDRIC  .BAS : 0 001 ko
+Dsk 173 Ko used

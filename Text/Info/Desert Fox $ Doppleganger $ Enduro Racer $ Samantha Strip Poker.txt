@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ENDURO  .BIN : 0 009 ko
+[01] : ENDURO  .N01 : 0 041 ko
+[04] : DESERT  .BIN : 0 042 ko
+[07] : SAM     .BIN : 0 041 ko
+[09] : DOPPLE  .BAS : 0 001 ko
+[10] : DOPPLE  .BI1 : 0 001 ko
+[11] : DOPPLE  .BI3 : 0 016 ko
+[12] : DOPPLE  .ECR : 0 017 ko
+[14] : DX      .BIN : 0 010 ko
+Dsk 178 Ko used

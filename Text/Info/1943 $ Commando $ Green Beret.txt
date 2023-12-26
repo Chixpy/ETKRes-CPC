@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BERET   .B�N : 0 001 ko
+[01] : BERET2  .B�N : 0 002 ko
+[02] : BERET4  .B�N : 0 002 ko
+[03] : 1943    .B�N : 0 033 ko
+[05] : BERET8  .B�N : 0 010 ko
+[06] : MENU    .AAA : 1 001 ko
+[07] : 1943    . �  : 0 015 ko
+[09] : BERET6  .B�N : 0 017 ko
+[10] : BERET9  .B�N : 0 011 ko
+[11] : BERET7  .B�N : 0 010 ko
+[12] : BERET5  .B�N : 0 010 ko
+[13] : BERET3  .B�N : 0 002 ko
+[14] : BERET1  .B�N : 0 002 ko
+[15] : COM2    .B�N : 0 023 ko
+[17] : COM4    .B�N : 0 014 ko
+[18] : COM3    .B�N : 0 012 ko
+[19] : COM1    .B�N : 0 017 ko
+[21] : COMMANDO.B�N : 0 001 ko
+[23] : MENU    .BAS : 0 001 ko
+Dsk 184 Ko used

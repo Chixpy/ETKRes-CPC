@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : DOMINAT1.BIN : 0 016 ko
+[01] : DOMINAT2.BIN : 0 004 ko
+[02] : DOMINAT3.BIN : 0 017 ko
+[04] : DOMINAT4.BIN : 0 017 ko
+[06] : DOMINAT5.BIN : 0 017 ko
+[08] : DOMINAT6.BIN : 0 017 ko
+[10] : DOMINATE.BAS : 0 002 ko
+[11] : DOMINATO.SCN : 0 017 ko
+[13] : ELIMINAT.BAS : 0 001 ko
+[14] : ELIMINAT.N01 : 0 023 ko
+[16] : ELIMINAT.N02 : 0 032 ko
+Dsk 163 Ko used

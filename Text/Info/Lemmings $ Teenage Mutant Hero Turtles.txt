@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : LEMMINGS.    : 0 016 ko
+[01] : LEMMINGS.N00 : 0 032 ko
+[03] : LEMMINGS.N01 : 0 005 ko
+[04] : LEMMINGS.N02 : 0 003 ko
+[05] : LEMMINGS.N03 : 0 002 ko
+[06] : LEMMINGS.N04 : 0 004 ko
+[07] : LEMMINGS.N05 : 0 006 ko
+[08] : LEMMINGS.N06 : 0 003 ko
+[09] : LEMMINGS.N07 : 0 003 ko
+[10] : LEMMINGS.N08 : 0 003 ko
+[11] : LEMMINGS.N09 : 0 004 ko
+[12] : LEMMINGS.N10 : 0 005 ko
+[13] : LEMMINGS.N11 : 0 004 ko
+[14] : LEMMINGS.N12 : 0 003 ko
+[15] : LEMMINGS.N13 : 0 005 ko
+[16] : LEMMINGS.N14 : 0 005 ko
+[17] : TURTLES .    : 0 008 ko
+[18] : TURTLES1.BIN : 0 011 ko
+[19] : TURTLES2.BIN : 0 039 ko
+[22] : TURTLES3.BIN : 0 017 ko
+Dsk 178 Ko used

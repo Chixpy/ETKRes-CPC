@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EDEN    .B�N : 0 043 ko
+[03] : BLAGGER2.B�N : 0 033 ko
+[06] : CODE    .B�N : 0 036 ko
+[09] : GHOST   .B�S : 0 001 ko
+[10] : P       .B�N : 0 017 ko
+[12] : RICK    .B�S : 0 006 ko
+[13] : RICK    .B�N : 0 038 ko
+[16] : BLAGGER .B�S : 0 001 ko
+[17] : MENU    .B�K : 0 001 ko
+[18] : MENU    .BAS : 0 001 ko
+[19] : MENU    .A�A : 0 001 ko
+[20] : GHOST   .AID : 0 001 ko
+Dsk 179 Ko used

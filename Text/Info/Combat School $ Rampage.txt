@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : COMBAT  .B�N : 0 010 ko
+[01] : COMBAT0 .B�N : 0 001 ko
+[02] : COMBAT1 .B�N : 0 017 ko
+[04] : COMBAT2 .B�N : 0 017 ko
+[06] : COMBAT3 .B�N : 0 017 ko
+[08] : COMBAT4 .B�N : 0 017 ko
+[10] : COMBAT5 .B�N : 0 008 ko
+[11] : COMBAT6 .B�N : 0 031 ko
+[13] : RAMPAGE .B�S : 0 001 ko
+[14] : RAMPAGE0.B�N : 0 010 ko
+[15] : RAMPAGE2.B�N : 0 036 ko
+[18] : RAMPAGE3.B�N : 0 013 ko
+[19] : MENU    .BAS : 0 001 ko
+Dsk 179 Ko used

@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BLOOD   .DAT : 0 041 ko
+[03] : BLOOD   .    : 0 013 ko
+[04] : BLOOD   .PR1 : 0 032 ko
+[06] : BLOOD   .PR2 : 0 017 ko
+[11] : GATCRAS .    : 0 004 ko
+[12] : GATECRAS.BBB : 0 013 ko
+[13] : GATECRAS.CCC : 0 010 ko
+Dsk 130 Ko used

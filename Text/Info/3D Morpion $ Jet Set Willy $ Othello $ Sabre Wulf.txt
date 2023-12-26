@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 1 start at sector 129 while track 0 starts at 65
+Warning : track 28 start at sector 193 while track 0 starts at 65
+Warning : track 29 start at sector 193 while track 0 starts at 65
+Warning : track 30 start at sector 193 while track 0 starts at 65
+Warning : track 31 start at sector 193 while track 0 starts at 65
+Warning : track 32 start at sector 193 while track 0 starts at 65
+Warning : track 33 start at sector 193 while track 0 starts at 65
+Warning : track 34 start at sector 193 while track 0 starts at 65
+Warning : track 35 start at sector 193 while track 0 starts at 65
+Warning : track 36 start at sector 193 while track 0 starts at 65
+Warning : track 37 start at sector 193 while track 0 starts at 65
+Warning : track 38 start at sector 193 while track 0 starts at 65
+Warning : track 39 start at sector 193 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+[00] : MENU    .BIN : 0 001 ko
+[01] : ��������.��� : 0 001 ko
+[02] : ��Ԡ����.��� : 0 001 ko
+[03] : ����� �.��� : 0 009 ko
+[04] : �����Ԡ�.��� : 0 028 ko
+[06] : �����à�.��� : 0 008 ko
+[07] : �����Ơ�.��� : 0 036 ko
+[10] : �����Ǡ�.��� : 0 013 ko
+[11] : MORPION .BAS : 0 008 ko
+[12] : OTHELLO .BAS : 0 009 ko
+Dsk 114 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARBAR3 .BIN : 0 001 ko
+[01] : BARBAR3A.BIN : 0 007 ko
+[02] : BARBAR3B.BIN : 0 036 ko
+[05] : BARBAR3C.BIN : 0 017 ko
+[07] : BARBAR4 .BIN : 0 001 ko
+[08] : BARBAR4A.BIN : 0 007 ko
+[09] : BARBAR4B.BIN : 0 036 ko
+[12] : BARBAR4C.BIN : 0 017 ko
+[14] : FORCE2  .BIN : 0 036 ko
+[17] : FORCE   .BIN : 0 008 ko
+[18] : LIGHT   .BAS : 0 001 ko
+Dsk 167 Ko used

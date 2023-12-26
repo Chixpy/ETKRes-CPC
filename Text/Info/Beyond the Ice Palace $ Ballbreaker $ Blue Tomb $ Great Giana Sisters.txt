@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : GIANA   .    : 0 001 ko
+[01] : GIANA2  .BIN : 0 029 ko
+[03] : GIANA3  .BIN : 0 017 ko
+[05] : GIANA4  .BIN : 0 019 ko
+[08] : BEYOND  .BAS : 0 013 ko
+[09] : BEYOND  .BIN : 0 033 ko
+[12] : BREAKER .BAS : 0 008 ko
+[13] : BREAKER .BIN : 0 037 ko
+[16] : TOMB    .BAS : 0 001 ko
+[17] : TOMB    .BIN : 0 014 ko
+Dsk 172 Ko used

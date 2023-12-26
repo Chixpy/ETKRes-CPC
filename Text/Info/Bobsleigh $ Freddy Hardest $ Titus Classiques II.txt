@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FREDDY  .BAS : 0 001 ko
+[01] : FREDDY1 .BAS : 0 041 ko
+[04] : FREDDY2 .BAS : 0 041 ko
+[07] : TITUS2  .001 : 0 010 ko
+[08] : TITUS2  .002 : 0 033 ko
+[11] : TITUS2  .    : 0 001 ko
+[12] : BOB     .BIN : 0 035 ko
+[15] : BOB     .BAS : 0 011 ko
+[16] : F       .BAS : 0 001 ko
+Dsk 174 Ko used

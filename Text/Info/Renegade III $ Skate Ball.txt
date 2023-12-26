@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : RENEGAD3.IMG : 0 010 ko
+[01] : RENEGAD3.PRG : 0 024 ko
+[03] : RENEGAD3.SCR : 0 005 ko
+[04] : DISK    .BIN : 0 003 ko
+[05] : Renegade.III : 0 072 ko
+[10] : SKATE   .PRG : 0 034 ko
+[13] : DISC    .BAS : 0 010 ko
+[14] : S       .BIN : 0 003 ko
+[15] : DATALOAD.BAS : 0 006 ko
+Dsk 167 Ko used

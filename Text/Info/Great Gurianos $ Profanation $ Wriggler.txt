@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : PROFAN1 .BIN : 0 036 ko
+[03] : PROFANE .BAS : 0 001 ko
+[04] : WRIGGLE2.BIN : 0 024 ko
+[06] : WRIGGLER.BAS : 0 001 ko
+[07] : WRIGGLE1.BIN : 0 009 ko
+[08] : GTD0    .BIN : 0 001 ko
+[09] : GTD2    .BIN : 0 006 ko
+[10] : GTD4    .BIN : 0 003 ko
+[11] : GTG     .BAS : 0 001 ko
+[12] : GTD5    .BIN : 0 003 ko
+[13] : GTD3    .BIN : 0 032 ko
+[15] : GTD1    .BIN : 0 017 ko
+Dsk 134 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : BOOTD   .BIN : 0 002 ko
+[01] : BOTCOM  .BIN : 0 009 ko
+[02] : MAIN    .BIN : 0 031 ko
+[04] : SCRCOM  .BIN : 0 017 ko
+[06] : THANATOS.BAS : 0 001 ko
+[07] : DISC    .BIN : 0 001 ko
+[08] : HIGHWAY .BI1 : 0 011 ko
+[09] : HIGHWAY .BI2 : 0 039 ko
+[12] : F1      .BAS : 0 001 ko
+[13] : F1      .BIN : 0 027 ko
+[15] : MILLION .BAS : 0 027 ko
+[19] : HELIOT  .BAS : 0 001 ko
+[20] : HELIOT1 .BIN : 0 006 ko
+[21] : HELIOT2 .BIN : 0 005 ko
+Dsk 178 Ko used

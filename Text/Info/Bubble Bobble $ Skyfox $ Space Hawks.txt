@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : BUBBLE  .BIN : 0 001 ko
+[01] : BUBBLE1 .BIN : 0 021 ko
+[03] : BUBBLE2 .BIN : 0 015 ko
+[04] : BUBBLE3 .BIN : 0 017 ko
+[06] : BUBBLE4 .BIN : 0 001 ko
+[07] : BUBBLE8 .BIN : 0 002 ko
+[08] : BUBBLE5 .BIN : 0 009 ko
+[09] : BUBBLE6 .BIN : 0 011 ko
+[10] : BUBBLE7 .BIN : 0 017 ko
+[12] : -SKYFOX .�AS : 0 001 ko
+[13] : SCREEN  .    : 0 017 ko
+[15] : SKYFOX1 .�IN : 0 010 ko
+[16] : SKYFOX3 .�IN : 0 002 ko
+[17] : SKYFOX4 .�IN : 0 007 ko
+[18] : SKYFOX2 .�IN : 0 038 ko
+[21] : CODE    .BIN : 0 008 ko
+[22] : HAWKS   .    : 0 001 ko
+Dsk 178 Ko used

@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ATV     .BAS : 0 003 ko
+[01] : ATV     .BIN : 0 040 ko
+[04] : TITAN   .BIN : 0 015 ko
+[05] : TITAN1  .BIN : 0 012 ko
+[06] : TITAN2  .BIN : 0 023 ko
+[08] : AIR2    .BAS : 0 001 ko
+[09] : AIR2    .SCR : 0 017 ko
+[11] : AIRCODE .BIN : 0 041 ko
+[13] : COPYLOCK.V55 : 0 010 ko
+[15] : ZENITH  .BIN : 0 008 ko
+Dsk 170 Ko used

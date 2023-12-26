@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : B1      .BIN : 0 017 ko
+[02] : C1      .BIN : 0 035 ko
+[05] : DS      .BIN : 0 001 ko
+[06] : GC      .BAS : 0 001 ko
+[07] : D1      .BIN : 0 017 ko
+[09] : GC      .BIN : 0 033 ko
+[12] : SCREEN  .    : 0 017 ko
+[14] : STRYKER .BAS : 0 001 ko
+[15] : STRYKER2.BIN : 0 040 ko
+Dsk 162 Ko used

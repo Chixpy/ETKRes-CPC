@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : ELITE   .BAS : 0 001 ko
+[01] : P       .BIN : 0 017 ko
+[03] : CODE    .BIN : 0 036 ko
+[05] : ADAM    .��S : 0 001 ko
+[07] : SLAPSHOT.ECR : 0 017 ko
+[09] : SLAPSHOT.BIN : 0 031 ko
+[11] : SLAPSHOT.BAS : 0 001 ko
+[12] : NINJA   .B�N : 0 005 ko
+[13] : SAB2    .    : 0 001 ko
+[14] : SCREEN  .B�N : 0 008 ko
+[15] : AIGLE   .�AS : 0 005 ko
+[16] : AIGLE   .�IN : 0 042 ko
+[19] : AIGLE   .�AT : 0 004 ko
+Dsk 169 Ko used

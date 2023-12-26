@@ -1,0 +1,46 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : MUSICIEL.BAS : 0 032 ko
+[02] : PART1   .BIN : 0 001 ko
+[03] : PICK    .BIN : 0 003 ko
+[04] : PICT    .BIN : 0 001 ko
+[05] : TITRE   .DIR : 0 001 ko
+[06] : TITRE   .DAT : 0 001 ko
+[07] : TELE    .DAT : 0 001 ko
+[08] : MUSIC2  .BAS : 0 005 ko
+[09] : ECRAN10 .PAL : 0 001 ko
+[10] : RASTER  .BAS : 0 001 ko
+[11] : 28      .BAS : 0 002 ko
+[12] : RAPIDE  .BAS : 0 001 ko
+[13] : ECRAN   .BIN : 0 005 ko
+[14] : PART2   .BAS : 0 002 ko
+[15] : 6       .BAS : 0 001 ko
+[16] : ECRAN10 .SCR : 0 014 ko
+[17] : 28C     .BAS : 0 003 ko
+[18] : SCOMPAC1.BIN : 0 001 ko
+[19] : LOADER  .BIN : 0 001 ko
+[20] : CAFE    .BAS : 0 001 ko
+[21] : ESSAI   .BAS : 0 003 ko
+[22] : PO      .BAS : 0 006 ko
+[23] : SHUFFLE .BAS : 0 001 ko
+[24] : ENTRCAFE.ECR : 0 017 ko
+[25] : ECRAN2  .SCR : 0 017 ko
+[26] : INTRO   .PA2 : 0 006 ko
+[27] : BRODER  .SCR : 0 017 ko
+[29] : COMPACTE.BAS : 0 002 ko
+[31] : PART0   .BAS : 0 001 ko
+[32] : RASTER  .BIN : 0 001 ko
+[33] : 28B     .BAS : 0 002 ko
+[35] : ECRAN2  .BIN : 0 005 ko
+[36] : 5       .BAS : 0 001 ko
+[37] : REPONSE .BAS : 0 001 ko
+[38] : A       .BAS : 0 002 ko
+[39] : MARQUE  .BAS : 0 001 ko
+[40] : B       .BAS : 0 003 ko
+[41] : 0001    .BAK : 0 001 ko
+[42] : 0001    .BAS : 0 001 ko
+[45] : 27      .BAS : 0 002 ko
+Dsk 168 Ko used

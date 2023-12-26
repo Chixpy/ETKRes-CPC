@@ -1,0 +1,9 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[03] : DISKDATA.SPR : 0 001 ko
+[05] : GARY    .BIN : 0 032 ko
+[08] : DESIGN1 .�IN : 0 001 ko
+[09] : DESIGN3 .�IN : 0 011 ko
+[20] : DESIGN  .�AS : 0 001 ko
+[21] : DESIGN2 .�IN : 0 011 ko
+Dsk 057 Ko used

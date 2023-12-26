@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3D-FIGHT.BAS : 0 023 ko
+[03] : DESER   .BIN : 0 042 ko
+[07] : EXPLOD  .BIN : 0 001 ko
+[08] : EXPLOD2 .BIN : 0 017 ko
+[10] : EXPLOD4 .BIN : 0 017 ko
+[12] : TEMPEST .BIN : 0 029 ko
+[14] : SCREEN  .    : 0 017 ko
+[19] : EXPLOD  .BAS : 0 001 ko
+[20] : EXPLOD1 .BIN : 0 017 ko
+[22] : EXPLOD3 .BIN : 0 006 ko
+Dsk 170 Ko used

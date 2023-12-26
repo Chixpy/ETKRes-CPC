@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 1 start at sector 247 while track 0 starts at 193
+Warning : track 40 start at sector 247 while track 0 starts at 193
+[00] : GGG     .GG  : 0 000 ko
+[01] : "       .    : 0 001 ko
+[02] : LOADPIC .SCR : 0 017 ko
+[04] : K32     .BIN : 0 033 ko
+[07] : K16     .BIN : 0 017 ko
+[09] : SG      .BAS : 0 001 ko
+[10] : HEIST   .SCN : 0 017 ko
+[12] : NHCODE  .BIN : 0 020 ko
+[14] : NUCLEAR .BAS : 0 009 ko
+[15] : BATMAN  .BAS : 0 001 ko
+[16] : BATMAN  .BI1 : 0 042 ko
+[19] : BATMAN  .BI2 : 0 003 ko
+[20] : BATMAN  .BIN : 0 001 ko
+[21] : BATMAN  .ECR : 0 008 ko
+[22] : BATMAN  .LOD : 0 001 ko
+Dsk 171 Ko used

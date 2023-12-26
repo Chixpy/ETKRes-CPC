@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DAMS    .BIN : 0 017 ko
+[01] : VECTEST .BAS : 0 001 ko
+[02] : PRGCRTC .BAS : 0 001 ko
+[03] : DUMP    .BAS : 0 001 ko
+[05] : COMPACT .BAS : 0 002 ko
+[06] : CATEDIT .BAK : 0 021 ko
+[08] : CRTC    .BAS : 0 001 ko
+[09] : RASTER  .BIN : 0 002 ko
+[10] : COLOR4  .BIN : 0 001 ko
+[11] : COLOR5  .BIN : 0 001 ko
+[12] : OPPG    .BIN : 0 003 ko
+[13] : REVO1   .BIN : 0 002 ko
+[14] : OVERSCAN.BIN : 0 003 ko
+[15] : CATEDIT .BIN : 0 010 ko
+[16] : CPCREC  .BAS : 0 002 ko
+[18] : CPCREC  .BAK : 0 002 ko
+Dsk 070 Ko used

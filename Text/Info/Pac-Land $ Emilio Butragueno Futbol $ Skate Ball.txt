@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : NOMFICH .��  : 0 001 ko
+[01] : CODE    .�IN : 0 001 ko
+[02] : SKACOD1 .��N : 0 026 ko
+[04] : SKATECOD.��N : 0 035 ko
+[07] : R       .BAS : 0 001 ko
+[08] : PACLAND .BAS : 0 001 ko
+[09] : PACLAND .    : 0 001 ko
+[10] : PACLAND .N01 : 0 013 ko
+[11] : PACLAND .N03 : 0 009 ko
+[12] : PACLAND .N02 : 0 040 ko
+[15] : BUITRE0 .BIN : 0 007 ko
+[16] : BUT     .BAS : 0 001 ko
+[17] : BUITRE1 .BIN : 0 040 ko
+Dsk 176 Ko used

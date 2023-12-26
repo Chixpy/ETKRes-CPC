@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CHASEHQ .BI1 : 0 017 ko
+[02] : CHASEHQ .BI2 : 0 034 ko
+[05] : CHASEHQ .BI3 : 0 001 ko
+[06] : CHASEHQ .BI4 : 0 001 ko
+[07] : CHASEHQ .BIN : 0 001 ko
+[08] : CHASEHQ .LV1 : 0 009 ko
+[09] : CHASEHQ .LV2 : 0 009 ko
+[10] : CHASEHQ .LV3 : 0 009 ko
+[11] : CHASEHQ .LV4 : 0 009 ko
+[12] : CHASEHQ .LV5 : 0 009 ko
+[13] : CHASEHQ .LV6 : 0 009 ko
+[14] : CHASEHQ .LV7 : 0 009 ko
+[15] : CHASEHQ .LV8 : 0 009 ko
+[16] : CONQ2   .BIN : 0 001 ko
+[17] : CONQ3   .BIN : 0 039 ko
+[20] : CONQUEST.BAS : 0 001 ko
+[21] : CONQUEST.COM : 0 011 ko
+Dsk 178 Ko used

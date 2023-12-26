@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BPART2  .��N : 0 015 ko
+[01] : BPART1  .��N : 0 031 ko
+[03] : STRIP1  .BAS : 0 016 ko
+[04] : BEACH   .��N : 0 001 ko
+[05] : DISC    .�AS : 0 001 ko
+[06] : TEN     .BAS : 0 001 ko
+[07] : CHESS   .BIN : 0 027 ko
+[08] : BEACH   .��S : 0 001 ko
+[09] : LOADER  .��S : 0 002 ko
+[11] : CHESS   .BAS : 0 003 ko
+[13] : XXXXXXXX.BIN : 0 018 ko
+[15] : MPLDCD  .BIN : 0 001 ko
+[16] : ELECTRO .BAS : 0 001 ko
+[18] : E2      .BIN : 0 003 ko
+Dsk 121 Ko used

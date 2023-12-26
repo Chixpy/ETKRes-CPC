@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : JETBIKE .BAS : 0 002 ko
+[01] : JETCL   .BIN : 0 014 ko
+[02] : JETH    .BIN : 0 042 ko
+[05] : JETSC   .BIN : 0 011 ko
+[06] : JETE    .BIN : 0 042 ko
+[09] : JETCC   .BIN : 0 014 ko
+[10] : CSMART  .    : 0 001 ko
+[11] : CSMART1 .BIN : 0 017 ko
+[13] : CSMART2 .BIN : 0 025 ko
+[15] : CSMART0 .BIN : 0 007 ko
+[16] : MENU    .BAS : 0 001 ko
+[18] : ESSAI   .BAS : 0 001 ko
+Dsk 177 Ko used

@@ -1,0 +1,135 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEmuSect.Data error :unexpected EOF
+Error track (3) error :unexpected EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (4) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (5) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (6) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (7) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (8) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (9) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (10) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (11) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (12) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (13) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (14) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (15) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (16) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (17) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (18) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (19) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (20) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (21) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (22) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (23) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (24) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (25) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (26) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (27) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (28) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (29) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (30) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (31) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (32) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (33) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (34) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (35) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (36) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (37) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (38) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (39) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 1 start at sector 121 while track 0 starts at 65
+Warning : track 2 start at sector 255 while track 0 starts at 65
+Warning : track 3 start at sector 255 while track 0 starts at 65
+Warning : track 4 start at sector 255 while track 0 starts at 65
+Warning : track 5 start at sector 255 while track 0 starts at 65
+Warning : track 6 start at sector 255 while track 0 starts at 65
+Warning : track 7 start at sector 255 while track 0 starts at 65
+Warning : track 8 start at sector 255 while track 0 starts at 65
+Warning : track 9 start at sector 255 while track 0 starts at 65
+Warning : track 10 start at sector 255 while track 0 starts at 65
+Warning : track 11 start at sector 255 while track 0 starts at 65
+Warning : track 12 start at sector 255 while track 0 starts at 65
+Warning : track 13 start at sector 255 while track 0 starts at 65
+Warning : track 14 start at sector 255 while track 0 starts at 65
+Warning : track 15 start at sector 255 while track 0 starts at 65
+Warning : track 16 start at sector 255 while track 0 starts at 65
+Warning : track 17 start at sector 255 while track 0 starts at 65
+Warning : track 18 start at sector 255 while track 0 starts at 65
+Warning : track 19 start at sector 255 while track 0 starts at 65
+Warning : track 20 start at sector 255 while track 0 starts at 65
+Warning : track 21 start at sector 255 while track 0 starts at 65
+Warning : track 22 start at sector 255 while track 0 starts at 65
+Warning : track 23 start at sector 255 while track 0 starts at 65
+Warning : track 24 start at sector 255 while track 0 starts at 65
+Warning : track 25 start at sector 255 while track 0 starts at 65
+Warning : track 26 start at sector 255 while track 0 starts at 65
+Warning : track 27 start at sector 255 while track 0 starts at 65
+Warning : track 28 start at sector 255 while track 0 starts at 65
+Warning : track 29 start at sector 255 while track 0 starts at 65
+Warning : track 30 start at sector 255 while track 0 starts at 65
+Warning : track 31 start at sector 255 while track 0 starts at 65
+Warning : track 32 start at sector 255 while track 0 starts at 65
+Warning : track 33 start at sector 255 while track 0 starts at 65
+Warning : track 34 start at sector 255 while track 0 starts at 65
+Warning : track 35 start at sector 255 while track 0 starts at 65
+Warning : track 36 start at sector 255 while track 0 starts at 65
+Warning : track 37 start at sector 255 while track 0 starts at 65
+Warning : track 38 start at sector 255 while track 0 starts at 65
+Warning : track 39 start at sector 255 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+panic: runtime error: slice bounds out of range [:32] with capacity 0
+
+goroutine 1 [running]:
+github.com/jeromelesaux/dsk.(*DSK).GetInfoDirEntry(0x9858eb4, 0x0)
+	/Volumes/Disk_128Go/Projets/Developpement/go/src/github.com/jeromelesaux/dsk/dsk.go:1286 +0x2e8
+github.com/jeromelesaux/dsk.(*DSK).GetCatalogue(0x9858eb4)
+	/Volumes/Disk_128Go/Projets/Developpement/go/src/github.com/jeromelesaux/dsk/dsk.go:1232 +0x83
+main.listDsk({{{0x45, 0x58, 0x54, 0x45, 0x4e, 0x44, 0x45, 0x44, 0x20, 0x43, ...}, ...}, ...}, ...)
+	/Volumes/Disk_128Go/Projets/Developpement/go/src/github.com/jeromelesaux/dsk/cli/main.go:559 +0x2f
+main.main()
+	/Volumes/Disk_128Go/Projets/Developpement/go/src/github.com/jeromelesaux/dsk/cli/main.go:233 +0x2614

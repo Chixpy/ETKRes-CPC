@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : STAINLES.BAS : 0 001 ko
+[01] : STAINLES.BIN : 0 042 ko
+[04] : STAINLES.ECR : 0 016 ko
+[05] : STAINLES.LOD : 0 001 ko
+[06] : TECODE  .BIN : 0 035 ko
+[09] : TECON   .COM : 0 009 ko
+[10] : TESCR   .COM : 0 005 ko
+[11] : TOTAL   .BAS : 0 001 ko
+[12] : CHAR5   .BAS : 0 002 ko
+[13] : CHAR5   .PRE : 0 017 ko
+[15] : CHAR5   .PRG : 0 012 ko
+[16] : CHAR5   .SCR : 0 017 ko
+[17] : AST     .BIN : 0 016 ko
+[18] : ASTRO   .BAS : 0 003 ko
+[20] : HI-SCORE.BAK : 0 001 ko
+Dsk 178 Ko used

@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : PHANTIS1.001 : 0 039 ko
+[03] : PHANTIS1.002 : 0 008 ko
+[04] : PHANTIS2.002 : 0 008 ko
+[05] : 3DSTUNT .BAS : 0 001 ko
+[06] : 3DSTUNT .BI1 : 0 042 ko
+[09] : 3DSTUNT .BI2 : 0 007 ko
+[10] : 3DSTUNT .LOD : 0 001 ko
+[13] : PHANTIS2.001 : 0 039 ko
+[24] : PHANTIS .BAS : 0 002 ko
+Dsk 147 Ko used

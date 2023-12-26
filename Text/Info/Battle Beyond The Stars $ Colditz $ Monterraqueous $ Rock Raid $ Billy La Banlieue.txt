@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+[00] : MONTERRA.BAS : 0 001 ko
+[01] : MONTE2  .BIN : 0 037 ko
+[04] : ROCKRAID.BAS : 0 002 ko
+[05] : ROCKRAID.BIN : 0 033 ko
+[08] : BATTLE  .BIN : 0 023 ko
+[10] : SCRA    .BIN : 0 017 ko
+[11] : COLDITZ .BAS : 0 015 ko
+[12] : MENU    .BAK : 0 002 ko
+[14] : BATTLE  .BAS : 0 001 ko
+[15] : BILLY   .BAS : 0 001 ko
+[16] : BILLY   .COD : 0 035 ko
+[19] : MENU    .BAS : 0 002 ko
+Dsk 169 Ko used

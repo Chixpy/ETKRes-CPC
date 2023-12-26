@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : THEATRE .BIN : 0 041 ko
+[03] : BOOTER  .BIN : 0 001 ko
+[04] : ERE     .BAS : 0 001 ko
+[05] : VENUS   .�XT : 0 011 ko
+[06] : ROU     . �  : 0 002 ko
+[07] : SA      .BAS : 0 001 ko
+[08] : VENUS   .�IN : 0 024 ko
+[09] : AS      .BAS : 0 001 ko
+[11] : SIGMA7  .BAS : 0 001 ko
+[12] : VENUS   .�OD : 0 006 ko
+[13] : VENUS2  .�AS : 0 001 ko
+[14] : VENUS   .�OP : 0 003 ko
+[15] : VENUS   .�CR : 0 017 ko
+[17] : VENUS   .�OR : 0 002 ko
+[18] : VENUS   .�O2 : 0 002 ko
+[19] : VENUS   .�AS : 0 001 ko
+[20] : SIGMA7  .SCR : 0 017 ko
+[22] : SIGMA7  .BIN : 0 033 ko
+[24] : TITLE   .BIN : 0 001 ko
+[25] : TITLESCR.BIN : 0 012 ko
+Dsk 178 Ko used

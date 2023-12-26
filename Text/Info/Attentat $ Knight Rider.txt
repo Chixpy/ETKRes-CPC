@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ATENTAT .BAS : 0 003 ko
+[01] : ATENTAT1.BIN : 0 003 ko
+[02] : ATENTAT2.BIN : 0 017 ko
+[04] : ATENTAT3.BAS : 0 006 ko
+[05] : ATENTAT4.BAS : 0 005 ko
+[06] : ATENTAT5.BAS : 0 026 ko
+[08] : ATENTAT6.BIN : 0 017 ko
+[10] : ATENTAT7.BAS : 0 005 ko
+[11] : ATENTAT8.BIN : 0 017 ko
+[13] : KNIGHT  .BIN : 0 041 ko
+Dsk 140 Ko used

@@ -1,0 +1,33 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 32 start at sector 193 while track 0 starts at 65
+Warning : track 37 start at sector 73 while track 0 starts at 65
+Warning : track 38 start at sector 73 while track 0 starts at 65
+Warning : track 39 start at sector 73 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+[00] : EMPIRE  .��  : 0 001 ko
+[01] : JEU     .��  : 0 026 ko
+[03] : ECRAN   .��N : 0 017 ko
+[05] : MANDRAGO.��N : 0 001 ko
+[06] : PROG1   .��N : 0 003 ko
+[07] : PROG2   .��N : 0 008 ko
+[08] : PROG3   .��N : 0 010 ko
+[09] : PROG4   .��N : 0 003 ko
+[10] : PROG5   .��N : 0 009 ko
+[11] : PROG6   .��N : 0 001 ko
+[12] : PROG7   .��N : 0 017 ko
+[14] : PROG8   .��N : 0 022 ko
+[16] : D0      .��S : 0 002 ko
+[17] : D1      .��S : 0 002 ko
+[18] : D2      .��S : 0 002 ko
+[19] : D3      .��S : 0 002 ko
+[20] : D4      .��S : 0 002 ko
+[21] : D5      .��S : 0 002 ko
+[22] : D6      .��S : 0 002 ko
+[23] : D7      .��S : 0 002 ko
+[24] : D8      .��S : 0 002 ko
+[25] : D9      .��S : 0 002 ko
+[26] : MENU    .�   : 0 001 ko
+Dsk 139 Ko used

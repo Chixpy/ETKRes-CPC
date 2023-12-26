@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MAC     .BIN : 0 001 ko
+[01] : MACADAM .BIN : 0 001 ko
+[02] : MACADAM .LAY : 0 020 ko
+[04] : MACADAM .PRG : 0 023 ko
+[06] : MACADAM .SCN : 0 017 ko
+[08] : MACADAM .TRS : 0 001 ko
+[09] : THE     .BIN : 0 041 ko
+[12] : BATTLE  .BIN : 0 039 ko
+[15] : ZAXX    .BIN : 0 024 ko
+Dsk 167 Ko used

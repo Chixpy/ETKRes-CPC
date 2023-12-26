@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : target  .jeu : 0 072 ko
+[05] : TARGET  .BAS : 0 001 ko
+[06] : TARGET  .BIN : 0 022 ko
+[08] : RELIEF  .BAS : 0 001 ko
+[09] : TARGET  .LOD : 0 001 ko
+[10] : RELIEF  .NC1 : 0 026 ko
+[12] : RELIEF  .NC2 : 0 017 ko
+[14] : STARION .BIN : 0 026 ko
+Dsk 166 Ko used

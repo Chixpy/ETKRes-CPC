@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : SOR     .BAS : 0 001 ko
+[01] : SORCERY .BIN : 0 042 ko
+[03] : CODES   .BIN : 0 003 ko
+[04] : DATAS   .BIN : 0 002 ko
+[05] : STAR    .    : 0 005 ko
+[06] : KUNG-FU .BIN : 0 001 ko
+[07] : KUNG-FU1.BIN : 0 017 ko
+[09] : KUNG-FU2.BIN : 0 041 ko
+[12] : KUNG-FU3.BIN : 0 004 ko
+[13] : YKUNG   .BAS : 0 001 ko
+[15] : SORCERY .COM : 0 010 ko
+[16] : W       .BIN : 0 001 ko
+[17] : W1      .BIN : 0 025 ko
+[19] : W2      .BIN : 0 017 ko
+[21] : W3      .BIN : 0 005 ko
+[22] : WHO     .BAS : 0 002 ko
+[23] : WHO1    .BAS : 0 001 ko
+Dsk 178 Ko used

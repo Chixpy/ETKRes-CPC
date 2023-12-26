@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : IZNOGOU0.BIN : 0 011 ko
+[01] : IZNOGOU1.BIN : 0 033 ko
+[04] : IZNOGOU2.BIN : 0 008 ko
+[05] : IZNOGOU3.BIN : 0 010 ko
+[06] : IZNOGOUD.BIN : 0 001 ko
+[07] : IZNOGOU4.BIN : 0 017 ko
+[09] : IZNOGOUD.PYR : 0 002 ko
+[10] : MONTY   .    : 0 009 ko
+[11] : MONTYPIT.N01 : 0 017 ko
+[13] : MONTYPIT.N02 : 0 015 ko
+[14] : MONTYPIT.N03 : 0 016 ko
+[15] : MONTYPIT.N04 : 0 016 ko
+[16] : MONTYPIT.N05 : 0 017 ko
+Dsk 172 Ko used

@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : BOUNDER .BAS : 0 001 ko
+[01] : BOUNDER2.BIN : 0 041 ko
+[04] : BOUNDER3.BIN : 0 017 ko
+[06] : DATA    .BIN : 0 041 ko
+[09] : PICTURE .BIN : 0 017 ko
+[11] : VIKINGS .BAS : 0 001 ko
+[18] : ORANGE  .BAS : 0 001 ko
+[19] : ORANGE2 .BIN : 0 003 ko
+[20] : ORANGE3 .BIN : 0 012 ko
+[21] : ORANGE4 .BIN : 0 030 ko
+Dsk 164 Ko used

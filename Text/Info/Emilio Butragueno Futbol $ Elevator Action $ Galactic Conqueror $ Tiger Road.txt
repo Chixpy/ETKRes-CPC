@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : GALACTIC.BI1 : 0 025 ko
+[02] : GALACTIC.BIN : 0 012 ko
+[03] : TIGER   .BIN : 0 037 ko
+[06] : TIGER   .    : 0 018 ko
+[08] : DISC    .BAS : 0 001 ko
+[09] : ELE     .BIN : 0 019 ko
+[11] : SCN     .BIN : 0 017 ko
+[13] : BUITRE  .BIN : 0 040 ko
+[16] : BUITRE  .SCR : 0 007 ko
+[17] : BUITRE  .BAS : 0 001 ko
+Dsk 177 Ko used

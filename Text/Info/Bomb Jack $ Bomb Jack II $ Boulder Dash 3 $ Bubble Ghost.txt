@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOULDER .BI� : 0 029 ko
+[02] : ELITE   .B�N : 1 001 ko
+[03] : B       .BI� : 0 027 ko
+[05] : BUBBLE  .BA� : 0 012 ko
+[06] : MENU    .BI� : 0 001 ko
+[07] : MENU    .BA� : 0 001 ko
+[08] : BJ2     .B�S : 1 002 ko
+[09] : B2SCREEN.B�N : 1 017 ko
+[11] : B2CODE  .B�N : 1 033 ko
+[14] : MENU    .BA� : 0 001 ko
+[15] : BOMB1   .AI� : 0 001 ko
+[16] : BJCODE  .BI� : 0 035 ko
+[19] : BJSCREEN.BI� : 0 017 ko
+[21] : BOMB2   .AI� : 0 001 ko
+[22] : BOMB    .BA� : 0 002 ko
+Dsk 180 Ko used

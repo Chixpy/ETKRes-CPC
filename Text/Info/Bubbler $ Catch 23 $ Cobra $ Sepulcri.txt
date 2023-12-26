@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : AMGAME  .BIN : 0 038 ko
+[03] : AMPIC   .BIN : 0 005 ko
+[04] : BUBLER  .BAS : 0 001 ko
+[05] : CATCH23 .BI1 : 0 008 ko
+[06] : CATCH23 .BI2 : 0 004 ko
+[07] : CATCH23 .BI3 : 0 018 ko
+[09] : CATCH23 .BI4 : 0 010 ko
+[10] : CATCH23 .BIN : 0 001 ko
+[11] : COBRA   .BI1 : 0 010 ko
+[12] : COBRA   .BI2 : 0 032 ko
+[14] : COBRA   .BIN : 0 001 ko
+[15] : SEP     .PIC : 0 007 ko
+[16] : SEPULCR .BAS : 0 001 ko
+[17] : SEPULCRI.BIN : 0 035 ko
+Dsk 171 Ko used

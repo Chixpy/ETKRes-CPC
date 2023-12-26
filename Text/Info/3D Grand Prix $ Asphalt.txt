@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 3DDISC  .�AS : 0 001 ko
+[01] : DISC    .�AS : 0 001 ko
+[02] : SCREEN  .�WV : 0 001 ko
+[03] : WHEELS  .�IN : 0 005 ko
+[04] : 3DFILE  .�IN : 0 033 ko
+[07] : UBI     .BIN : 0 039 ko
+[10] : ASPHALT .BIN : 0 042 ko
+[13] : SCREEN  .�WS : 0 017 ko
+[15] : SINUM   .�IN : 0 004 ko
+[16] : BIBLE   .BAS : 0 001 ko
+Dsk 144 Ko used

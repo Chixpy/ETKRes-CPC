@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : M       .BAS : 0 001 ko
+[01] : RICK2   .N00 : 0 012 ko
+[02] : RICK2   .N01 : 0 018 ko
+[04] : RICK2   .N02 : 0 018 ko
+[06] : RICK2   .N03 : 0 018 ko
+[08] : RICK2   .N04 : 0 019 ko
+[10] : RICK2   .N05 : 0 018 ko
+[12] : RICK2   .N06 : 0 018 ko
+[14] : ROAD    .BAS : 0 012 ko
+[15] : ROAD    .BIM : 0 015 ko
+[16] : ROAD    .BIN : 0 025 ko
+Dsk 174 Ko used

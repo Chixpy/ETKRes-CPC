@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MEGANOVA. �  : 0 001 ko
+[01] : MEGANOVA.1�  : 0 039 ko
+[04] : MEGANOVA.3�  : 0 039 ko
+[07] : MEGANOVA.2�  : 0 039 ko
+[10] : MEGANOVA.S�R : 0 013 ko
+[11] : GALAC2  .B�S : 0 004 ko
+[12] : GALAC3  .B�N : 0 009 ko
+[13] : GALAC   .B�S : 0 003 ko
+[14] : MENUSALU.T�  : 0 001 ko
+[15] : MENUA   .B�S : 0 001 ko
+[16] : MENU    .B�K : 0 001 ko
+[17] : MENU    .BAS : 0 001 ko
+[20] : RAID    . �  : 0 001 ko
+[21] : RTYPE   .B�1 : 0 021 ko
+[23] : RTYPE   .B�N : 0 006 ko
+Dsk 179 Ko used

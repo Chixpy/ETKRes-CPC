@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : JEU     .�AS : 0 001 ko
+[01] : JINGLE  .�IN : 0 002 ko
+[02] : M-COUP  .�IX : 0 008 ko
+[03] : M-COUR  .�IX : 0 011 ko
+[04] : M-ROCS  .�IX : 0 002 ko
+[05] : P-CHOI  .�IX : 0 014 ko
+[06] : P-CHUT  .�IX : 0 006 ko
+[07] : P-ETNA  .�IX : 0 005 ko
+[08] : P-LAVE  .�IX : 0 014 ko
+[09] : P-MORT  .�IX : 0 012 ko
+[10] : P-PARC  .�IX : 0 014 ko
+[11] : P-PROG  .�IX : 0 015 ko
+[12] : P-RIVE  .�IX : 0 011 ko
+[13] : P-RUIN  .�IX : 0 014 ko
+[14] : P-SNEF  .�IX : 0 011 ko
+[15] : P-TITR  .�IX : 0 004 ko
+[16] : VOYAGE1 .�IN : 0 007 ko
+[17] : VOYAGEA .�IN : 0 002 ko
+[18] : VOYAGEB .�IN : 0 003 ko
+[19] : M       .�IN : 0 001 ko
+[20] : SIR     .�IN : 0 021 ko
+Dsk 178 Ko used

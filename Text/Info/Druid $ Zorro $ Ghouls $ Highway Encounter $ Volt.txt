@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : DRUID   .ECR : 0 022 ko
+[02] : DRUID   .PRG : 0 035 ko
+[05] : DRUIDE  .BAS : 0 001 ko
+[06] : ZORRO   .BAS : 0 001 ko
+[07] : ZORRO2  .BIN : 0 017 ko
+[09] : ZORRO3  .BIN : 0 039 ko
+[12] : ZORRO1  .BIN : 0 001 ko
+[13] : GHOULS  .BIN : 0 019 ko
+[15] : HIGHWAY .BAS : 0 001 ko
+[16] : HIGHWAY .BIN : 0 039 ko
+[19] : VOLT    .BAS : 0 003 ko
+Dsk 178 Ko used

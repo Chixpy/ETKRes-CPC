@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURBO   .BAS : 0 001 ko
+[01] : TITLE   .BAS : 0 001 ko
+[02] : ESPRIT  .BAS : 0 001 ko
+[03] : TECODE  .BIN : 0 035 ko
+[06] : GDATA   .BIN : 0 008 ko
+[07] : SCDUMP  .BIN : 0 017 ko
+[09] : BOMB    .BAS : 0 002 ko
+[10] : BJSCREEN.BIN : 0 017 ko
+[12] : BJCODE  .BIN : 0 035 ko
+[15] : SABOTEUR.BAS : 0 001 ko
+[16] : 2       .BIN : 0 017 ko
+[18] : 3       .BIN : 0 004 ko
+[19] : 4       .BIN : 0 005 ko
+[20] : 5       .BIN : 0 002 ko
+[21] : 6       .BIN : 0 017 ko
+Dsk 163 Ko used

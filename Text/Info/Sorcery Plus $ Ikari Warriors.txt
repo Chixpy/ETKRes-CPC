@@ -1,0 +1,34 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 3 start at sector 123 while track 0 starts at 193
+Warning : track 4 start at sector 123 while track 0 starts at 193
+Warning : track 5 start at sector 123 while track 0 starts at 193
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : .��N : 0 028 ko
+[02] : IKARI   .BAS : 0 001 ko
+[03] : TITLEP  .��N : 0 005 ko
+[04] : CODE    .��N : 0 013 ko
+[05] : LOCDATA .��N : 0 006 ko
+[06] : CONSET1 .��N : 0 005 ko
+[07] : CONSET2 .��N : 0 005 ko
+[08] : SPRITES1.��N : 0 014 ko
+[09] : SPRITES2.��N : 0 014 ko
+[10] : SMESSC  .��N : 0 005 ko
+[11] : MUCODE  .��N : 0 002 ko
+[12] : SOUND   .��T : 0 001 ko
+[13] : STRANGE .��N : 0 017 ko
+[15] : CONALP  .��N : 0 003 ko
+[16] : TISCRN  .��N : 0 001 ko
+[17] : SORCERYP.��N : 0 001 ko
+[18] : DISC    .�AS : 0 001 ko
+[19] : IKARI   .N01 : 0 014 ko
+[20] : IKARI   .N02 : 0 036 ko
+Dsk 172 Ko used

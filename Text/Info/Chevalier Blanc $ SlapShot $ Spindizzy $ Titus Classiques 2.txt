@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CLASSIC0.ECR : 0 010 ko
+[01] : CLASSIC1.BIN : 0 033 ko
+[04] : TITUS2  .    : 0 001 ko
+[05] : SLAP3   .BIN : 0 031 ko
+[07] : BLANC   .BAS : 0 001 ko
+[08] : BLANC   .BI1 : 0 013 ko
+[09] : BLANC   .BI2 : 0 006 ko
+[10] : BLANC   .BI3 : 0 003 ko
+[11] : BLANC   .BI4 : 0 003 ko
+[12] : BLANC   .BI5 : 0 002 ko
+[13] : BLANC   .BI6 : 0 017 ko
+[15] : BLANC   .BIN : 0 001 ko
+[16] : SPINDY  .BAS : 0 001 ko
+[17] : SPINDY1 .BIN : 0 002 ko
+[18] : SPINDY2 .BIN : 0 033 ko
+[21] : SPINDY3 .BIN : 0 013 ko
+Dsk 170 Ko used

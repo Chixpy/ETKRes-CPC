@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TARGET  .BAS : 0 010 ko
+[01] : TARGET  .BIN : 0 022 ko
+[03] : TARGE   .BIN : 0 072 ko
+[08] : EAGLES  .BIN : 0 033 ko
+[11] : GATE1   .BAS : 0 004 ko
+[12] : EAGLES  .BAS : 0 001 ko
+[13] : EAGLES  .SCN : 0 007 ko
+[14] : GATE3   .BIN : 0 010 ko
+[15] : GATE2   .BAS : 0 013 ko
+[16] : GATE    .BAS : 0 001 ko
+Dsk 173 Ko used

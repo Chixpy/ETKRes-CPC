@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOXING  .BAS : 0 001 ko
+[01] : BOXING  .PAR : 0 001 ko
+[02] : BOXING  .BIN : 0 036 ko
+[05] : KARATE1 .BIN : 0 041 ko
+[08] : KARATE  .BIN : 0 042 ko
+[11] : 3DGPRIX .BI1 : 0 042 ko
+[12] : KANE0   .BIN : 0 001 ko
+[15] : 3DGPRIX .BI0 : 0 001 ko
+[16] : 3DGPRIX .BI3 : 0 003 ko
+[17] : 3DGRANDP.BAS : 0 001 ko
+Dsk 169 Ko used

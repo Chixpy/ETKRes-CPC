@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ASPHALT .BIN : 0 042 ko
+[03] : UBI     .BIN : 0 039 ko
+[06] : AIGLE   .BAS : 0 005 ko
+[07] : AIGLE1  .BIN : 0 004 ko
+[08] : AIGLE2  .BIN : 0 041 ko
+[11] : TETRIS  .BAS : 0 008 ko
+[12] : TETRIS  .BIN : 0 021 ko
+Dsk 160 Ko used

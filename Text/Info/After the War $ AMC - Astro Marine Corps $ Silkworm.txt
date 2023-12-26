@@ -1,0 +1,26 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+Warning : track 43 start at sector 255 while track 0 starts at 193
+Warning : track 44 start at sector 255 while track 0 starts at 193
+[00] : AFTER2  .001 : 0 008 ko
+[01] : AFTER2  .002 : 0 040 ko
+[03] : AMC     .BIN : 0 033 ko
+[06] : AFTER   .BAS : 0 011 ko
+[07] : SW      .BIN : 0 005 ko
+[08] : SILKWORM.PRG : 0 035 ko
+[11] : AFTER   .SCR : 0 016 ko
+[15] : AMC     .2   : 0 030 ko
+Dsk 178 Ko used

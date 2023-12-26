@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DISC    .BIN : 0 002 ko
+[01] : ROINTIME.BIN : 0 032 ko
+[03] : POKER   .BAS : 0 024 ko
+[05] : PAC     .BAS : 0 001 ko
+[06] : PAC0    .BIN : 0 001 ko
+[07] : PAC2    .BIN : 0 009 ko
+[08] : PAC3    .BIN : 0 002 ko
+[09] : PAC1    .BIN : 0 017 ko
+[11] : TARO1   .BIN : 0 001 ko
+[12] : TAROT   .BAS : 0 008 ko
+[13] : TAROT   .BIN : 0 001 ko
+[14] : TAROT   .SCN : 0 017 ko
+[16] : TAROT1  .BAS : 0 032 ko
+Dsk 147 Ko used

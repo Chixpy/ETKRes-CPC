@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : WACKYRAC.    : 0 014 ko
+[01] : WACKYRAC.CH0 : 0 013 ko
+[02] : WACKYRAC.CH1 : 0 012 ko
+[03] : WACKYRAC.CH2 : 0 012 ko
+[04] : WACKYRAC.CH4 : 0 011 ko
+[05] : WACKYRAC.CH3 : 0 013 ko
+[06] : WACKYRAC.CH5 : 0 012 ko
+[07] : WACKYRAC.CH6 : 0 021 ko
+[09] : WACKYRAC.CH7 : 0 010 ko
+[10] : ARKAEDIT.BAS : 0 006 ko
+[11] : ARKAEDIT.ORG : 0 003 ko
+[12] : ARKANOID.000 : 0 030 ko
+[14] : ARKANOID.001 : 0 006 ko
+[15] : ARKANOID.002 : 0 006 ko
+[16] : ARKANOID.003 : 0 006 ko
+[17] : ARKANOID.BAS : 0 003 ko
+Dsk 178 Ko used

@@ -1,0 +1,48 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : Sector size [57600] differs from the amount of data found [57841], enlarge data part
+Error while reading CPCEmuSect.Data error :unexpected EOF
+Error track (33) error :unexpected EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (34) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (35) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (36) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (37) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (38) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (39) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Warning : track 29 start at sector 112 while track 0 starts at 193
+Warning : track 32 start at sector 112 while track 0 starts at 193
+Warning : track 33 start at sector 255 while track 0 starts at 193
+Warning : track 34 start at sector 255 while track 0 starts at 193
+Warning : track 35 start at sector 255 while track 0 starts at 193
+Warning : track 36 start at sector 255 while track 0 starts at 193
+Warning : track 37 start at sector 255 while track 0 starts at 193
+Warning : track 38 start at sector 255 while track 0 starts at 193
+Warning : track 39 start at sector 255 while track 0 starts at 193
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+[01] : GENESIS .BIN : 0 011 ko
+[02] : GENESIS .N01 : 0 032 ko
+[04] : SEXYTEST.BAS : 0 014 ko
+[06] : CYRUSII .BIN : 0 028 ko
+[14] : MU00    .3D  : 0 003 ko
+[15] : MU01    .3D  : 0 001 ko
+[16] : MU02    .3D  : 0 001 ko
+[17] : MU03    .3D  : 0 001 ko
+[18] : MU04    .3D  : 0 001 ko
+[19] : MU05    .3D  : 0 001 ko
+[20] : MU06    .3D  : 0 001 ko
+[21] : MU07    .3D  : 0 001 ko
+[22] : MU08    .3D  : 0 001 ko
+[23] : MU09    .3D  : 0 001 ko
+[24] : MU10    .3D  : 0 001 ko
+Dsk 098 Ko used

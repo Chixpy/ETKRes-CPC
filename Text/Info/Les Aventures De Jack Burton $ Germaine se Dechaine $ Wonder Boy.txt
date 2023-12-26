@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : WON     .BAS : 0 001 ko
+[01] : WON2    .BIN : 0 011 ko
+[02] : WON3    .BIN : 0 012 ko
+[03] : WON1    .BIN : 0 037 ko
+[06] : JACK    .BIN : 0 001 ko
+[07] : JACK    .ST2 : 0 017 ko
+[09] : JACK    .ST3 : 0 041 ko
+[12] : JACK    .ST1 : 0 017 ko
+[14] : GERMAINE.BAS : 0 028 ko
+Dsk 165 Ko used

@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1943    .BIN : 0 015 ko
+[01] : 1943    .PRG : 0 032 ko
+[03] : DECATHL .BAS : 0 001 ko
+[04] : DECAP   .BIN : 0 039 ko
+[07] : TITUS   .001 : 0 017 ko
+[09] : TITUS   .002 : 0 025 ko
+[11] : VIES+   .BIN : 0 024 ko
+[13] : TITUS   .BAS : 0 001 ko
+[14] : DECALE5 .BIN : 0 001 ko
+[15] : DECA    .BIN : 0 017 ko
+Dsk 172 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEmuSect.Data error :unexpected EOF
+Error track (40) error :unexpected EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CARTOON .FA1 : 0 009 ko
+[01] : CARTOON .FAR : 0 009 ko
+[02] : CARTOON .LA2 : 0 010 ko
+[03] : CARTOON .LA4 : 0 008 ko
+[04] : CARTOON .SA2 : 0 017 ko
+[06] : CARTOON .SAM : 0 008 ko
+[07] : CARTOON2.BIN : 0 001 ko
+[08] : PINGO2  .BIN : 0 023 ko
+[10] : SEX     .BAS : 0 002 ko
+[11] : CARTOON .FA2 : 0 017 ko
+[13] : CARTOON .LA1 : 0 009 ko
+[14] : CARTOON .LA3 : 0 017 ko
+[16] : CARTOON .SA1 : 0 008 ko
+[17] : CARTOON .SA3 : 0 017 ko
+[19] : CARTOON1.BAS : 0 004 ko
+[20] : P       .    : 0 005 ko
+[21] : S       .BAS : 0 001 ko
+[22] : SEXYTEST.BA2 : 0 013 ko
+Dsk 178 Ko used

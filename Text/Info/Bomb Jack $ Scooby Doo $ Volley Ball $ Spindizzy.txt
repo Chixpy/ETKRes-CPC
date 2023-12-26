@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : SCOOBY  .BIN : 0 035 ko
+[03] : SCOOBYD .BAS : 0 001 ko
+[04] : SCOOBYD1.BIN : 0 008 ko
+[05] : BJCODE  .BIN : 0 035 ko
+[08] : BOMBJACK.BAS : 0 001 ko
+[09] : BOMBJACK.COM : 0 007 ko
+[10] : SPINDY  .BAS : 0 001 ko
+[11] : SPINDY  .BIN : 0 002 ko
+[12] : SPINDY  .LOD : 0 001 ko
+[13] : SPINDY2 .BIN : 0 004 ko
+[14] : SPINDY1 .BIN : 0 042 ko
+[17] : VOLLEY  .BAS : 0 001 ko
+[18] : VOLLEY  .COM : 0 011 ko
+[19] : VOLLEY  .BIN : 0 029 ko
+Dsk 178 Ko used

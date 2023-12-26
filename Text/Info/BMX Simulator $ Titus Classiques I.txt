@@ -1,0 +1,9 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BMX     .BIN : 0 001 ko
+[01] : BMX     .I   : 0 036 ko
+[04] : BMX     .II  : 0 013 ko
+[16] : TITUS   .BAS : 0 001 ko
+[17] : TITUS1  .BIN : 0 010 ko
+[18] : TITUS2  .BIN : 0 025 ko
+Dsk 086 Ko used

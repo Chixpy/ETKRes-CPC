@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : MERCEN10.BIN : 0 016 ko
+[01] : MERCEN11.BIN : 0 017 ko
+[03] : MERCENA2.BIN : 0 017 ko
+[05] : MERCENA3.BIN : 0 001 ko
+[06] : MERCENA4.BIN : 0 017 ko
+[08] : MERCENA5.BIN : 0 017 ko
+[10] : MERCENA6.BIN : 0 016 ko
+[11] : MERCENA7.BIN : 0 017 ko
+[13] : MERCENA8.BIN : 0 017 ko
+[15] : MERCENA9.BIN : 0 017 ko
+[17] : MERCENAR.BAS : 0 001 ko
+[18] : MERCENAR.OK  : 0 001 ko
+[19] : DAME    .BAS : 0 003 ko
+[20] : DAME1   .BIN : 0 005 ko
+[21] : DAME2   .BIN : 0 002 ko
+[22] : DAME3   .BIN : 0 005 ko
+[23] : DAME4   .BAS : 0 009 ko
+Dsk 178 Ko used

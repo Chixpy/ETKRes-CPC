@@ -1,0 +1,11 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODE    .BIN : 0 042 ko
+[03] : BEDLAM  .BIN : 0 034 ko
+[04] : IKARI   .BAS : 0 001 ko
+[05] : SCREEN  .BIN : 0 017 ko
+[07] : TRIC    .BAS : 0 001 ko
+[08] : WARRIORS.BIN : 0 036 ko
+[11] : STREET  .    : 0 037 ko
+[14] : 1942    .BAS : 0 001 ko
+Dsk 169 Ko used

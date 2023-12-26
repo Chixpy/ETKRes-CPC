@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : INFECTIO.BAS : 0 001 ko
+[01] : INFECTIO.B�N : 0 023 ko
+[03] : HELLO   .BAS : 0 004 ko
+[04] : TCOPY3  .BIN : 0 003 ko
+[05] : GHOSTB2 .BIN : 0 020 ko
+[07] : GHOSTB2 .B�1 : 0 022 ko
+[09] : GHOSTB2 .B�2 : 0 034 ko
+[12] : GHOSTB2 .B�3 : 0 034 ko
+[15] : GHOSTB2 .B�4 : 0 031 ko
+[17] : GHOSTB2 .B�5 : 0 011 ko
+[18] : INFECIMA.P�W : 0 004 ko
+Dsk 187 Ko used

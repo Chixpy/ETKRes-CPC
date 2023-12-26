@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : EXOLON  .BIN : 0 040 ko
+[03] : RYGAR   .BAS : 0 001 ko
+[04] : RYGAR   .BIN : 0 030 ko
+[06] : BEYO0   .BIN : 0 017 ko
+[08] : BEYO1   .BIN : 0 032 ko
+[10] : BEYO3   .BIN : 0 002 ko
+[11] : BEYO2   .BIN : 0 032 ko
+[13] : BEYO4   .BIN : 0 002 ko
+[14] : BEYO5   .BIN : 0 002 ko
+[15] : BEYOND  .BIN : 0 001 ko
+[16] : RYGAR   .SCR : 0 017 ko
+Dsk 176 Ko used

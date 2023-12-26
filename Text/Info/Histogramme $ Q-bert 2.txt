@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : PREHIST2.N�1 : 0 004 ko
+[01] : PREHIST2.N�2 : 0 004 ko
+[02] : PREHIST2.N�3 : 0 005 ko
+[03] : PREHIST2.N�4 : 0 004 ko
+[04] : PREHIST2.N�5 : 0 006 ko
+[05] : PREHIST2.N�6 : 0 007 ko
+[06] : PREHIST2.N�7 : 0 007 ko
+[07] : PREHIST2.N�8 : 0 004 ko
+[08] : PREHIST2.N�9 : 0 006 ko
+[09] : PREHIST2.N�0 : 0 006 ko
+[10] : PREHIST2.N�1 : 0 006 ko
+[11] : PREHIST2.N�2 : 0 005 ko
+[12] : PREHIST2.N�3 : 0 004 ko
+[13] : PREHIST2.N�4 : 0 005 ko
+[14] : PREHIST2.N�5 : 0 007 ko
+[15] : PREHIST2.N�6 : 0 006 ko
+[16] : PREHIST2.N�7 : 0 007 ko
+[17] : PREHIST2.N�8 : 0 006 ko
+[18] : PREHIST2.N�9 : 0 006 ko
+[19] : PREHIST2.N�0 : 0 006 ko
+[20] : PREHIST2.N�1 : 0 005 ko
+[21] : PREHIST2.N�2 : 0 006 ko
+[22] : PREHIST2.N�3 : 0 006 ko
+[23] : PREHIST2.N�4 : 0 003 ko
+[24] : PREHIST2.N�6 : 0 034 ko
+[27] : PREHIST2.N�0 : 0 003 ko
+[28] : PREHIST2.N�5 : 0 010 ko
+[29] : HISTOGRA.BAS : 0 004 ko
+[30] : Q-BERT2 .BAS : 0 005 ko
+Dsk 187 Ko used

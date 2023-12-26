@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : GREML   .BAS : 0 001 ko
+[01] : GREML1  .BIN : 0 031 ko
+[03] : GREML2  .BIN : 0 012 ko
+[04] : RASP    .BAS : 0 003 ko
+[05] : RASP1   .BIN : 0 011 ko
+[06] : RASP2   .BIN : 0 042 ko
+[09] : SHORT   .BIN : 0 001 ko
+[10] : SHORT1  .BIN : 0 013 ko
+[11] : SHORT2  .BIN : 0 041 ko
+Dsk 155 Ko used

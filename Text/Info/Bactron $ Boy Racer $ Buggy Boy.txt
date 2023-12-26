@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : BACTRON .BIN : 0 008 ko
+[01] : BACTRON .COD : 0 040 ko
+[04] : BOY     .BAS : 0 001 ko
+[05] : BUGGY   .BIN : 0 001 ko
+[06] : SCREEN  .COM : 0 011 ko
+[07] : TITLE   .BIN : 0 001 ko
+[08] : BBSCR$  .BIN : 0 017 ko
+[10] : BLOCK1  .BIN : 0 020 ko
+[12] : BLOCK2  .BIN : 0 017 ko
+[14] : GAME    .BIN : 0 030 ko
+[16] : ROAD1   .BIN : 0 020 ko
+[18] : TITLESCR.BIN : 0 012 ko
+Dsk 178 Ko used

@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : OXPHAR  .BIN : 0 013 ko
+[01] : OXPHAR1 .BIN : 0 009 ko
+[02] : OXPHAR2 .BIN : 0 030 ko
+[04] : PACMANIA.BAS : 0 001 ko
+[05] : PACMANIA.BIN : 0 002 ko
+[06] : PACMANIA.H01 : 0 017 ko
+[08] : PACMANIA.H02 : 0 041 ko
+[11] : WONDER  .BAS : 0 001 ko
+[12] : PACMANIA.H03 : 0 008 ko
+[13] : WONDER3 .BIN : 0 021 ko
+[15] : WONDER4 .BIN : 0 017 ko
+[17] : WONDER5 .BIN : 0 013 ko
+[18] : JACKPOT .BAS : 0 005 ko
+Dsk 178 Ko used

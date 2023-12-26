@@ -1,0 +1,7 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[03] : HUMPHREY.BAS : 0 010 ko
+[04] : HUMPHREY.BI1 : 0 037 ko
+[07] : EMILIO  .BAS : 0 033 ko
+[13] : ZENITH2 .BIN : 0 021 ko
+Dsk 101 Ko used

@@ -1,0 +1,24 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SUPERSKI.BAS : 0 001 ko
+[01] : S       .BIN : 0 001 ko
+[02] : S       .ECR : 0 017 ko
+[04] : S1      .BIN : 0 002 ko
+[05] : S2      .BIN : 0 002 ko
+[06] : S3      .BIN : 0 002 ko
+[07] : SAU     .BIN : 0 017 ko
+[09] : SK      .001 : 0 002 ko
+[10] : SK      .002 : 0 002 ko
+[11] : SK      .003 : 0 002 ko
+[12] : SK      .011 : 0 002 ko
+[13] : SK      .012 : 0 002 ko
+[14] : SK      .013 : 0 002 ko
+[15] : SKH     .BIN : 0 005 ko
+[16] : SKI     .001 : 0 014 ko
+[17] : SKI     .010 : 0 017 ko
+[19] : SKI     .BIN : 0 017 ko
+[21] : SLA     .BIN : 0 017 ko
+[23] : SUPER   .ECR : 0 017 ko
+[25] : SUPS    .BIN : 0 002 ko
+[26] : MOONBUGY.BIN : 0 025 ko
+Dsk 168 Ko used

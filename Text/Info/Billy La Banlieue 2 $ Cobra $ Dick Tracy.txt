@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : COBRA   .BAS : 0 001 ko
+[01] : COBRA0  .    : 0 010 ko
+[02] : COBRA1  .    : 0 033 ko
+[05] : COBRA2  .    : 0 010 ko
+[06] : TRACY   .BIN : 0 014 ko
+[07] : TRACY   .N01 : 0 008 ko
+[08] : TRACY   .N02 : 0 008 ko
+[09] : TRACY   .N03 : 0 008 ko
+[10] : TRACY   .N04 : 0 008 ko
+[11] : TRACY   .N05 : 0 008 ko
+[12] : TRACY   .N06 : 0 002 ko
+[13] : TRACY   .N07 : 0 005 ko
+[14] : TRACY   .N08 : 0 008 ko
+[15] : TRACY   .N09 : 0 007 ko
+[16] : TRACY   .N10 : 0 013 ko
+[17] : BILLY2  .BIN : 0 035 ko
+Dsk 178 Ko used

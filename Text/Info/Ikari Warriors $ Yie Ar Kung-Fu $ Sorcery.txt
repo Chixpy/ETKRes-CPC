@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : KUNGFU  .BIN : 0 001 ko
+[01] : SORCERY .BAS : 0 001 ko
+[02] : SORPART2.BIN : 0 026 ko
+[04] : SORPART3.BIN : 0 001 ko
+[05] : SORPART1.BIN : 0 017 ko
+[07] : IKARIIMM.BAS : 0 001 ko
+[08] : LISTE   .JEU : 0 011 ko
+[09] : KUNGFU  .BI4 : 0 004 ko
+[10] : I       .BAS : 0 001 ko
+[11] : IKARI2  .BAS : 0 001 ko
+[12] : IKARI1  .BIN : 0 017 ko
+[14] : IKARI3  .BIN : 0 036 ko
+[17] : KUNGFU  .BI3 : 0 041 ko
+[20] : KUNGFU  .BA2 : 0 001 ko
+[21] : KUNGFU  .ECR : 0 017 ko
+[23] : K       .BIN : 0 001 ko
+Dsk 177 Ko used

@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : DES     .BAS : 0 018 ko
+[02] : SUPERDES.BAS : 0 015 ko
+[03] : MOD1    .BAS : 0 023 ko
+[05] : MOD2    .BAS : 0 015 ko
+[06] : VO      .BAS : 0 007 ko
+[07] : VOIR    .BAS : 0 009 ko
+[08] : VOIRB   .BAS : 0 009 ko
+[09] : TORE    .    : 0 001 ko
+[10] : OTHELLO .BIN : 0 003 ko
+[11] : OTHELLO .LOD : 0 009 ko
+[12] : REV     .BAS : 0 011 ko
+[13] : REVER   .BAS : 0 011 ko
+[14] : BIDON   .BAS : 0 011 ko
+Dsk 142 Ko used

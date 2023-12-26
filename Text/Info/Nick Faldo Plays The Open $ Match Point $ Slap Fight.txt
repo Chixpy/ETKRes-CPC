@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : SLAPFIG .BIN : 0 001 ko
+[01] : SLAPFIG0.BIN : 0 001 ko
+[02] : SLAPFIG1.BIN : 0 042 ko
+[05] : SLAPFIG2.BIN : 0 017 ko
+[07] : FALGOLF .BIN : 0 001 ko
+[08] : FALGOLF1.BIN : 0 017 ko
+[10] : FALGOLF2.BIN : 0 042 ko
+[13] : TITLE   .BAS : 0 003 ko
+[14] : FLASH   .BIN : 0 042 ko
+[17] : REDODO  .BAS : 0 002 ko
+Dsk 168 Ko used

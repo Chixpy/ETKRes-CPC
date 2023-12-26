@@ -1,0 +1,29 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : TITRE   .BAK : 0 001 ko
+[01] : LORIGRAF.BIN : 0 033 ko
+[04] : MUSICIEL.BAS : 0 031 ko
+[06] : GP500   .001 : 0 018 ko
+[08] : GP500   .002 : 0 036 ko
+[11] : GP500   .003 : 0 018 ko
+[13] : GP500   .BAS : 0 006 ko
+[14] : TEST    .BIN : 0 001 ko
+[15] : MMMMMMMM.LOR : 0 017 ko
+[17] : WOLFGANG.BAS : 0 005 ko
+[18] : MUSIC   .BAK : 0 001 ko
+[19] : M       .BAS : 0 005 ko
+[20] : MUSIC2  .CAR : 0 002 ko
+[21] : RECOP   .BIN : 0 001 ko
+[22] : TITRE   .    : 0 001 ko
+[23] : MUSIC   .BAS : 0 001 ko
+[24] : TEST1   .BIN : 0 001 ko
+Dsk 178 Ko used

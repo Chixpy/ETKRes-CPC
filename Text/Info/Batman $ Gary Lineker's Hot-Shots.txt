@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : B3      .BIN : 0 042 ko
+[03] : B4      .BIN : 0 003 ko
+[04] : B2      .BIN : 0 016 ko
+[05] : B1      .BIN : 0 001 ko
+[06] : BATMAN  .BAS : 0 001 ko
+[07] : HOTS1   .BIN : 0 017 ko
+[09] : HOTS0   .BIN : 0 034 ko
+[12] : HOTS    .SCR : 0 012 ko
+[13] : HOTS    .BAS : 0 001 ko
+Dsk 127 Ko used

@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ROCK    .BAS : 0 001 ko
+[01] : ROCK    .SCR : 0 017 ko
+[03] : ROCK1   .BIN : 0 040 ko
+[06] : ROCK2   .BIN : 0 005 ko
+[07] : CISCOHEA.    : 0 015 ko
+[08] : CISCOHEA.TM1 : 0 008 ko
+[09] : CISCOHEA.TM2 : 0 008 ko
+[10] : CISCOHEA.TM3 : 0 008 ko
+[11] : CISCOHEA.TM4 : 0 008 ko
+[12] : CISCOHEA.TM5 : 0 008 ko
+[13] : CISCOHEA.TM6 : 0 005 ko
+[14] : CISCOHEA.TM7 : 0 027 ko
+Dsk 150 Ko used

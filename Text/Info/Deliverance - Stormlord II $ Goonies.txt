@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : strange sector numbering in track 1! (maxSect:FF,minSect:81)
+Warning : track 1 start at sector 129 while track 0 starts at 65
+[00] : MENU    .B�N : 0 001 ko
+[01] : ��������.B�� : 0 002 ko
+[02] : MENU    .    : 0 001 ko
+[03] : STORM2  .L�3 : 0 035 ko
+[04] : STORM2  .L�1 : 0 035 ko
+[06] : ��������.S�� : 0 040 ko
+[10] : STORM2  .L�2 : 0 036 ko
+[12] : ���դ �.S�� : 0 005 ko
+[14] : STORM2  .W�N : 0 001 ko
+[15] : STORM2  .��1 : 0 006 ko
+[18] : STORM2  .B�N : 0 016 ko
+Dsk 178 Ko used

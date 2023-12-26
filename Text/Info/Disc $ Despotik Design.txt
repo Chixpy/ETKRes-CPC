@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : DISC    .    : 0 025 ko
+[02] : DISC    .TM1 : 0 005 ko
+[03] : DISC    .TM2 : 0 009 ko
+[04] : DISC    .TM3 : 0 007 ko
+[05] : DISC    .TM4 : 0 009 ko
+[06] : DISC    .TM5 : 0 008 ko
+[07] : DISC    .TM6 : 0 013 ko
+[08] : DISC    .TM7 : 0 012 ko
+[09] : DISC    .TM8 : 0 001 ko
+[10] : DISC    .TM9 : 0 008 ko
+[12] : DESPOT  .BAS : 0 012 ko
+[13] : DESPOT  .BIN : 0 041 ko
+Dsk 150 Ko used

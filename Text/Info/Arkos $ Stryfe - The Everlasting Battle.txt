@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : STRYFE  .BAS : 0 015 ko
+[01] : STRYFE  .BIN : 0 039 ko
+[04] : ARKOS   .BAS : 0 001 ko
+[05] : ARKOS2  .BIN : 0 041 ko
+[08] : ARKOS3  .BIN : 0 041 ko
+[11] : ARKOS4  .BIN : 0 041 ko
+Dsk 178 Ko used

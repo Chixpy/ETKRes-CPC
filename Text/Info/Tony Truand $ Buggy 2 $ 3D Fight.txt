@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BUGGY2  .BAS : 0 001 ko
+[01] : BUGGY2  .BIN : 0 021 ko
+[03] : BUGGY2  .ECR : 0 004 ko
+[04] : BUGGY2  .TRS : 0 004 ko
+[05] : MENU    .BAS : 0 002 ko
+[06] : TONYTRU .JEU : 0 003 ko
+[07] : TONYTRU .PRE : 0 003 ko
+[08] : TONYTRU1.BIN : 0 017 ko
+[10] : TONYTRU2.BAS : 0 006 ko
+[11] : TONYTRU3.BAS : 0 001 ko
+[12] : TONYTRU4.BIN : 0 001 ko
+[13] : TONYTRU5.BIN : 0 035 ko
+[16] : TONYTRUA.BIN : 0 017 ko
+[18] : TONYTRUB.BAS : 0 002 ko
+[19] : TONYTRUC.BIN : 0 001 ko
+[20] : TONYTRUD.BIN : 0 035 ko
+Dsk 153 Ko used

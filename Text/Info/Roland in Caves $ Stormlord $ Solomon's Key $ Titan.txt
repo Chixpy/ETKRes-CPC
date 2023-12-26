@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TITAN   .B�S : 0 001 ko
+[01] : SOLOMON .B�N : 0 030 ko
+[03] : TITAN   .S�N : 0 010 ko
+[04] : TITAN1  .J�U : 0 008 ko
+[05] : TITAN2  .J�U : 0 004 ko
+[06] : TITAN3  .J�U : 0 013 ko
+[07] : ROINCAVE.B�S : 0 003 ko
+[08] : ROLCAVES.B�S : 0 002 ko
+[09] : STORMLOR.B�N : 0 001 ko
+[10] : STORMLOR.N�1 : 0 020 ko
+[12] : STORMLOR.N�2 : 0 038 ko
+[15] : SOLOMON .B�S : 0 015 ko
+[16] : ROLCAVES.B�N : 0 022 ko
+[18] : TITAN   .E�R : 0 017 ko
+[19] : MENU    .BAS : 0 001 ko
+Dsk 185 Ko used

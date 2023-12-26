@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODE1   .BIN : 0 019 ko
+[02] : J3      .BAS : 0 001 ko
+[03] : CRAZY2  .BIN : 0 033 ko
+[06] : MACADAM .LAY : 0 021 ko
+[08] : MACADAM .SCN : 0 017 ko
+[10] : CODE2   .BIN : 0 023 ko
+[12] : CRAZY1  .BIN : 0 017 ko
+[14] : J4      .BIN : 0 001 ko
+[15] : MACADAM .PRG : 0 023 ko
+[17] : MACADAM2.BIN : 0 020 ko
+Dsk 175 Ko used

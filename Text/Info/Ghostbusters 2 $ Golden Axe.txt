@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : GHOST   .    : 0 001 ko
+[01] : GHOST   .BIN : 0 010 ko
+[02] : GHOST0  .    : 0 010 ko
+[03] : GHOST4  .    : 0 007 ko
+[04] : GHOST1  .BAS : 0 006 ko
+[05] : GHOST2  .BAS : 0 006 ko
+[06] : GHOST2  .BIN : 0 035 ko
+[08] : GHOST1  .    : 0 029 ko
+[10] : GHOST1  .BIN : 0 033 ko
+[13] : GHOST3  .BAS : 0 006 ko
+[14] : GHOST3  .BIN : 0 029 ko
+[17] : GHOST2  .    : 0 021 ko
+[19] : GHOST3  .    : 0 008 ko
+[20] : GOLDENAX.    : 0 021 ko
+Dsk 222 Ko used

@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RSX     .B�N : 0 004 ko
+[01] : SMSDEMO .    : 0 002 ko
+[02] : SMSDEMO .B�S : 0 028 ko
+[04] : SOCDATA . �  : 0 066 ko
+[09] : ANAGRAMS.    : 0 002 ko
+[10] : C       .B�N : 0 002 ko
+[11] : CARDS1  .B�S : 0 003 ko
+[12] : MOLECULE.    : 0 014 ko
+[13] : HANGMAN .    : 0 004 ko
+[14] : MIMIC   .    : 0 004 ko
+[15] : MIXUP   .    : 0 004 ko
+[16] : NOUGHTS .    : 0 003 ko
+[17] : PONTOON .    : 0 001 ko
+[18] : PTN     .B�S : 0 004 ko
+[19] : TRIVIA  .    : 0 029 ko
+[21] : UP+DOWN .    : 0 001 ko
+[22] : MOLEPOKE.    : 0 001 ko
+Dsk 172 Ko used

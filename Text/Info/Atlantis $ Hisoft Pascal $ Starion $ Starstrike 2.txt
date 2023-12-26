@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 1 start at sector 247 while track 0 starts at 193
+Warning : track 40 start at sector 247 while track 0 starts at 193
+[00] :         .    : 0 000 ko
+[01] : "       .    : 0 001 ko
+[02] : A3      .BIN : 0 017 ko
+[04] : A1      .BIN : 0 017 ko
+[06] : A2      .BIN : 0 017 ko
+[08] : DISC    .    : 0 001 ko
+[09] : ATLANTIS.BAS : 0 019 ko
+[11] : ATLANTIS.BIN : 0 018 ko
+[13] : STARION2.BIN : 0 041 ko
+[16] : STARION3.BIN : 0 016 ko
+[17] : STARION .BIN : 0 001 ko
+[18] : STARION1.BIN : 0 001 ko
+[19] : HPLOADER.BAS : 0 001 ko
+[20] : HPCPC464.BIN : 0 021 ko
+Dsk 171 Ko used

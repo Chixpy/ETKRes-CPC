@@ -1,0 +1,57 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : ANIME   .BAS : 0 001 ko
+[01] : BOMBE   .BAS : 0 003 ko
+[02] : BRUITS  .BAS : 0 002 ko
+[03] : CAMENBER.BAS : 0 003 ko
+[04] : CHARG   .BAS : 0 002 ko
+[05] : CURSEUR .BAS : 0 001 ko
+[06] : DATABASE.BAS : 0 011 ko
+[07] : 3D      .BAS : 0 001 ko
+[08] : DES     .BAS : 0 001 ko
+[09] : DFGH    .BAS : 0 004 ko
+[10] : DISC    .BAS : 0 001 ko
+[11] : DISCA   .BAS : 0 002 ko
+[12] : ESPION  .BAS : 0 003 ko
+[13] : ESPION  .BIN : 0 001 ko
+[14] : DE      .BIN : 0 001 ko
+[15] : FEMME   .GXC : 0 001 ko
+[16] : FEMME   .GXE : 0 017 ko
+[18] : FICMERGE.BAS : 0 002 ko
+[19] : FORMAT  .BIN : 0 001 ko
+[20] : HARRIER .BIN : 0 009 ko
+[21] : GAO5    .BAS : 0 005 ko
+[22] : GRAPHEUR.BAS : 0 003 ko
+[23] : IMAGE   .BAS : 0 001 ko
+[24] : LE      .BAS : 0 004 ko
+[25] : LECTURE .BAS : 0 001 ko
+[26] : MODIMELO.BAS : 0 002 ko
+[27] : MOR     .BAS : 0 003 ko
+[28] : MUSICAL .BAS : 0 001 ko
+[29] : MUSIQUE .BAS : 0 002 ko
+[30] : P       .BAS : 0 002 ko
+[31] : RAPIDE  .BAS : 0 001 ko
+[32] : RECHER  .BAS : 0 001 ko
+[33] : SAISIE  .BAS : 0 002 ko
+[34] : MUSIC   .BAS : 0 002 ko
+[35] : SAUVE   .BAS : 0 001 ko
+[36] : SAUVEFIC.BAS : 0 001 ko
+[37] : SECTEUR .BIN : 0 001 ko
+[38] : SL      .BAS : 0 001 ko
+[39] : SLAYER  .BIN : 0 001 ko
+[40] : SPIDEMO .BAS : 0 001 ko
+[41] : SPIR    .BAS : 0 001 ko
+[42] : SPIRDEMO.BAS : 0 001 ko
+[43] : VISION  .BAS : 0 001 ko
+[44] : ACCADE  .BIN : 0 001 ko
+[45] : ARCADE  .BIN : 0 001 ko
+[46] : M       .BAS : 0 001 ko
+[47] : RELOGEUR.BAS : 0 002 ko
+[48] : F2      .BAS : 0 034 ko
+[51] : F6      .BAS : 0 029 ko
+[53] : SL1     .BAS : 0 002 ko
+[54] : D       .BAS : 0 001 ko
+Dsk 177 Ko used

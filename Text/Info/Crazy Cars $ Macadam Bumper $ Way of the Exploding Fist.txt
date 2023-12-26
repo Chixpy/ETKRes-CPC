@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CRAZY   .BAS : 0 001 ko
+[01] : CRAZY1  .BIN : 0 017 ko
+[03] : MAC     .BIN : 0 001 ko
+[04] : CRAZY2  .BIN : 0 033 ko
+[07] : MACADAM .LAY : 0 021 ko
+[09] : MACADAM .SCN : 0 017 ko
+[11] : MACADAM .PRG : 0 023 ko
+[13] : FIST    .BAS : 0 003 ko
+[14] : FIST0   .BIN : 0 001 ko
+[15] : FIST3   .BIN : 0 001 ko
+[16] : FIST1   .BIN : 0 001 ko
+[17] : FIST    .BIN : 0 038 ko
+Dsk 157 Ko used

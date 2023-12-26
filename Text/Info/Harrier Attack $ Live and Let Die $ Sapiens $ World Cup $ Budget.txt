@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+Warning : track 43 start at sector 255 while track 0 starts at 193
+Warning : track 44 start at sector 255 while track 0 starts at 193
+[00] : L&LDIE  .BIN : 0 001 ko
+[01] : L&LDIE2 .BIN : 0 012 ko
+[02] : SAPIENS .PRO : 0 040 ko
+[05] : SAPIENS .BAS : 0 001 ko
+[06] : SAPIENS .ECR : 0 003 ko
+[07] : L&LDIE1 .BIN : 0 014 ko
+[08] : L&LDIE3 .BIN : 0 039 ko
+[11] : GESTION1.BAS : 0 016 ko
+[12] : BUDGET  .    : 0 001 ko
+[13] : HARRIER .BIN : 0 009 ko
+[14] : WORLDCUP.CAS : 0 004 ko
+[15] : WORLDCUP.PRG : 0 032 ko
+[17] : WORLDCUP.BAS : 0 004 ko
+Dsk 176 Ko used

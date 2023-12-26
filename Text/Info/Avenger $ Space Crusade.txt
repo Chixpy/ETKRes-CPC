@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : SPACE   .BAS : 0 009 ko
+[01] : SPACE0  .BIN : 0 012 ko
+[02] : SPACE1  .BIN : 0 010 ko
+[03] : SPACE2  .BIN : 0 010 ko
+[04] : SPACE3  .BIN : 0 010 ko
+[05] : SPACE4  .BIN : 0 016 ko
+[06] : SPACE5  .BIN : 0 010 ko
+[07] : SPACE6  .BIN : 0 040 ko
+[10] : AVENGER .BAS : 0 001 ko
+[11] : AVENGER0.BIN : 0 010 ko
+[12] : AVENGER1.BIN : 0 041 ko
+[15] : AVENGER2.BIN : 0 006 ko
+Dsk 175 Ko used

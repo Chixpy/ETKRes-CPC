@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURBO   .BAS : 0 001 ko
+[01] : COMPSCR .TT  : 0 006 ko
+[02] : MAINLOAD.TT  : 0 016 ko
+[03] : BLOCKS  .TT  : 0 004 ko
+[04] : LEVEL1H .TT  : 0 001 ko
+[05] : LEVEL1D .TT  : 0 015 ko
+[06] : LEVEL2H .TT  : 0 001 ko
+[07] : LEVEL2D .TT  : 0 015 ko
+[08] : LEVEL3H .TT  : 0 001 ko
+[09] : LEVEL3D .TT  : 0 015 ko
+[10] : CC3     .BIN : 0 037 ko
+[13] : M       .BAK : 0 001 ko
+[14] : CROCO   .7   : 0 004 ko
+[15] : CROCO   .3   : 0 005 ko
+[16] : CROCO   .TAB : 0 004 ko
+[17] : CROCO   .9   : 0 002 ko
+[18] : CROCO   .1   : 0 005 ko
+[19] : CROCO   .8   : 0 003 ko
+[20] : CROCO   .4   : 0 002 ko
+[21] : CROCO   .5   : 0 017 ko
+[23] : CROCO   .BAS : 0 003 ko
+[24] : M       .BAS : 0 001 ko
+Dsk 159 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CODE    .��N : 0 032 ko
+[02] : DATA    .��N : 0 014 ko
+[03] : OMEGA   .�AS : 0 001 ko
+[04] : PICCY   .��N : 0 017 ko
+[06] : ZOX2099 .�IN : 0 040 ko
+[09] : BATTLE  .�IN : 0 023 ko
+[11] : SPIT1281.��N : 0 017 ko
+[13] : SPIT1282.��N : 0 016 ko
+[14] : SPIT1283.��N : 0 006 ko
+[15] : SPIT1284.��N : 0 008 ko
+[16] : SPITFIRE.�IN : 0 002 ko
+Dsk 176 Ko used

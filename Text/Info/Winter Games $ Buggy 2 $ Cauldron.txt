@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : WINTER4 .BIN : 0 041 ko
+[03] : WINTER  .PAR : 0 001 ko
+[04] : WINTER  .ECR : 0 013 ko
+[05] : WINTER3 .BIN : 0 041 ko
+[08] : WINTER3 .DOL : 0 001 ko
+[09] : WINTER4 .DOL : 0 001 ko
+[10] : WIN3    .    : 0 001 ko
+[11] : WIN4    .    : 0 001 ko
+[12] : CAULDR1 .BIN : 0 034 ko
+[15] : CAULDR2 .BIN : 0 013 ko
+[16] : CAULDRON.BAS : 0 001 ko
+[17] : BUGGY2  .TRS : 0 004 ko
+[18] : BUGGY2  .BIN : 0 021 ko
+[20] : BUGGY2  .ECR : 0 004 ko
+[21] : BUGGY   .    : 0 001 ko
+Dsk 178 Ko used

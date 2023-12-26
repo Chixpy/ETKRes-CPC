@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BOXING  .BIN : 0 036 ko
+[03] : CRESTA  .BAS : 0 001 ko
+[04] : CRESTA  .BIN : 0 033 ko
+[07] : CRESTA2 .BIN : 0 001 ko
+[08] : SOLOMON .BAS : 0 001 ko
+[09] : SOLOMON .BIN : 0 001 ko
+[10] : SOLOMON .KEY : 0 032 ko
+[12] : SOLOMON1.SCR : 0 017 ko
+[14] : SOLOMON .SCR : 0 017 ko
+[16] : CRESTA1 .BIN : 0 017 ko
+[18] : ROLAND  .BIN : 0 019 ko
+[20] : ROLANDAH.OY  : 0 003 ko
+Dsk 178 Ko used

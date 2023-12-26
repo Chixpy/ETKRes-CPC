@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : GYROSCOP.BAS : 0 001 ko
+[01] : AGE     .BAS : 0 008 ko
+[02] : BOULE   .BAS : 0 007 ko
+[03] : PINGPONG.BAS : 0 001 ko
+[04] : TLL     .BAS : 0 001 ko
+[05] : TLL     .BI1 : 0 042 ko
+[08] : TLL     .BI2 : 0 007 ko
+[09] : TLL     .COM : 0 006 ko
+[10] : GYROSCOP.BIN : 0 041 ko
+[13] : GYROSCOP.COM : 0 009 ko
+[14] : GYROSCOP.LOD : 0 001 ko
+[15] : PINGPONG.BIN : 0 019 ko
+[17] : TLL     .LOD : 0 001 ko
+[18] : TLL     .SAV : 0 001 ko
+[19] : PINGPONG.COM : 0 004 ko
+[20] : VILLE   .BAS : 0 029 ko
+Dsk 178 Ko used

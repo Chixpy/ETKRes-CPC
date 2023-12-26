@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RUFFREDY.BAS : 0 013 ko
+[01] : RUFFREDY.PR1 : 0 018 ko
+[03] : RUFFREDY.PR2 : 0 040 ko
+[06] : DEADLY  .BAS : 0 007 ko
+[07] : DEADLY  .BIN : 0 023 ko
+[09] : STEEL   .BIN : 0 031 ko
+[11] : RUFFREDY.    : 0 007 ko
+[12] : DEADLY  .    : 0 007 ko
+[13] : STEEL   .    : 0 007 ko
+[14] : SAMURAI .BAS : 0 001 ko
+[15] : SAMURAI1.BIN : 0 009 ko
+[16] : SAMURAI2.BIN : 0 011 ko
+Dsk 174 Ko used

@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : MACH3   .BIN : 0 002 ko
+[01] : MACH3   .P�G : 0 041 ko
+[04] : MACH3   .S�R : 0 016 ko
+[05] : MACH3   .S�P : 0 017 ko
+[07] : MACH3   .M�S : 0 005 ko
+[08] : PAPERBOY.BAS : 0 001 ko
+[09] : PAPERBOY.BIN : 0 001 ko
+[10] : PCODE   .BIN : 0 036 ko
+[13] : PRELOC  .BIN : 0 001 ko
+[14] : SCR     .BIN : 0 017 ko
+[16] : SCREEN  .BIN : 0 017 ko
+Dsk 154 Ko used

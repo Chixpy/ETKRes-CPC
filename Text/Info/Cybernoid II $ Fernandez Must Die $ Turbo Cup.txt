@@ -1,0 +1,13 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CYBERII .    : 0 001 ko
+[01] : CYBERII .1   : 0 017 ko
+[03] : CYBERII .3   : 0 009 ko
+[04] : CYBERII .2   : 0 041 ko
+[07] : FERNAND .BAS : 0 010 ko
+[08] : FERNAND .BIN : 0 042 ko
+[11] : TURBO   .BIN : 0 038 ko
+[14] : TURBO   .    : 0 012 ko
+[15] : DORRO   .BAS : 0 001 ko
+[16] : C       .BIN : 0 001 ko
+Dsk 172 Ko used

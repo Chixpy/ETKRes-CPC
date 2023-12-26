@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : TONY    .BA1 : 0 006 ko
+[01] : TONY    .BA2 : 0 001 ko
+[02] : TONY    .BA3 : 0 002 ko
+[03] : TONY    .BAS : 0 001 ko
+[04] : TONY    .BI  : 0 035 ko
+[07] : TONY    .BI1 : 0 001 ko
+[08] : TONY    .ECR : 0 017 ko
+[10] : TONY1   .BAS : 0 003 ko
+[11] : TONY2   .BAS : 0 003 ko
+[12] : CYBER   .1   : 0 030 ko
+[14] : CYBER   .2   : 0 015 ko
+[15] : CYBER   .BAS : 0 001 ko
+[16] : CYBER   .DAT : 0 001 ko
+[17] : CYBER   .LDR : 0 001 ko
+[18] : CYBER   .SCR : 0 007 ko
+[19] : FADEIN  .BIN : 0 001 ko
+[20] : FADEIN  .DAT : 0 001 ko
+Dsk 126 Ko used

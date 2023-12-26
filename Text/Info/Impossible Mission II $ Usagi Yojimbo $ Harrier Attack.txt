@@ -1,0 +1,22 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : M2      .PB1 : 0 008 ko
+[01] : M2      .PB3 : 0 008 ko
+[02] : M2      .PB5 : 0 008 ko
+[03] : M2      .PB7 : 0 008 ko
+[04] : MISION2 .BIN : 0 032 ko
+[06] : MISION2 .SCR : 0 013 ko
+[07] : MISION2 .    : 0 001 ko
+[08] : M2      .PB6 : 0 008 ko
+[09] : M2      .PB4 : 0 008 ko
+[10] : M2      .PB2 : 0 008 ko
+[11] : M2      .PB0 : 0 008 ko
+[12] : SAMOURAI.BI1 : 0 041 ko
+[15] : SAMOURAI.BIN : 0 012 ko
+[16] : SAMOURAI.BI2 : 0 003 ko
+[17] : SAMOURAI.BI3 : 0 001 ko
+[18] : HARRIER .BIN : 0 009 ko
+Dsk 176 Ko used

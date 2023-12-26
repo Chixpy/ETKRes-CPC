@@ -1,0 +1,32 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Warning : track 24 start at sector 65 while track 0 starts at 193
+Warning : track 25 start at sector 65 while track 0 starts at 193
+Warning : track 26 start at sector 65 while track 0 starts at 193
+Warning : track 27 start at sector 65 while track 0 starts at 193
+Warning : track 28 start at sector 65 while track 0 starts at 193
+Warning : track 29 start at sector 65 while track 0 starts at 193
+Warning : track 30 start at sector 65 while track 0 starts at 193
+Warning : track 32 start at sector 65 while track 0 starts at 193
+Warning : track 33 start at sector 65 while track 0 starts at 193
+Warning : track 34 start at sector 65 while track 0 starts at 193
+Warning : track 35 start at sector 65 while track 0 starts at 193
+Warning : track 36 start at sector 65 while track 0 starts at 193
+Warning : track 37 start at sector 65 while track 0 starts at 193
+Warning : track 38 start at sector 65 while track 0 starts at 193
+Warning : track 39 start at sector 65 while track 0 starts at 193
+[00] : CHASE-HQ.B�N : 0 001 ko
+[01] : CHASE-HQ.N�1 : 0 020 ko
+[03] : CHASE-HQ.N�2 : 0 030 ko
+[05] : CHASE-HQ.��V : 0 072 ko
+[10] : CC2     .B�S : 0 001 ko
+[11] : CC2     .B�N : 0 037 ko
+[14] : CC2     .C�L : 0 010 ko
+[15] : ROUTINE1.B�N : 0 001 ko
+[16] : MENU    .B�K : 0 001 ko
+[17] : MENU    .A�A : 0 001 ko
+[18] : MENU    .BAS : 0 001 ko
+[19] : MENU    .A�B : 0 001 ko
+[20] : MENU    .A�C : 0 001 ko
+[21] : MENU    .A�D : 0 001 ko
+Dsk 178 Ko used

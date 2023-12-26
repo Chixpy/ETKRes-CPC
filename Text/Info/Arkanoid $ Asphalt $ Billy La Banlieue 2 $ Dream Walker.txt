@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ARKANOID.BAS : 0 001 ko
+[01] : ARKANOID.BIN : 0 030 ko
+[03] : ARKANOID.ECR : 0 017 ko
+[05] : ASPHALN .LOD : 0 001 ko
+[06] : ASPHALT .001 : 0 039 ko
+[09] : SCREEN  .BIN : 0 001 ko
+[10] : UBI     .BAS : 0 001 ko
+[11] : ASPHALT .002 : 0 042 ko
+[14] : BILLY   .BAS : 0 001 ko
+[15] : BILLY2  .BIN : 0 035 ko
+[17] : DREAM   .BAS : 0 001 ko
+[18] : DREAM   .BIN : 0 009 ko
+Dsk 178 Ko used

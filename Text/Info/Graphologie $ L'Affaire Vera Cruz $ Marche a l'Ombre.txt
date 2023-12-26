@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : -VERA   .BAS : 0 001 ko
+[01] : ��������.��� : 0 001 ko
+[02] : GRAPHO  .BAS : 0 012 ko
+[03] : VERA1   .B�N : 0 003 ko
+[04] : VERA3   .B�N : 0 007 ko
+[05] : VERA5   .B�N : 0 011 ko
+[06] : VERA7   .B�N : 0 007 ko
+[07] : VERA6   .B�S : 0 019 ko
+[09] : VERA8   .B�N : 0 019 ko
+[11] : VERA4   .B�N : 0 011 ko
+[12] : VERA2   .B�S : 0 006 ko
+[13] : MARCH   .0�1 : 0 002 ko
+[14] : MARCH   .0�3 : 0 017 ko
+[16] : MARCH   .0�2 : 0 003 ko
+[17] : MARCHE  .BIN : 0 004 ko
+[18] : RENAUD  .S�R : 0 017 ko
+[20] : ML      .0�4 : 0 038 ko
+Dsk 178 Ko used

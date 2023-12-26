@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : J       .BAS : 0 001 ko
+[01] : JINKCODE.BIN : 0 012 ko
+[02] : JINKS   .BAS : 0 001 ko
+[03] : LEVE1   .BIN : 0 001 ko
+[04] : LEVE2   .BIN : 0 001 ko
+[05] : LEVE3   .BIN : 0 001 ko
+[06] : BASIC   .BAS : 0 008 ko
+[07] : BOULDER .    : 0 029 ko
+[09] : LEVE4   .BIN : 0 001 ko
+[10] : LEVEL1  .BIN : 0 013 ko
+[11] : LEVEL2  .BIN : 0 013 ko
+[12] : PACIFIC .BAS : 0 001 ko
+[13] : PACIFIC .COD : 0 036 ko
+[16] : PACIFIC .SCR : 0 014 ko
+[17] : CENT    .BIN : 0 005 ko
+[18] : P1      .BIN : 0 004 ko
+[19] : P2      .BIN : 0 008 ko
+[20] : TCHERN  .BAS : 0 002 ko
+[21] : LEVEL3  .BIN : 0 013 ko
+[22] : LOAD    .BIN : 0 001 ko
+[23] : LEVEL4  .BIN : 0 013 ko
+Dsk 178 Ko used

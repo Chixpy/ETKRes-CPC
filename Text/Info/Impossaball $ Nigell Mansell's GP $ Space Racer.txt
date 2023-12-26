@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : MANSELL .BIN : 0 001 ko
+[01] : MANSELL0.BIN : 0 006 ko
+[02] : MANSELL1.BIN : 0 008 ko
+[03] : MANSELL2.BIN : 0 040 ko
+[06] : IMPOSS1 .BIN : 0 007 ko
+[07] : IMPOSS2 .BIN : 0 037 ko
+[10] : SPACE   .BIN : 0 007 ko
+[11] : SPACE0  .BIN : 0 013 ko
+[12] : SPACE1  .BIN : 0 009 ko
+[13] : SPACE2  .BIN : 0 039 ko
+[16] : IMPOSS3 .BIN : 0 002 ko
+[17] : IMPOSSAB.BAS : 0 001 ko
+Dsk 170 Ko used

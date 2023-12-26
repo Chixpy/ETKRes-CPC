@@ -1,0 +1,25 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : CIRCUS  .BI1 : 0 017 ko
+[02] : CIRCUS  .BI2 : 0 016 ko
+[03] : CIRCUS  .BI3 : 0 017 ko
+[05] : CIRCUS  .BI5 : 0 001 ko
+[06] : CIRCUS  .BIN : 0 001 ko
+[07] : CIRCUS  .L01 : 0 004 ko
+[08] : CIRCUS  .L02 : 0 004 ko
+[09] : CIRCUS  .BI4 : 0 017 ko
+[11] : CIRCUS  .L03 : 0 004 ko
+[12] : CIRCUS  .L04 : 0 004 ko
+[13] : CIRCUS  .L05 : 0 004 ko
+[14] : CIRCUS  .L06 : 0 004 ko
+[15] : CIRCUS  .L07 : 0 004 ko
+[16] : CIRCUS  .L08 : 0 004 ko
+[17] : CIRCUS  .L09 : 0 017 ko
+[19] : DUEL    .BAS : 0 001 ko
+[20] : DUEL1   .BIN : 0 017 ko
+[22] : DUEL2   .BIN : 0 037 ko
+[25] : BLOKKER .BIN : 0 005 ko
+Dsk 178 Ko used

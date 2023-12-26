@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : SPANNER .BAS : 0 003 ko
+[01] : SPANNER .BIN : 0 012 ko
+[02] : BV      .BIN : 0 040 ko
+[05] : PREDAT2 .BAS : 0 001 ko
+[06] : PREDAT21.BIN : 0 033 ko
+[09] : TE2     .BI1 : 0 017 ko
+[11] : TE2     .BI2 : 0 035 ko
+[14] : TE2     .BIN : 0 001 ko
+[15] : TE2     .BI3 : 0 017 ko
+[17] : PREDAT22.BIN : 0 016 ko
+Dsk 175 Ko used

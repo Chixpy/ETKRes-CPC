@@ -1,0 +1,42 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+Warning : track 43 start at sector 255 while track 0 starts at 193
+Warning : track 44 start at sector 255 while track 0 starts at 193
+[00] : SCMOVE  . �  : 0 001 ko
+[01] : LOADER  .B�N : 0 001 ko
+[02] : LOGO    .B�N : 0 001 ko
+[03] : FIST    .B�S : 0 001 ko
+[04] : FIST    .B�N : 0 038 ko
+[07] : CKPIT   .B�N : 0 010 ko
+[08] : UNPAC   .B�N : 0 001 ko
+[09] : OBJECT  .B�N : 0 018 ko
+[11] : MESS    .B�N : 0 002 ko
+[12] : DATA    .B�N : 0 005 ko
+[13] : SPRTYPE .B�N : 0 001 ko
+[14] : ADDER   . �  : 0 001 ko
+[15] : MESS2   .B�N : 0 001 ko
+[16] : SPRITDAT.B�N : 0 006 ko
+[17] : MESS1   .B�N : 0 001 ko
+[18] : FRONT   .B�S : 0 003 ko
+[19] : DEMO    .B�N : 0 002 ko
+[20] : FRONTA  .B�S : 0 001 ko
+[21] : HARRIER .B�S : 0 001 ko
+[23] : TITLE   .B�N : 0 005 ko
+[24] : PART1   .B�N : 0 034 ko
+[27] : PART2   .B�N : 0 008 ko
+[28] : TAU     .��S : 0 001 ko
+[30] : DISC    .�AS : 0 001 ko
+Dsk 144 Ko used

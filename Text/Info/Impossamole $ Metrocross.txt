@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AMAZON  .IMP : 0 018 ko
+[02] : PROGRAM .I�P : 0 020 ko
+[04] : ORIENT  .IMP : 0 018 ko
+[06] : KLONDINE.IMP : 0 018 ko
+[08] : ICELAND .IMP : 0 018 ko
+[10] : BERMUDA .IMP : 0 019 ko
+[12] : -IMPOSS .B�N : 0 012 ko
+[13] : TRAINER .I�P : 0 001 ko
+[14] : METCROSS.��  : 0 012 ko
+[15] : METCROSS.ΰ1 : 0 036 ko
+[18] : MENU    .A�A : 0 005 ko
+[19] : MENU    .BAS : 0 001 ko
+Dsk 178 Ko used

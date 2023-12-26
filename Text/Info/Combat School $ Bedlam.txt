@@ -1,0 +1,16 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : COMBAT  .BAS : 0 001 ko
+[01] : COMBAT-S.BN1 : 0 017 ko
+[03] : COMBAT-S.BN2 : 0 017 ko
+[05] : COMBAT-S.BN3 : 0 017 ko
+[07] : COMBAT-S.SCR : 0 009 ko
+[08] : COMBAT-S.BN4 : 0 017 ko
+[10] : COMBAT-S.BN5 : 0 032 ko
+[12] : COMBAT-S.BN6 : 0 017 ko
+[14] : BEDLAM  .BAS : 0 011 ko
+[15] : BEDLAM  .BIN : 0 034 ko
+Dsk 172 Ko used

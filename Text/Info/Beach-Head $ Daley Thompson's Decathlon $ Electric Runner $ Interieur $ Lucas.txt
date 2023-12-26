@@ -1,0 +1,18 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 1 start at sector 129 while track 0 starts at 65
+Warning : track 40 start at sector 255 while track 0 starts at 65
+[00] : MENU    .BIN : 0 001 ko
+[01] : ��������.��� : 0 001 ko
+[02] : ��������.��� : 0 009 ko
+[03] : ����Ա��.��� : 0 031 ko
+[05] : ����Բ��.��� : 0 015 ko
+[06] : ��������.��� : 0 039 ko
+[09] : ����Ƞ��.��� : 0 001 ko
+[10] : ����٠��.��� : 0 001 ko
+[11] : INTER   .BAS : 0 038 ko
+[14] : RUNNER  .BAS : 0 018 ko
+[16] : LUCAS   .BAS : 0 015 ko
+Dsk 169 Ko used

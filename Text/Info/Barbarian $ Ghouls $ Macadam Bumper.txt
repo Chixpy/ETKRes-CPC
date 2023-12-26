@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : BARBA   .BAS : 0 001 ko
+[01] : BARBAR  .BIN : 0 022 ko
+[03] : ECRAN1  .BIN : 0 012 ko
+[04] : ECRAN3  .BIN : 0 013 ko
+[05] : ECRAN4  .BIN : 0 013 ko
+[06] : ECRAN2  .BIN : 0 012 ko
+[07] : ECRAN   .ECR : 0 006 ko
+[08] : BARBAR  .001 : 0 016 ko
+[09] : MACADAM .LAY : 0 020 ko
+[11] : MACADAM .SCN : 0 017 ko
+[13] : MACADAM .TRS : 0 001 ko
+[14] : MACADAM .PRG : 0 023 ko
+[16] : MACADAM .BIN : 0 001 ko
+[17] : PAC     .BIN : 0 019 ko
+[19] : LANCEUR .BAS : 0 001 ko
+[20] : LANCEUR .BAK : 0 001 ko
+Dsk 178 Ko used

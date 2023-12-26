@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : CYBER   .B�S : 0 001 ko
+[01] : CYBER1  . �  : 0 001 ko
+[02] : CYBER3  . �  : 0 026 ko
+[04] : CYBER2  . �  : 0 001 ko
+[05] : CYBER4  . �  : 0 015 ko
+[06] : NEMESIS . �  : 0 001 ko
+[07] : NEMESIS .C�L : 0 010 ko
+[08] : NEMESIS .T�E : 0 001 ko
+[09] : NEMESIS .��3 : 0 001 ko
+[10] : NEMESIS .��4 : 0 041 ko
+[12] : CYBER2  .B�S : 0 024 ko
+[14] : CYBER2  .N�2 : 0 041 ko
+[18] : SPACE   .B�K : 0 008 ko
+[19] : SPACE   .B�S : 0 001 ko
+[20] : MENU    .B�K : 0 001 ko
+[21] : MENU1   .B�S : 0 001 ko
+[22] : MENU    .BAS : 0 001 ko
+[23] : MENU2   .B�S : 0 001 ko
+[24] : MENU3   .B�S : 0 001 ko
+[25] : MENU4   .B�S : 0 001 ko
+Dsk 178 Ko used

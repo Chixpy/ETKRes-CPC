@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : TURBO   .BAS : 0 001 ko
+[01] : TURBO   .BIN : 0 033 ko
+[04] : TURBO   .SCR : 0 010 ko
+[05] : TURBO2  .BAS : 0 001 ko
+[06] : TURBO2  .BIN : 0 017 ko
+[08] : TRIVIAL2.BAS : 0 002 ko
+[09] : TRIVIAL2.BIN : 0 036 ko
+[12] : TRIVIAL2.LOA : 0 001 ko
+[13] : TRIVIAL2.PRE : 0 001 ko
+[14] : TRIVIAL2.SCR : 0 017 ko
+[16] : CRAZY2  .BAS : 0 001 ko
+[17] : CRAZY2  .BIN : 0 037 ko
+[20] : CRAZY2  .SCR : 0 017 ko
+[22] : CRAZY2BI.BAS : 0 001 ko
+Dsk 175 Ko used

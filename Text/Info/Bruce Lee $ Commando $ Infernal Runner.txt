@@ -1,0 +1,31 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (43) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (44) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 65
+Warning : track 41 start at sector 255 while track 0 starts at 65
+Warning : track 42 start at sector 255 while track 0 starts at 65
+Warning : track 43 start at sector 255 while track 0 starts at 65
+Warning : track 44 start at sector 255 while track 0 starts at 65
+[00] : BCODE1  .BIN : 0 034 ko
+[04] : BCODE2  .BIN : 0 003 ko
+[05] : BRUCE   .BAS : 0 001 ko
+[06] : COM     .BIN : 0 001 ko
+[07] : COM3    .    : 0 012 ko
+[08] : COM+    .BAS : 0 001 ko
+[09] : COM4    .    : 0 014 ko
+[10] : CO+2    .BIN : 0 023 ko
+[12] : COM2    .    : 0 023 ko
+[14] : COMMANDO.BAS : 0 001 ko
+[15] : INFER   .BIN : 0 017 ko
+[17] : INFERNAL.BIN : 0 034 ko
+[20] : RUNNER  .BAS : 0 001 ko
+Dsk 165 Ko used

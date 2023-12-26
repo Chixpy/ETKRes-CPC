@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : GP500   .BAS : 0 006 ko
+[01] : GP500   .BIN : 0 036 ko
+[04] : GP500   .COM : 0 009 ko
+[05] : GP500   .PO  : 0 001 ko
+[06] : C       .BAS : 0 001 ko
+[07] : CRAZYII .    : 0 007 ko
+[08] : CRAZYII .BI1 : 0 033 ko
+[11] : SOUL    .COM : 0 009 ko
+[12] : SOULROBO.BAS : 0 001 ko
+[13] : SOULROBO.BIN : 0 040 ko
+[15] : RALLY   .BIN : 0 024 ko
+[17] : RALLY2  .BAS : 0 001 ko
+[19] : CRAZYII .BI2 : 0 001 ko
+[20] : CRAZYII .BI3 : 0 009 ko
+Dsk 178 Ko used

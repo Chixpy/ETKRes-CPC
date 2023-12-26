@@ -1,0 +1,23 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : GAUNTLET.�IN : 0 017 ko
+[02] : MGT     .�OD : 0 041 ko
+[05] : SUBTERRA.BIN : 0 040 ko
+[08] : TAQUIN  .�AS : 0 003 ko
+[09] : MEL     .BAK : 0 002 ko
+[10] : MGT     .�IN : 0 007 ko
+[11] : CODE    .BAS : 0 001 ko
+[12] : STRIKER .BAK : 0 001 ko
+[13] : STRIKER .BAS : 0 001 ko
+[14] : MEL     .    : 0 002 ko
+[15] : MEL     .BAS : 0 002 ko
+Dsk 117 Ko used

@@ -1,0 +1,17 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : DISC    .BAS : 0 003 ko
+[01] : CYRUS   .BIN : 0 034 ko
+[04] : MANS    .    : 0 002 ko
+[05] : MANS    .BAS : 0 008 ko
+[06] : MANS    .BIN : 0 038 ko
+[09] : MASTER  .BAS : 0 002 ko
+[10] : MASTER  .COM : 0 008 ko
+[11] : WBANK2  .BIN : 0 041 ko
+[14] : WEST    .BAS : 0 001 ko
+[16] : RUG107  .BIN : 0 034 ko
+[19] : RUGGBY  .BAS : 0 007 ko
+Dsk 178 Ko used

@@ -1,0 +1,10 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[01] : BATMAN3 .BIN : 0 019 ko
+[03] : BATMAN3 .TB2 : 0 029 ko
+[05] : BATMAN3 .TB4 : 0 031 ko
+[08] : BATMAN3 .TB1 : 0 030 ko
+[10] : BATMAN3 .TB3 : 0 027 ko
+[12] : DEPLOMB .BAS : 0 001 ko
+[13] : M       .BAS : 0 001 ko
+Dsk 138 Ko used

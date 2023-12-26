@@ -1,0 +1,19 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : 1943    .    : 0 015 ko
+[01] : 1943    .BIN : 0 033 ko
+[04] : ACTIONF .1   : 0 032 ko
+[06] : ACTIONF .2   : 0 017 ko
+[08] : ACTIONF .BAS : 0 001 ko
+[09] : ACTIVATR.    : 0 001 ko
+[10] : ALLMAN  .BIN : 0 008 ko
+[11] : BADGRA  .BIN : 0 009 ko
+[12] : CODE    .BIN : 0 010 ko
+[13] : MUSCOD  .BIN : 0 001 ko
+[14] : OBJDAT  .BIN : 0 027 ko
+[16] : RUNME   .BIN : 0 001 ko
+[17] : SCREEN  .BIN : 0 005 ko
+[18] : TABCOD  .BIN : 0 002 ko
+[19] : AMSDAMES.002 : 0 003 ko
+[20] : AMSDAMES.BAS : 0 010 ko
+Dsk 175 Ko used

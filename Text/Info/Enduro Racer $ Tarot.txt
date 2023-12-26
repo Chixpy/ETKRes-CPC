@@ -1,0 +1,8 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : ENDURO  .BAS : 0 001 ko
+[01] : ENDURO  .BIN : 0 033 ko
+[04] : ENDUROSC.BIN : 0 009 ko
+[05] : TAROT   .BAS : 0 003 ko
+[06] : TAROT1  .BAS : 0 037 ko
+Dsk 083 Ko used

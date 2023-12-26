@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : ELITE   .BAS : 0 001 ko
+[01] : G2      .BIN : 0 028 ko
+[03] : GREEN   .BAS : 0 001 ko
+[04] : IKARI2  .BAS : 0 001 ko
+[05] : IMM     .BAS : 0 001 ko
+[06] : SCREEN  .BIN : 0 017 ko
+[08] : TENNIS  .BIN : 0 001 ko
+[09] : TENNIS1 .BIN : 0 008 ko
+[10] : TENNIS2 .BIN : 0 028 ko
+[12] : WARRIORS.BIN : 0 036 ko
+[15] : G1      .BIN : 0 017 ko
+[17] : SCRAPPYD.    : 0 039 ko
+[56] : �. : 35 001 ko
+[57] : . : 8 007 ko
+Dsk 186 Ko used

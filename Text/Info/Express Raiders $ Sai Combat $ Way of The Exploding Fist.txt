@@ -1,0 +1,21 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FIST    .BAS : 0 001 ko
+[01] : SAI     .BIN : 0 001 ko
+[02] : E       .BAS : 0 001 ko
+[03] : ���˲���.B�� : 0 009 ko
+[04] : SAI     .JEU : 0 037 ko
+[07] : ���˲� .B�� : 0 009 ko
+[08] : FIST1   .BIN : 0 001 ko
+[09] : FIST2   .BIN : 0 017 ko
+[11] : FIST3   .BIN : 0 022 ko
+[13] : FIST4   .BIN : 0 017 ko
+[15] : SAI     .LOD : 0 001 ko
+[16] : ���Ҡ���.B�� : 0 037 ko
+[19] : ��������.B�� : 0 006 ko
+[20] : �����ұ�.B�� : 0 001 ko
+[21] : MENU    .BAS : 0 001 ko
+[23] : SAI     .CPL : 0 008 ko
+[25] : SAI1    .CPL : 0 009 ko
+[28] : SAI     .    : 0 001 ko
+Dsk 179 Ko used

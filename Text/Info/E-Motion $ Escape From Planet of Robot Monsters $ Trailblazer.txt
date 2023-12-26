@@ -1,0 +1,20 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Warning : track 40 start at sector 255 while track 0 starts at 193
+[00] : EMOTION .BAS : 0 001 ko
+[01] : EMOTION0.BIN : 0 001 ko
+[02] : EMOTION1.BIN : 0 007 ko
+[03] : EMOTION2.BIN : 0 039 ko
+[06] : ESCAPE  .    : 0 001 ko
+[07] : ESCAPE  .BAS : 0 013 ko
+[08] : ESCAPE  .BI1 : 0 012 ko
+[09] : ESCAPE  .BI2 : 0 007 ko
+[10] : ESCAPE  .BIN : 0 027 ko
+[12] : ESCAPE  .SCN : 0 010 ko
+[13] : TRAIL   .BAS : 0 001 ko
+[14] : TRAIL0  .BIN : 0 011 ko
+[15] : TRAIL1  .BIN : 0 033 ko
+[18] : TRAIL2  .BIN : 0 015 ko
+Dsk 178 Ko used

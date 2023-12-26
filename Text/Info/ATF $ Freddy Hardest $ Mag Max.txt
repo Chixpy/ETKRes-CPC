@@ -1,0 +1,12 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : FRED0   .B�N : 0 013 ko
+[01] : FRED1   .B�N : 0 032 ko
+[03] : FRED2   .B�N : 0 038 ko
+[06] : ATF     .B�N : 0 039 ko
+[09] : ATF     . �  : 0 011 ko
+[10] : MAGMAX  .B�N : 0 029 ko
+[12] : MAGMAX  .E�R : 0 014 ko
+[13] : MENU    .BAS : 0 001 ko
+[14] : FRED    .B�S : 0 001 ko
+Dsk 178 Ko used

@@ -1,0 +1,15 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : AIGLE   .BAS : 0 005 ko
+[01] : AIGLE   .BI1 : 0 004 ko
+[02] : AIGLE   .BI2 : 0 040 ko
+[05] : GP      .BAS : 0 006 ko
+[06] : GP0     .BIN : 0 018 ko
+[08] : GP1     .BIN : 0 036 ko
+[11] : GP2     .BIN : 0 018 ko
+[13] : GP500   .POI : 0 001 ko
+[14] : SCOOBYDO.BAS : 0 001 ko
+[15] : SCOOBY  .BIN : 0 035 ko
+[18] : SCOOBYDO.BIN : 0 008 ko
+[19] : MENU    .BAS : 0 001 ko
+Dsk 173 Ko used

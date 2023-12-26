@@ -1,0 +1,14 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+[00] : RUGBY   .BIN : 0 034 ko
+[03] : RUGBY   .SCN : 0 017 ko
+[05] : RUGBY   .BAS : 0 007 ko
+[06] : TURBO3  .BIN : 0 010 ko
+[07] : TURBO2  .BIN : 0 033 ko
+[10] : TURBO1  .BIN : 0 013 ko
+[11] : TURBO   .BIN : 0 001 ko
+[12] : AMSWORD .BIN : 0 014 ko
+[13] : AMSWORD .BAS : 0 011 ko
+[14] : AMSWORD .BAK : 0 014 ko
+[15] : SCROL1  .BIN : 0 001 ko
+Dsk 155 Ko used

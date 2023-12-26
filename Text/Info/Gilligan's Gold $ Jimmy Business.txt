@@ -1,0 +1,27 @@
+DSK cli version [0.18]
+Made by Sid (ImpAct)
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (40) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (41) error :EOF
+Error while reading CPCEMUTrack.ID error :EOF
+Error track (42) error :EOF
+Warning : track 39 start at sector 139 while track 0 starts at 193
+Warning : track 40 start at sector 255 while track 0 starts at 193
+Warning : track 41 start at sector 255 while track 0 starts at 193
+Warning : track 42 start at sector 255 while track 0 starts at 193
+[00] : AMCH    .BIN : 0 002 ko
+[01] : LOADER  .BIN : 0 002 ko
+[02] : AMCHARGE.BAS : 0 003 ko
+[03] : BASKET4 .BIN : 0 001 ko
+[04] : BASKET1 .BIN : 0 013 ko
+[05] : BASKET2 .BIN : 0 015 ko
+[06] : BASKET3 .BIN : 0 017 ko
+[08] : GOLD    .BIN : 0 024 ko
+[10] : JIMMY   .BIN : 0 041 ko
+[13] : JIMMY   .BAS : 0 001 ko
+[14] : ROUTBIN .BIN : 0 001 ko
+[15] : TOUTBIN .BIN : 0 035 ko
+[18] : NONAME1 .BAS : 0 002 ko
+[19] : M       .BAS : 0 002 ko
+Dsk 159 Ko used
