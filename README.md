@@ -14,23 +14,38 @@ https://github.com/Chixpy/ETKRes-CPC/archive/master.zip
 
 You can read more about media files in [Emuteca's Web Page](https://chixpy.github.io/Emuteca/pages/Media-Files.html) (but it's in Spanish...)
 
-Emuteca will search media of games and groups in the next order in selected folder. But only de first hit:
-
-  1. All suported files inside a subfolder named as SortTitle of the game. `MediaFolder\SoftSortTitle\*.ext` (`.ext` can be any supported media extension)
-  2. All suported files inside a compresed archive named as SortTitle of the game. `MediaFolder\SoftSortTitle.zip\*.ext` (`.zip` can be any supported compressed extension and all files will be extracted in a temporal folder.)
-  3. Single file with named as SortTitle of the game and a supported media extensión.    `MediaFolder\*.ext`
-  4. Step 1 to 3 with SortTitle of the game's group.
+Emuteca will search media of games and groups in the next order in selected folder. Stops at the first hit:   
+    
+  1. All suported files inside a subfolder named as SortTitle of the game.<br />`MediaFolder\SoftSortTitle\*.ext`.
+  2. Only one file with named as SortTitle of the game and a supported media extensión.<br />`MediaFolder\*.ext`. 
+  3. Repeat Steps 1 and 2 with SortTitle of the game's group.
   
-Note: Maybe be, some day, support for compressed file (Point 2) will be removed...
+**Note 1**: About `.ext`.
+  - Can be any supported and searched media file extension.
+  - Emuteca supports many other file types than they are actually searched.
+  - It can be changed in GUI config file (`GUI.ini` for EmutecaGUI).  
+  
+**Note 2**: In the past, Emuteca supported searching media files inside compressed files (`.zip`, `.7z`, etc.). It's slow; and music, image and vídeos are compressed archives themselves afterall.
 
 ## About Images
 
+In short: 
+
+  - Digital images: .png
+  - Scanned or photos: .jpg
+
+Emuteca have some tools to help with images:
+
+ - [ETKPDF2CBX](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKPDF2CBX.exe): For extracting pages from PDF with pdfimages / pdftopng. Actually this tool is from another proyect for comics but can extract pages to a folder without creating a CBX file.
+ - [ETKMagCut](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKMagCut.exe): For cutting magazine texts from scanned images.
+ - [ETKIconBorder](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKIconBorder.exe): For creating icons and logos with semitransparent borders. More info in Icons, Logos section.
+
+
 ### Screenshot, Titles
 
-  - **Rule #1**: No filters to screenshots.
-  - **Rule #2**: There is not need to make a ZIP, 7Z or CBX with groups of images.
+  - **Rule #1**: Original size without corrected aspect ratio. For example, if a system has 320x200 of resolution but the screen is 4:3, don't resize the image to 320x240.
 
-All images in .png format at original resolution: CPC has 3 official resolutions without hacking:
+Remember, all digital images in .png format at original resolution: CPC has 3 official resolutions without hacking:
 
 * Mode 0: 160×200 pixels with 16 colors (4 bpp) (192×272 with borders)
 * Mode 1: 320×200 pixels with 4 colors (2 bpp) (384×272 with borders)
@@ -43,8 +58,6 @@ There is a Full Screen Trick that allow to write pixels in border area. So we wi
 
 
 ### Front, Back, Spine, Manual, Media, Maps, Reviews, Ads, Other
-
-Emuteca have ETKMagCut and ETKPDF2CBX to help cutting magazine texts 
 
 Generally (except digital maps):
 
